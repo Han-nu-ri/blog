@@ -44,7 +44,7 @@ $$
 $$
 >이다.
 
-기울기 벡터는 함수 f 위의 특정 점에서 접선을 긋고, 접선과 수직인 방향으로 진행하는 
+기울기 벡터는 함수 f 위의 특정 점에서 접선을 긋고, 접선과 수직인 방향으로 진행하는 벡터를 떠오르시면 됩니다.
 ## 가능 방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능 방향 y와 
 $$
@@ -54,7 +54,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTk4MjczMCwtMTEwMTQwNjM0Miw0Nj
-MxMDY0ODksMTkwNzkyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4
-MjEsLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbMjIzNjY3MDA2LC0xMTAxNDA2MzQyLDQ2Mz
+EwNjQ4OSwxOTA3OTIwODQzLC0xOTIwNzgxOTIyLDcyNDYxMzgy
+MSwtNjE4MDEzODgzLDE2MTAyMTAwNTBdfQ==
 -->
