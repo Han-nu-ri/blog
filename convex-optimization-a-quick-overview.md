@@ -20,9 +20,10 @@ f((1-\lambda)x + \lambda y) \le (1-\lambda)f(x) +\lambda f(y), \forall x, y \in 
 $$
 > -f가 볼록이면 오목, 볼록이면서 오목이면 평면 함수라고 한다.
 
-볼록 함수라는 표현이 있으면 바로 떠올려야 하는 부등식, Jensen's Inequality 입니다. 
+볼록 함수라는 표현이 있으면 바로 떠올려야 하는 부등식, Jensen's Inequality 입니다.  f((1-\lambda)x + \lambda y)는 아래 점이고, (1-\lambda)f(x) + \lambda f(y)는 위 점입니다. 함수가 볼록하다면 이 부등식이 성립함을 직관적으로 이해할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111483329-0d116080-8778-11eb-95ee-106bdee54b09.png)
 
+## 
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해해일 필요충분조건은 x의 모든 가능방향 y와 
 $$
@@ -32,7 +33,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMzA5NTU3LDQ2MzEwNjQ4OSwxOTA3OT
-IwODQzLC0xOTIwNzgxOTIyLDcyNDYxMzgyMSwtNjE4MDEzODgz
-LDE2MTAyMTAwNTBdfQ==
+eyJoaXN0b3J5IjpbMTQwMzg0MzM4Myw0NjMxMDY0ODksMTkwNz
+kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
+MywxNjEwMjEwMDUwXX0=
 -->
