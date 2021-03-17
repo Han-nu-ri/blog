@@ -7,10 +7,10 @@ $$
 $$
 이다.
 
-
+볼록 집합
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjAxMTUyLDE2MTAyMTAwNTBdfQ==
+eyJoaXN0b3J5IjpbODQ3ODE3ODQxLDE2MTAyMTAwNTBdfQ==
 -->
