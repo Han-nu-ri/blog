@@ -11,7 +11,8 @@ $$
 오른쪽 두 도형 안의 점들을 원소로 하는 집합은 볼록 집합일까요?
 ![convex-optimization-a-quick-overview-1](https://user-images.githubusercontent.com/11609881/111481579-74c6ac00-8776-11eb-9104-6663accecb01.PNG)
 
-\lambda가 
+(1-\lambda)x + \lambda y의 의미는, \lambda를 0에서 1로 증가 시키면ㅅ
+\lambda가 0에서 1로 증가할 때, (1-\lambda)x + \lambda y가 어떻게 변하는지 
 ## 볼록 함수
 > 볼록 집합 S 위의 함수 f가 다음을 만족하면 f를 볼록 함수라고 한다.
 $$
@@ -29,7 +30,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTM0MjM3Miw0NjMxMDY0ODksMTkwNz
+eyJoaXN0b3J5IjpbLTIzMDY1Njk4Myw0NjMxMDY0ODksMTkwNz
 kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
 MywxNjEwMjEwMDUwXX0=
 -->
