@@ -37,8 +37,9 @@ $$
 > 함수 f의 \overline{x}에서의 기울기 벡터는
 $$
 \nabla f(\overline{x})=\begin{bmatrix}
-\partial f(\overline{x})\over \partial \\
-0 \\
+\partial f(\overline{x})\over \partial x_1 \\
+\cdots \\
+\partial f(\overline{x})\over \partial x_1 \\
 \end{bmatrix}
 $$
 >이다.
@@ -51,7 +52,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk0MDc5NTMsLTExMDE0MDYzNDIsND
+eyJoaXN0b3J5IjpbLTEyODM1MjY1NjMsLTExMDE0MDYzNDIsND
 YzMTA2NDg5LDE5MDc5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEz
 ODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1MF19
 -->
