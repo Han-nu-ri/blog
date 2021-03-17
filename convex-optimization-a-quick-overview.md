@@ -10,6 +10,7 @@ $$
 
 오른쪽 두 도형 안의 점들을 원소로 하는 집합은 볼록 집합일까요?
 
+
 ## 볼록 함수
 
 ## 가능방향  정리
@@ -21,6 +22,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjIxNjAxNiw3MjQ2MTM4MjEsLTYxOD
-AxMzg4MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MT
+gwMTM4ODMsMTYxMDIxMDA1MF19
 -->
