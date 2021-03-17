@@ -63,11 +63,11 @@ $$
 $$
 이다.
 
-왼쪽 그림을 보죠. 가능해 F의 어떤 점을 선택해도 
+왼쪽 그림을 보죠. 가능해 F의 어떤 점을 선택해도 그 점 위의 함수 f에 대한 기울기 벡터는 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgyNTY2ODcsLTkxMzI3NjY5NywyMj
-M2NjcwMDYsLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MDc5MjA4
-NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMT
-YxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbLTY5MTcwNDA0NCwtOTEzMjc2Njk3LDIyMz
+Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
+MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
+EwMjEwMDUwXX0=
 -->
