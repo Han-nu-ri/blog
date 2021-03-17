@@ -28,9 +28,9 @@ $$
 
 x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도 여전히 Feasible region에 있는 경우, y를 가능방향이라고 합니다. 색칠된 영역을 Feasible region이고 x가 우상단의 점에 있을 때 화살표 방향들이 가능방향이 됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/111484620-472f3200-8779-11eb-93aa-032f0388a6e9.png)
-수학적으로 아래와 같이 표현할 수 있습니다.
+수학적으로 아래와 같이 표현할 수 있습니다. \overline{\lambda}는 0 보다 큰 아주 작은 값 입니다.
 $$
-x+\lambda y \in F, \forall \lambda : 0 \le \lambda \le \overline{\lambda}, \overline{\lambda} 
+x+\lambda y \in F, \forall \lambda : 0 \le \lambda \le \overline{\lambda}.
 $$
 
 ## 가능방향  정리
@@ -42,7 +42,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzE3OTczOCw0NjMxMDY0ODksMTkwNz
-kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
-MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MD
+c5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4
+ODMsMTYxMDIxMDA1MF19
 -->
