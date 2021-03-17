@@ -7,6 +7,8 @@ $$
 $$
 
 아래 그림을 보죠. 색이 채워진 도형 안의 임의의 두 점을 잡습니다. 그 두 점을 이은 선 위의 점들은 도형 안에 있나요? 그렇다면 이 도형 안의 점들을 원소로 가지는 집합을 볼록 집합이라고 합니다.
+
+아래 그림의 도형 안의 점들을 원소로 하는 집합은 
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해해일 필요충분조건은 x의 모든 가능방향 y와 
 $$
@@ -16,6 +18,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjEzODIxLC02MTgwMTM4ODMsMTYxMD
-IxMDA1MF19
+eyJoaXN0b3J5IjpbOTI1MDAzODc4LDcyNDYxMzgyMSwtNjE4MD
+EzODgzLDE2MTAyMTAwNTBdfQ==
 -->
