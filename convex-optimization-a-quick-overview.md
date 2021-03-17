@@ -36,8 +36,10 @@ $$
 ## 기울기 벡터
 > 함수 f의 \overline{x}에서의 기울기 벡터는
 $$
+\nabla f(\overline{x})=\begin{bmatrix}
+0 \\
 
->$$
+$$
 >이다.
 ## 가능 방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능 방향 y와 
@@ -48,7 +50,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDY5NDc0MiwtMTEwMTQwNjM0Miw0Nj
-MxMDY0ODksMTkwNzkyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4
-MjEsLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbLTE4MTMwNzk0NzgsLTExMDE0MDYzNDIsND
+YzMTA2NDg5LDE5MDc5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEz
+ODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1MF19
 -->
