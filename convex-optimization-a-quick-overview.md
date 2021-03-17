@@ -30,7 +30,7 @@ x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도
 ![image](https://user-images.githubusercontent.com/11609881/111484620-472f3200-8779-11eb-93aa-032f0388a6e9.png)
 수학적으로 아래와 같이 표현할 수 있습니다.
 $$
-x+\lambda y \in F, \forall \lambda
+x+\lambda y \in F, \forall \lambda : 0 \le \lambda \le 
 $$
 
 ## 가능방향  정리
@@ -42,7 +42,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTk4ODIxLDQ2MzEwNjQ4OSwxOTA3OT
-IwODQzLC0xOTIwNzgxOTIyLDcyNDYxMzgyMSwtNjE4MDEzODgz
-LDE2MTAyMTAwNTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzYyMjU1NjQsNDYzMTA2NDg5LDE5MD
+c5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4
+ODMsMTYxMDIxMDA1MF19
 -->
