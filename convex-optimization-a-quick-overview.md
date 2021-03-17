@@ -56,11 +56,12 @@ $$
 기울기 벡터는 함수가 순간적으로 최대한 증가하는 방향입니다. 따라서 기울기 벡터와 방향 y간 내적이 0 보다 크면 방향 y는 함수가 증가하는 방향이고, 0 보다 작으면 함수가 감소하는 방향입니다.
 다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 기울기 벡터와 모든 가능 방향의 내적을 해보면 모두 양수임을 알 수 있습니다. 이는 무슨 의미일까요? (1, 0)에서는 제약 조건을 만족하면서 움직이면 함수가 증가한다는 것 입니다. 따라서 (1, 0)은 국지 최소해가 됩니다.
 더 나아가 함수 f는 볼록 함수이기 때문에, 국지해는 전역 최적해가 됩니다.
+## 따름 정리
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM5ODg4NzEsLTkxMzI3NjY5NywyMj
-M2NjcwMDYsLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MDc5MjA4
-NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMT
-YxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbLTYxMDEzOTkwMCwtOTEzMjc2Njk3LDIyMz
+Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
+MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
+EwMjEwMDUwXX0=
 -->
