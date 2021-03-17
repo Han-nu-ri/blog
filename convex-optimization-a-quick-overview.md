@@ -14,7 +14,7 @@ $$
 ## 볼록 함수
 > 볼록 집합 S 위의 함수 f가 다음을 만족하면 f를 볼록 함수라고 한다.
 $$
-f((1-\lambda)x + \lambda y) \le (1-\lambda)f(x) +\lambda f(y), 
+f((1-\lambda)x + \lambda y) \le (1-\lambda)f(x) +\lambda f(y), \forall x, y \in S, \forall \lambda \le \lambda \le 1
 $$
 > -f가 볼록이면 오목, 볼록이면서 오목이면 평면 함수라고 한다.
 ## 가능방향  정리
@@ -26,7 +26,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjY3Nzg3Nyw0NjMxMDY0ODksMTkwNz
+eyJoaXN0b3J5IjpbLTUxMDMwOTI1NSw0NjMxMDY0ODksMTkwNz
 kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
 MywxNjEwMjEwMDUwXX0=
 -->
