@@ -23,19 +23,20 @@ $$
 볼록 함수라는 표현이 있으면 바로 떠올려야 하는 부등식, Jensen's Inequality 입니다.  f((1-\lambda)x + \lambda y)는 아래 점이고, (1-\lambda)f(x) + \lambda f(y)는 위 점입니다. 함수가 볼록하다면 이 부등식이 성립함을 직관적으로 이해할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111483329-0d116080-8778-11eb-95ee-106bdee54b09.png)
 
-## 가능방향
-> 가능해 x에서 y 방향으로 가능성을 유지하며 0 보다 큰 거리를 움직일 수 있을 때 y를 가능방향이라고 한다.
+## 가능 방향
+> 가능해 x에서 y 방향으로 가능성을 유지하며 0 보다 큰 거리를 움직일 수 있을 때 y를 가능 방향이라고 한다.
 
-x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도 여전히 Feasible region에 있는 경우, y를 가능방향이라고 합니다. 색칠된 영역을 Feasible region이고 x가 우상단의 점에 있을 때 화살표 방향들이 가능방향이 됩니다.
+x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도 여전히 Feasible region에 있는 경우, y를 가능 방향이라고 합니다. 색칠된 영역을 Feasible region이고 x가 우상단의 점에 있을 때 화살표 방향들이 가능방향이 됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/111484620-472f3200-8779-11eb-93aa-032f0388a6e9.png)
 수학적으로 아래와 같이 표현할 수 있습니다. \overline{\lambda}는 0 보다 큰 아주 작은 값 입니다.
 $$
 x+\lambda y \in F, \forall \lambda : 0 \le \lambda \le \overline{\lambda}.
 $$
 
-## 
-## 가능방향  정리
-> x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능방향 y와 
+## 증가 방향
+
+## 가능 방향  정리
+> x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능 방향 y와 
 $$
 \nabla{f(x)^T}y\ge0
 $$
@@ -43,7 +44,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzU1NDgyMCwtMTEwMTQwNjM0Miw0Nj
-MxMDY0ODksMTkwNzkyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4
-MjEsLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbLTIwODA4NzE1NTEsLTExMDE0MDYzNDIsND
+YzMTA2NDg5LDE5MDc5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEz
+ODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1MF19
 -->
