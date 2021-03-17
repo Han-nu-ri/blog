@@ -33,6 +33,7 @@ $$
 x+\lambda y \in F, \forall \lambda : 0 \le \lambda \le \overline{\lambda}.
 $$
 
+## 
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능방향 y와 
 $$
@@ -42,7 +43,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MD
-c5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4
-ODMsMTYxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbMTUwMzU1NDgyMCwtMTEwMTQwNjM0Miw0Nj
+MxMDY0ODksMTkwNzkyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4
+MjEsLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
 -->
