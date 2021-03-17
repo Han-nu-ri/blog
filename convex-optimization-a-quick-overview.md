@@ -63,11 +63,11 @@ $$
 $$
 이다.
 
-내부해란 가능해 F 영역의 끝자락에 있는 해가 아닌, 그 표현처럼 안에 존재하는 해를 의미합니다. 어떻게 하면 내부해가 최적해가 될 수 있을까요? 간단하게 이차함수를 생각해보면, 최소 혹은 최대점이 이차함수의 미분이 0인 지점임을 알고 있죠. 즉 기울기 벡터가 0인 지점
+내부해란 가능해 F 영역의 끝자락에 있는 해가 아닌, 그 표현처럼 안에 존재하는 해를 의미합니다. 어떻게 하면 내부해가 최적해가 될 수 있을까요? 중고등학교 때 배웠던 것을 떠올려보죠. 간단하게 이차함수를 생각해보면, 최소 혹은 최대점이 이차함수의 미분이 0인 지점임을 알고 있습니다. 함수가 최소 혹은 최대가 되게 하는 점들을 정의역으로 포함하고 있기 때문입니다.
 왼쪽 그림을 보죠. 가능해 F의 어떤 점을 선택해도 그 점 위의 함수 f에 대한 기울기 벡터는 0 이 아닙니다.	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjQzMjUzMSwtOTEzMjc2Njk3LDIyMz
+eyJoaXN0b3J5IjpbLTQxNzc3MzYzOCwtOTEzMjc2Njk3LDIyMz
 Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
 MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
 EwMjEwMDUwXX0=
