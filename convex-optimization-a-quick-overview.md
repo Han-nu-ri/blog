@@ -12,7 +12,9 @@ $$
 ![convex-optimization-a-quick-overview-1](https://user-images.githubusercontent.com/11609881/111481579-74c6ac00-8776-11eb-9104-6663accecb01.PNG)
 
 ## 볼록 함수
+> 볼록 집합 S 위의 함수 f가 다음을 만족하면 f를 볼록 함수라고 한다.
 
+> -f가 볼록이면 오목, 볼록이면서 오목이면 평면 함수라고 한다.
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해해일 필요충분조건은 x의 모든 가능방향 y와 
 $$
@@ -22,7 +24,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMTA2NDg5LDE5MDc5MjA4NDMsLTE5Mj
-A3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1
-MF19
+eyJoaXN0b3J5IjpbNzg0MjM4MDksNDYzMTA2NDg5LDE5MDc5Mj
+A4NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMs
+MTYxMDIxMDA1MF19
 -->
