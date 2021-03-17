@@ -3,8 +3,9 @@
 ## 볼록 집합
 > 집합 S가 자신의 임의의 두 점을 잇는 선분을 포함하면 볼록 집합이라고 한다:
 $$
-(1-\lambda)x + \lambda y \in S, \forall x, y \in S, \forall \lambda: 0 \
+(1-\lambda)x + \lambda y \in S, \forall x, y \in S, \forall \lambda: 0 \le \lambda \le 1.
 $$
+
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해해일 필요충분조건은 x의 모든 가능방향 y와 
 $$
@@ -16,5 +17,5 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDU5NzMyMSwxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
 -->
