@@ -11,8 +11,8 @@ $$
 오른쪽 두 도형 안의 점들을 원소로 하는 집합은 볼록 집합일까요?
 ![convex-optimization-a-quick-overview-1](https://user-images.githubusercontent.com/11609881/111481579-74c6ac00-8776-11eb-9104-6663accecb01.PNG)
 
-(1-\lambda)x + \lambda y의 의미는, \lambda를 0에서 1로 증가 시키면ㅅ
-\lambda가 0에서 1로 증가할 때, (1-\lambda)x + \lambda y가 어떻게 변하는지 
+(1-\lambda)x + \lambda y의 의미는, \lambda를 0에서 1로 증가 시키면서 어떻게 값이 변해가는지 관찰하면 쉽게 x에서 y로 이동하는 과정임을 알 수 있습니다.
+
 ## 볼록 함수
 > 볼록 집합 S 위의 함수 f가 다음을 만족하면 f를 볼록 함수라고 한다.
 $$
@@ -20,6 +20,7 @@ f((1-\lambda)x + \lambda y) \le (1-\lambda)f(x) +\lambda f(y), \forall x, y \in 
 $$
 > -f가 볼록이면 오목, 볼록이면서 오목이면 평면 함수라고 한다.
 
+볼록 함수다라는 표현이 있으면 바로 떠올려야 하는 부등식, Jensen's Inequality 입니다. 
 
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해해일 필요충분조건은 x의 모든 가능방향 y와 
@@ -30,7 +31,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDY1Njk4Myw0NjMxMDY0ODksMTkwNz
+eyJoaXN0b3J5IjpbMTM1NjcwNzEwNyw0NjMxMDY0ODksMTkwNz
 kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
 MywxNjEwMjEwMDUwXX0=
 -->
