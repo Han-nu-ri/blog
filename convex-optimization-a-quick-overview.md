@@ -67,11 +67,13 @@ $$
 ![image](https://user-images.githubusercontent.com/11609881/111492868-64b3ca00-8780-11eb-9990-1d398dcbdbf1.png)
 
 왼쪽 그림을 보죠.  최소해문제라고 생각하면, B가 최소해임을 직관적으로 알 수 있습니다. 이때 기울기 벡터는 0이 아니여서, F만 조금 더 커졌다면 감소 방향이 존재합니다.
-오른쪽 그림은 어떨까요? C가 최소
+오른쪽 그림은 어떨까요? C가 최소해임을 직관적으로 알 수 있습니다. 이때 점 C에서의 기울기 벡터는 무엇인가요?
 ![image](https://user-images.githubusercontent.com/11609881/111493185-aba1bf80-8780-11eb-9347-58eab4f5aec2.png)
+이렇게 내부해가 최적해인 해를 안장점(stationary point)라고 합니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzE4MzE1NiwtOTEzMjc2Njk3LDIyMz
-Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
-MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
-EwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbODUxOTkyOTg0LC05MTMyNzY2OTcsMjIzNj
+Y3MDA2LC0xMTAxNDA2MzQyLDQ2MzEwNjQ4OSwxOTA3OTIwODQz
+LC0xOTIwNzgxOTIyLDcyNDYxMzgyMSwtNjE4MDEzODgzLDE2MT
+AyMTAwNTBdfQ==
 -->
