@@ -23,7 +23,8 @@ $$
 볼록 함수라는 표현이 있으면 바로 떠올려야 하는 부등식, Jensen's Inequality 입니다.  f((1-\lambda)x + \lambda y)는 아래 점이고, (1-\lambda)f(x) + \lambda f(y)는 위 점입니다. 함수가 볼록하다면 이 부등식이 성립함을 직관적으로 이해할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111483329-0d116080-8778-11eb-95ee-106bdee54b09.png)
 
-## 가능 방향
+## 가능방향
+> 가능해 x에서 y 방향으로 가능성을 유지하며 0 보다 큰 거리를 움직일 수 있을 때 y를 가능방향이라고 한다.
 
 
 ## 가능방향  정리
@@ -35,7 +36,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI2MTk4MDQsNDYzMTA2NDg5LDE5MD
-c5MjA4NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4
-ODMsMTYxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbLTQ2MTIxOTgzNyw0NjMxMDY0ODksMTkwNz
+kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
+MywxNjEwMjEwMDUwXX0=
 -->
