@@ -9,7 +9,7 @@ $$
 아래 그림의 왼쪽 두 도형을 보죠. 색이 채워진 도형 안의 임의의 두 점을 잡습니다. 그 두 점을 이은 선 위의 점들은 도형 안에 있나요? 그렇다면 이 도형 안의 점들을 원소로 가지는 집합을 볼록 집합이라고 합니다.
 
 오른쪽 두 도형 안의 점들을 원소로 하는 집합은 볼록 집합일까요?
-![convex set](https://github.com/Han-nu-ri/blog/blob/master/pictures/convex-optimization-a-quick-overview-1.PNG)
+![convex-optimization-a-quick-overview-1](https://user-images.githubusercontent.com/11609881/111481579-74c6ac00-8776-11eb-9104-6663accecb01.PNG)
 
 ## 볼록 함수
 
@@ -22,6 +22,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzkyMDg0MywtMTkyMDc4MTkyMiw3Mj
-Q2MTM4MjEsLTYxODAxMzg4MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbNDYzMTA2NDg5LDE5MDc5MjA4NDMsLTE5Mj
+A3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1
+MF19
 -->
