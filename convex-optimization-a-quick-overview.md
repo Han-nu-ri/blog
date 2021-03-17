@@ -57,11 +57,11 @@ $$
 다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 기울기 벡터와 모든 가능 방향의 내적을 해보면 모두 양수임을 알 수 있습니다. 이는 무슨 의미일까요? (1, 0)에서는 제약 조건을 만족하면서 움직이면 함수가 증가한다는 것 입니다. 따라서 (1, 0)은 국지 최소해가 됩니다.
 더 나아가 함수 f는 볼록 함수이기 때문에, 국지해는 전역 최적해가 됩니다.
 ## 따름 정리
-
+> F의 내부해가 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDEzOTkwMCwtOTEzMjc2Njk3LDIyMz
-Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
-MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
-EwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbNzI5MzAzMjcyLC05MTMyNzY2OTcsMjIzNj
+Y3MDA2LC0xMTAxNDA2MzQyLDQ2MzEwNjQ4OSwxOTA3OTIwODQz
+LC0xOTIwNzgxOTIyLDcyNDYxMzgyMSwtNjE4MDEzODgzLDE2MT
+AyMTAwNTBdfQ==
 -->
