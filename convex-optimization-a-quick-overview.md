@@ -26,8 +26,8 @@ $$
 ## 가능방향
 > 가능해 x에서 y 방향으로 가능성을 유지하며 0 보다 큰 거리를 움직일 수 있을 때 y를 가능방향이라고 한다.
 
-x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도 여전히 Feasible region에 있는 경우, y를 가능방향이라고 한다.
-
+x가 Feasible region 안에 있을 때 y 방향으로 아주 조금 움직여도 여전히 Feasible region에 있는 경우, y를 가능방향이라고 합니다. 색칠된 영역을 Feasible region이고 x가 우상단의 점에 있을 때 화상표 바
+![image](https://user-images.githubusercontent.com/11609881/111484620-472f3200-8779-11eb-93aa-032f0388a6e9.png)
 
 ## 가능방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능방향 y와 
@@ -38,7 +38,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQwMDc4OCw0NjMxMDY0ODksMTkwNz
-kyMDg0MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4
-MywxNjEwMjEwMDUwXX0=
+eyJoaXN0b3J5IjpbNTM2NzE2ODU3LDQ2MzEwNjQ4OSwxOTA3OT
+IwODQzLC0xOTIwNzgxOTIyLDcyNDYxMzgyMSwtNjE4MDEzODgz
+LDE2MTAyMTAwNTBdfQ==
 -->
