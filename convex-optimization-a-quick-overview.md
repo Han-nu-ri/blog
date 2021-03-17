@@ -53,11 +53,11 @@ $$
 $$
 이다.
 
-다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 
+다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 기울기 벡터와 모든 가능 방향의 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2MjIwMTUsLTkxMzI3NjY5NywyMj
-M2NjcwMDYsLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MDc5MjA4
-NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMT
-YxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbLTc3OTIyMDA2MSwtOTEzMjc2Njk3LDIyMz
+Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
+MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
+EwMjEwMDUwXX0=
 -->
