@@ -44,7 +44,8 @@ $$
 $$
 >이다.
 
-기울기 벡터는 함수 f 위의 특정 점에서 접선을 긋고, 접선과 수직인 방향으로 진행하는 벡터를 떠오르시면 됩니다.
+기울기 벡터는 함수 f 위의 특정 점에서 접선을 긋고, 접선과 수직인 방향으로 진행하는 벡터를 떠오르시면 됩니다. 아래 그림에서의 빨간색 선입니다. 기울기 벡터는 함수의 순간 증가율이 가장 큰 방향입니다.
+![image](https://user-images.githubusercontent.com/11609881/111488496-a3e01c00-877c-11eb-983e-35ff4ba896da.png)
 ## 가능 방향  정리
 > x가 볼록 집합 F에서 볼록 미분가능 함수 f의 최소해일 필요충분조건은 x의 모든 가능 방향 y와 
 $$
@@ -54,7 +55,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNjY3MDA2LC0xMTAxNDA2MzQyLDQ2Mz
-EwNjQ4OSwxOTA3OTIwODQzLC0xOTIwNzgxOTIyLDcyNDYxMzgy
-MSwtNjE4MDEzODgzLDE2MTAyMTAwNTBdfQ==
+eyJoaXN0b3J5IjpbLTkxMzI3NjY5NywyMjM2NjcwMDYsLTExMD
+E0MDYzNDIsNDYzMTA2NDg5LDE5MDc5MjA4NDMsLTE5MjA3ODE5
+MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMTYxMDIxMDA1MF19
 -->
