@@ -53,10 +53,11 @@ $$
 $$
 이다.
 
-기울기 벡터는 함수가 순간적으로 최대한 증가하는 방향입니다. 따라서 기울기 벡터와 방ㅎ다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 기울기 벡터와 모든 가능 방향의 
+기울기 벡터는 함수가 순간적으로 최대한 증가하는 방향입니다. 따라서 기울기 벡터와 방향 y간 내적이 0 보다 크면 방향 y는 함수가 증가하는 방향이고, 0 보다 작으면 함수가 감소하는 방향입니다.
+다시 위의 그림을 떠올려보죠. x가 (1, 0)일 때 기울기 벡터와 모든 가능 방향의 내적을 해보죠. 모두 양수임을 알 수 있습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkwNTQwOSwtOTEzMjc2Njk3LDIyMz
+eyJoaXN0b3J5IjpbLTQzNDUzODU1NywtOTEzMjc2Njk3LDIyMz
 Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
 MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
 EwMjEwMDUwXX0=
