@@ -63,11 +63,12 @@ $$
 $$
 이다.
 
+내부해란 가능해 F 영역의 끝자락에 있는 해가 아닌, 그 표현처럼 안에 존재하는 해를 의미합니다. 어떻게 하면 내부해가 최적해가 될 수 있을까요? 
 왼쪽 그림을 보죠. 가능해 F의 어떤 점을 선택해도 그 점 위의 함수 f에 대한 기울기 벡터는 0 이 아닙니다.	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgyMTcxODEsLTkxMzI3NjY5NywyMj
-M2NjcwMDYsLTExMDE0MDYzNDIsNDYzMTA2NDg5LDE5MDc5MjA4
-NDMsLTE5MjA3ODE5MjIsNzI0NjEzODIxLC02MTgwMTM4ODMsMT
-YxMDIxMDA1MF19
+eyJoaXN0b3J5IjpbLTcwNTQ5Mzc1NiwtOTEzMjc2Njk3LDIyMz
+Y2NzAwNiwtMTEwMTQwNjM0Miw0NjMxMDY0ODksMTkwNzkyMDg0
+MywtMTkyMDc4MTkyMiw3MjQ2MTM4MjEsLTYxODAxMzg4MywxNj
+EwMjEwMDUwXX0=
 -->
