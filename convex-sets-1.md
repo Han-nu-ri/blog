@@ -1,4 +1,4 @@
-# convex-sets-1: 
+# convex-sets-1: 볼록 조합, 볼록 덮개
 볼록 집합과 볼록 덮개에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의를 정리했음을 밝힙니다.
 ## 볼록 조합
 두 개의 벡터 x, y를 연결하는 직선을 \lambda의 함수로 표현하면 아래와 같습니다.
@@ -48,6 +48,6 @@ $$
 ## 볼록 덮개
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTUwMDU0OSwtMzA5NTAxNTEsMTcwOT
+eyJoaXN0b3J5IjpbMTgyNDkzMDg4NiwtMzA5NTAxNTEsMTcwOT
 kzOTg2NywtODA0NTYyODk0XX0=
 -->
