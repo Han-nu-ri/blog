@@ -32,11 +32,12 @@ $$
 $$
 라 하면,
 $$
-
+\tilde{f}(x)=f(x^k)+b^Tz+{1 \over 2}z^TQz
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NjQwNDU4LC02ODgyNTEyOTYsOTcxMz
-kzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAzLDk3Mzc2OTcwNl19
-
+eyJoaXN0b3J5IjpbLTE2NTg0MDQ3NjIsLTY4ODI1MTI5Niw5Nz
+EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
+XX0=
 -->
