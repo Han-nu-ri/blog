@@ -49,10 +49,10 @@ $$
 지금까지 배운 것을 토대로, 다음 문제를 풀어보세요.
 > 다음 함수의 현재 점 x^k에서 뉴튼 방향을 구하라.
 $$
-f(x)=e^{x_1}+e^{-1
+f(x)={{e^{x_1}+e^{-x_1}} \over 2} + {{e^{x_2}+e^{-x_2}} \over 2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1NTY3NTYzLC0xNjU4NDA0NzYyLC02OD
-gyNTEyOTYsOTcxMzkzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAz
-LDk3Mzc2OTcwNl19
+eyJoaXN0b3J5IjpbLTExODUzODM5ODQsLTE2NTg0MDQ3NjIsLT
+Y4ODI1MTI5Niw5NzEzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5
+MDMsOTczNzY5NzA2XX0=
 -->
