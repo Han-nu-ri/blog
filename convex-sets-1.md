@@ -28,7 +28,7 @@ $$
 = \lambda_1 x_1 + \lambda_2 x_2 + \lambda_3 x_3
 = (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} + \lambda_3 x_3
 $$
-입니다. 위 식 중 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}를 분석해보면, 두 벡터 간 볼록 조합임을 알 수 있습니다.
+입니다. 위 식 중 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}를 분석해보면, 두 벡터 간 볼록 조합임을 알 수 있습니다. 왼쪽 그림의 파란 점
 $$
 let \ {\lambda_2 \over \lambda_1 + \lambda_2} = \lambda_a\\
 then
@@ -37,6 +37,6 @@ then
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU5MjE3MjYsMTcwOTkzOTg2NywtOD
-A0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbMzAxNTE2NDM1LDE3MDk5Mzk4NjcsLTgwND
+U2Mjg5NF19
 -->
