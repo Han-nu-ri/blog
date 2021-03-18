@@ -22,7 +22,7 @@ $$
 \min \lVert Ax-b \rVert_2
 $$
 
-위 문제는 제약 조건이 없는 최적 먼저 목적 함수가 볼록 함수인지 확인
+위 문제는 제약 조건이 없는 최적화 문제입니다. 먼저 목적 함수가 볼록 함수인지 확인해보고, 볼록이면 제약 조건이 없으므로 내부해(stationary point)가 최적해가  됩니다.
 Ax = b의 해가 없다는 것은 Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 그럼 위 최적화 문제의 최소해는 무엇일까요? 쉽게 생각해서 b로부터 Ax의 공간에 projection한 점을 b*이라 두면, b*은 Ax 위의 공간이자 b와의 거리가 최소화되는 점 입니다. 따라서 최적해 x*은 b*을 A1, A2, ... , An으로 표현할 때의 계수가 됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/111558792-ce5cc400-87d2-11eb-9a1c-43ed9448887a.png)
 
@@ -37,8 +37,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMjMwNjc0LDEwNzQ1MzM0MjgsMjAyOT
-gzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4MjAsLTE3NjcwMzgy
-ODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLTE4MzgyMTAzMTFdfQ
-==
+eyJoaXN0b3J5IjpbMTc4NjE2NTg2MCwxMDc0NTMzNDI4LDIwMj
+k4MzkyMjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4
+Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX
+0=
 -->
