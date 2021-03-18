@@ -31,11 +31,12 @@ $$
 입니다. 위 식 중 일부를 분석해보면,
 $$
 let \ {\lambda_2 \over \lambda_1 + \lambda_2} = \lambda_a\\
-then \\
+then
 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}
-=d
+=(1-\lambda_a)x_1+\lambda_ax_2, \ 0 \le \lambda_a \le 1
 $$
+ㄸ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTE2OTk0LDE3MDk5Mzk4NjcsLTgwND
-U2Mjg5NF19
+eyJoaXN0b3J5IjpbLTI1OTQ0NDg1MSwxNzA5OTM5ODY3LC04MD
+Q1NjI4OTRdfQ==
 -->
