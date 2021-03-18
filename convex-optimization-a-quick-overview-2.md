@@ -56,37 +56,6 @@ $$
 $$
 f(x)=x^TA^TAx-2b^TAx+b^Tb
 $$
-기울기 벡터를 구하기 위해 A와 x, b를 아래와 같이 둬보죠.
-$$
-A= \begin{bmatrix}
-A_1 \\
-A_2 
-\end{bmatrix},
-x= \begin{bmatrix}
-x_1 &
-x_2
-\end{bmatrix},
-b= \begin{bmatrix}
-b_1 \\
-b_2
-\end{bmatrix}
-$$
-그럼 f는 아래와 같습니다.
-$$
-f(x)=\begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \begin{bmatrix} A_1 & A_2 \end{bmatrix}
-\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}
-=\begin{bmatrix} x_1 A_1+x_1 A_2 \\ x_2 A_1+x_2A_2\end{bmatrix}
-\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}
-=\begin{bmatrix} x_1 A_1^2+x_1 A_2 A_1 \\ x_2 A_1 A_2+x_2 A_2^2\end{bmatrix}
-\begin{bmatrix} x_1 & x_2 \end{bmatrix}
-$$
-$$
-=\begin{bmatrix} x_1^2 A_1^2+x_1^2 A_2 A_1 \\ x_2 A_1 A_2+x_2 A_2^2\end{bmatrix}
-\begin{bmatrix} x_1 & x_2 \end{bmatrix}
-$$
-$$
-\nabla f(x)=2A^TA
-$$
 
 
 기울기 벡터를 구하기 위해 A와 x, b를 아래와 같이 둬보죠.
@@ -100,9 +69,9 @@ $$
 f(x)=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM1NjM3MTUsLTYyNjcwMzY3NSwtNj
-k1MTExODIxLC0xODc4NjcwODIyLDcxMzk4NTQxMywxMDc0NTMz
-NDI4LDIwMjk4MzkyMjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC
-0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4
-MjEwMzExXX0=
+eyJoaXN0b3J5IjpbNTc1OTQ1Njc2LC0xODQzNTYzNzE1LC02Mj
+Y3MDM2NzUsLTY5NTExMTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0
+MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLD
+I1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAz
+NTQ5NSwtMTgzODIxMDMxMV19
 -->
