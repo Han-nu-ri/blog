@@ -35,14 +35,15 @@ $$
 \tilde{f}(x)=f(x^k)+bz+{1 \over 2}z^TQz \\
 \nabla {\tilde{f}(x)}=b+Qz=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})
 $$
-안장점을 향하는 방향은
+안장점을 향하는 방향은 아래와 같습니다.
 $$
 \nabla {\tilde{f}(x)}=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})=0 \\
-({x-x^k})=-(\nabla^2f(x^k))^{-1}\nabla f(x^k)
+x=x^k-(\nabla^2f(x^k))^{-1}\nabla f(x^k)
 $$
+함수 f가 이차 근사식이 아니라, 일반적인 이차 식이라면 바로 x를 우
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMzQ1MzAsLTE2NTg0MDQ3NjIsLTY4OD
-I1MTI5Niw5NzEzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMs
-OTczNzY5NzA2XX0=
+eyJoaXN0b3J5IjpbLTg0NzM1NDYzNywtMTY1ODQwNDc2MiwtNj
+g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
+Myw5NzM3Njk3MDZdfQ==
 -->
