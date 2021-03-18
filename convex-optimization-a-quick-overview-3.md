@@ -33,12 +33,13 @@ $$
 라 하면,
 $$
 \tilde{f}(x)=f(x^k)+bz+{1 \over 2}z^TQz \\
-\nabla {\tilde{f}(x)}=b+Qz=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k}
+\nabla {\tilde{f}(x)}=b+Qz=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})
 $$
+안장점을 향하는 방향은
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTU1MzE1NCwtMTY1ODQwNDc2MiwtNj
-g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
-Myw5NzM3Njk3MDZdfQ==
+eyJoaXN0b3J5IjpbMzc4OTM2NjI5LC0xNjU4NDA0NzYyLC02OD
+gyNTEyOTYsOTcxMzkzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAz
+LDk3Mzc2OTcwNl19
 -->
