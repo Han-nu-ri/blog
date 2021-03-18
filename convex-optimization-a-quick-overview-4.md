@@ -1,7 +1,8 @@
 # convex-optimization-a-quick-overview-4
 이전 게시물에 이어, 볼록최적화와 관련된 여러 주제들을 다루는 글 입니다. 서울대 홍성필 교수님 최적화 원론 강의를 정리했음을 밝힙니다
 
-## ..?
+이번 포스트에서는 barrier function에 대해 다루고자 합니다
+## Barrier function
 $$
 I(u)=\begin{cases}
 0, & u \ge 0 \\
@@ -22,6 +23,6 @@ t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
 ![Iu](https://user-images.githubusercontent.com/11609881/111646763-45cb3b80-8845-11eb-8a03-35fb0b8e97c7.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTk3MjgzNCwtMTA2MjM4NTIxMSw2ND
-Q4MjIzNTksMjg2NTc1NzY5XX0=
+eyJoaXN0b3J5IjpbMTY1MTcwMjM3NCwtMjI1OTcyODM0LC0xMD
+YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
