@@ -17,8 +17,11 @@ https://nrhan.tistory.com/entry/convex-optimization-a-quick-overview-1?category=
 
 입니다.
 
-다시 볼록 조합으로 돌아와서, 볼록 조합을 세 개의 벡터로
+다시 볼록 조합으로 돌아와서, 볼록 조합을 세 개의 벡터로 확장해볼까요?
+$$
+\sum_{i=1}^3 \lambda_i=1, \forall \lambda
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY1MjE5MjUsMTcwOTkzOTg2NywtOD
-A0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbLTQ3Mjk3MjQ4OCwxNzA5OTM5ODY3LC04MD
+Q1NjI4OTRdfQ==
 -->
