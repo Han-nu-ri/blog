@@ -3,7 +3,12 @@
 ## 헤시안
 위키피디아에서는 헤세 행렬로 나옵니다. 어떤 함수의 이계도함수를 행렬로 표현한 것 입니다.
 $$
-f(x)
+f(x)=f(x_1, x_2,... ,x_n),
+H(f)= \begin{bmatrix}
+0 & \cdots & 0 \\
+\vdots & \ddots & \vdots \\
+0 & \cdots & 0
+\end{bmatrix}
 $$
 ## PSD
 ## 응용
@@ -26,7 +31,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUyNDczNTYsLTE4Mjk2MDQ2OTIsMj
+eyJoaXN0b3J5IjpbLTE4OTI3NDUyODgsLTE4Mjk2MDQ2OTIsMj
 U3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1
 NDk1LC0xODM4MjEwMzExXX0=
 -->
