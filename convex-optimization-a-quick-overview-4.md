@@ -11,8 +11,9 @@ $$
 위 식을 사용하여 아래 최적화 문제를 다시 써보죠.
 $$
 min\{f(x):g_i(x) \ge 0, 1 \le i \le m\} \\
-= min \ f(x) + \sum_{k=1}^N k^2
+= min \ f(x) + \sum_{i=1}^m I(g_i(x))
 $$
+만약 제약식 g(x)가 0보다 작게 되면, 함수 I에 의해 무한대가 된
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTI2MTQ1MCwyODY1NzU3NjldfQ==
+eyJoaXN0b3J5IjpbMTIwMjU4MDIwOSwyODY1NzU3NjldfQ==
 -->
