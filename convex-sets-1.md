@@ -41,9 +41,9 @@ $$
 이를 유한 개의 벡터로 확장하면 아래와 같습니다.
 > 다음을 벡터 v1, v2, ... , vk의 볼록 조합이라고 한다.
 $$
-\forall k \in N, \lambda_1+
+\forall k \in N, \sum_{i=1}^k \lambda_i=1, \lambda_1 \ge 0, \lambda_2 \ge 0, ... , \lambda_k \ge 0
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3OTY1NDQsMTcwOTkzOTg2NywtOD
-A0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbLTc0MzQwMzQ1NSwxNzA5OTM5ODY3LC04MD
+Q1NjI4OTRdfQ==
 -->
