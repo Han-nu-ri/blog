@@ -6,8 +6,8 @@ $$
 \min \lVert Ax-b \rVert_2
 $$
 
-Ax = b의 해가 없다는 것은 어떤 의미
+Ax = b의 해가 없다는 것은 어떤 의미인가요? Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ3MDY1MTEsNzQ1MDM1NDk1LC0xOD
-M4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbLTg4MjM2NzMwMCw3NDUwMzU0OTUsLTE4Mz
+gyMTAzMTFdfQ==
 -->
