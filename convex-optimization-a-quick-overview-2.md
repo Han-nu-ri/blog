@@ -85,7 +85,7 @@ $$
 \end{bmatrix}
 =2A^TAx-2A^Tb=0.
 $$
-따라서 최적해 x*와, b를 Ax 공간에 투영한 행렬을 b*으로 두면
+따라서 최적해 x\*와, b를 Ax 공간에 투영한 행렬을 b\*으로 두면
 $$
 x^*=(A^TA)^{-1}A^Tb, \\
 b^*=Ax^*=A(A^TA)^{-1}A^Tb
@@ -96,10 +96,10 @@ A(A^TA)^{-1}A^T
 $$
 를 열 공간 투영 행렬이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2MDI1NzAyLC0xNzE0NzA1MjQ4LC0xOT
-ExOTA4NzU5LC0xODQzNTYzNzE1LC02MjY3MDM2NzUsLTY5NTEx
-MTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0MTMsMTA3NDUzMzQyOC
-wyMDI5ODM5MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgyMCwtMTc2
-NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIxMD
-MxMV19
+eyJoaXN0b3J5IjpbOTA3MTc0Mzc0LDgzNjAyNTcwMiwtMTcxND
+cwNTI0OCwtMTkxMTkwODc1OSwtMTg0MzU2MzcxNSwtNjI2NzAz
+Njc1LC02OTUxMTE4MjEsLTE4Nzg2NzA4MjIsNzEzOTg1NDEzLD
+EwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcx
+Nzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OT
+UsLTE4MzgyMTAzMTFdfQ==
 -->
