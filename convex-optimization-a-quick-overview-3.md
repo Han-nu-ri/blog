@@ -3,10 +3,10 @@
 
 이번 포스팅에서는 최적화 방법 중 First-order method, Second-order method에 대하여 적어보려고 합니다.
 ## First-order method: 일계 방법
-First order method는 최적화 문제에서 목적 함수의 1차 미분(gradient)를 활용하여 최적해를 찾는 방법입니다. 많은 
+First-order method는 최적화 문제에서 목적 함수의 1차 미분(gradient)를 활용하여 최적해를 찾습니다. 그래서 First-order 이라는 이름이 붙였겠죠? 딥러닝에서 많이 활용되고 있는 gradient descent
 ## Second-order method: 이계 방법
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTIwMzk4NCwyMDEzNjA2OTAzLDk3Mz
+eyJoaXN0b3J5IjpbMjEwMzU4NzU2MywyMDEzNjA2OTAzLDk3Mz
 c2OTcwNl19
 -->
