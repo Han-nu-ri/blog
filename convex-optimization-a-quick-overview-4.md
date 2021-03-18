@@ -27,9 +27,10 @@ t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
 
 예를 들어볼까요. 어떤 최적화 문제에 두 개의 제약식이 있다고 해보죠.
 $$
-g_1
+g_1(x)=x \ge 0, \ g_2(x)=10 - x \ge 0. \\
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTIyOTIxLC0yMjU5NzI4MzQsLTEwNj
-IzODUyMTEsNjQ0ODIyMzU5LDI4NjU3NTc2OV19
+eyJoaXN0b3J5IjpbMTY3NzU5MTc4MSwtMjI1OTcyODM0LC0xMD
+YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
