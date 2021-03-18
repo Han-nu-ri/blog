@@ -38,15 +38,16 @@ $$
 마찬가지로 나머지 식은 두 벡터의 볼록 조합과 점 x3간 볼록 조합임을 알 수 있습니다. (오른쪽 그림)
 ![image](https://user-images.githubusercontent.com/11609881/111662809-9c3f7680-8853-11eb-8e81-f2491b6a3edc.png)
 
-이를 유한 개의 벡터로 확장하면 아래와 같습니다.
+이를 유한 개의 벡터로 확장하면 아래와 같고, k개의 볼록 조합은 두 개의 볼록 조합을 반복하여 얻을 수 있습니다.
 > 다음을 벡터 v1, v2, ... , vk의 볼록 조합이라고 한다.
 $$
 v=\lambda_1 v_1 + \cdots + \lambda_k v_k\\
 \forall k \in N, \sum_{i=1}^k \lambda_i=1, \lambda_1 \ge 0, \lambda_2 \ge 0, ... , \lambda_k \ge 0
 $$
 
-ㅇ
+## 볼록 덮개
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzU2NDA4LC0zMDk1MDE1MSwxNzA5OT
-M5ODY3LC04MDQ1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbMTcyNTUwMDU0OSwtMzA5NTAxNTEsMTcwOT
+kzOTg2NywtODA0NTYyODk0XX0=
 -->
