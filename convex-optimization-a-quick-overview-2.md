@@ -54,10 +54,10 @@ $$
 그러므로 이 목적 함수는 제약 조건 없는 볼록 함수가 되므로, 내부해가 최적해가 됩니다.
 내부해는 기울기 벡터가 0인 해이므로, 목적 함수의 기울기 벡터를 구하면
 $$
-\nabla f(x)=
+\nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA4MDE1NDIsNzEzOTg1NDEzLDEwNz
+eyJoaXN0b3J5IjpbLTE4Nzg2NzA4MjIsNzEzOTg1NDEzLDEwNz
 Q1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4
 MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLT
 E4MzgyMTAzMTFdfQ==
