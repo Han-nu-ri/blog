@@ -46,8 +46,13 @@ $$
 x^{k+1} \leftarrow x^k-(\nabla^2f(x^k))^{-1}\nabla f(x^k)
 $$
 
+지금까지 배운 것을 토대로, 다음 문제를 풀어보세요.
+> 다음 함수의 현재 점 x^k에서 뉴튼 방향을 구하라.
+$$
+f(x)=e^{x_1}+e^{-1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NDUyOTMxLC0xNjU4NDA0NzYyLC02OD
+eyJoaXN0b3J5IjpbNTA1NTY3NTYzLC0xNjU4NDA0NzYyLC02OD
 gyNTEyOTYsOTcxMzkzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAz
 LDk3Mzc2OTcwNl19
 -->
