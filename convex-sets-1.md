@@ -22,13 +22,17 @@ $$
 \sum_{i=1}^3 \lambda_i x_i \\ 
 \sum_{i=1}^3 \lambda_i=1, \forall \lambda_i \ge0, 1\le i \le 3.
 $$
-어떻게 저렇게 간단히 표현될 수 있을지 알아보죠.
+어떻게 저렇게 간단히 표현될 수 있을지 알아보죠. 위 식을 전개하면,
 $$
 \sum_{i=1}^3 \lambda_i x_i
 = \lambda_1 x_1 + \lambda_2 x_2 + \lambda_3 x_3
-= (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} 
+= (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} + \lambda_3 x_3
+$$
+입니다. 위 식 중 일부를 분석해보면,
+$$
+{\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDc2MjA5NSwxNzA5OTM5ODY3LC04MD
-Q1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTIxMjU4NDU0ODQsMTcwOTkzOTg2NywtOD
+A0NTYyODk0XX0=
 -->
