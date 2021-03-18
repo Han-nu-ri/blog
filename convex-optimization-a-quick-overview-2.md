@@ -63,7 +63,7 @@ A_1 \\
 A_2 
 \end{bmatrix},
 x= \begin{bmatrix}
-x_1 \\
+x_1 &
 x_2
 \end{bmatrix},
 b= \begin{bmatrix}
@@ -80,8 +80,8 @@ $$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTExMTgyMSwtMTg3ODY3MDgyMiw3MT
-M5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0
-NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LD
-c0NTAzNTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbLTE5Mzc2OTEwNjEsLTY5NTExMTgyMSwtMT
+g3ODY3MDgyMiw3MTM5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5
+MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NC
+wtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
