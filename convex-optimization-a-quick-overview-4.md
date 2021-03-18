@@ -25,12 +25,16 @@ $$
 t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
 ![Iu](https://user-images.githubusercontent.com/11609881/111646763-45cb3b80-8845-11eb-8a03-35fb0b8e97c7.gif)
 
-예를 들어볼까요. 어떤 최적화 문제에 두 개의 제약식이 있다고 해보죠.
+예를 통해 t가 증가함에 따라 로그 배리어가 어떻게 변하는지 살펴보죠. 어떤 최적화 문제에 두 개의 제약식이 있다고 하면,
 $$
 g_1(x)=x \ge 0, \ g_2(x)=10 - x \ge 0. \\
 $$
+로그 배리어 함수는 
+$$
+\sum_{i=1}^2 I(g_i(x))={1}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzU5MTc4MSwtMjI1OTcyODM0LC0xMD
+eyJoaXN0b3J5IjpbLTE5NDY1NDExMSwtMjI1OTcyODM0LC0xMD
 YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
