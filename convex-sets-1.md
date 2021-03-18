@@ -28,15 +28,15 @@ $$
 = \lambda_1 x_1 + \lambda_2 x_2 + \lambda_3 x_3
 = (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} + \lambda_3 x_3
 $$
-입니다. 위 식 중 일부를 분석해보면,
+입니다. 위 식 중 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}를 분석해보면, 두 벡터 간 볼록 조합임을 알 수 있습니다.
 $$
 let \ {\lambda_2 \over \lambda_1 + \lambda_2} = \lambda_a\\
 then
 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}
 =(1-\lambda_a)x_1+\lambda_ax_2, \ 0 \le \lambda_a \le 1
 $$
-ㄸ
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTQ0NDg1MSwxNzA5OTM5ODY3LC04MD
-Q1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjU5MjE3MjYsMTcwOTkzOTg2NywtOD
+A0NTYyODk0XX0=
 -->
