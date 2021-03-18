@@ -52,13 +52,13 @@ z^TA^TAz=\lVert Az \rVert_2^2 \ge 0
 $$
 따라서 헤시안은 PSD입니다.
 그러므로 이 목적 함수는 제약 조건 없는 볼록 함수가 되므로, 내부해가 최적해가 됩니다.
-내부해는 기울기 벡터가 0인 해이므로, 목적 함수의 기울기 벡터를 구하면
+내부해는 기울기 벡터가 0인 해이므로, 목적 함수의 기울기 벡터를 구하고 
 $$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg2NzA4MjIsNzEzOTg1NDEzLDEwNz
-Q1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4
-MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLT
-E4MzgyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbMTU4MDIyMjc4MiwtMTg3ODY3MDgyMiw3MT
+M5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0
+NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LD
+c0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
