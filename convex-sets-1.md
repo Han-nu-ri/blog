@@ -23,7 +23,12 @@ $$
 \sum_{i=1}^3 \lambda_i=1, \forall \lambda_i \ge0, 1\le i \le 3.
 $$
 어떻게 저렇게 간단히 표현될 수 있을지 알아보죠.
+$$
+\sum_{i=1}^3 \lambda_i x_i
+= \lambda_1 x_1 + \lambda_2 x_2 + \lambda_3 x_3
+= (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODc3MTA0MywxNzA5OTM5ODY3LC04MD
+eyJoaXN0b3J5IjpbLTc2NDc2MjA5NSwxNzA5OTM5ODY3LC04MD
 Q1NjI4OTRdfQ==
 -->
