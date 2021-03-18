@@ -29,12 +29,13 @@ t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
 $$
 g_1(x)=x \ge 0, \ g_2(x)=10 - x \ge 0. \\
 $$
-로그 배리어 함수는 
+로그 배리어 함수는 아래와 같습니다.
 $$
-\sum_{i=1}^2 I(g_i(x))={1}
+\sum_{i=1}^2 I(g_i(x))={1 \over t}(-ln(g_1(x))-ln(g_2(x)))={1 \over t}(-ln(x)-ln(10-x))
 $$
+위 식
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY1NDExMSwtMjI1OTcyODM0LC0xMD
-YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
+eyJoaXN0b3J5IjpbLTgyNDkzNDQ1LC0yMjU5NzI4MzQsLTEwNj
+IzODUyMTEsNjQ0ODIyMzU5LDI4NjU3NTc2OV19
 -->
