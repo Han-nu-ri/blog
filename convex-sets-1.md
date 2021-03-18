@@ -30,9 +30,12 @@ $$
 $$
 입니다. 위 식 중 일부를 분석해보면,
 $$
-{\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}=
+let \ {\lambda_2 \over \lambda_1 + \lambda_2} = \lambda_a\\
+then \\
+{\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}
+=d
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU4NDU0ODQsMTcwOTkzOTg2NywtOD
-A0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbMjA1OTE2OTk0LDE3MDk5Mzk4NjcsLTgwND
+U2Mjg5NF19
 -->
