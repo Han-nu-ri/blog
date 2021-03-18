@@ -37,11 +37,12 @@ $$
 $$
 안장점을 향하는 방향은
 $$
-\nabla {\tilde{f}(x)}=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})
+\nabla {\tilde{f}(x)}=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})=0 \\
+({x-x^k})=-(\nabla^2f(x^k))^{-1}\nabla f(x^k)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMzYyNzI3LC0xNjU4NDA0NzYyLC02OD
-gyNTEyOTYsOTcxMzkzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAz
-LDk3Mzc2OTcwNl19
+eyJoaXN0b3J5IjpbNTMyMzQ1MzAsLTE2NTg0MDQ3NjIsLTY4OD
+I1MTI5Niw5NzEzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMs
+OTczNzY5NzA2XX0=
 -->
