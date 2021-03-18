@@ -11,8 +11,8 @@ H(f)= \begin{bmatrix}
 {\partial^2f\over\partial x_n\partial x_1} & {\partial^2f\over\partial x_n\partial x_2} & \cdots & {\partial^2f\over\partial x_n\partial x_n} \\
 \end{bmatrix}
 $$
-## 정부호 행렬 (Definite symmatric matrix)
-
+## Positive semidefinite (PSD)
+어떤 n X n 대칭행렬 
 ## 응용
 > 선형 시스템 Ax = b의 해가 없는 경우, 대신 '오차'를 최소화하는 해를 구할 수 있다. 오차를 아래와 같이 정의하면 다음의 최적화 문제가 된다.
 $$
@@ -33,7 +33,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTU3NDg3NiwyMDI5ODM5MjI4LC0xOD
-I5NjA0NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQw
-NjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbODQ3MDIyNjE4LDIwMjk4MzkyMjgsLTE4Mj
+k2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2
+MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
 -->
