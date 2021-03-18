@@ -28,17 +28,17 @@ $$
 $$
 입니다.
 $$
-\nabla f(x^k) = b, x-x^k=z, \nabla^2f(x^k)=Q
+\nabla {\tilde{f}(x^k)} = b, x-x^k=z, \nabla^2f(x^k)=Q
 $$
 라 하면,
 $$
 \tilde{f}(x)=f(x^k)+bz+{1 \over 2}z^TQz \\
-\nabla{f}(x)=b+Qz=\nabla f(x^k)+\nabla^2f(xk)
+\nabla {\tilde{f}(x)}=b+Qz=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k}
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTIxMDU3NCwtMTY1ODQwNDc2MiwtNj
+eyJoaXN0b3J5IjpbMTEzMTU1MzE1NCwtMTY1ODQwNDc2MiwtNj
 g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
 Myw5NzM3Njk3MDZdfQ==
 -->
