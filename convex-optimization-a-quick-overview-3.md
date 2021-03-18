@@ -36,10 +36,12 @@ $$
 \nabla {\tilde{f}(x)}=b+Qz=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})
 $$
 안장점을 향하는 방향은
-
+$$
+\nabla {\tilde{f}(x)}=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4OTM2NjI5LC0xNjU4NDA0NzYyLC02OD
+eyJoaXN0b3J5IjpbMjkwMzYyNzI3LC0xNjU4NDA0NzYyLC02OD
 gyNTEyOTYsOTcxMzkzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAz
 LDk3Mzc2OTcwNl19
 -->
