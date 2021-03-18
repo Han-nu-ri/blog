@@ -5,7 +5,10 @@
 $$
 f(x)=f(x_1, x_2,... ,x_n),
 H(f)= \begin{bmatrix}
-0 & \cdots & 0 \\
+{\partial^2f\over\partial x_1\partial x_1} & {\partial^2f\over\partial x_1\partial x_2} & \cdots & {\partial^2f\over\partial x_1\partial x_n} \\
+{\partial^2f\over\partial x_1\partial x_1} & {\partial^2f\over\partial x_1\partial x_2} & \cdots & {\partial^2f\over\partial x_1\partial x_n} \\
+{\partial^2f\over\partial x_1\partial x_1} & {\partial^2f\over\partial x_1\partial x_2} & \cdots & {\partial^2f\over\partial x_1\partial x_n} \\
+{\partial^2f\over\partial x_1\partial x_1} & {\partial^2f\over\partial x_1\partial x_2} & \cdots & {\partial^2f\over\partial x_1\partial x_n} \\
 \vdots & \ddots & \vdots \\
 0 & \cdots & 0
 \end{bmatrix}
@@ -31,7 +34,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI3NDUyODgsLTE4Mjk2MDQ2OTIsMj
+eyJoaXN0b3J5IjpbLTEzMTQ2MjQzMjEsLTE4Mjk2MDQ2OTIsMj
 U3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1
 NDk1LC0xODM4MjEwMzExXX0=
 -->
