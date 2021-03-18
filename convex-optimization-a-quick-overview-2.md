@@ -37,12 +37,17 @@ $$
 어떻게 볼록 함수인지 확인할 수 있을까요? 여러 방법이 있겠지만, 다음 성질을 사용해보죠.
 > 이차 미분 가능 함수가 볼록일 필요 충분 조건은 헤시안이 모든 x에 대해서 PSD인 것이다.
 
+목적 함수의 헤시안을 구해보면 아래와 같습니다.
 $$
 H(f)=\nabla^2f(x)=A^T
 A$$
+위 헤시안이 PSD인지 살펴볼까요? PSD 정의에 의해,
+$$
+A^T
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzOTg1NDEzLDEwNzQ1MzM0MjgsMjAyOT
-gzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4MjAsLTE3NjcwMzgy
-ODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLTE4MzgyMTAzMTFdfQ
-==
+eyJoaXN0b3J5IjpbNTcyOTQyODIyLDcxMzk4NTQxMywxMDc0NT
+MzNDI4LDIwMjk4MzkyMjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIw
+LC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xOD
+M4MjEwMzExXX0=
 -->
