@@ -8,9 +8,10 @@ $$
 x^{k+1}=x^{k}-\sigma^{k}{\nabla f(x^k)}
 $$
 ## Second-order method: 이계 방법
-Second-order method는 최적화 문제에서 목적 함수의 2차 미분(gradient)를 활용하여 최적해를 찾습니다.  
+e
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODI1MTI5Niw5NzEzOTMwMTgsMzExMj
-U5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2XX0=
+eyJoaXN0b3J5IjpbLTMzODU3Nzc2LC02ODgyNTEyOTYsOTcxMz
+kzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAzLDk3Mzc2OTcwNl19
+
 -->
