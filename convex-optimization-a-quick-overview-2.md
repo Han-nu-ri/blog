@@ -72,7 +72,7 @@ f(x)=(Ax-b)^T(Ax-b)=
 =(A_1x_1 + A_2x_2-b)^2
 $$
 $$
-=A_1^2x_1^2+A_2^2x_2^2+b^2-2(A_1x_1A_2x_2-A_2x_2b-bA_1x_1)
+=A_1^2x_1^2+A_2^2x_2^2+b^2+2(A_1x_1A_2x_2-A_2x_2b-bA_1x_1)
 $$
 $$
 \nabla f(x)=\begin{bmatrix} 
@@ -80,15 +80,16 @@ $$
 \partial f(x) \over \partial x_2
 \end{bmatrix}
 =\begin{bmatrix} 
-2A_1^2x_1-2A_1A_2x_2+2bA_1\\
-2A_2^2x_2-2A_1A_2x_1+2bA_2
+2A_1^2x_1+2A_1A_2x_2-2bA_1\\
+2A_2^2x_2+2A_1A_2x_1-2bA_2
 \end{bmatrix}
-=2A^TAx-2A^Tb=0
+=2A^TAx-2A^Tb=0.
 $$
+따라서 최적해 x*와, b를 Ax 공간에 투영한
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE5MDg3NTksLTE4NDM1NjM3MTUsLT
-YyNjcwMzY3NSwtNjk1MTExODIxLC0xODc4NjcwODIyLDcxMzk4
-NTQxMywxMDc0NTMzNDI4LDIwMjk4MzkyMjgsLTE4Mjk2MDQ2OT
-IsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1
-MDM1NDk1LC0xODM4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbLTEwODYyMDQyMTEsLTE5MTE5MDg3NTksLT
+E4NDM1NjM3MTUsLTYyNjcwMzY3NSwtNjk1MTExODIxLC0xODc4
+NjcwODIyLDcxMzk4NTQxMywxMDc0NTMzNDI4LDIwMjk4MzkyMj
+gsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00
+OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
 -->
