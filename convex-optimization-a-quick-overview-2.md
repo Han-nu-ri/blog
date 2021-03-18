@@ -72,17 +72,22 @@ f(x)=(Ax-b)^T(Ax-b)=
 =(A_1x_1 + A_2x_2-b)^2
 $$
 $$
-=A_1^2x_1^2+A_2^2x^2+b^2-2(A_1x_1A_2x_2-A_2x_2b-bA_1x_1)
+=A_1^2x_1^2+A_2^2x_2^2+b^2-2(A_1x_1A_2x_2-A_2x_2b-bA_1x_1)
 $$
 $$
 \nabla f(x)=\begin{bmatrix} 
-\partial f
+\partial f(x) \over \partial x_1 \\
+\partial f(x) \over \partial x_2
+\end{bmatrix}
+=\begin{bmatrix} 
+2A_1^2x_1 \\
+\partial f(x) \over \partial x_2
 \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1NzM0MTk3LC0xODQzNTYzNzE1LC02Mj
-Y3MDM2NzUsLTY5NTExMTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0
-MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLD
-I1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAz
-NTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbMTMxMzEyMDU4NCwtMTg0MzU2MzcxNSwtNj
+I2NzAzNjc1LC02OTUxMTE4MjEsLTE4Nzg2NzA4MjIsNzEzOTg1
+NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5Mi
+wyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUw
+MzU0OTUsLTE4MzgyMTAzMTFdfQ==
 -->
