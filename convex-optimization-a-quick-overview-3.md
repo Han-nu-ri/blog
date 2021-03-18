@@ -8,14 +8,14 @@ $$
 x^{k+1}=x^{k}-\sigma^{k}{\nabla f(x^k)}
 $$
 ## Second-order method: 이계 방법
-Second-order method는 뉴튼 방식이라고도 불립니다. 목적 함수를 2차 근사 한 후에, 2차 근사 함수를 최소로 하는 점인 기울기 벡터가 0인 점을 
-다음 이차 함수를 생각해보죠.
+Second-order method는 뉴튼 방식이라고도 불립니다. 목적 함수를 2차 근사 한 후에, 2차 근사 함수를 최소로 하는 점인 기울기 벡터가 0인 점을 향하도록 움직입니다.
+2차 근사에 대한 기울기 벡터를 다음 이차 함수를 생각해보죠.
 $$
 
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njc1MDkzNywtNjg4MjUxMjk2LDk3MT
-M5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkwMyw5NzM3Njk3MDZd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNDQ2NzY2NjAsLTY4ODI1MTI5Niw5Nz
+EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
+XX0=
 -->
