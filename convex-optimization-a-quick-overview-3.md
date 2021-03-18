@@ -32,12 +32,13 @@ $$
 $$
 라 하면,
 $$
-\tilde{f}(x)=f(x^k)+b^Tz+{1 \over 2}z^TQz
+\tilde{f}(x)=f(x^k)+b^Tz+{1 \over 2}z^TQz \\
+\nabla{f}(x)=b+Qz
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg0MDQ3NjIsLTY4ODI1MTI5Niw5Nz
-EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
-XX0=
+eyJoaXN0b3J5IjpbMTA5NjE0ODY1MiwtMTY1ODQwNDc2MiwtNj
+g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
+Myw5NzM3Njk3MDZdfQ==
 -->
