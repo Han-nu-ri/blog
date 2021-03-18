@@ -67,11 +67,13 @@ $$
 그럼 f는 아래와 같습니다.
 $$
 f(x)=(Ax-b)^T(Ax-b)=
-\begin{bmatrix} A_1 & A_2  \end{bmatrix}
-\begin{bmatrix} A_1x_1 + A_2x_2  \end{bmatrix}
+\begin{bmatrix} A_1x_1 + A_2x_2-b  \end{bmatrix}
+\begin{bmatrix} A_1x_1 + A_2x_2-b  \end{bmatrix}
+=(A_1x_1 + A_2x_2-b)^2
+=A_1^2x_1^2+A_2^2x^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg3MDcxOCwtMTg0MzU2MzcxNSwtNj
+eyJoaXN0b3J5IjpbLTEzNzgxMjE0MSwtMTg0MzU2MzcxNSwtNj
 I2NzAzNjc1LC02OTUxMTE4MjEsLTE4Nzg2NzA4MjIsNzEzOTg1
 NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5Mi
 wyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUw
