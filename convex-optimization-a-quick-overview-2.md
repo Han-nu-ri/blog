@@ -16,7 +16,7 @@ $$
 $$
 M\ PSD\Longleftrightarrow z^TMz \ge 0, \forall z \in R^n
 $$
-## 응용
+## 투영 행렬
 > 선형 시스템 Ax = b의 해가 없는 경우, 대신 '오차'를 최소화하는 해를 구할 수 있다. 오차를 아래와 같이 정의하면 다음의 최적화 문제가 된다.
 $$
 \min \lVert Ax-b \rVert_2
@@ -96,9 +96,10 @@ A(A^TA)^{-1}A^T
 $$
 를 열 공간 투영 행렬이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ3MDUyNDgsLTE5MTE5MDg3NTksLT
-E4NDM1NjM3MTUsLTYyNjcwMzY3NSwtNjk1MTExODIxLC0xODc4
-NjcwODIyLDcxMzk4NTQxMywxMDc0NTMzNDI4LDIwMjk4MzkyMj
-gsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00
-OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbODM2MDI1NzAyLC0xNzE0NzA1MjQ4LC0xOT
+ExOTA4NzU5LC0xODQzNTYzNzE1LC02MjY3MDM2NzUsLTY5NTEx
+MTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0MTMsMTA3NDUzMzQyOC
+wyMDI5ODM5MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgyMCwtMTc2
+NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIxMD
+MxMV19
 -->
