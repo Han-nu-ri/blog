@@ -43,11 +43,12 @@ H(f)=\nabla^2f(x)=A^T
 A$$
 위 헤시안이 PSD인지 살펴볼까요? PSD 정의에 의해,
 $$
-A^T
+A^TA \ PSD \Longleftrightarrow z^TA^TAz \ge 0, \forall z \in R^n
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyOTQyODIyLDcxMzk4NTQxMywxMDc0NT
-MzNDI4LDIwMjk4MzkyMjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIw
-LC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xOD
-M4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbLTIwODY4NjI4NjMsNzEzOTg1NDEzLDEwNz
+Q1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4
+MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLT
+E4MzgyMTAzMTFdfQ==
 -->
