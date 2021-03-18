@@ -1,7 +1,10 @@
 # convex-optimization-a-quick-overview-2
 이전 게시물에 이어, 볼록최적화와 관련된 여러 주제들을 다루는 글 입니다. 서울대 홍성필 교수님 최적화 원론 강의를 정리했음을 밝힙니다.
 ## 헤시안
-헤시안
+위키피디아에서는 헤세 행렬로 나옵니다. 어떤 함수의 이계도함수를 행렬로 표현한 것 입니다.
+$$
+f(x)
+$$
 ## PSD
 ## 응용
 > 선형 시스템 Ax = b의 해가 없는 경우, 대신 '오차'를 최소화하는 해를 구할 수 있다. 오차를 아래와 같이 정의하면 다음의 최적화 문제가 된다.
@@ -23,7 +26,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDE4NTE0NiwtMTgyOTYwNDY5MiwyNT
-cxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0
-OTUsLTE4MzgyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDUyNDczNTYsLTE4Mjk2MDQ2OTIsMj
+U3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1
+NDk1LC0xODM4MjEwMzExXX0=
 -->
