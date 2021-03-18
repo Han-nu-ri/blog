@@ -63,9 +63,10 @@ $$
  \end{pmatrix}
  \\
 $$
+t가 무한히 커지면,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTgyMzg3MiwtNzY4ODU1Mjk5LC0xOT
-g4ODIwODk2LDIwMTU2MDc3MDAsLTIyNTk3MjgzNCwtMTA2MjM4
-NTIxMSw2NDQ4MjIzNTksMjg2NTc1NzY5XX0=
+eyJoaXN0b3J5IjpbMzcwOTAwMTIyLC03Njg4NTUyOTksLTE5OD
+g4MjA4OTYsMjAxNTYwNzcwMCwtMjI1OTcyODM0LC0xMDYyMzg1
+MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
