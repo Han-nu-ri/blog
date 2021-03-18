@@ -6,8 +6,8 @@ $$
 \min \lVert Ax-b \rVert_2
 $$
 
-Ax = b의 해가 없다는 것은 어떤 의미인가요? Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 
+Ax = b의 해가 없다는 것은 Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 그럼 위 최적화 문제의 최소해는 무엇일까요? 쉽게 생각하면, b로부터 A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjM2NzMwMCw3NDUwMzU0OTUsLTE4Mz
-gyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbLTExNzQ0NDI0NTgsNzQ1MDM1NDk1LC0xOD
+M4MjEwMzExXX0=
 -->
