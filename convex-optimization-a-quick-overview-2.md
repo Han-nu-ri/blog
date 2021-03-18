@@ -80,12 +80,12 @@ $$
 \partial f(x) \over \partial x_2
 \end{bmatrix}
 =\begin{bmatrix} 
-2A_1^2x_1 \\
-\partial f(x) \over \partial x_2
+2A_1^2x_1-2A_1A_2x_2+2bA_1\\
+2A_2^2x_2-2A_1A_2x_1+2bA_2
 \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzEyMDU4NCwtMTg0MzU2MzcxNSwtNj
+eyJoaXN0b3J5IjpbMTkwOTAxMDIwNSwtMTg0MzU2MzcxNSwtNj
 I2NzAzNjc1LC02OTUxMTE4MjEsLTE4Nzg2NzA4MjIsNzEzOTg1
 NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5Mi
 wyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUw
