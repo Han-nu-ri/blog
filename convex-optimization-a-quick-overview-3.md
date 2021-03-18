@@ -22,10 +22,14 @@ $$
 \nabla f(x)=b+Qx=0 \\
 x=-Q^{-1}b
 $$
+이제 일반적인 함수 f 의 점 x^k에서의 이차 근사해보면,
+$$
+f
+$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUxODY0NzUsLTY4ODI1MTI5Niw5Nz
-EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
-XX0=
+eyJoaXN0b3J5IjpbOTEwMDIwMDcsLTY4ODI1MTI5Niw5NzEzOT
+MwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2XX0=
+
 -->
