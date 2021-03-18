@@ -10,8 +10,9 @@ I(u)=\begin{cases}
 $$
 위 식을 사용하여 아래 최적화 문제를 다시 써보죠.
 $$
-min\{f(x):g_i(x) \ge 0\}
+min\{f(x):g_i(x) \ge 0, 1 \le i \le m\} \\
+= min \ f(x) + \sum_{k=1}^N k^2
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NjYxOTE4LDI4NjU3NTc2OV19
+eyJoaXN0b3J5IjpbMTk2OTI2MTQ1MCwyODY1NzU3NjldfQ==
 -->
