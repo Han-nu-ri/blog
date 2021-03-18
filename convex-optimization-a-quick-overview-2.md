@@ -3,9 +3,11 @@
 
 > 선형 시스템 Ax = b의 해가 없는 경우, 대신 '오차'를 최소화하는 해를 구할 수 있다. 오차를 L2 norm으로 정의하면 다음의 최적화 문제가 된다.
 $$
-
+\min \lVert Ax-b \rVert_2
 $$
+
+Ax = b의 해가 없다는 것은 어떤 의미
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjQ0NTMyNSw3NDUwMzU0OTUsLTE4Mz
-gyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbLTExMDQ3MDY1MTEsNzQ1MDM1NDk1LC0xOD
+M4MjEwMzExXX0=
 -->
