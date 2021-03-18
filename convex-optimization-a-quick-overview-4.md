@@ -14,8 +14,9 @@ $$
 min\{f(x):g_i(x) \ge 0, 1 \le i \le m\} \\
 = min \ f(x) + \sum_{i=1}^m I(g_i(x))
 $$
-만약 제약식 g(x)가 0보다 작게 되면, 함수 I에 의해 무한대가 됩니다.
-제약식 있는 최적화 문제에서, barrier function은 점이렇게 
+만약 제약식 g(x)가 0보다 작게 되면, 함수 I에 의해 무한대가 됩니다. 쉽게 목적 함수와 제약식을 I를 통해 합칠 수 있는 것이 이해가 됩니다.
+이렇게 제약식 있는 최적화 문제에서, barrier function은 최적화 문제의 Feasible region의 경계로 갈수록 무한대로 증가하는 함수를 말합니다.
+
 I가 무한대로 가기 때문에 계산적으로 다루기 어려워, 대신 이를 근사한 다음 함수를 사용할 수 있습니다.
 $$
 I(u)=-({1 \over t})log(u), \ t \gt 0.
@@ -24,6 +25,6 @@ t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
 ![Iu](https://user-images.githubusercontent.com/11609881/111646763-45cb3b80-8845-11eb-8a03-35fb0b8e97c7.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjU3NDMzMywtMjI1OTcyODM0LC0xMD
+eyJoaXN0b3J5IjpbMTc1MTg3MzI5NywtMjI1OTcyODM0LC0xMD
 YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
