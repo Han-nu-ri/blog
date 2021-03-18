@@ -24,12 +24,16 @@ x=-Q^{-1}b
 $$
 이제 일반적인 함수 f 의 점 x^k에서의 이차 근사해보면,
 $$
-\tilde{f}(x)= f(x^k)+\nabla f(x^k)(x-x^k)+{1 \ over 2
+\tilde{f}(x)= f(x^k)+\nabla f(x^k)(x-x^k)+{1 \over 2}(x-x^k)\nabla^2f(x^k)(x-x^k)
+$$
+입니다.
+$$
+x-x^k=
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg0NTkyMzIsLTY4ODI1MTI5Niw5Nz
-EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
-XX0=
+eyJoaXN0b3J5IjpbNDY2MzcxMzc5LC02ODgyNTEyOTYsOTcxMz
+kzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAzLDk3Mzc2OTcwNl19
+
 -->
