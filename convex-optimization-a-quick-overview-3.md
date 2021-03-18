@@ -5,12 +5,12 @@
 ## First-order method: 일계 방법
 First-order method는 최적화 문제에서 목적 함수의 1차 미분(gradient)를 활용하여 최적해를 찾습니다. 그래서 First-order 이라는 이름이 붙였겠죠? 딥러닝에서 많이 활용되고 있는 gradient descent도, 손실 함수를 각 파라미터로 편미분한 gradient를 활용하여 손실 함수가 줄어드는 방향으로 파라미터를 업데이트하죠.  gradient descent가 바로 First-order method 입니다.
 $$
-x^t=x^{t-1}-lr^{t-1}{\partial f(x) \over \partial x}
+x^{k+1}=x^{k}-\sigma^{k}{\nabla f(x^k)}
 $$
 ## Second-order method: 이계 방법
 Second-order method는 최적화 문제에서 목적 함수의 2차 미분(gradient)를 활용하여 최적해를 찾습니다.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDEyNjk3Nyw5NzEzOTMwMTgsMzExMj
+eyJoaXN0b3J5IjpbLTY4ODI1MTI5Niw5NzEzOTMwMTgsMzExMj
 U5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2XX0=
 -->
