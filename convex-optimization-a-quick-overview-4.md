@@ -43,8 +43,11 @@ s.t. \ x_1+x_2 \ge1.
 $$
 
 위의 제약식 있는 최적화 문제 P는 아래와 같이 제약식 없는 최적화 문제로 변환할 수 있습니다.
+$$
+\min {x_1^2+x_2^2-{1 \over t}ln}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODg1NTI5OSwtMTk4ODgyMDg5NiwyMD
-E1NjA3NzAwLC0yMjU5NzI4MzQsLTEwNjIzODUyMTEsNjQ0ODIy
-MzU5LDI4NjU3NTc2OV19
+eyJoaXN0b3J5IjpbNzg1NTY1NzI3LC03Njg4NTUyOTksLTE5OD
+g4MjA4OTYsMjAxNTYwNzcwMCwtMjI1OTcyODM0LC0xMDYyMzg1
+MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
