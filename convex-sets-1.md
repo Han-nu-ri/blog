@@ -28,15 +28,17 @@ $$
 = \lambda_1 x_1 + \lambda_2 x_2 + \lambda_3 x_3
 = (\lambda_1 + \lambda_2){\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2} + \lambda_3 x_3
 $$
-입니다. 위 식 중 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}를 분석해보면, 두 벡터 간 볼록 조합임을 알 수 있습니다. 왼쪽 그림의 파란 점
+입니다. 위 식 중 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}를 분석해보면, x1과 x2 두 벡터 간 볼록 조합임을 알 수 있습니다. (왼쪽 그림)
 $$
 let \ {\lambda_2 \over \lambda_1 + \lambda_2} = \lambda_a\\
 then
 {\lambda_1 x_1 + \lambda_2 x_2 \over \lambda_1 + \lambda_2}
 =(1-\lambda_a)x_1+\lambda_ax_2, \ 0 \le \lambda_a \le 1
 $$
-
+마찬가지로 나머지 식은 두 벡터의 볼록 조합과 점 x3간 볼록 조합임을 알 수 있습니다. (오른쪽 그림)
+![image](https://user-images.githubusercontent.com/11609881/111662809-9c3f7680-8853-11eb-8e81-f2491b6a3edc.png)
+이를 유한 개의 벡터로 확장하면
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNTE2NDM1LDE3MDk5Mzk4NjcsLTgwND
-U2Mjg5NF19
+eyJoaXN0b3J5IjpbLTkzNTM3MDkxMywxNzA5OTM5ODY3LC04MD
+Q1NjI4OTRdfQ==
 -->
