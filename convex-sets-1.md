@@ -12,8 +12,13 @@ $$
 이면 볼록 조합이라고 합니다.
 ![image](https://user-images.githubusercontent.com/11609881/111660340-51bcfa80-8851-11eb-882b-ac8bc545f481.png)
 https://nrhan.tistory.com/entry/convex-optimization-a-quick-overview-1?category=1192042
-에서 볼록 집합에 대해서 설명해두었는데요. 볼록
+에서 볼록 집합에 대해서 설명해두었는데요. 볼록 조합으로 볼록 집합을 설명하면, 
+> 집합 S의 임의의 두 점에 대한 볼록 조합이 집합 S에 속하면 집합 S는 볼록 집합이다
+
+입니다.
+
+다시 볼록 조합으로 돌아와서, 볼록 조합을 세 개의 벡터로
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTIwMDc3NywxNzA5OTM5ODY3LC04MD
-Q1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzY1MjE5MjUsMTcwOTkzOTg2NywtOD
+A0NTYyODk0XX0=
 -->
