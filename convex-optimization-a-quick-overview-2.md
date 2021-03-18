@@ -41,18 +41,19 @@ $$
 $$
 H(f)=\nabla^2f(x)=A^T
 A$$
-위 헤시안이 PSD인지 살펴볼까요? PSD 정의에 의해 PSD라면 아랠
+위 헤시안이 PSD인지 살펴볼까요? PSD라면 아래를 만족해야 합니다.
 $$
 A^TA \ PSD \Longleftrightarrow z^TA^TAz \ge 0, \forall z \in R^n
 $$
-
+그런데 위 부등식의 좌편의 항은 Az의 two norm입니다.
 $$
 z^TA^TAz=\lVert Az \rVert_2^2 \ge 0
 $$
-
+따라서 헤시안은 PSD입니다.
+그러므로 이 목적 함수는 제약 조건 없는 볼록 함수
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDIwMDA1Myw3MTM5ODU0MTMsMTA3ND
-UzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgy
-MCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMT
-gzODIxMDMxMV19
+eyJoaXN0b3J5IjpbLTE3Nzg3MTExNDgsNzEzOTg1NDEzLDEwNz
+Q1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4
+MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLT
+E4MzgyMTAzMTFdfQ==
 -->
