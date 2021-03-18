@@ -28,12 +28,15 @@ $$
 $$
 입니다.
 $$
-x-x^k=
+\nabla f(x^k) = b^T, x-x^k=z, \nabla^2f(x^k)=Q
+$$
+라 하면,
 $$
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MzcxMzc5LC02ODgyNTEyOTYsOTcxMz
+eyJoaXN0b3J5IjpbNjA2NjQwNDU4LC02ODgyNTEyOTYsOTcxMz
 kzMDE4LDMxMTI1OTgzMywyMDEzNjA2OTAzLDk3Mzc2OTcwNl19
 
 -->
