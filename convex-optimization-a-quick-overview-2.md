@@ -74,14 +74,16 @@ $$
 그럼 f는 아래와 같습니다.
 $$
 f(x)=\begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \begin{bmatrix} A_1 & A_2 \end{bmatrix}
-\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}=\begin{bmatrix} x_1 A_1  \\ x_2 A_2\end{bmatrix}
+\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}
+=\begin{bmatrix} x_1 A_1+x_1 A_2 \\ x_2 A_1+x_2A_2\end{bmatrix}
+\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}
 $$
 $$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2OTEwNjEsLTY5NTExMTgyMSwtMT
-g3ODY3MDgyMiw3MTM5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5
-MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NC
-wtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbLTI0NDE2MDUzNSwtNjk1MTExODIxLC0xOD
+c4NjcwODIyLDcxMzk4NTQxMywxMDc0NTMzNDI4LDIwMjk4Mzky
+MjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC
+00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
 -->
