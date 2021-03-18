@@ -54,12 +54,16 @@ $$
 \partial f(x) \over \partial x_2
  \end{pmatrix}
 =\begin{pmatrix}
-2x_1-{1 \over t}ln(x_1+x_2-1) \\
-\partial f(x) \over \partial x_2
+2x_1-{1 \over t(x_1+x_2-1)} \\
+2x_2-{1 \over t(x_1+x_2-1)}
+ \end{pmatrix}
+ =\begin{pmatrix}
+0 \\
+0
  \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTgwMDQwMSwtNzY4ODU1Mjk5LC0xOT
-g4ODIwODk2LDIwMTU2MDc3MDAsLTIyNTk3MjgzNCwtMTA2MjM4
-NTIxMSw2NDQ4MjIzNTksMjg2NTc1NzY5XX0=
+eyJoaXN0b3J5IjpbLTE1OTI2OTAyODgsLTc2ODg1NTI5OSwtMT
+k4ODgyMDg5NiwyMDE1NjA3NzAwLC0yMjU5NzI4MzQsLTEwNjIz
+ODUyMTEsNjQ0ODIyMzU5LDI4NjU3NTc2OV19
 -->
