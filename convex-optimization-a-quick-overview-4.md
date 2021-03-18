@@ -33,9 +33,11 @@ $$
 $$
 \sum_{i=1}^2 I(g_i(x))={1 \over t}(-ln(g_1(x))-ln(g_2(x)))={1 \over t}(-ln(x)-ln(10-x))
 $$
+![Iu](https://user-images.githubusercontent.com/11609881/111649736-ffc3a700-8847-11eb-8c57-31581d29daf7.gif)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTYwNzcwMCwtMjI1OTcyODM0LC0xMD
-YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
+eyJoaXN0b3J5IjpbLTE5ODg4MjA4OTYsMjAxNTYwNzcwMCwtMj
+I1OTcyODM0LC0xMDYyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3
+NjldfQ==
 -->
