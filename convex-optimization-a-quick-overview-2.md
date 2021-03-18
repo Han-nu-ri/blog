@@ -12,7 +12,7 @@ H(f)= \begin{bmatrix}
 \end{bmatrix}
 $$
 ## Positive semidefinite (PSD)
-어떤 n X n 대칭행렬 M이 있을 때, 아래를 만족하면 PSD라고 한다.
+어떤 n X n 대칭행렬 M이 있을 때, 아래를 만족하면 PSD라고 합니다.
 $$
 M\ PSD\Longleftrightarrow z^TMz \ge 0, \forall z \in R^n
 $$
@@ -36,7 +36,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTgzNjI3OSwyMDI5ODM5MjI4LC0xOD
+eyJoaXN0b3J5IjpbMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xOD
 I5NjA0NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQw
 NjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
