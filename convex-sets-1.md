@@ -5,8 +5,12 @@
 $$
 x+\lambda (y-x)=(1-\lambda)x + \lambda y
 $$
-위 식을 x와 y의 평면 조합일
+위 식을 x와 y의 평면 조합이라고 합니다. 특히, x와 y 사이 선분의 점이 되도록 
+$$
+0 \le \lambda \le 1
+$$
+이면 볼록 조합이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDcxMDQ5NywxNzA5OTM5ODY3LC04MD
-Q1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMTY0OTI5ODYsMTcwOTkzOTg2NywtOD
+A0NTYyODk0XX0=
 -->
