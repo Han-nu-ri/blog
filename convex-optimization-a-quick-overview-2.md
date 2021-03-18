@@ -87,9 +87,16 @@ $$
 $$
 따라서 최적해 x*와, b를 Ax 공간에 투영한 행렬을 b*으로 두면
 $$
-x^*=(A^TA)^{-1}A^Tb, \b^*=Ax^*$$
+x^*=(A^TA)^{-1}A^Tb, \\
+b^*=Ax^*=A(A^TA)^{-1}A^Tb
+$$
+여기서 
+$$
+A(A^TA)^{-1}A^T
+$$
+를 열 공간 투영 행렬이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE5NTk0NDUsLTE5MTE5MDg3NTksLT
+eyJoaXN0b3J5IjpbLTE3MTQ3MDUyNDgsLTE5MTE5MDg3NTksLT
 E4NDM1NjM3MTUsLTYyNjcwMzY3NSwtNjk1MTExODIxLC0xODc4
 NjcwODIyLDcxMzk4NTQxMywxMDc0NTMzNDI4LDIwMjk4MzkyMj
 gsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00
