@@ -1,6 +1,6 @@
 # convex-optimization-a-quick-overview-2
 이전 게시물에 이어, 볼록최적화와 관련된 여러 주제들을 다루는 글 입니다. 서울대 홍성필 교수님 최적화 원론 강의를 정리했음을 밝힙니다.
-## 헤시안
+## 헤시안 (Hessian)
 
 ## PSD
 ## 응용
@@ -23,6 +23,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OT
-U1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNz
+Y3MDM4Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEw
+MzExXX0=
 -->
