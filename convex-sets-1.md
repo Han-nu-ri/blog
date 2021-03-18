@@ -44,7 +44,9 @@ $$
 v=\lambda_1 v_1 + \cdots + \lambda_k v_k\\
 \forall k \in N, \sum_{i=1}^k \lambda_i=1, \lambda_1 \ge 0, \lambda_2 \ge 0, ... , \lambda_k \ge 0
 $$
+
+ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTUwMTUxLDE3MDk5Mzk4NjcsLTgwND
-U2Mjg5NF19
+eyJoaXN0b3J5IjpbMTUyNzU2NDA4LC0zMDk1MDE1MSwxNzA5OT
+M5ODY3LC04MDQ1NjI4OTRdfQ==
 -->
