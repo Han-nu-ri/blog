@@ -12,9 +12,9 @@ H(f)= \begin{bmatrix}
 \end{bmatrix}
 $$
 ## Positive semidefinite (PSD)
-어떤 n X n 대칭행렬 M이 있을 때,
+어떤 n X n 대칭행렬 M이 있을 때, 아래를 만족하면 PSD라고 한다.
 $$
-M PSD\Longleftrightarrow
+M\ PSD\Longleftrightarrow z^TMz \ge 0, \forall z \in R^n
 $$
 ## 응용
 > 선형 시스템 Ax = b의 해가 없는 경우, 대신 '오차'를 최소화하는 해를 구할 수 있다. 오차를 아래와 같이 정의하면 다음의 최적화 문제가 된다.
@@ -36,7 +36,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI2MDUwOTUsMjAyOTgzOTIyOCwtMT
-gyOTYwNDY5MiwyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0
-MDYzNyw3NDUwMzU0OTUsLTE4MzgyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbMTg3OTgzNjI3OSwyMDI5ODM5MjI4LC0xOD
+I5NjA0NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQw
+NjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
