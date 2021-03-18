@@ -48,10 +48,13 @@ $$
 $$
 제약식 없는 최적화 문제이므로, 내부해가 최적해가 됩니다. 따라서 기울기 벡터를 0이 되게 하는 해가 최적해입니다.
 $$
-\nabla f(x)=
+\nabla f(x)=\begin{pmatrix}
+\partial f(x) \over \partial x_1 \\
+\partial f(x) \over \partial x_2
+ \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDQyMzY4MiwtNzY4ODU1Mjk5LC0xOT
-g4ODIwODk2LDIwMTU2MDc3MDAsLTIyNTk3MjgzNCwtMTA2MjM4
-NTIxMSw2NDQ4MjIzNTksMjg2NTc1NzY5XX0=
+eyJoaXN0b3J5IjpbNDkyMjM5NzQ1LC03Njg4NTUyOTksLTE5OD
+g4MjA4OTYsMjAxNTYwNzcwMCwtMjI1OTcyODM0LC0xMDYyMzg1
+MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
