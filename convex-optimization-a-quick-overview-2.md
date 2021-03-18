@@ -15,9 +15,9 @@ $$
 $$
 으로 변경하죠.
 $$
-\lVert Ax-b \rVert_2^2 = (Ax-b)^T(Ax-b)=x^TA^TAx-x^TA^Tb-b^TAx+b^Tb
+\lVert Ax-b \rVert_2^2 = (Ax-b)^T(Ax-b)=x^TA^TAx-x^TA^Tb-b^TAx+b^Tb=x^TA^TAx-2b^TAx+b^T
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTk1OTEzMSwtMTc2NzAzODI4NCwtND
+eyJoaXN0b3J5IjpbMTY3MjEzNDk1NSwtMTc2NzAzODI4NCwtND
 k1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
