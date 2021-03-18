@@ -19,6 +19,8 @@ $$
 I(u)=-({1 \over t})log(u), \ t \gt 0.
 $$
 t는 조정 파라미터로 클수록 정확한 근사가 됩니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0ODIyMzU5LDI4NjU3NTc2OV19
+eyJoaXN0b3J5IjpbLTEwNjIzODUyMTEsNjQ0ODIyMzU5LDI4Nj
+U3NTc2OV19
 -->
