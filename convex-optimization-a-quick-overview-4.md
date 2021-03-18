@@ -37,10 +37,13 @@ $$
 
 > t > 0를 조정 파라미터로 하는 로그 장벽을 사용하여, 아래 문제 P를 제약식 없는 최적화 문제 (BP)로 변환하고, t가 무한히 커질 때 (BP)의 최적해가 P의 최적해로 수렴함을 보여라.
 $$
-(P) \min x
+\min {x_1^2+x_2^2} \\
+s.t. \ x_1+x_2 \ge1.
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODIyMzU0MiwtMTk4ODgyMDg5NiwyMD
+eyJoaXN0b3J5IjpbMjExNTA2ODY1MSwtMTk4ODgyMDg5NiwyMD
 E1NjA3NzAwLC0yMjU5NzI4MzQsLTEwNjIzODUyMTEsNjQ0ODIy
 MzU5LDI4NjU3NTc2OV19
 -->
