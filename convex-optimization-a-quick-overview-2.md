@@ -6,8 +6,8 @@ $$
 \min \lVert Ax-b \rVert_2
 $$
 
-Ax = b의 해가 없다는 것은 Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 그럼 위 최적화 문제의 최소해는 무엇일까요? 쉽게 생각해서 b로부터 Ax의 공간에 projection한 점을 b*이라 두면, b*은 Ax 위의 공간이자 b와
+Ax = b의 해가 없다는 것은 Ax로 펼쳐지는 공간에 b가 존재하지 않는다는 뜻 입니다. 그럼 위 최적화 문제의 최소해는 무엇일까요? 쉽게 생각해서 b로부터 Ax의 공간에 projection한 점을 b*이라 두면, b*은 Ax 위의 공간이자 b와의 거리가 최소화되는 점 입니다. 따라서 최적해 x*은 b*을 A1, A2, ... , An으로 표현할 때의 계수가 됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzMyMzU3NCw3NDUwMzU0OTUsLTE4Mz
+eyJoaXN0b3J5IjpbLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLTE4Mz
 gyMTAzMTFdfQ==
 -->
