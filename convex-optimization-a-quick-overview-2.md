@@ -87,9 +87,27 @@ $$
 $$
 \nabla f(x)=2A^TA
 $$
+
+
+기울기 벡터를 구하기 위해 A와 x, b를 아래와 같이 둬보죠.
+$$
+A= \begin{bmatrix}
+A_1 \\
+A_2 
+\end{bmatrix},
+x= \begin{bmatrix}
+x_1 &
+x_2
+\end{bmatrix},
+b= \begin{bmatrix}
+b_1 \\
+b_2
+\end{bmatrix}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjcwMzY3NSwtNjk1MTExODIxLC0xOD
-c4NjcwODIyLDcxMzk4NTQxMywxMDc0NTMzNDI4LDIwMjk4Mzky
-MjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC
-00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbNDE3OTMyMzg5LC02MjY3MDM2NzUsLTY5NT
+ExMTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0MTMsMTA3NDUzMzQy
+OCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgyMCwtMT
+c2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMTgzODIx
+MDMxMV19
 -->
