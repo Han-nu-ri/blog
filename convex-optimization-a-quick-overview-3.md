@@ -11,7 +11,7 @@ $$
 Second-order method는 뉴튼 방식이라고도 불립니다. 목적 함수를 이차 근사 한 후에, 이차 근사 함수를 최소로 하는 점인 기울기 벡터가 0인 점을 향하도록 움직입니다.
 이차 근사에 대한 기울기 벡터를 구하기 쉽게 구하기 위해, 다음 이차 함수를 생각해보죠.
 $$
-f(x)=c+b^Tx+{1 \over 2} x^TQx
+f(x)=c+bx+{1 \over 2} x^TQx
 $$
 위 이차 함수의 기울기 벡터를 구하면
 $$
@@ -28,17 +28,17 @@ $$
 $$
 입니다.
 $$
-\nabla f(x^k) = b^T, x-x^k=z, \nabla^2f(x^k)=Q
+\nabla f(x^k) = b, x-x^k=z, \nabla^2f(x^k)=Q
 $$
 라 하면,
 $$
-\tilde{f}(x)=f(x^k)+b^Tz+{1 \over 2}z^TQz \\
-\nabla{f}(x)=b+Qz
+\tilde{f}(x)=f(x^k)+bz+{1 \over 2}z^TQz \\
+\nabla{f}(x)=b+Qz=\nabla f(x^k)+\nabla^2f(xk)
 $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE0ODY1MiwtMTY1ODQwNDc2MiwtNj
+eyJoaXN0b3J5IjpbMTA2NTIxMDU3NCwtMTY1ODQwNDc2MiwtNj
 g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
 Myw5NzM3Njk3MDZdfQ==
 -->
