@@ -59,28 +59,29 @@ $$
 기울기 벡터를 구하기 위해 A와 x, b를 아래와 같이 둬보죠.
 $$
 A= \begin{bmatrix}
-A_1 & A_2 
+A_1 \\
+A_2 
 \end{bmatrix},
 x= \begin{bmatrix}
-x_1 \\
-x_2 \\
+x_1 &
+x_2
 \end{bmatrix},
 b= \begin{bmatrix}
 b_1 \\
-b_2 \\
+b_2
 \end{bmatrix}
 $$
 그럼 f는 아래와 같습니다.
 $$
-f(x)=\begin{bmatrix} x_1 & x_2 \end{bmatrix}\begin{bmatrix} A_1 \\ A_2 \end{bmatrix}
-\begin{bmatrix} A_1 & A_2 \end{bmatrix}
+f(x)=\begin{bmatrix} x_1 \\ x_2 \end{bmatrix}\begin{bmatrix} A_1 & A_2 \end{bmatrix}
+\begin{bmatrix} A_1 \\ A_2 \end{bmatrix}
 $$
 $$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjI2NTU1NSwtMTg3ODY3MDgyMiw3MT
-M5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0
-NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LD
-c0NTAzNTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbLTE5NjQwMTM0MDEsLTE4Nzg2NzA4MjIsNz
+EzOTg1NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYw
+NDY5MiwyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNy
+w3NDUwMzU0OTUsLTE4MzgyMTAzMTFdfQ==
 -->
