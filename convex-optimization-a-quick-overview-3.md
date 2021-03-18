@@ -17,10 +17,15 @@ $$
 $$
 \nabla f(x)=b+Qx
 $$
-가 됩니다.
+가 됩니다. 만약 f(x)가 제약 없는 볼록 함수라면, 안장점이 최소점이 되겠죠.
+$$
+\nabla f(x)=b+Qx=0 \\
+x=-Q^{-1}b
+$$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg0MTA5NTAsLTY4ODI1MTI5Niw5Nz
+eyJoaXN0b3J5IjpbLTEyOTUxODY0NzUsLTY4ODI1MTI5Niw5Nz
 EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
 XX0=
 -->
