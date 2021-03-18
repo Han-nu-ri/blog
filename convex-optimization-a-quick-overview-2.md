@@ -62,16 +62,18 @@ $$
 $$
 A= \begin{bmatrix} A_1 & A_2  \end{bmatrix},
 x= \begin{bmatrix} x_1 \\ x_2 \end{bmatrix},
-b= \begin{bmatrix} b_1 & b_2 \end{bmatrix}
+b= \begin{bmatrix} b \end{bmatrix}
 $$
 그럼 f는 아래와 같습니다.
 $$
-f(x)=
+f(x)=(Ax-b)^T(Ax-b)=
+\begin{bmatrix} A_1 & A_2  \end{bmatrix}
+\begin{bmatrix} A_1x_1 + A_2x_2  \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1OTQ1Njc2LC0xODQzNTYzNzE1LC02Mj
-Y3MDM2NzUsLTY5NTExMTgyMSwtMTg3ODY3MDgyMiw3MTM5ODU0
-MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLD
-I1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAz
-NTQ5NSwtMTgzODIxMDMxMV19
+eyJoaXN0b3J5IjpbLTE0Nzg3MDcxOCwtMTg0MzU2MzcxNSwtNj
+I2NzAzNjc1LC02OTUxMTE4MjEsLTE4Nzg2NzA4MjIsNzEzOTg1
+NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5Mi
+wyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUw
+MzU0OTUsLTE4MzgyMTAzMTFdfQ==
 -->
