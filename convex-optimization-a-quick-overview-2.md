@@ -41,14 +41,18 @@ $$
 $$
 H(f)=\nabla^2f(x)=A^T
 A$$
-위 헤시안이 PSD인지 살펴볼까요? PSD 정의에 의해,
+위 헤시안이 PSD인지 살펴볼까요? PSD 정의에 의해 PSD라면 아랠
 $$
 A^TA \ PSD \Longleftrightarrow z^TA^TAz \ge 0, \forall z \in R^n
 $$
 
+$$
+z^TA^TAz=\lVert Az \rVert_2^2 \ge 0
+$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4NjI4NjMsNzEzOTg1NDEzLDEwNz
-Q1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYwNDY5MiwyNTcxNzg4
-MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNyw3NDUwMzU0OTUsLT
-E4MzgyMTAzMTFdfQ==
+eyJoaXN0b3J5IjpbMTc5NDIwMDA1Myw3MTM5ODU0MTMsMTA3ND
+UzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0NjkyLDI1NzE3ODgy
+MCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LDc0NTAzNTQ5NSwtMT
+gzODIxMDMxMV19
 -->
