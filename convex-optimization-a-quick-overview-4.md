@@ -62,12 +62,17 @@ $$
 0
  \end{pmatrix}
  \\
+ 2x_1={1 \over t(x_1+x_2-1)}
+ 2x_1
+ \\
+ x^*(t)=
  \begin{pmatrix}
+ \\
  \end{pmatrix}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTE5ODc3MCwtNzY4ODU1Mjk5LC0xOT
+eyJoaXN0b3J5IjpbLTY3NDIxNjM4OSwtNzY4ODU1Mjk5LC0xOT
 g4ODIwODk2LDIwMTU2MDc3MDAsLTIyNTk3MjgzNCwtMTA2MjM4
 NTIxMSw2NDQ4MjIzNTksMjg2NTc1NzY5XX0=
 -->
