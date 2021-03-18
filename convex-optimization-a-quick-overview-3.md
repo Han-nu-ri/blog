@@ -40,10 +40,11 @@ $$
 \nabla {\tilde{f}(x)}=\nabla f(x^k)+\nabla^2f(x^k)({x-x^k})=0 \\
 x=x^k-(\nabla^2f(x^k))^{-1}\nabla f(x^k)
 $$
-함수 f가 이차 근사식이 아니라, 일반적인 이차 식이라면 바로 x를 우
+함수 f가 이차 근사식이 아니라, 일반적인 이차 식이라면 바로 x를 위의 식으로 구하면 되겠죠. 이차 함수의 미분 값이 0인 지점이 최적해인 것처럼요. 
+그런데 우리의 함수 f를 이차 근사
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzM1NDYzNywtMTY1ODQwNDc2MiwtNj
+eyJoaXN0b3J5IjpbLTM0MDEwODY1MCwtMTY1ODQwNDc2MiwtNj
 g4MjUxMjk2LDk3MTM5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkw
 Myw5NzM3Njk3MDZdfQ==
 -->
