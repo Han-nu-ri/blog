@@ -73,14 +73,14 @@ b_2
 $$
 그럼 f는 아래와 같습니다.
 $$
-f(x)=\begin{bmatrix} x_1 \\ x_2 \end{bmatrix}\begin{bmatrix} A_1 & A_2 \end{bmatrix}
-\begin{bmatrix} A_1 \\ A_2 \end{bmatrix}
+f(x)=\begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \begin{bmatrix} A_1 & A_2 \end{bmatrix}
+\begin{bmatrix} A_1 \\ A_2 \end{bmatrix} \begin{bmatrix} x_1 & x_2 \end{bmatrix}=\begin{bmatrix} x_1 A_1  \\ x_2 A_2\end{bmatrix}
 $$
 $$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQwMTM0MDEsLTE4Nzg2NzA4MjIsNz
+eyJoaXN0b3J5IjpbLTE5Mzc2OTEwNjEsLTE4Nzg2NzA4MjIsNz
 EzOTg1NDEzLDEwNzQ1MzM0MjgsMjAyOTgzOTIyOCwtMTgyOTYw
 NDY5MiwyNTcxNzg4MjAsLTE3NjcwMzgyODQsLTQ5NTU0MDYzNy
 w3NDUwMzU0OTUsLTE4MzgyMTAzMTFdfQ==
