@@ -15,11 +15,12 @@ f(x)=c+b^Tx+{1 \over 2} x^TQx
 $$
 위 이차 함수의 기울기 벡터를 구하면
 $$
-\nabla f(x)
+\nabla f(x)=b+Qx
 $$
+가 됩니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzE2MjkzNCwtNjg4MjUxMjk2LDk3MT
-M5MzAxOCwzMTEyNTk4MzMsMjAxMzYwNjkwMyw5NzM3Njk3MDZd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNjg0MTA5NTAsLTY4ODI1MTI5Niw5Nz
+EzOTMwMTgsMzExMjU5ODMzLDIwMTM2MDY5MDMsOTczNzY5NzA2
+XX0=
 -->
