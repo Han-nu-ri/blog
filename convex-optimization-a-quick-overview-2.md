@@ -34,10 +34,11 @@ $$
 $$
 \lVert Ax-b \rVert_2^2 = (Ax-b)^T(Ax-b)=x^TA^TAx-x^TA^Tb-b^TAx+b^Tb=x^TA^TAx-2b^TAx+b^Tb
 $$
-어떻게 볼록 함수인지 확인할 수 있을까요?
-
+어떻게 볼록 함수인지 확인할 수 있을까요? 여러 방법이 있겠지만, 다음 성질을 사용해보죠.
+> 이차 미분 가능 함수가 볼록일 필요 충분 조건은 헤시안이 모든 x에 대해서 PSD인 것이다.
+H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODE3NTExMCwxMDc0NTMzNDI4LDIwMj
+eyJoaXN0b3J5IjpbMTI2MjA2OTMwOSwxMDc0NTMzNDI4LDIwMj
 k4MzkyMjgsLTE4Mjk2MDQ2OTIsMjU3MTc4ODIwLC0xNzY3MDM4
 Mjg0LC00OTU1NDA2MzcsNzQ1MDM1NDk1LC0xODM4MjEwMzExXX
 0=
