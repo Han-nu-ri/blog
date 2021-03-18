@@ -54,11 +54,20 @@ $$
 
 내부해는 기울기 벡터가 0인 해이므로,  기울기 벡터를 0 벡터로 만드는 x가 최적해가 됩니다.
 $$
+f(x)=x^TA^TAx-2b^TAx+b^Tb
+$$
+기울기 벡터를 구하기 위해 A와 x, b를 아래와 같이 둬보죠.
+$$
+A= \begin{bmatrix}
+[[
+\end{bmatrix}
+$$
+$$
 \nabla f(x)=2A^TA
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5Njk4NTUxLC0xODc4NjcwODIyLDcxMz
-k4NTQxMywxMDc0NTMzNDI4LDIwMjk4MzkyMjgsLTE4Mjk2MDQ2
-OTIsMjU3MTc4ODIwLC0xNzY3MDM4Mjg0LC00OTU1NDA2MzcsNz
-Q1MDM1NDk1LC0xODM4MjEwMzExXX0=
+eyJoaXN0b3J5IjpbMjAwMDM4NzkyOSwtMTg3ODY3MDgyMiw3MT
+M5ODU0MTMsMTA3NDUzMzQyOCwyMDI5ODM5MjI4LC0xODI5NjA0
+NjkyLDI1NzE3ODgyMCwtMTc2NzAzODI4NCwtNDk1NTQwNjM3LD
+c0NTAzNTQ5NSwtMTgzODIxMDMxMV19
 -->
