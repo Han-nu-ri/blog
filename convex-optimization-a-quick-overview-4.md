@@ -33,9 +33,9 @@ $$
 $$
 \sum_{i=1}^2 I(g_i(x))={1 \over t}(-ln(g_1(x))-ln(g_2(x)))={1 \over t}(-ln(x)-ln(10-x))
 $$
-위 식
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDkzNDQ1LC0yMjU5NzI4MzQsLTEwNj
-IzODUyMTEsNjQ0ODIyMzU5LDI4NjU3NTc2OV19
+eyJoaXN0b3J5IjpbMjAxNTYwNzcwMCwtMjI1OTcyODM0LC0xMD
+YyMzg1MjExLDY0NDgyMjM1OSwyODY1NzU3NjldfQ==
 -->
