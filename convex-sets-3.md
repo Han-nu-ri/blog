@@ -14,10 +14,10 @@ w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지
 2. 덧셈에 대하여 닫혀 있어야 한다.
 $$
 \forall u, v \in L, \forall \alpha \in R, \\
-u+\alpha v \in L\\
-L-w=(u-w)
+u+\alpha v \in L \\
+(u-w)+\alpha (v-w) \in L -w\\
 $$
 4. 실수 곱에 대하여 닫혀 있어야 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxNTY0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTc3ODIwMzRdfQ==
 -->
