@@ -53,8 +53,10 @@ $$
 > 집합 S의 모든 볼록 조합의 집합 T는 집합 S의 볼록 덮개(conv.S)와 같다.
 
 집합 S의 볼록 덮개는 가장 작아야 하므로, 볼록 덮개의 테두리에는 집합 S의 원소 중 일부가 있습니다. 만약 볼록 덮개 위에서 선형으로 움직이는 선형 함수가 있다고 생각해보죠.
+![image](https://user-images.githubusercontent.com/11609881/111722282-e866d700-88a4-11eb-85ad-97845fe482a1.png)
+점선의 값이 최대, 최소가 되는 지점에는 항상 S의 원소가 반드시 존재함을 직관적으로 이해할 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODYyNTg3LC03MzQ1MDA2MDgsMTgyND
-A0NTI3NSwxODI0OTMwODg2LC0zMDk1MDE1MSwxNzA5OTM5ODY3
-LC04MDQ1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTM3Mzk5MzAzNSwyMDI4NjI1ODcsLTczND
+UwMDYwOCwxODI0MDQ1Mjc1LDE4MjQ5MzA4ODYsLTMwOTUwMTUx
+LDE3MDk5Mzk4NjcsLTgwNDU2Mjg5NF19
 -->
