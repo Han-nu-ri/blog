@@ -50,7 +50,10 @@ $$
 볼록 덮개(볼록 껍질, convex hull)는 집합으로 주어진 점이나 영역을 포함하는 가장 작은 볼록 집합입니다. 아래 이미지는 v1부터 v10까지의 점들을 포함하는 가장 작은 볼록 집합인 볼록 덮개의 예 입니다. 가장 작아야 하므로, 볼록 덮개의 테두리에는 주어진 점들의 일부가 있음을 알 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111721013-6d9cbc80-88a2-11eb-8a2a-00e32cfeb17d.png)
 주어진 점들이 있으면 어떻게 볼록 덮개를 알 수 있을까요? 볼록 조합을 활용하면 됩니다. 위 열개의 벡터들의 볼록 조합을 구해보면, 쉽게 볼록 덮개임을 이해할 수 있습니다.
+> 집합 S의 모든 볼록 조합의 집합 T는 집합 S의 볼록 덮개(conv.S)와 같다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgxMDk0ODEsMTgyNDkzMDg4NiwtMz
-A5NTAxNTEsMTcwOTkzOTg2NywtODA0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbMTgyNDA0NTI3NSwxODI0OTMwODg2LC0zMD
+k1MDE1MSwxNzA5OTM5ODY3LC04MDQ1NjI4OTRdfQ==
 -->
