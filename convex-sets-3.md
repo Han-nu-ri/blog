@@ -39,12 +39,12 @@ $$
 A(x-w)=0
 $$
 가 됩니다.
-Aw를 b로 두면,
+Aw를 b로 두면
 $$
 Ax=b
 $$
-가 됩니다.
+가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc5MzU1NTAsMjA2MjcwOTE5MywtOT
+eyJoaXN0b3J5IjpbLTExODMxNzA5NzksMjA2MjcwOTE5MywtOT
 gzODc1OTI3LDEwNzE5NTgyNThdfQ==
 -->
