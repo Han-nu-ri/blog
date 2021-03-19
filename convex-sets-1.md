@@ -47,8 +47,9 @@ $$
 
 ## 볼록 덮개
 볼록 덮개는 볼록 껍질으로도 불리며, 영어로는 convex hull이라고 합니다. 여기서 hull은 맨틀과 같은 cover과 같은 뜻 입니다. 무엇을 덮고 있을까요?
-볼록 덮개(볼록 껍질, convex hull)는 집합으로 주어진 점이나 영역을 포함하는 가장 작은 볼록 집합입니다. 아래 v
+볼록 덮개(볼록 껍질, convex hull)는 집합으로 주어진 점이나 영역을 포함하는 가장 작은 볼록 집합입니다. 아래 이미지는 v1부터 v10까지의 점들을 포함하는 가장 작은 볼록 집합인 볼록 덮개의 예 입니다.
+![image](https://user-images.githubusercontent.com/11609881/111721013-6d9cbc80-88a2-11eb-8a2a-00e32cfeb17d.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTM0ODM0MywxODI0OTMwODg2LC0zMD
-k1MDE1MSwxNzA5OTM5ODY3LC04MDQ1NjI4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzAzMDIyMzYsMTgyNDkzMDg4NiwtMz
+A5NTAxNTEsMTcwOTkzOTg2NywtODA0NTYyODk0XX0=
 -->
