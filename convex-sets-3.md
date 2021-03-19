@@ -39,13 +39,13 @@ $$
 $$
 v_1=(1,0), v_2=(0,1), v_3=(1, 1)
 $$
-바로 v1과 v2입니다. v1과 v2에 임의의 스칼라를 곱하고, 둘을 더하면 이차원 평면을 모두 표현할 수 있습니다.
+바로 v1과 v2입니다. v1과 v2에 임의의 스칼라를 곱하고, 둘을 더하면 이차원 평면을 모두 표현할 수 있습니다. 이들을 기저라고 합니다.
 $$
 av_1+bv_2, a, b\in R
 $$
 v2와 v3는 어떨까요? (1, 0)을 v2와 v3으로 나타낼 수 있나요?
 $$
-av_2+bv_3=\begin {pmatrix}?
+av_2+bv_3=(1, 0)?
 $$
 
 ## 빈공간(영공간, null space)
@@ -67,7 +67,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NzE2OTg1LC03Mjk3Mzk4ODMsNTE2Nz
-UzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThd
-fQ==
+eyJoaXN0b3J5IjpbLTc2ODM5NDcyMiwtNzI5NzM5ODgzLDUxNj
+c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
+XX0=
 -->
