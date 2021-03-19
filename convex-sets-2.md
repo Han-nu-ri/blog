@@ -43,10 +43,11 @@ $$
 
 세 개의 벡터 간 평면 조합은 아래와 같이 표현할 수 있습니다.
 $$
-\begin{pmatrix} x \\ z \end{pmatrix}
+\begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
+= \beging {pmatrix} \end {pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU3MDMxMDQsMjU1NzQzNzg2LC0yMD
+eyJoaXN0b3J5IjpbLTE2NTcxMDI3NTMsMjU1NzQzNzg2LC0yMD
 AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
 NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
 wyMDQzMzgwMjQyXX0=
