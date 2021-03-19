@@ -10,10 +10,10 @@ $$
 
 > R^n의 부분 공간은 평면 집합이다. 역은 성립하지 않는다.
 
-R^n의 부분 공간의 예입
+R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차원을 떠올려보면, 원점을 지나는 부분 공간은 2차원의 무한히 펼쳐진 평면입니다. 따라서 이 평면 위의 평면 조합은 
 부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 자세히 있으니 참고하시면 좋을 것 같습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc4NDA2MDAsLTQ4NjUzOTc4OCwtMT
-c4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbMjA2OTMwNjQ3MiwtNDg2NTM5Nzg4LC0xNz
+gxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4MDI0Ml19
 -->
