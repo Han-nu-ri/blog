@@ -1,5 +1,5 @@
-# convex-sets-3: 평면 조합의 성질
-이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면 조합의 성질에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
+# convex-sets-3: 평면 집합의 성질, 기저, 빈공간
+이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면 집합의 성질에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
 
 ## 평면 집합 L을 임의의 자신의 원소 w로 평형 이동한 집합은 부분 공간이다.
 
@@ -69,7 +69,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTU4NTc4OCwtNzI5NzM5ODgzLDUxNj
-c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
-XX0=
+eyJoaXN0b3J5IjpbMjc0NDczMDQzLC03Mjk3Mzk4ODMsNTE2Nz
+UzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThd
+fQ==
 -->
