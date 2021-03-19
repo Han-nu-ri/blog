@@ -8,6 +8,7 @@ $$
 L-w \equiv \{v-w : v\in L\}
 $$
 부분 공간은 원점을 지나야 하고, 덧셈과 실수 곱에 대하여 닫혀 있어야 합니다. w는 L의 원소이므로, L-w는 원점을 지납니다. 또한 L이 평면 집합이므로, L은 덧셈과 실수 곱에 대하여 닫혀 있습니다. L-w는 단순히 L을 평행 이동한 것이므로, L-w도 덧셈과 실수 곱에 대하여 닫혀 있음을 쉽게 알 수 있습니다.
+![image](https://user-images.githubusercontent.com/11609881/111738805-5622fb00-88c5-11eb-89cc-15639cc6b46a.png)
 구체적으로 집합 L-w이 부분 공간인지 볼까요?
 1. 원점을 지나야 한다.
 w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지남을 알 수 있습니다.
@@ -26,6 +27,8 @@ y=(u-w)+\alpha(v-w) \\
 = (u+\alpha v-\alpha w)-w
 $$
 따라서 y는 L-w에 속합니다.
+
+위의 성지릉
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4NzE1ODczLDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbMTc1NzU1MTk1MSwxMDcxOTU4MjU4XX0=
 -->
