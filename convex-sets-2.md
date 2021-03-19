@@ -43,10 +43,12 @@ $$
 
 z가 볼록 덮개의 어디에 위치해 있는지 모르겠지만, 아래와 같이 표현할 수 있습니다.
 $$
-z = 
+z
+= \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix},
+\lambda_a + \lambda_2 = 1.
 $$
-
-세 개의 벡터 간 평면 조합은 아래와 같이 표현할 수 있습니다.
+(1, 0, 0)은 (-3, 1, 12)와 z의 평면 조합이므로,
 $$
 \begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
 = \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
@@ -54,8 +56,9 @@ $$
 +\lambda_3 \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix},
 \lambda_1 + \lambda_2 + \lambda_3 = 1.
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAzNTQwMzgsMjU1NzQzNzg2LC0yMD
+eyJoaXN0b3J5IjpbLTIwMDkwNzMyNDIsMjU1NzQzNzg2LC0yMD
 AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
 NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
 wyMDQzMzgwMjQyXX0=
