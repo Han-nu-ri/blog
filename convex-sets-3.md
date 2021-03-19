@@ -110,9 +110,12 @@ $$
 
 빈공간의 정의에 따라, 
 $$
-Ax=0 \\
+Ax=0. \\
 \begin{pmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{pmatrix}
-\begin{pmatrix} x_1 \\ x_2 \\ x_ \end{pmatrix}
+\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix}
+= \begin{pmatrix} 0 \\ 0 \end{pmatrix}. \\
+x_1+x_2+x_3=0 \\
+-x_2+2x_3=0
 $$
 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
@@ -127,10 +130,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NTQ0OTE3LC0xOTgxNzMyMjgwLC03Nz
-YyNjU0MDYsMTY2NDQxMjQxMiwtMTQ3NTY2MTQ0MiwtMTA5NDAz
-ODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4NywxOTI2Njk0MzQ4LD
-c3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQwNzI3NTIyLC0xODAx
-NTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOTg4Myw1MTY3NTM1My
-wyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1OF19
+eyJoaXN0b3J5IjpbLTczNDIyNjkyMSwtMTk4MTczMjI4MCwtNz
+c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
+Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
+w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
+MTUwNjc4NSwtMTExOTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNT
+MsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
+
 -->
