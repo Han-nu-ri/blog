@@ -91,10 +91,11 @@ $$
 Ax= \begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
 {-1 \over 2} & -1 & 0 & 1  \\
 \end{pmatrix}
-\begin{pmatrix} 2 & \\ 2 \\1 \\ 2
+\begin{pmatrix} 2 & -2 \\ 1 & 1 \\ 0 & 1 \\ 2 & 0
 \end{pmatrix}
-= \begin{pmatrix} 0 \\ 0 \end{pmatrix}
+= \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}
 $$
+
 ## 행렬 A의 빈공간 구하기
 > 다음 행렬의 빈공간을 구하라
 $$
@@ -113,10 +114,10 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkyODQzODYsLTc3NjI2NTQwNiwxNj
-Y0NDEyNDEyLC0xNDc1NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3
-MjQxMjEsNDYyMjI0Mzg3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC
-01ODMzMDY4MjksLTE1NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTEx
-MTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOT
-MsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbMTQ0MjAxMjM4OSwtNzc2MjY1NDA2LDE2Nj
+Q0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQwMzg4MjIsMTE0Mjcy
+NDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OCw3NzE0NzQ3NzksLT
+U4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgwMTUwNjc4NSwtMTEx
+OTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5My
+wtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
 -->
