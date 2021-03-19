@@ -1,13 +1,13 @@
-# convex-sets-3: 평면 집합의 성질, 기저, 빈공간, 가우스-조던 소거법
-이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면 집합의 성질, 기저, 빈공간, 가우스-조던 소거법에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
+# convex-sets-3: 평면집합의 성질, 기저, 빈공간, 가우스-조던 소거법
+이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면집합의 성질, 기저, 빈공간, 가우스-조던 소거법에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
 
-## 평면 집합 L을 임의의 자신의 원소 w로 평형 이동한 집합은 부분 공간이다.
+## 평면집합 L을 임의의 자신의 원소 w로 평행행이동한 집합은 부분 공간이다.
 
 평면 집합 L을 임의의 자신의 원소 w만큼 평행이동한 집합은 아래와 같습니다.
 $$
 L-w \equiv \{v-w : v\in L\}
 $$
-부분 공간은 원점을 지나야 하고, 덧셈과 실수 곱에 대하여 닫혀 있어야 합니다. w는 L의 원소이므로, L-w는 원점을 지납니다. 또한 L이 평면 집합이므로, L은 덧셈과 실수 곱에 대하여 닫혀 있습니다. L-w는 단순히 L을 평행 이동한 것이므로, L-w도 덧셈과 실수 곱에 대하여 닫혀 있음을 쉽게 알 수 있습니다.
+부분 공간은 원점을 지나야 하고, 덧셈과 실수 곱에 대하여 닫혀 있어야 합니다. w는 L의 원소이므로, L-w는 원점을 지납니다. 또한 L이 평면 집합이므로, L은 덧셈과 실수 곱에 대하여 닫혀 있습니다. L-w는 단순히 L을 평행이동한 것이므로, L-w도 덧셈과 실수 곱에 대하여 닫혀 있음을 쉽게 알 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111738805-5622fb00-88c5-11eb-89cc-15639cc6b46a.png)
 구체적으로 집합 L-w이 부분 공간인지 볼까요?
 1. 원점을 지나야 한다.
@@ -29,7 +29,7 @@ $$
 따라서 y는 L-w에 속합니다.
 
 위의 성질을 역으로 하면,
-> 부분 공간 S를 임의의 벡터 w로 평행 이동한 집합 S + w는 평면 집합이다.
+> 부분 공간 S를 임의의 벡터 w로 평행이동한 집합 S + w는 평면 집합이다.
 
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
 ## 기저(basis)
@@ -71,7 +71,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5ODIwMDgwLC03Mjk3Mzk4ODMsNTE2Nz
-UzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThd
-fQ==
+eyJoaXN0b3J5IjpbLTExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNj
+c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
+XX0=
 -->
