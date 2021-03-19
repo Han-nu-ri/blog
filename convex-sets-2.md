@@ -21,14 +21,15 @@ R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차
 
 부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 잘 설명 되어 있으니 참고하시면 좋을 것 같습니다.
 
-볼록 조합에서 유한 개의 벡터들로 확장한 것처럼, 평면 조합도 유한 개의 벡터들로 다음과 같이 확장할 수 있습니다.
+볼록 조합에서 유한 개의 벡터들로 확장한 것처럼, 평면 조합도 유한 개의 벡터들로 다음과 같이 확장할 수 있습니다. 다른 점은 \lambda에 대한 비음 조건이 없다는 것 입니다.
 $$
 \lambda_1 v_1+\cdots+\lambda_k v_k, \lambda_1+\cdots+\lambda_k=1
 $$
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIwNDE1OTksMjA2OTMwNjQ3MiwtND
-g2NTM5Nzg4LC0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4
-MDI0Ml19
+eyJoaXN0b3J5IjpbLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00OD
+Y1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgw
+MjQyXX0=
 -->
