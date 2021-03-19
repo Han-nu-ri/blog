@@ -68,7 +68,11 @@ $$
 \begin{pmatrix} 2 & 1 & 0 & 2 \\ -2 & 1 & 1 & 0 \end{pmatrix}
 = \begin{pmatrix} 1 & 0 & {-1 \over 4} & {1 \over 2} \\ 0 & 1 & {1 \over 2} & 1 \end{pmatrix}
 $$
-3. 소거되지 않은 행렬에 음수를 붙인 다음
+3. 소거되지 않은 행렬(빨간색 박스)에 음수를 붙인 다음
+![image](https://user-images.githubusercontent.com/11609881/111750968-3f859f80-88d7-11eb-8104-42815c3f1176.png)
+$$
+
+$$
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -81,8 +85,8 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjY5NDM0OCw3NzE0NzQ3NzksLTU4Mz
-MwNjgyOSwtMTU0MDcyNzUyMiwtMTgwMTUwNjc4NSwtMTExOTg4
-NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5MywtOT
-gzODc1OTI3LDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbMTUxMTg3OTEyLDE5MjY2OTQzNDgsNzcxND
+c0Nzc5LC01ODMzMDY4MjksLTE1NDA3Mjc1MjIsLTE4MDE1MDY3
+ODUsLTExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1MzUzLDIwNj
+I3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
 -->
