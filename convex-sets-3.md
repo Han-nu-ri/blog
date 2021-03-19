@@ -39,7 +39,10 @@ $$
 $$
 v_1=(1,0), v_2=(0,1), v_3=(1, 1)
 $$
-
+바로 v1과 v2입니다. v2와 v3는 어떨까요? (1, 0)을 v2와 v3으로 나타낼 수 있나요?
+$$
+av_2+bv
+$$
 
 ## 빈공간(영공간, null space)
 행렬 A의 빈공간이란, Ax=0의 모든 해 집합 x를 빈공간이라고 합니다.
@@ -60,7 +63,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzkyMDM4OSwtNzI5NzM5ODgzLDUxNj
+eyJoaXN0b3J5IjpbMTk2MzUwMjEzNiwtNzI5NzM5ODgzLDUxNj
 c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
 XX0=
 -->
