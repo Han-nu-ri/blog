@@ -3,11 +3,12 @@
 
 ## 평면 집합 L을 임의의 자신의 원소 w로 평형 이동한 집합은 부분 공간이다.
 
-평면 집합 L을 임의의 자신의 원소 w만큼 평행이동한 집합은 
+평면 집합 L을 임의의 자신의 원소 w만큼 평행이동한 집합은 아래와 같습니다.
 $$
 L-w \equiv \{v-w : v\in L\}
 $$
-입니다. w는
+부분
+w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지남을 알 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMjQyODc0XX0=
+eyJoaXN0b3J5IjpbMzc0MTUzNjAyXX0=
 -->
