@@ -20,12 +20,12 @@ $$
 $$
 y=(u-w)+\alpha(v-w)
 $$
-식의 순서를 바꿔서 전개하면, 아래와 같습니다.
+식의 순서를 바꿔서 전개하면 아래와 같고, 괄호의 u, v, w 벡터는 L에 속하고 계수의 합은 1이므로 평면 조합이 되어 괄호 벡터가 L에 속함을 알 수 있습니다.
 $$
 y=(u-w)+\alpha(v-w) \\
 = (u+\alpha v-\alpha w)-w
 $$
-
+따라서 y는 L-w에 속합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTgyMDIwLDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbODM4NzE1ODczLDEwNzE5NTgyNThdfQ==
 -->
