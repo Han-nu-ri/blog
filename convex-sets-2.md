@@ -85,10 +85,14 @@ $$
 = \lambda_2 \begin {pmatrix} 3 \\ -1 \\ -8 \end {pmatrix} 
 +\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 4 \end {pmatrix}
 $$
-방정식을 쉽게 풀 수 있습니다.
+마지막 행렬식에서 첫 번째와 두 번째 식을 사용하면 방정식을 쉽게 풀 수 있습니다.
+$$
+4=3\lambda_2-2\lambda_2\lambda_b \\
+\lambda_b={3=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgzMzY5MjIsMjU1NzQzNzg2LC0yMD
-AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
-NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
-wyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbLTEzODQ2MzY3ODUsLTExMTgzMzY5MjIsMj
+U1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3
+NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0Nj
+EsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
 -->
