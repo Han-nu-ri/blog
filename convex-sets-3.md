@@ -60,7 +60,7 @@ Ax=0의 선형 변환은 아래와 같은 그림으로 이해할 수 있습니�
 ## 부분 공간의 기저를 사용하여 부분 공간을 빈공간으로 가지는 행렬 A를 구할 수 있다.
 > 벡터 [2, 1, 0, 2], [-2, 1, 1, 0]가 기저가 되는 부분 공간을 빈공간으로 가지는 행렬 A를 구하라.
 
-1.기저 벡터를 아래로 붙인 후 2. 가우스-조던 소거법을 하고 3. 소거되지 않은 행렬에 음수를 붙인 다음 4. Identity 행렬을 붙입니다.
+1.기저 벡터를 아래로 붙인 후 2. 가우스-조던 소거법을 하고 3. 소거되지 않은 행렬에 음수를 붙인 다음 4. Identity 행렬을 붙입니다. 5. Transpose를 합니다.
 
 위의 순서에 따라 진행해보죠.
 1.기저 벡터를 아래로 붙인 후 2. 가우스-조던 소거법을 하고
@@ -79,6 +79,12 @@ $$
 1 & 0 \\ 0 & 1
 \end{pmatrix}
 $$
+5. Transpose를 합니다.
+$$
+\begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
+{-1 \over 2} & -1 & 0 & 1  \\
+\end{pmatrix}
+$$
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -91,9 +97,9 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNj
-Y5NDM0OCw3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUy
-MiwtMTgwMTUwNjc4NSwtMTExOTg4NzE1LC03Mjk3Mzk4ODMsNT
-E2NzUzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgy
-NThdfQ==
+eyJoaXN0b3J5IjpbLTEwOTQwMzg4MjIsMTE0MjcyNDEyMSw0Nj
+IyMjQzODcsMTkyNjY5NDM0OCw3NzE0NzQ3NzksLTU4MzMwNjgy
+OSwtMTU0MDcyNzUyMiwtMTgwMTUwNjc4NSwtMTExOTg4NzE1LC
+03Mjk3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5MywtOTgzODc1
+OTI3LDEwNzE5NTgyNThdfQ==
 -->
