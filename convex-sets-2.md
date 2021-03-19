@@ -86,15 +86,20 @@ $$
 +\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 4 \end {pmatrix}
 $$
 마지막 행렬식에서 첫 번째와 두 번째 식을 사용하면 방정식을 쉽게 풀 수 있습니다.
-첫 번째 식으로부터 \lambda_b를 
+첫 번째 식으로부터 \lambda_b를 \lambda_2로 표현하고,
 $$
 4=3\lambda_2-2\lambda_2\lambda_b \\
 \lambda_b={3\lambda_2-4 \over 2\lambda_2} 
 $$
  두 번째 식에 \lambda_b를 대입합니다.
+ $$
+ -1=-\lambda_2+\lambda_2\lambda_b \\
+= -\lambda_2+\lambda_2({3\lambda_2-4 \over 2\lambda_2}) \\
+-2
+ $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAyOTYyNTUsLTExMTgzMzY5MjIsMj
-U1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3
-NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0Nj
-EsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbNTg5MDI2MzIzLC0xMTE4MzM2OTIyLDI1NT
+c0Mzc4NiwtMjAwMzQ1MzM3MCwtMTQxMDI1NDY4LC02NjY0Nzcw
+NDIsMjA2OTMwNjQ3MiwtNDg2NTM5Nzg4LC0xNzgxOTY2NDYxLD
+EwNzU3NjU2NTQsMjA0MzM4MDI0Ml19
 -->
