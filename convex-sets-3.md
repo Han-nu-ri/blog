@@ -1,5 +1,5 @@
 # convex-sets-3: 평면 조합의 성질
-이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면 조합의 성질에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의를 정리했음을 밝힙니다. 
+이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면 조합의 성질에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
 
 ## 평면 집합 L을 임의의 자신의 원소 w로 평형 이동한 집합은 부분 공간이다.
 
@@ -33,6 +33,7 @@ $$
 
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
 ## 기저(basis)
+> 선형대수학에서, 어떤 벡터 공간의 기저(基底, 영어: basis)는 그 벡터 공간을 선형생성하는 선형독립인 벡터들이다.
 
 ## 빈공간(영공간, null space)
 행렬 A의 빈공간이란, Ax=0의 모든 해 집합 x를 빈공간이라고 합니다.
@@ -53,6 +54,6 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjE0NjM5OSw1MTY3NTM1MywyMDYyNz
+eyJoaXN0b3J5IjpbLTcyOTczOTg4Myw1MTY3NTM1MywyMDYyNz
 A5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1OF19
 -->
