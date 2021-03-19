@@ -5,9 +5,10 @@ l![image](https://user-images.githubusercontent.com/11609881/111723665-43013280-
 위는 x1과 x2를 이은 직선에 관한 식과 그림입니다. 직선에서 임의의 두 점을 선택하고, 선택된 두 점을 지나는 직선을 그어보세요. 같은 직선이 그어집니다.
 집합 L이 자신의 서로 다른 두 점을 지나는 직선을 항상 포함할 때, L을 평면 집합(affine set)이라고 합니다. 다시 말해 평면 조합에 대하여 닫혀 있는 집합을 평면 집합이라고 합니다. 어떤 연산에 대하여 '닫혀 있다'는 것은, 집합의 임의의 원소들로 연산을 수행한 결과가 같은 집합에 속해 있다는 뜻 입니다.
 $$
-(1-\lambda)x + \lambda y \in L, \forall x, y \in L, \forall \lambda 
+(1-\lambda)x + \lambda y \in L, \forall x, y \in L, \forall \lambda \in R.
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMTI3NDI4LDEwNzU3NjU2NTQsMjA0Mz
-M4MDI0Ml19
+eyJoaXN0b3J5IjpbLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMD
+QzMzgwMjQyXX0=
 -->
