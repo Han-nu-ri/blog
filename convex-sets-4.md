@@ -31,8 +31,11 @@ $$
 > 벡터들의 집합에 span을 생성하는데 필요한 최소한의 벡터들보다 더 있다면 선형 종속이고, 필요한 최소한의 벡터들만 있다면 선형 독립이다.
 
 ## 평면 독립과 평면 종속 (Affinely dependent, affinely independent)
-벡터들의 집합에 그들의 평면 덮개(Affine hull)을 생성하는데 필요한 벡터들보다 더 있다면 평면 종속, 필요한 벡터
+선형 독립과 종속을 직관적으로 이해한 것처럼, 평면 독립과 종속을 이해할 수 있습니다.
+> 벡터들의 집합에 그들의 평면 덮개(Affine hull)을 생성하는데 필요한 벡터들보다 더 있다면 평면 종속, 필요한 최소한의 벡터들만 있다면 평면 독립이다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjI0ODU4NiwxNTMxMjIwNzEzLC05ND
-Y4NTc5MV19
+eyJoaXN0b3J5IjpbMjIwNDI2MTQxLDE1MzEyMjA3MTMsLTk0Nj
+g1NzkxXX0=
 -->
