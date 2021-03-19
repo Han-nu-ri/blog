@@ -32,6 +32,9 @@ $$
 > 부분 공간 S를 임의의 벡터 w로 평행 이동한 집합 S + w는 평면 집합이다.
 
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
+
+## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbLTEzMjI4NzMyNTMsLTk4Mzg3NTkyNywxMD
+cxOTU4MjU4XX0=
 -->
