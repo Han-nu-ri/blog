@@ -23,11 +23,12 @@ R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차
 
 볼록 조합에서 유한 개의 벡터들로 확장한 것처럼, 평면 조합도 유한 개의 벡터들로 다음과 같이 확장할 수 있습니다.
 $$
-\lambda_1 v_1+\cdots+\lambda_k v_k
+\lambda_1 v_1+\cdots+\lambda_k v_k, \lambda_1+\cdots+\lambda_k=1
 $$
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjMwMTY2LDIwNjkzMDY0NzIsLTQ4Nj
-UzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAy
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzIwNDE1OTksMjA2OTMwNjQ3MiwtND
+g2NTM5Nzg4LC0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4
+MDI0Ml19
 -->
