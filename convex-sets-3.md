@@ -117,8 +117,12 @@ Ax=0. \\
 $$
 과 같습니다. 각각의 식을 전개해보죠.
 $$
-x_1+x_2+x_3=0 \\
--x_2+2x_3=0 \\
+x_1+x_2+x_3=0 \cdots 1)\\
+-x_2+2x_3=0 \cdots 2)\\
+$$
+식 2)를,
+$$
+2x_3=x_2 \\
 $$
 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
@@ -133,11 +137,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzMxNDQ0MCwtMTk4MTczMjI4MCwtNz
-c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
-Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
-w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
-MTUwNjc4NSwtMTExOTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNT
-MsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbLTEwMTQyNDQ3NzksLTE5ODE3MzIyODAsLT
+c3NjI2NTQwNiwxNjY0NDEyNDEyLC0xNDc1NjYxNDQyLC0xMDk0
+MDM4ODIyLDExNDI3MjQxMjEsNDYyMjI0Mzg3LDE5MjY2OTQzND
+gsNzcxNDc0Nzc5LC01ODMzMDY4MjksLTE1NDA3Mjc1MjIsLTE4
+MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1Mz
+UzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
 
 -->
