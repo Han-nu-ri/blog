@@ -26,10 +26,12 @@ $$
 \lambda_1 v_1+\cdots+\lambda_k v_k, \lambda_1+\cdots+\lambda_k=1
 $$
 
+## 평면 덮개
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00OD
-Y1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgw
-MjQyXX0=
+eyJoaXN0b3J5IjpbLTE3NTc3NDc5OTMsLTY2NjQ3NzA0MiwyMD
+Y5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2
+NTY1NCwyMDQzMzgwMjQyXX0=
 -->
