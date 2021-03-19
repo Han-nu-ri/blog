@@ -7,8 +7,10 @@
 $$
 L-w \equiv \{v-w : v\in L\}
 $$
-부분
+부분 공간은 원점을 지나야 하고, 덧셈과 곱셈에 대하여 닫혀 있어야 합니다. 따라서 집합 L-w이 위 같은 성질을 만족하는지 볼까요?
+1. 원점을 지나야 한다.
 w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지남을 알 수 있습니다.
+2. 덧셈에 대하여 닫혀 ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MTUzNjAyXX0=
+eyJoaXN0b3J5IjpbLTIwNjY2MTcxMzddfQ==
 -->
