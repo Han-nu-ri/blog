@@ -34,9 +34,12 @@ $$
 x1과 x2 외에 집합 S에 속하지 않는 점 x3를 추가해보죠. x1, x2 그리고 x3를 지나는 평면은 여전히 S에 대한 평면 집합입니다.
 ![image](https://user-images.githubusercontent.com/11609881/111733782-02f87a80-88bc-11eb-8542-ec711951974c.png)
 첫 번째 평면 집합이 두 번째 평면 집합보다 더 작으므로, 두 번째 예는 평면 덮개가 아니게 됩니다.
+
+다음 문제를 풀어볼까요?
+> (1, 0, 0)이 (-3, 1, 12)와 z의 평면 조합일 때, z를 구하여라.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NzQzNzg2LC0yMDAzNDUzMzcwLC0xND
-EwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3
-ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX
-0=
+eyJoaXN0b3J5IjpbMjE0NDQ0MDgzMCwyNTU3NDM3ODYsLTIwMD
+M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
+NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
+IwNDMzODAyNDJdfQ==
 -->
