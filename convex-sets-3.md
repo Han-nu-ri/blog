@@ -85,6 +85,7 @@ $$
 {-1 \over 2} & -1 & 0 & 1  \\
 \end{pmatrix}
 $$
+위 행렬 A가 부분공간을 빈공간
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -97,9 +98,9 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQwMzg4MjIsMTE0MjcyNDEyMSw0Nj
-IyMjQzODcsMTkyNjY5NDM0OCw3NzE0NzQ3NzksLTU4MzMwNjgy
-OSwtMTU0MDcyNzUyMiwtMTgwMTUwNjc4NSwtMTExOTg4NzE1LC
-03Mjk3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5MywtOTgzODc1
-OTI3LDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbNDQ2NTAxNDQ4LC0xMDk0MDM4ODIyLDExND
+I3MjQxMjEsNDYyMjI0Mzg3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5
+LC01ODMzMDY4MjksLTE1NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLT
+ExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkx
+OTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
 -->
