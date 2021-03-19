@@ -88,12 +88,18 @@ $$
 위 행렬 A는 벡터 [2, 1, 0, 2], [-2, 1, 1, 0]가 기저가 되는 부분 공간을 빈공간으로 가지게 됩니다.
 확인해볼까요? 
 $$
-Ax= \begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
+Ax= 
+\begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
 {-1 \over 2} & -1 & 0 & 1  \\
 \end{pmatrix}
-\begin{pmatrix} 2 & -2 \\ 1 & 1 \\ 0 & 1 \\ 2 & 0
+\begin{pmatrix} x_1 \\ x_2 \\ x_3 \\ x_4
 \end{pmatrix}
-= \begin{pmatrix} 0 \\ 0 & 0 \end{pmatrix}
+=\begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
+{-1 \over 2} & -1 & 0 & 1  \\
+\end{pmatrix}
+\begin{pmatrix} 2 \\ 1 \\ 0 \\ 2
+\end{pmatrix}
+= \begin{pmatrix} 0 \\ 0 \end{pmatrix}
 $$
 x의 열공간
 ## 행렬 A의 빈공간 구하기
@@ -114,7 +120,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzU0NTY1MCwtMTk4MTczMjI4MCwtNz
+eyJoaXN0b3J5IjpbLTU3NTk4NDYwMSwtMTk4MTczMjI4MCwtNz
 c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
 Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
 w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
