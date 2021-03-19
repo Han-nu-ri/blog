@@ -61,10 +61,19 @@ $$
 = \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
 +\lambda_2 z
 = \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 
++\lambda_2 (\lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix})
+\\
+= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
++\lambda_2 \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+\\
+= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
++\lambda_2 \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzUzMDA4MSwyNTU3NDM3ODYsLTIwMD
+eyJoaXN0b3J5IjpbLTMxOTgwMDU4NCwyNTU3NDM3ODYsLTIwMD
 M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
 NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
 IwNDMzODAyNDJdfQ==
