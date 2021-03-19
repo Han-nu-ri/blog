@@ -8,7 +8,9 @@ $$
 (1-\lambda)x + \lambda y \in L, \forall x, y \in L, \forall \lambda \in R.
 $$
 
+## 부분 공간
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMD
-QzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMD
+c1NzY1NjU0LDIwNDMzODAyNDJdfQ==
 -->
