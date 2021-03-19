@@ -34,8 +34,11 @@ $$
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
-x를 
+x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간으로 하는 행렬 A를 구할 수 있습니다. 즉,
+$$
+A(x-w)=0
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNDE0OTkxLDIwNjI3MDkxOTMsLTk4Mz
-g3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbLTE4NzUyODc3NzcsMjA2MjcwOTE5MywtOT
+gzODc1OTI3LDEwNzE5NTgyNThdfQ==
 -->
