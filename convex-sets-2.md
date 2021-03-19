@@ -31,11 +31,12 @@ $$
 
 '가장 작은 평면 집합'이라는 의미는 무엇일까요? 집합 S의 모든 평면 집합의 교집합입니다. 예를 들어보죠. 점 x1, x2가 집합 S에 속할 때, 두 점을 이은 직선이 S의 평면 집합이 됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/111723665-43013280-88a7-11eb-93f6-2cf77daab4f4.png)
-x1과 x2 외에 집합 S에 속하지 않는 점 x3를 추가해보죠. x1, x2 그리고 x3를 지나는 평면은 여전히 S에 대한 볼록 집합입니다.
+x1과 x2 외에 집합 S에 속하지 않는 점 x3를 추가해보죠. x1, x2 그리고 x3를 지나는 평면은 여전히 S에 대한 평면 집합입니다.
 ![image](https://user-images.githubusercontent.com/11609881/111733782-02f87a80-88bc-11eb-8542-ec711951974c.png)
+첫 번째 평면 집합이 두 번째 평면 집합보다 더 작으므로, 두 번째 예는 평면 덮개가 아니게 됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA0NzkyNTQsLTIwMDM0NTMzNzAsLT
-E0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0NzIsLTQ4NjUz
-OTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAyND
-JdfQ==
+eyJoaXN0b3J5IjpbMjU1NzQzNzg2LC0yMDAzNDUzMzcwLC0xND
+EwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3
+ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX
+0=
 -->
