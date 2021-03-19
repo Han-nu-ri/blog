@@ -60,7 +60,7 @@ Ax=0의 선형 변환은 아래와 같은 그림으로 이해할 수 있습니�
 ## 부분 공간의 기저를 사용하여 부분 공간을 빈공간으로 가지는 행렬 A를 구할 수 있다.
 > 벡터 [2, 1, 0, 2], [-2, 1, 1, 0]가 기저가 되는 부분 공간을 빈공간으로 가지는 행렬 A를 구하라.
 
-이 벡터는 4차원인데, 
+이 벡터는 4차원인데, pivot과 관련되어 있지 않은 열들은 빨간색 박스입니다. 빨간색 박스의 각 요소에 -를 붙인 후에, 아래에 Identity 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -73,7 +73,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA2NzYzMjMsLTE1NDA3Mjc1MjIsLT
+eyJoaXN0b3J5IjpbLTEyMjE2NDc1MzUsLTE1NDA3Mjc1MjIsLT
 E4MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1
 MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX
 0=
