@@ -44,11 +44,13 @@ $$
 세 개의 벡터 간 평면 조합은 아래와 같이 표현할 수 있습니다.
 $$
 \begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
-= \beging {pmatrix} \end {pmatrix}
+= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
++\lambda_2 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix}
++\lambda_2 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcxMDI3NTMsMjU1NzQzNzg2LC0yMD
-AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
-NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
-wyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbMTE4MzY0NTc5MywyNTU3NDM3ODYsLTIwMD
+M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
+NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
+IwNDMzODAyNDJdfQ==
 -->
