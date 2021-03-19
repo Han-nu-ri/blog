@@ -21,9 +21,11 @@ R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차
 
 부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 잘 설명 되어 있으니 참고하시면 좋을 것 같습니다.
 
+볼록 조합에서 유한 개의 벡ㅌ
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDM4NDA0NiwyMDY5MzA2NDcyLC00OD
-Y1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgw
-MjQyXX0=
+eyJoaXN0b3J5IjpbNzk1OTI0ODM1LDIwNjkzMDY0NzIsLTQ4Nj
+UzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAy
+NDJdfQ==
 -->
