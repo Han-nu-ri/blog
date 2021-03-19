@@ -93,7 +93,7 @@ Ax= \begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\
 \end{pmatrix}
 \begin{pmatrix} 2 & -2 \\ 1 & 1 \\ 0 & 1 \\ 2 & 0
 \end{pmatrix}
-= \begin{pmatrix} 0 & 0 \\ 0 & 0 \end{pmatrix}
+= \begin{pmatrix} 0 \\ 0 & 0 \end{pmatrix}
 $$
 x의 열공간
 ## 행렬 A의 빈공간 구하기
@@ -114,10 +114,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE3MzIyODAsLTc3NjI2NTQwNiwxNj
-Y0NDEyNDEyLC0xNDc1NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3
-MjQxMjEsNDYyMjI0Mzg3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC
-01ODMzMDY4MjksLTE1NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTEx
-MTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOT
-MsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbMTA4MzU0NTY1MCwtMTk4MTczMjI4MCwtNz
+c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
+Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
+w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
+MTUwNjc4NSwtMTExOTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNT
+MsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
+
 -->
