@@ -1,5 +1,5 @@
 # convex-sets-2: 평면 집합, 평면 덮개
-평면 집합과 평면 덮개에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의를 정리했음을 밝힙니다.
+평면 집합과 평면 덮개에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 블로그 내용을 정리했음을 밝힙니다.
 ## 평면 집합 (affine set)
 l![image](https://user-images.githubusercontent.com/11609881/111723665-43013280-88a7-11eb-93f6-2cf77daab4f4.png)
 위는 x1과 x2를 이은 직선에 관한 식과 그림입니다. 직선에서 임의의 두 점을 선택하고, 선택된 두 점을 지나는 직선을 그어보세요. 같은 직선이 그어집니다.
@@ -11,11 +11,15 @@ $$
 > R^n의 부분 공간은 평면 집합이다. 역은 성립하지 않는다.
 
 R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차원을 떠올려보면, 원점을 지나는 부분 공간은 2차원의 무한히 펼쳐진 평면입니다. 따라서 이 평면 위의 평면 조합은 항상 평면 위에 있습니다. 즉 평면 조합에 닫혀 있습니다.
+![image](https://user-images.githubusercontent.com/11609881/111732585-266df600-88b9-11eb-89c5-2b8a92f9a222.png)
+(이미지 출처: https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/)
+
+
 
 부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 자세히 있으니 참고하시면 좋을 것 같습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MjI5MzksMjA2OTMwNjQ3MiwtNDg2NT
-M5Nzg4LC0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4MDI0
-Ml19
+eyJoaXN0b3J5IjpbLTM3MTY3ODkzLDIwNjkzMDY0NzIsLTQ4Nj
+UzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAy
+NDJdfQ==
 -->
