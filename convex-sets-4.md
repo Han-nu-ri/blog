@@ -27,8 +27,11 @@ V=\{v_1, v_2, v_3\}
 $$
 위와 같은 집합 V에서, 다른 두 벡터의 선형 결합으로 하나의 벡터를 표현할 수 없습니다. 따라서 V는 선형 독립입니다.
 
+예시를 잘 살펴보면 직관적으로 아래와 같이 이해할 수 있습니다.
+> 벡터들의 집합이 만약
+
 ## 평면 독립과 평면 종속 (Affinely dependent, affinely independent)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTkxNjEsMTUzMTIyMDcxMywtOTQ2OD
-U3OTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDIzODQ2MDcsMTUzMTIyMDcxMywtOT
+Q2ODU3OTFdfQ==
 -->
