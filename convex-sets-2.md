@@ -27,11 +27,13 @@ $$
 $$
 
 ## 평면 덮개 (affine hull)
+> 집합 S를 포함하는 가장 작은 평면 집합을 S의 평면 덮개 (affine hull)이라고 하고 aff.S로 표기한다.
 
+'가장 작은 평면 집합'이라는 의미는 무엇일까요? S
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNj
-kzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1
-NjU0LDIwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTE5NzkwODEyNDcsLTE0MTAyNTQ2OCwtNj
+Y2NDc3MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2
+NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
 -->
