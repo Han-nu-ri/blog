@@ -34,7 +34,7 @@ $$
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
-x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
+x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
 A(x-w)=0
 $$
@@ -45,6 +45,6 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxNzA5NzksMjA2MjcwOTE5MywtOT
-gzODc1OTI3LDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbNTE2NzUzNTMsMjA2MjcwOTE5MywtOTgzOD
+c1OTI3LDEwNzE5NTgyNThdfQ==
 -->
