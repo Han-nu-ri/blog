@@ -55,6 +55,8 @@ A \in R^{m \times n}, N(A)=\{x|Ax=0\}.
 $$
 Ax=0의 선형 변환은 아래와 같은 그림으로 이해할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111743149-99349c80-88cc-11eb-910d-8e8b64e0e4f2.png)
+## 부분 공간의 기저를 사용
+
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -67,7 +69,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODM5NDcyMiwtNzI5NzM5ODgzLDUxNj
-c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
-XX0=
+eyJoaXN0b3J5IjpbODM5MjEzNzAyLC03Mjk3Mzk4ODMsNTE2Nz
+UzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThd
+fQ==
 -->
