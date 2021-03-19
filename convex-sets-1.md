@@ -46,8 +46,8 @@ v=\lambda_1 v_1 + \cdots + \lambda_k v_k\\
 $$
 
 ## 볼록 덮개
-볼록 껍질이라고도 불리며, 영어로는 convex hull
+볼록 덮개는 볼록 껍질으로도 불리며, 영어로는 convex hull이라고 합니다. 여기서 hull은 맨틀과 같은 cover과 같은 뜻 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgxMTQ3MjksMTgyNDkzMDg4NiwtMz
-A5NTAxNTEsMTcwOTkzOTg2NywtODA0NTYyODk0XX0=
+eyJoaXN0b3J5IjpbNDk5MDI0NjM4LDE4MjQ5MzA4ODYsLTMwOT
+UwMTUxLDE3MDk5Mzk4NjcsLTgwNDU2Mjg5NF19
 -->
