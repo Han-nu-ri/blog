@@ -101,7 +101,7 @@ Ax=
 \end{pmatrix}
 = \begin{pmatrix} 0 \\ 0 \end{pmatrix}
 $$
-x의 열공간
+
 ## 행렬 A의 빈공간 구하기
 > 다음 행렬의 빈공간을 구하라
 $$
@@ -120,7 +120,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTk4NDYwMSwtMTk4MTczMjI4MCwtNz
+eyJoaXN0b3J5IjpbMTExMzU4NDEzMiwtMTk4MTczMjI4MCwtNz
 c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
 Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
 w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
