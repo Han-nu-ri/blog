@@ -95,11 +95,12 @@ $$
  $$
  -1=-\lambda_2+\lambda_2\lambda_b \\
 = -\lambda_2+\lambda_2({3\lambda_2-4 \over 2\lambda_2}) \\
--2
- $$
+-2=-2\lambda_2+3\lambda_2-4. \\
+\lambda_2 = 2, \lambda_b={1 \over 2}, \lambda_a
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MDI2MzIzLC0xMTE4MzM2OTIyLDI1NT
-c0Mzc4NiwtMjAwMzQ1MzM3MCwtMTQxMDI1NDY4LC02NjY0Nzcw
-NDIsMjA2OTMwNjQ3MiwtNDg2NTM5Nzg4LC0xNzgxOTY2NDYxLD
-EwNzU3NjU2NTQsMjA0MzM4MDI0Ml19
+eyJoaXN0b3J5IjpbMTE4Mzk1MzMyMiwtMTExODMzNjkyMiwyNT
+U3NDM3ODYsLTIwMDM0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3
+MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MS
+wxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
 -->
