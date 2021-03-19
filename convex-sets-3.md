@@ -16,8 +16,11 @@ L에 속하는 두 벡터와, 임의의 스칼라를 세팅합니다.
 $$
 \forall u, v \in L, \forall \alpha \in R \\
 $$
-위 두 벡터
+위 두 벡터를 w만큼의 평행 이동하고, 하나의 벡터에 스칼라 곱을 한 벡터가 L-w에 속함을 보이면 됩니다.
+$$
+y=(u-w)+\alpha(v
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTk1ODI1OF19
+eyJoaXN0b3J5IjpbLTExMzI0NjEzMDAsMTA3MTk1ODI1OF19
 -->
