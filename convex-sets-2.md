@@ -72,13 +72,16 @@ $$
 +\lambda_2 (1-\lambda_b) \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
 +\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
 \\
-= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
+= (1-\lambda_2) \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
 +\lambda_2 (1-\lambda_b) \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
 +\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+\\
+\begin {pmatrix} 4 \\ -1 \\ -12  \end{pmatrix}
+=
 $$
-식과 미지수가 모두 3개이므로, 방정식을 쉽게 풀 수 있습니다.
+방정식을 쉽게 풀 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NjAyNzY0LDI1NTc0Mzc4NiwtMjAwMz
+eyJoaXN0b3J5IjpbNjIzNjU0MTMxLDI1NTc0Mzc4NiwtMjAwMz
 Q1MzM3MCwtMTQxMDI1NDY4LC02NjY0NzcwNDIsMjA2OTMwNjQ3
 MiwtNDg2NTM5Nzg4LC0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMj
 A0MzM4MDI0Ml19
