@@ -18,9 +18,14 @@ $$
 $$
 위 두 벡터를 w만큼의 평행 이동하고, 하나의 벡터에 스칼라 곱을 한 벡터가 L-w에 속함을 보이면 됩니다.
 $$
-y=(u-w)+\alpha(v
+y=(u-w)+\alpha(v-w)
+$$
+식의 순서를 바꿔서 전개하면, 아래와 같습니다.
+$$
+y=(u-w)+\alpha(v-w) \\
+= (u+\alpha v-\alpha w)-w
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI0NjEzMDAsMTA3MTk1ODI1OF19
+eyJoaXN0b3J5IjpbLTM1MTgyMDIwLDEwNzE5NTgyNThdfQ==
 -->
