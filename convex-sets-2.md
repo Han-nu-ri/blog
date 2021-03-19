@@ -15,13 +15,15 @@ R^n의 부분 공간의 예입니다. 사람이 쉽게 생각할 수 있는 3차
 ![image](https://user-images.githubusercontent.com/11609881/111732660-574e2b00-88b9-11eb-91d0-016e0954a12e.png)
 (이미지 출처: https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/)
 
-위 명제의 역은 어떨까요? 아래 직선 L은 평면 지
+위 명제의 역은 어떨까요? 아래 직선 L은 평면 집합입니다. 그렇지만 원점을 지나지도, 벡터의 덧셈에 대하여 닫혀 있지도 않으므로 부분 집합이 아닙니다. 따라서 역은 성립하지 않음을 알 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111732682-659c4700-88b9-11eb-82be-1d3950e3bbb3.png)
+(이미지 출처: https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/)
 
-부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 자세히 있으니 참고하시면 좋을 것 같습니다.
+부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 잘 설명 되어 있으니 참고하시면 좋을 것 같습니다.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ1MjQxMTYsMjA2OTMwNjQ3MiwtND
-g2NTM5Nzg4LC0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4
-MDI0Ml19
+eyJoaXN0b3J5IjpbMTI4MDM4NDA0NiwyMDY5MzA2NDcyLC00OD
+Y1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgw
+MjQyXX0=
 -->
