@@ -37,8 +37,13 @@ x1과 x2 외에 집합 S에 속하지 않는 점 x3를 추가해보죠. x1, x2 �
 
 다음 문제를 풀어볼까요?
 > (1, 0, 0)이 (-3, 1, 12)와 z의 평면 조합일 때, z를 구하여라.
+$$
+z \in aff.\{(0,0,4), (-2,1,8\}
+$$
+
+평면 조합의 정
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDQ0MDgzMCwyNTU3NDM3ODYsLTIwMD
+eyJoaXN0b3J5IjpbLTI3ODU3ODI1MCwyNTU3NDM3ODYsLTIwMD
 M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
 NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
 IwNDMzODAyNDJdfQ==
