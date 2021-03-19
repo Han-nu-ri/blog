@@ -11,13 +11,12 @@ $$
 구체적으로 집합 L-w이 부분 공간인지 볼까요?
 1. 원점을 지나야 한다.
 w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지남을 알 수 있습니다.
-2. 덧셈에 대하여 닫혀 있어야 한다.
+2. 덧셈과 실수 곱에 대하여 닫혀 있어야 한다.
+L에 속하는 두 벡터와, 임의의 스칼라를 
 $$
-\forall u, v \in L, \forall \alpha \in R, \\
-u+\alpha v \in L \\
-(u-w)+\alpha (v-w) \in L -w\\
+\forall u, v \in L, \forall \alpha \in R \\
 $$
-4. 실수 곱에 대하여 닫혀 있어야 한다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc3ODIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDc4ODMzMDddfQ==
 -->
