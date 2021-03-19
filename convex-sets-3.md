@@ -35,9 +35,11 @@ $$
 ## 기저(basis)
 > 선형대수학에서, 어떤 벡터 공간의 기저(基底, 영어: basis)는 그 벡터 공간을 선형생성하는 선형독립인 벡터들이다.
 
-이차원 평면을 떠올려보죠. 이 평면을 두 가지 벡터의 덧셈과 스칼라 곱의 조합으로 나타내보려고 합니다.
+이차원 평면을 떠올려보죠. 이 평면을 두 가지 벡터의 덧셈과 스칼라 곱의 조합으로 나타내보려고 합니다. 아래 세 가지 벡터 중 어떤 벡터 두 가지를 고르면 될까요?
 $$
+v_1=(1,0), v_2=(0,1), v_3=(1, 1)
 $$
+
 
 ## 빈공간(영공간, null space)
 행렬 A의 빈공간이란, Ax=0의 모든 해 집합 x를 빈공간이라고 합니다.
@@ -58,7 +60,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU0OTcyNDAsLTcyOTczOTg4Myw1MT
-Y3NTM1MywyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1
-OF19
+eyJoaXN0b3J5IjpbLTY5NzkyMDM4OSwtNzI5NzM5ODgzLDUxNj
+c1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4
+XX0=
 -->
