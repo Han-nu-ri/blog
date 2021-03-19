@@ -1,5 +1,5 @@
 # convex-sets-3: 평면집합의 성질, 기저, 빈공간, 가우스-조던 소거법
-이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면집합의 성질, 기저, 빈공간, 가우스-조던 소거법에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
+이전 포스트 (https://nrhan.tistory.com/entry/convex-sets-2-평면-집합-평면-덮개)에 이어, 평면집합의 성질, 기저, 빈공간, 가우스 조던 소거법에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
 
 ## 평면집합 L을 임의의 자신의 원소 w로 평행이동한 집합은 부분 공간이다.
 
@@ -55,8 +55,9 @@ A \in R^{m \times n}, N(A)=\{x|Ax=0\}.
 $$
 Ax=0의 선형 변환은 아래와 같은 그림으로 이해할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111743149-99349c80-88cc-11eb-910d-8e8b64e0e4f2.png)
-## 가우스-조던 소거법
-가우스 조
+## 가우스 조던 소거법
+가우스 조던 소거법은 일차 연립 방정식의 해를 구하는 방법으로, 기본 행 연산(행의 치환, 상수곱, 행의 합)을 적용해도 연립 방정식의 해가 변하지 않는다는 사실을 활용하여 
+
 ## 부분 공간의 기저를 사용하여 부분 공간을 빈공간으로 가지는 행렬 A를 구할 수 있다.
 > 벡터 [2, 1, 0, 2], [-2, 1, 1, 0]가 기저가 되는 부분 공간을 빈공간으로 가지는 행렬 A를 구하라.
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
@@ -71,7 +72,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY5MTI3NDEsLTE4MDE1MDY3ODUsLT
-ExMTk4ODcxNSwtNzI5NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkx
-OTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbMTA4NTAxNTM1MCwtMTgwMTUwNjc4NSwtMT
+ExOTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5
+MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
 -->
