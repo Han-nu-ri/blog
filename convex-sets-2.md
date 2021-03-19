@@ -8,9 +8,12 @@ $$
 (1-\lambda)x + \lambda y \in L, \forall x, y \in L, \forall \lambda \in R.
 $$
 
-## 부분 공간
+> R^n의 부분 공간은 평면 집합이다. 역은 성립하지 않는다.
+
+R^n의 부분 공간의 예입
+부분 공간에 대한 설명은 https://ratsgo.github.io/linear%20algebra/2017/05/20/spaces/ 에 포스트에 자세히 있으니 참고하시면 좋을 것 같습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMD
-c1NzY1NjU0LDIwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc4NDA2MDAsLTQ4NjUzOTc4OCwtMT
+c4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
 -->
