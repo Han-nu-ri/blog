@@ -45,11 +45,12 @@ $$
 $$
 \begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
 = \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix}
-+\lambda_2 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix}
++\lambda_2 \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_3 \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix},
+\lambda_1 + \lambda_2 + \lambda_3 = 1.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzY0NTc5MywyNTU3NDM3ODYsLTIwMD
+eyJoaXN0b3J5IjpbMTAwNTY1NDA4NCwyNTU3NDM3ODYsLTIwMD
 M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
 NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
 IwNDMzODAyNDJdfQ==
