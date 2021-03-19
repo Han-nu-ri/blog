@@ -108,6 +108,13 @@ $$
 A= \begin{pmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{pmatrix}
 $$
 
+빈공간의 정의에 따라, 
+$$
+Ax=0 \\
+\begin{pmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{pmatrix}
+\begin{pmatrix} x_1 \\ x_2 \\ x_ \end{pmatrix}
+$$
+
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 위에서 보인 것처럼 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -120,11 +127,10 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzU4NDEzMiwtMTk4MTczMjI4MCwtNz
-c2MjY1NDA2LDE2NjQ0MTI0MTIsLTE0NzU2NjE0NDIsLTEwOTQw
-Mzg4MjIsMTE0MjcyNDEyMSw0NjIyMjQzODcsMTkyNjY5NDM0OC
-w3NzE0NzQ3NzksLTU4MzMwNjgyOSwtMTU0MDcyNzUyMiwtMTgw
-MTUwNjc4NSwtMTExOTg4NzE1LC03Mjk3Mzk4ODMsNTE2NzUzNT
-MsMjA2MjcwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
-
+eyJoaXN0b3J5IjpbNzg3NTQ0OTE3LC0xOTgxNzMyMjgwLC03Nz
+YyNjU0MDYsMTY2NDQxMjQxMiwtMTQ3NTY2MTQ0MiwtMTA5NDAz
+ODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4NywxOTI2Njk0MzQ4LD
+c3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQwNzI3NTIyLC0xODAx
+NTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOTg4Myw1MTY3NTM1My
+wyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1OF19
 -->
