@@ -52,9 +52,9 @@ $$
 주어진 점들이 있으면 어떻게 볼록 덮개를 알 수 있을까요? 볼록 조합을 활용하면 됩니다. 위 열개의 벡터들의 볼록 조합을 구해보면, 쉽게 볼록 덮개임을 이해할 수 있습니다.
 > 집합 S의 모든 볼록 조합의 집합 T는 집합 S의 볼록 덮개(conv.S)와 같다.
 
-집합 S의 볼록 덮개는 가장 작아야 하므로, 볼록 덮개의 테두리에는 집합 S의 원소 중 일부가 있습니다. 만약 볼록 덮개 위에서 선형으로 움직이는 선형 함수가 있다고 생각해보죠. 이 선형 함수의 최대
+집합 S의 볼록 덮개는 가장 작아야 하므로, 볼록 덮개의 테두리에는 집합 S의 원소 중 일부가 있습니다. 만약 볼록 덮개 위에서 선형으로 움직이는 선형 함수가 있다고 생각해보죠.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDUwMDYwOCwxODI0MDQ1Mjc1LDE4Mj
-Q5MzA4ODYsLTMwOTUwMTUxLDE3MDk5Mzk4NjcsLTgwNDU2Mjg5
-NF19
+eyJoaXN0b3J5IjpbMjAyODYyNTg3LC03MzQ1MDA2MDgsMTgyND
+A0NTI3NSwxODI0OTMwODg2LC0zMDk1MDE1MSwxNzA5OTM5ODY3
+LC04MDQ1NjI4OTRdfQ==
 -->
