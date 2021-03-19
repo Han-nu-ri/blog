@@ -95,6 +95,11 @@ Ax= \begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\
 \end{pmatrix}
 = \begin{pmatrix} 0 \\ 0 \end{pmatrix}
 $$
+## 행렬 A의 빈공간 구하기
+> 다음 행렬의 
+$$
+A= \begin{pmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{pmatrix}
+$$
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 위에서 보인 것처럼 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -107,10 +112,10 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDQxMjQxMiwtMTQ3NTY2MTQ0MiwtMT
-A5NDAzODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4NywxOTI2Njk0
-MzQ4LDc3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQwNzI3NTIyLC
-0xODAxNTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOTg4Myw1MTY3
-NTM1MywyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1OF
-19
+eyJoaXN0b3J5IjpbLTg5OTQ4ODY4NywxNjY0NDEyNDEyLC0xND
+c1NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3MjQxMjEsNDYyMjI0
+Mzg3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC01ODMzMDY4MjksLT
+E1NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5
+NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNy
+wxMDcxOTU4MjU4XX0=
 -->
