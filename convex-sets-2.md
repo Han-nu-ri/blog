@@ -105,11 +105,11 @@ z
 +\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix} \\
 ={1 \over 2} \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
 +{1 \over 2} \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
-=a
+=\begin {pmatrix} -1 \\ {1 \over 2} \\ 6 \end {pmatrix}.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg1MzU4ODEsLTExMTgzMzY5MjIsMj
-U1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3
-NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0Nj
-EsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbLTkyMTczMTM5MSwtMTExODMzNjkyMiwyNT
+U3NDM3ODYsLTIwMDM0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3
+MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MS
+wxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
 -->
