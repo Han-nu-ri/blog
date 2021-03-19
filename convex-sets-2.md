@@ -96,11 +96,20 @@ $$
  -1=-\lambda_2+\lambda_2\lambda_b \\
 = -\lambda_2+\lambda_2({3\lambda_2-4 \over 2\lambda_2}) \\
 -2=-2\lambda_2+3\lambda_2-4. \\
-\lambda_2 = 2, \lambda_b={1 \over 2}, \lambda_a
+\lambda_2 = 2, \lambda_b={1 \over 2}, \lambda_a={1 \over 2}.
+$$
+따라서 z는 
+$$
+z
+= \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix} \\
+={1 \over 2} \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
++{1 \over 2} \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+=a
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk1MzMyMiwtMTExODMzNjkyMiwyNT
-U3NDM3ODYsLTIwMDM0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3
-MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MS
-wxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjg1MzU4ODEsLTExMTgzMzY5MjIsMj
+U1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3
+NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0Nj
+EsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
 -->
