@@ -41,6 +41,11 @@ $$
 z \in aff.\{(0,0,4), (-2,1,8\}
 $$
 
+z가 볼록 덮개의 어디에 위치해 있는지 모르겠지만, 아래와 같이 표현할 수 있습니다.
+$$
+z = 
+$$
+
 세 개의 벡터 간 평면 조합은 아래와 같이 표현할 수 있습니다.
 $$
 \begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
@@ -50,8 +55,8 @@ $$
 \lambda_1 + \lambda_2 + \lambda_3 = 1.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTY1NDA4NCwyNTU3NDM3ODYsLTIwMD
-M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
-NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
-IwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDAzNTQwMzgsMjU1NzQzNzg2LC0yMD
+AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
+NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
+wyMDQzMzgwMjQyXX0=
 -->
