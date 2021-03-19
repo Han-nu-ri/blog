@@ -41,10 +41,13 @@ $$
 z \in aff.\{(0,0,4), (-2,1,8\}
 $$
 
-평면 조합의 정
+세 개의 벡터 간 평면 조합은 아래와 같이 표현할 수 있습니다.
+$$
+\begin{pmatrix} x \\ z \end{pmatrix}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODU3ODI1MCwyNTU3NDM3ODYsLTIwMD
-M0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0
-NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LD
-IwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTU3MDMxMDQsMjU1NzQzNzg2LC0yMD
+AzNDUzMzcwLC0xNDEwMjU0NjgsLTY2NjQ3NzA0MiwyMDY5MzA2
+NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2NTY1NC
+wyMDQzMzgwMjQyXX0=
 -->
