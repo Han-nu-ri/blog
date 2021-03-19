@@ -28,10 +28,11 @@ $$
 위와 같은 집합 V에서, 다른 두 벡터의 선형 결합으로 하나의 벡터를 표현할 수 없습니다. 따라서 V는 선형 독립입니다.
 
 예시를 잘 살펴보면 직관적으로 아래와 같이 이해할 수 있습니다.
-> 벡터들의 집합의 원소들이 span을 생성하는데 필요한 최소한의 벡터들보다 더 있다면 선형 종속이고, 필요한 최소한의 벡터들만 있다면 선형 독립이다.
+> 벡터들의 집합에 span을 생성하는데 필요한 최소한의 벡터들보다 더 있다면 선형 종속이고, 필요한 최소한의 벡터들만 있다면 선형 독립이다.
 
 ## 평면 독립과 평면 종속 (Affinely dependent, affinely independent)
+벡터들의 집합에 그들의 평면 덮개(Affine hull)을 생성하는데 필요한 벡터들보다 더 있다면 평면 종속, 필요한 벡터
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA5NzYzNDAsMTUzMTIyMDcxMywtOT
-Q2ODU3OTFdfQ==
+eyJoaXN0b3J5IjpbMTY2NjI0ODU4NiwxNTMxMjIwNzEzLC05ND
+Y4NTc5MV19
 -->
