@@ -9,7 +9,7 @@ L-w \equiv \{v-w : v\in L\}
 $$
 부분 공간은 원점을 지나야 하고, 덧셈과 실수 곱에 대하여 닫혀 있어야 합니다. w는 L의 원소이므로, L-w는 원점을 지납니다. 또한 L이 평면집합이므로, L은 덧셈과 실수 곱에 대하여 닫혀 있습니다. L-w는 단순히 L을 평행이동한 것이므로, L-w도 덧셈과 실수 곱에 대하여 닫혀 있음을 쉽게 알 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/111738805-5622fb00-88c5-11eb-89cc-15639cc6b46a.png)
-구체적으로 집합 L-w이 부분공간인지 볼까요?
+구체적으로 집합 L-w이 부분 공간인지 볼까요?
 1. 원점을 지나야 한다.
 w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지남을 알 수 있습니다.
 2. 덧셈과 실수 곱에 대하여 닫혀 있어야 한다.
@@ -71,7 +71,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDUzMTQ1NzIsLTExMTk4ODcxNSwtNz
-I5NzM5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTky
-NywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbMTY1MDgyNzY1NiwtMTExOTg4NzE1LC03Mj
+k3Mzk4ODMsNTE2NzUzNTMsMjA2MjcwOTE5MywtOTgzODc1OTI3
+LDEwNzE5NTgyNThdfQ==
 -->
