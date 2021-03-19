@@ -26,12 +26,12 @@ $$
 \lambda_1 v_1+\cdots+\lambda_k v_k, \lambda_1+\cdots+\lambda_k=1
 $$
 
-## 평면 덮개
+## 평면 덮개 (affine hull)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc3NDc5OTMsLTY2NjQ3NzA0MiwyMD
-Y5MzA2NDcyLC00ODY1Mzk3ODgsLTE3ODE5NjY0NjEsMTA3NTc2
-NTY1NCwyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbLTE0MTAyNTQ2OCwtNjY2NDc3MDQyLDIwNj
+kzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MSwxMDc1NzY1
+NjU0LDIwNDMzODAyNDJdfQ==
 -->
