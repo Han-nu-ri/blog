@@ -37,7 +37,7 @@ $$
 ## 빈공간(영공간, null space)
 행렬 A의 빈공간이란, Ax=0의 모든 해 집합 x를 빈공간이라고 합니다.
 $$
-A \in R^{m
+A \in R^{m \times n}, N(A)=\{x|Ax=0\}
 $$
 
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
@@ -52,6 +52,6 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3OTcxMDA1LDUxNjc1MzUzLDIwNjI3MD
-kxOTMsLTk4Mzg3NTkyNywxMDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbLTEwNTQ4Mzg3MzcsNTE2NzUzNTMsMjA2Mj
+cwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
 -->
