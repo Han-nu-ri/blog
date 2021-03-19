@@ -33,9 +33,21 @@ $$
 ## 평면 독립과 평면 종속 (Affinely dependent, affinely independent)
 선형 독립과 종속을 직관적으로 이해한 것처럼, 평면 독립과 종속을 이해할 수 있습니다.
 > 벡터들의 집합에 그들의 평면 덮개(Affine hull)을 생성하는데 필요한 벡터들보다 더 있다면 평면 종속, 필요한 최소한의 벡터들만 있다면 평면 독립이다.
+
+평며
+$$
+V=\{v_1, v_2, v_3\}
+=\{
+\begin{pmatrix} 1 \\ 0 \end{pmatrix}, 
+\begin{pmatrix} 0 \\ 1 \end{pmatrix},
+\begin{pmatrix} 2\\ 2 \end{pmatrix}
+\}
+$$
+집합 V의 모든 점이 남은 점들로 생성된 affine hull에 속하지 않습니다. 따라서 
 ![image](https://user-images.githubusercontent.com/11609881/111814553-f4db4600-891d-11eb-9c39-e9a478eae763.png)
 
+![image](https://user-images.githubusercontent.com/11609881/111814599-0290cb80-891e-11eb-9a33-3e56f46cf894.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQzODE3NiwyMjA0MjYxNDEsMTUzMT
-IyMDcxMywtOTQ2ODU3OTFdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjgzMjgwLDIyMDQyNjE0MSwxNTMxMj
+IwNzEzLC05NDY4NTc5MV19
 -->
