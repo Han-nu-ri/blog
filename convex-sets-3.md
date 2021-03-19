@@ -86,7 +86,7 @@ $$
 \end{pmatrix}
 $$
 위 행렬 A는 벡터 [2, 1, 0, 2], [-2, 1, 1, 0]가 기저가 되는 부분 공간을 빈공간으로 가지게 됩니다.
-확인해볼까요? 두 기저 벡터의 합은 부분 공간 위에 있습니다. 기저 벡터의 정의에 의해서요. A와 곱하게 되면,
+확인해볼까요? 두 기저 벡터의 합은 부분 공간 위에 있습니다. 기저 벡터의 정의에 의해서요. A와 곱하게 되면, 0 벡터가 됩니다.
 $$
 Ax= \begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
 {-1 \over 2} & -1 & 0 & 1  \\
@@ -107,7 +107,7 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzM1MjY2MSwtMTQ3NTY2MTQ0MiwtMT
+eyJoaXN0b3J5IjpbLTk2NzA2MzM3MSwtMTQ3NTY2MTQ0MiwtMT
 A5NDAzODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4NywxOTI2Njk0
 MzQ4LDc3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQwNzI3NTIyLC
 0xODAxNTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOTg4Myw1MTY3
