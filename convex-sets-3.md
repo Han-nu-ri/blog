@@ -32,14 +32,15 @@ $$
 > 부분 공간 S를 임의의 벡터 w로 평행 이동한 집합 S + w는 평면 집합이다.
 
 따라서 부분 공간은 0을 포함하는 평면 집합으로 이해할 수 있습니다.
-## 기저
+## 기저(basis)
 
 ## 빈공간(영공간, null space)
 행렬 A의 빈공간이란, Ax=0의 모든 해 집합 x를 빈공간이라고 합니다.
 $$
 A \in R^{m \times n}, N(A)=\{x|Ax=0\}.
 $$
-
+Ax=0의 선형 변환은 아래와 같은 그림으로 이해할 수 있습니다.
+![image](https://user-images.githubusercontent.com/11609881/111743149-99349c80-88cc-11eb-910d-8e8b64e0e4f2.png)
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
 $$
@@ -52,6 +53,6 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgxMTQ3MDEsNTE2NzUzNTMsMjA2Mj
-cwOTE5MywtOTgzODc1OTI3LDEwNzE5NTgyNThdfQ==
+eyJoaXN0b3J5IjpbMTY2MjE0NjM5OSw1MTY3NTM1MywyMDYyNz
+A5MTkzLC05ODM4NzU5MjcsMTA3MTk1ODI1OF19
 -->
