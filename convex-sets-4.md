@@ -20,11 +20,14 @@ $$
 $$
 V=\{v_1, v_2, v_3\}
 =\{
-\begin{pmatrix} 1 \\ 0 \\ 1\end{pmatrix}, 
-\begin{pmatrix} 0 \\ 1 \end{pmatrix},
-\begin{pmatrix} 2\\ 2 \end{pmatrix}
+\begin{pmatrix} 1 \\ 0 \\ 0\end{pmatrix}, 
+\begin{pmatrix} 0 \\ 1 \\ 0\end{pmatrix},
+\begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix}
 \}
 $$
+위와 같은 집합 V에서, 다른 두 벡터의 선형 결합으로 하나의 벡터를 표현할 수 없습니다. 따라서 V는 선형 독립입니다.
+
+## 평면 독립과 평면 종속
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTY3MDg5NSwtOTQ2ODU3OTFdfQ==
+eyJoaXN0b3J5IjpbMTUzMTIyMDcxMywtOTQ2ODU3OTFdfQ==
 -->
