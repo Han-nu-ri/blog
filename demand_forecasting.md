@@ -35,8 +35,11 @@ Innovator들의 수요는 처음에 최고조로 시작하다가 점점 줄어�
 이런 수요 모델을 't 시간에 제품을 살 확률'로 수식적으로 표현하면 아래와 같습니다.
 $$
 P(t)=p+{q \over m}D(t),\\
-P(t): \text{t시간에 제품을 살 확률}
+P(t): \text{t시간에 제품을 살 확률} \\
+p: innovation 계수 \\
+q: imitation 계수 \\
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODIwNjA1M119
+eyJoaXN0b3J5IjpbMjEyNDg1ODEyOV19
 -->
