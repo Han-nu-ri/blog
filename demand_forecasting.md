@@ -32,7 +32,7 @@ $$
 새로운 IT기기가 발매되면 바로 구매하시는 편이신가요? 저는 보통 사용 해본 사람들의 경험을 듣고 사는 편 인데, 이 글을 읽으시는 분들 중에는 얼리어댑터분들도 계시겠지요. 이렇게 얼리어댑터와 같은 Innovator들이 처음 제품을 사고, 그 소문이 저와 같은 Imitator들에게 확산되어 제품을 수요가 변하는 양상을 모델링한 것을 Bass diffusion model이라고 합니다.
 Innovator들의 수요는 처음에 최고조로 시작하다가 점점 줄어들게 되고, Imitator들의 수요는 처음 없다가 점점 증가해서 최고점을 찍고 내려오게 됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/111876772-a1cbc680-89e3-11eb-982f-f4776ab0c895.png)
-이런 수요 모델을 't 시간에 제품을 살 확률'로 수식적으로 표현하면 아래와 같습니다.
+이런 수요 모델을 '제품을 사지 않은 사람이 t 시간에 제품을 살 확률'로 수식적으로 표현하면 아래와 같습니다.
 $$
 P(t)=p+{q \over m}D(t),\\
 P(t): \text{t시간에 제품을 살 확률} \\
@@ -43,7 +43,7 @@ D(t): \text{t 시간 까지의 누적 수요}\\
 $$
 
 제품이 처음 시장에 나올 때 그 제품을 살 확률은 어떻게 될까요? t=0이므로, 누적 수요가 없어서 D(0)=0이 됩니다. 따라서 P(0)=p가 되지요. 즉 p는 Innovator에 의한 초기 수요를 '확률'로 표현한 계수입니다. 
-시간이 지날수록, Innovator에 의해 Imitator들이 수요 욕구가 감염되기 시작합니다. 이것은 t 시간까지의 누적 수요에 비례하여 D(t)*q/m으로 표현되는데,
+시간이 지날수록, Innovator에 의해 Imitator들이 수요 욕구가 감염되기 시작합니다. 이것은 t 시간까지의 누적 수요에 비례하여 D(t)*q/m으로 표현됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY1MTI5NTksMjQwMjE2MDldfQ==
+eyJoaXN0b3J5IjpbMTM2NTI1Njc3MCwyNDAyMTYwOV19
 -->
