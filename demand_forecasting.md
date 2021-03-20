@@ -43,6 +43,8 @@ D(t): \text{t 시간 까지의 누적 수요}\\
 $$
 
 제품이 처음 시장에 나올 때 그 제품을 살 확률은 어떻게 될까요? t=0이므로, 누적 수요가 없어서 D(0)=0이 됩니다. 따라서 P(0)=p가 되지요. 즉 p는 Innovator에 의한 초기 수요를 '확률'로 표현한 계수입니다. 시간이 지날수록, Innovator에 의해 Imitator들이 수요 욕구가 감염되기 시작합니다. 이것은 t 시간까지의 누적 수요에 비례하여 D(t)*q/m으로 표현됩니다.
+
+P(t)를 순간 수요와 누적 수요, 시장 크기로 나타낼 수 있습니다. p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjgzNDI4MiwyNDAyMTYwOV19
+eyJoaXN0b3J5IjpbOTE4NjExODYwLDI0MDIxNjA5XX0=
 -->
