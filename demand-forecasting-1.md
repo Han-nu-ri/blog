@@ -37,9 +37,10 @@ $$
 
 위 식을 만족하는 closed-form의 표현은 아래와 같습니다. (증명은 생략합니다)
 $$
-D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}}}
+D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}e^{-(p+q)t}}} \\
+d(t)={{mp(p+q)^2e^{-(p+q)t}} \over {p+qe^{-(p+q)t}}^2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQzNzAxNzYsLTE0MjIzMTQxOCwyMT
-IwNjM4NTUyXX0=
+eyJoaXN0b3J5IjpbNTUyMjcyNTUsLTE0MjIzMTQxOCwyMTIwNj
+M4NTUyXX0=
 -->
