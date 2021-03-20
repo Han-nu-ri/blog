@@ -41,8 +41,12 @@ D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}e^{-(p+q)t}}} \\
 d(t)={{mp(p+q)^2e^{-(p+q)t}} \over (p+qe^{-(p+q)t})^2}
 $$
 
-d(t)를 t에 대해서 미분하여 0인 지점을 확인하면 
+d(t)를 t에 대해서 미분하여 0인 지점을 확인하면 수요가 정점을 찍는 순간(t*)과 그때의 수요, 누적 수요를 알 수 있습니다.
+$$
+t^*={1 \over p+q}ln({q \over p}) \\
+d(t^*)=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDM1NTMyLC0xNDIyMzE0MTgsMjEyMD
+eyJoaXN0b3J5IjpbNzQ4MTAzNTIzLC0xNDIyMzE0MTgsMjEyMD
 YzODU1Ml19
 -->
