@@ -47,7 +47,8 @@ t^*={1 \over p+q}ln({q \over p}) \\
 d(t^*)={m(p+q)^2 \over 4q} \\
 D(t^*)={m(q-p) \over 2q}
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTgyMTA2MywtMTQyMjMxNDE4LDIxMj
-A2Mzg1NTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA5Nzc5MzEsMTY4OTgyMTA2MywtMT
+QyMjMxNDE4LDIxMjA2Mzg1NTJdfQ==
 -->
