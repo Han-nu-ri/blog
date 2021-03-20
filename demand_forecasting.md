@@ -41,6 +41,8 @@ q: \text{imitation 계수} \\
 m: \text{market 크기} \\
 D(t): \text{t 시간 까지의 누적 수요}\\
 $$
+
+제품이 처음 시장에 나올 때 그 제품을 살 확률
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDk1NDQ1OF19
+eyJoaXN0b3J5IjpbLTM0MTk2MjA3Ml19
 -->
