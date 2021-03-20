@@ -36,10 +36,11 @@ Innovator들의 수요는 처음에 최고조로 시작하다가 점점 줄어�
 $$
 P(t)=p+{q \over m}D(t),\\
 P(t): \text{t시간에 제품을 살 확률} \\
-p: innovation 계수 \\
-q: imitation 계수 \\
-
+p: \text{innovation 계수} \\
+q: \text{imitation 계수} \\
+m: \text{market 크기} \\
+D(t): \text{t 시간 까지의 누적 수요}\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDg1ODEyOV19
+eyJoaXN0b3J5IjpbLTUxMDk1NDQ1OF19
 -->
