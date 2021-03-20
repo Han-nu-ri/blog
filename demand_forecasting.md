@@ -42,7 +42,7 @@ m: \text{market 크기} \\
 D(t): \text{t 시간 까지의 누적 수요}\\
 $$
 
-제품이 처음 시장에 나올 때 그 제품을 살 확률
+제품이 처음 시장에 나올 때 그 제품을 살 확률은 어떻게 될까요? t=0이므로, 누적 수요가 없어서 D(0)=0이 됩니다. 따라서 P(0)=p가 되지요. 즉 p는 Innovator에 의한 초기 수요를 '확률'로 표현한 계수입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTk2MjA3Ml19
+eyJoaXN0b3J5IjpbLTE4NDA5OTI2NF19
 -->
