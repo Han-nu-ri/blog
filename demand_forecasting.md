@@ -49,11 +49,11 @@ P(t)를 순간 수요와 누적 수요, 시장 크기로 나타낼 수 있습니
 $$
 P(t) = {d(t) \over m-D(t)}
 $$
-이를 베이즈룰을 활용하면 쉽게 유도할 수 있습니다.
+이를 Discrete-Time Version의 Bass model이긴 하지만, 베이즈룰을 활용하면 쉽게 유도할 수 있습니다. 
 $$
 P(t)=p+{q \over m}D(t) \\
 
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgzODc3MjEsMjQwMjE2MDldfQ==
+eyJoaXN0b3J5IjpbMjAzNDU1NTQyOCwyNDAyMTYwOV19
 -->
