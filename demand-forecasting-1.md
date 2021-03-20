@@ -34,6 +34,7 @@ P(A|B)={P(B|A)P(A) \over P(B)} \\
 = {d_t \over m-D(t)}
 $$
 입니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDYzODU1Ml19
+eyJoaXN0b3J5IjpbLTE0MjIzMTQxOCwyMTIwNjM4NTUyXX0=
 -->
