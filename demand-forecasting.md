@@ -1,5 +1,5 @@
 # demand-forecasting: Bass diffusion model
-수요 예측 모델 중 Bass diffusion model에 관한 포스트입니다. 서울대 홍성필 교수님의 최적화 원론 강의와 위키피디아를 정리했음을 밝힙니다. 
+수요 예측 모델 중 Bass diffusion model에 관한 포스트입니다. 서울대 박건수 교수님의 생산계획 및 통제 강의와 Fundamentals of Supply Chain Theory, 2nd Edition를 참고하여 정리했음을 밝힙니다. 
 
 ## Bass diffusion model
 새로운 IT기기가 발매되면 바로 구매하시는 편이신가요? 저는 보통 사용 해본 사람들의 경험을 듣고 사는 편 인데, 이 글을 읽으시는 분들 중에는 얼리어댑터분들도 계시겠지요. 이렇게 얼리어댑터와 같은 Innovator들이 처음 제품을 사고, 그 소문이 저와 같은 Imitator들에게 확산되어 제품을 수요가 변하는 양상을 모델링한 것을 Bass diffusion model이라고 합니다.
@@ -35,5 +35,5 @@ P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTMyNDgwODhdfQ==
+eyJoaXN0b3J5IjpbLTkyMTE5Njg3Nl19
 -->
