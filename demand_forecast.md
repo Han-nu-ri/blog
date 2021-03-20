@@ -30,9 +30,9 @@ $$
 
 ## Bass diffusion model
 새로운 IT기기가 발매되면 바로 구매하시는 편이신가요? 저는 보통 사용 해본 사람들의 경험을 듣고 사는 편 인데, 이 글을 읽으시는 분들 중에는 얼리어댑터분들도 계시겠지요. 이렇게 얼리어댑터와 같은 Innovator들이 처음 제품을 사고, 그 소문이 저와 같은 Imitator들에게 확산되어 제품을 수요가 변하는 양상을 모델링한 것을 Bass diffusion model이라고 합니다.
-Innovator들은 보통 처음 
+Innovator들은 처음에 수요가 최고조로 시작하다가 점점 줄어들게 되고, Immiator들은 처음 수요는 없다가 점점 증가해서 최고점을 찍고 내려오게 됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTEwNDkwOCwtNzc3OTI0ODA3LDkxNj
+eyJoaXN0b3J5IjpbLTIyMDk0NDI5MywtNzc3OTI0ODA3LDkxNj
 cyNjQ1OCwtMTEyNzkwMzk3MiwzMTMyODA5OTcsNzMwOTk4MTE2
 XX0=
 -->
