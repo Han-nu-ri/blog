@@ -47,8 +47,13 @@ $$
 P(t)를 순간 수요와 누적 수요, 시장 크기로 나타낼 수 있습니다. 예를 들어 10명 중 t 시간까지 직전까지 구매한 사람이 5명이라고 하고, t 시간에 구매한 사람을 2명이라고 해보죠. 그럼 P(t)를 2 / (10 - 5)으로 표현할 수 있습니다.
 다시 말해  P(t)는 아직 사지 않은 잠재적 구매층의 크기 ('시장의 크기 - 누적 수요') 중  t 시간 순간에 구매한 크기의 비율이 됩니다.
 $$
-P(t) = {d(t) \over (m-D(t))}
+P(t) = {d(t) \over m-D(t)}
+$$
+이를 베이즈룰을 활용하면 쉽게 유도할 수 있습니다.
+$$
+P(t)=p+{q \over m}D(t) \\
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTUyNjI3OSwyNDAyMTYwOV19
+eyJoaXN0b3J5IjpbLTE1MTgzODc3MjEsMjQwMjE2MDldfQ==
 -->
