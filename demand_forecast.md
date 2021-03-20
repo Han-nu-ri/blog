@@ -24,11 +24,11 @@ S_1=D_2-D_1. \\
 $$
 $$
 y_2=I_1+S_1=D_1+(D_2-D_1)=D_2=1113 \\
-y_3=I_2+S_2=(0.05)D_2+(0.95)(I_1+S_1) \\ + 0.1(I_2-I_1)+0.9S_1
+y_3=I_2+S_2=(0.05)D_2+(0.95)(I_1+S_1) \\ + 0.1(I_2-I_1)+0.9S_1 \\
 \vdots
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMDA1NjIzLDkxNjcyNjQ1OCwtMTEyNz
-kwMzk3MiwzMTMyODA5OTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc3NzkyNDgwNyw5MTY3MjY0NTgsLTExMj
+c5MDM5NzIsMzEzMjgwOTk3LDczMDk5ODExNl19
 -->
