@@ -9,10 +9,9 @@ y_3=0.3D_2+0.7y_2=(0.3)*1113+0.7*1000 \\
 \vdots \\
 y_{12}=0.3D_{11}+0.7y_{11}\\
 y_{13}=0.3D_{12}+0.7y_{12}\\
-y_{14}=0.3D_{13}+0.7y_{13}\\
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc5MDM5NzIsMzEzMjgwOTk3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbOTE2NzI2NDU4LC0xMTI3OTAzOTcyLDMxMz
+I4MDk5Nyw3MzA5OTgxMTZdfQ==
 -->
