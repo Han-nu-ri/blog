@@ -18,10 +18,12 @@ y_t=I_{t-1}+S_{t-1} \\
 $$
 with alpha=0.05, beta=0.1.
 $$
-y_1=I_
+y_1=D_1=1000 \\
+y_2=I_1+S_1=D_1+(D_2-D_1)=D_2=1113 \\
+y_3=I_2+S_2=
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTYxNTk4MCw5MTY3MjY0NTgsLTExMj
-c5MDM5NzIsMzEzMjgwOTk3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwMzY2NDczMjAsOTE2NzI2NDU4LC0xMT
+I3OTAzOTcyLDMxMzI4MDk5Nyw3MzA5OTgxMTZdfQ==
 -->
