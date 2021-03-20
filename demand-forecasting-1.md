@@ -50,13 +50,12 @@ $$
 
   
 
-p:0.07, q: 0.31
-
-m170000
+p:0.07, q: 0.31, m: 170000일 때, 누적 수요가 전체 market size의 90%가 되는 시점은 언제를 구해보죠.
 $$
-
+{D(t) \over m} = 0.9 \\
+={1}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNzg4NzQ2LC0xODQwOTc3OTMxLDE2OD
-k4MjEwNjMsLTE0MjIzMTQxOCwyMTIwNjM4NTUyXX0=
+eyJoaXN0b3J5IjpbLTIyNzIzMjA0MCwtMTg0MDk3NzkzMSwxNj
+g5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1Ml19
 -->
