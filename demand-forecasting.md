@@ -1,4 +1,4 @@
-# demand-forecasting: Bass diffusion model
+# demand-forecasting-1: Bass diffusion model
 수요 예측 모델 중 Bass diffusion model에 관한 포스트입니다. 서울대 박건수 교수님의 생산계획 및 통제 강의와 Fundamentals of Supply Chain Theory, 2nd Edition를 참고하여 정리했음을 밝힙니다. 
 
 ## Bass diffusion model
@@ -35,5 +35,5 @@ P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTE5Njg3Nl19
+eyJoaXN0b3J5IjpbMjEyMDYzODU1Ml19
 -->
