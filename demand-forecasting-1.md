@@ -56,10 +56,13 @@ $$
 ={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} \\
 0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} \\
 {7 \over 2860} = e^{-0.38t} \\
-t={ln({7 \over 2860}) \over -0.38}=
+$$
+양변에 자연로그를 씌우고 전개하면 아래와 같습니다. 
+$$
+t={ln({7 \over 2860}) \over -0.38}=15.82280725
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDQ0NTQzNSwtMTg0MDk3NzkzMSwxNj
-g5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1Ml19
+eyJoaXN0b3J5IjpbODc3MTI1NzEyLC0xODQwOTc3OTMxLDE2OD
+k4MjEwNjMsLTE0MjIzMTQxOCwyMTIwNjM4NTUyXX0=
 -->
