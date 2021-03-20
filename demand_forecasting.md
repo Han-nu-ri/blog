@@ -49,13 +49,13 @@ P(t)를 순간 수요와 누적 수요, 시장 크기로 나타낼 수 있습니
 $$
 P(t) = {d(t) \over m-D(t)}
 $$
-이를 이산의 Bass model이긴 하지만, 베이즈룰을 활용하면 쉽게 유도할 수 있습니다. A를 t 시간의 구매하는 사건, B를 t 시간 전에 구매하지 않을 사건이라고 하면 P(t)=P(A|B)입니다. 베이즈룰 통해 전개해보면,
+이를 이산 시간의 Bass model이긴 하지만, 베이즈룰을 활용하면 쉽게 유도할 수 있습니다. ㅇA를 t 시간의 구매하는 사건, B를 t 시간 전에 구매하지 않을 사건이라고 하면 P(t)=P(A|B)입니다. 베이즈룰 통해 전개해보면,
 $$
 P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
 P(B|A)는 t 시간에 구매한 사건이 주어졌을 때 t 시간 전에 구매하지 않을 확률이므로 당연히 1이 됩니다. P(A)는 t 시간에 구매할 확률이므로 t 시간의 수가 됩니다. P(B)는 t 시간 전에 구매하지 않을 확률이므로, m-D(t)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTIxNTY4NCwyMDM0NTU1NDI4LDI0MD
-IxNjA5XX0=
+eyJoaXN0b3J5IjpbLTIxMjk0NTg1LDIwMzQ1NTU0MjgsMjQwMj
+E2MDldfQ==
 -->
