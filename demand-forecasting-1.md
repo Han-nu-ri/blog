@@ -48,7 +48,15 @@ d(t^*)={m(p+q)^2 \over 4q} \\
 D(t^*)={m(q-p) \over 2q}
 $$
 
+  
+
+p:0.07, q: 0.31
+
+m170000
+$$
+
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA5Nzc5MzEsMTY4OTgyMTA2MywtMT
-QyMjMxNDE4LDIxMjA2Mzg1NTJdfQ==
+eyJoaXN0b3J5IjpbOTgzNzg4NzQ2LC0xODQwOTc3OTMxLDE2OD
+k4MjEwNjMsLTE0MjIzMTQxOCwyMTIwNjM4NTUyXX0=
 -->
