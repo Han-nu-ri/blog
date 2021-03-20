@@ -35,6 +35,8 @@ P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjIzMTQxOCwyMTIwNjM4NTUyXX0=
+eyJoaXN0b3J5IjpbLTE1MDY4MjA4MTIsLTE0MjIzMTQxOCwyMT
+IwNjM4NTUyXX0=
 -->
