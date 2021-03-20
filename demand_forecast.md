@@ -20,10 +20,10 @@ with alpha=0.05, beta=0.1.
 $$
 y_1=D_1=1000 \\
 y_2=I_1+S_1=D_1+(D_2-D_1)=D_2=1113 \\
-y_3=I_2+S_2=
+y_3=I_2+S_2=(0.05)D_2+(0.95)(I_1+S_1) \\ + 0.1(I_2-I_1)+0.
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2NDczMjAsOTE2NzI2NDU4LC0xMT
-I3OTAzOTcyLDMxMzI4MDk5Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjA2MjgyNTczOSw5MTY3MjY0NTgsLTExMj
+c5MDM5NzIsMzEzMjgwOTk3LDczMDk5ODExNl19
 -->
