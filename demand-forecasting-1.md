@@ -35,8 +35,11 @@ P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
 
-
+위 식을 만족하는 closed-form의 표현은 아래와 같습니다. (증명은 생략합니다)
+$$
+D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}}}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY4MjA4MTIsLTE0MjIzMTQxOCwyMT
+eyJoaXN0b3J5IjpbLTE3MjQzNzAxNzYsLTE0MjIzMTQxOCwyMT
 IwNjM4NTUyXX0=
 -->
