@@ -14,10 +14,11 @@ $$
 (b) Double exponential smoothing,
 $$
 y_t=I_{t-1}+S_{t-1} \\
-= \alpha D_{t-1}+(1-\alpha)(
+= \alpha D_{t-1}+(1-\alpha)(I_{t-2}+S_{t-2}) \\
+= \beta (I_{t-1}-I_{t-2}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5MDg5NzAxLDkxNjcyNjQ1OCwtMTEyNz
+eyJoaXN0b3J5IjpbNzEwODUzODc2LDkxNjcyNjQ1OCwtMTEyNz
 kwMzk3MiwzMTMyODA5OTcsNzMwOTk4MTE2XX0=
 -->
