@@ -29,9 +29,9 @@ y_3=I_2+S_2=(0.05)D_2+(0.95)(I_1+S_1) \\ + 0.1(I_2-I_1)+0.9S_1 \\
 $$
 
 ## Bass diffusion model
-새로운 IT기기가 발매되면, 처음 어Bass diffusion model은
+새로운 IT기기가 발매되면 바로 구매하시는 편이신가요? 저는 보통 사용 해본 사람들의 경험을 듣고 사는 편 입니다. 제품으얼리어댑터들이 구매해Bass diffusion model은
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ3NTIzMjIsLTc3NzkyNDgwNyw5MT
-Y3MjY0NTgsLTExMjc5MDM5NzIsMzEzMjgwOTk3LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNjI4ODEzNTM5LC03Nzc5MjQ4MDcsOTE2Nz
+I2NDU4LC0xMTI3OTAzOTcyLDMxMzI4MDk5Nyw3MzA5OTgxMTZd
+fQ==
 -->
