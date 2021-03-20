@@ -53,9 +53,10 @@ $$
 p:0.07, q: 0.31, m: 170000일 때, 누적 수요가 전체 market size의 90%가 되는 시점은 언제를 구해보죠.
 $$
 {D(t) \over m} = 0.9 \\
-={1}
+={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} \\
+0.1=(1+0.9 \times0.31
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzIzMjA0MCwtMTg0MDk3NzkzMSwxNj
+eyJoaXN0b3J5IjpbMTg1MzI5NzEyNSwtMTg0MDk3NzkzMSwxNj
 g5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1Ml19
 -->
