@@ -54,8 +54,12 @@ $$
 P(A|B)={P(B|A)P(A) \over P(B)} \\
 $$
 입니다.
-P(B|A)는 t 시간에 구매한 사건이 주어졌을 때 t 시간 전에 구매하지 않을 확률이므로 당연히 1이 됩니다. P(A)는 t 시간에 구매할 확률이므로 d(t)/m이 됩니다. P(B)는 t 시간 전에 구매하지 않을 확률이므로, 1 - 
+P(B|A)는 t 시간에 구매한 사건이 주어졌을 때 t 시간 전에 구매하지 않을 확률이므로 당연히 1이 됩니다. P(A)는 t 시간에 구매할 확률이므로 d(t)/m이 됩니다. P(B)는 t 시간 전에 구매하지 않을 확률이므로, '1 - t 시간 전까지 구매할 확률'이므로 '1-D(t)/m'입니다. 따라서,
+$$
+P(A|B)={P(B|A)P(A) \over P(B)} \\
+=1 \times {d_t/m} 
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODQ2MzQ0LDIwMzQ1NTU0MjgsMjQwMj
-E2MDldfQ==
+eyJoaXN0b3J5IjpbMTE5NzM1MDAxOCwyMDM0NTU1NDI4LDI0MD
+IxNjA5XX0=
 -->
