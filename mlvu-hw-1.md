@@ -18,8 +18,8 @@ l(\theta)=log(L(\theta))=log(\prod_{i=1}^N p_\theta(x_i))=\sum_{i=1}^N log(p_\th
 log({1 \over B(\alpha, \beta)} x_2^{\alpha -1}(1-x_2)^{\beta -1}) + \\
 \vdots \\
 log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
-= -Nlog({B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i^{\beta-1})} \\
-= -Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + \sum_{i=1}^N {log(1-x_i^{\beta-1})}
+= -Nlog({B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i)^{\beta-1}} \\
+= -Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + (\beta-1)\sum_{i=1}^N {log(1-x_i)}
 $$
 (b) Derive the partial derivative of log likelihood with regards to alpha.
 $$
@@ -27,6 +27,6 @@ $$
 $$
 참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM4MjM5NywxNDgzOTUwNDk1LC0xOD
+eyJoaXN0b3J5IjpbLTk5Nzc0NTMzNiwxNDgzOTUwNDk1LC0xOD
 IzMTc0NTA2XX0=
 -->
