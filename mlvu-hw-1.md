@@ -20,8 +20,9 @@ log({1 \over B(\alpha, \beta)} x_2^{\alpha -1}(1-x_2)^{\beta -1}) + \\
 log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
 = -Nlog({B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i^{\beta-1})}
 $$
-
+(b) Derive the partial derivative of log likelihood with re
 참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Mzk1MDQ5NSwtMTgyMzE3NDUwNl19
+eyJoaXN0b3J5IjpbNDc2MjgyMzU0LDE0ODM5NTA0OTUsLTE4Mj
+MxNzQ1MDZdfQ==
 -->
