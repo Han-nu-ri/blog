@@ -29,9 +29,9 @@ $$
 $$
 {\partial l(\theta) \over \partial \beta}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
-
+(d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.
 참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODkxNjc4MCwtMjAwODQ0MTA0NCwxND
+eyJoaXN0b3J5IjpbLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxND
 gzOTUwNDk1LC0xODIzMTc0NTA2XX0=
 -->
