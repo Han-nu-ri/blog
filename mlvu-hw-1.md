@@ -25,13 +25,13 @@ $$
 $$
 {\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
 $$
-\(c) Derive the partial derivative of log likelihood with regards to beta.
+(c) Derive the partial derivative of log likelihood with regards to beta.
 $$
 {\partial l(\theta) \over \partial \beta}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
 
 참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMT
-gyMzE3NDUwNl19
+eyJoaXN0b3J5IjpbMTcxODkxNjc4MCwtMjAwODQ0MTA0NCwxND
+gzOTUwNDk1LC0xODIzMTc0NTA2XX0=
 -->
