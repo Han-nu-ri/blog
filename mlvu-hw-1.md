@@ -6,10 +6,14 @@ where \ \theta=(\alpha, \beta) and  \ \text{B is normalization constant}.
 $$
 
 (a) Write the log-likelihood of N i.i.d samples from Beta distribution.
-Likelihood of N i.i.d samples from Beta distribution is
+Likelihood of N i.i.d samples from Beta distribution is written as follow:
 $$
-L(\theta)=\prod_{i=1}^N p_\theta(x_i)
+L(\theta)=\prod_{i=1}^N p_\theta(x_i).
+$$
+Log likelihood is a log of likelihood:
+$$
+l(\theta)=\prod_{i=1}^N log(p_\theta(x_i))
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzExODg4NV19
+eyJoaXN0b3J5IjpbLTgyODIwMzQ0OV19
 -->
