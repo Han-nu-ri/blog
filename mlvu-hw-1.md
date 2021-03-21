@@ -18,8 +18,8 @@ l(\theta)=log(L(\theta))=log(\prod_{i=1}^N p_\theta(x_i))=\sum_{i=1}^N log(p_\th
 log({1 \over B(\alpha, \beta)} x_2^{\alpha -1}(1-x_2)^{\beta -1}) + \\
 \vdots \\
 log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
-= Nlog({1 \over B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i^{\beta-1})}
+= -Nlog({B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i^{\beta-1})}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NTk3MDgwXX0=
+eyJoaXN0b3J5IjpbLTE4MjMxNzQ1MDZdfQ==
 -->
