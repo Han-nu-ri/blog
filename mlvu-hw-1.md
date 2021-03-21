@@ -14,9 +14,12 @@ Log likelihood is a log of likelihood:
 $$
 l(\theta)=log(L(\theta))=log(\prod_{i=1}^N p_\theta(x_i))=\sum_{i=1}^N log(p_\theta(x_i)) \\
 = \sum_{i=1}^N log({1 \over B(\alpha, \beta)} x_i^{\alpha -1}(1-x_i)^{\beta -1}) \\
-= log({1 \over B(\alpha, \beta)} x_i^{\alpha -1}(1-x_i)^{\beta -1}) + \\
-log({1 \over B(\alpha, \beta)} x_i^{\alpha -1}(1-x_i)^{\beta -1}) + 
+= log({1 \over B(\alpha, \beta)} x_1^{\alpha -1}(1-x_1)^{\beta -1}) + \\
+log({1 \over B(\alpha, \beta)} x_2^{\alpha -1}(1-x_2)^{\beta -1}) + \\
+\vdots \\
+log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
+Nlog({1 \over B(\alpha, \beta)})
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTIzODg1MF19
+eyJoaXN0b3J5IjpbLTY5Nzg3NTQ5MV19
 -->
