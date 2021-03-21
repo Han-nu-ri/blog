@@ -23,10 +23,14 @@ log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
 $$
 (b) Derive the partial derivative of log likelihood with regards to alpha.
 $$
-{\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+
+{\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
+$$
+(c) Derive the partial derivative of log likelihood with regards to beta.
+$$
+{\partial l(\theta) \over \partial \beta}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
 $$
 참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Nzc0NTMzNiwxNDgzOTUwNDk1LC0xOD
+eyJoaXN0b3J5IjpbMTU5MjA0MTY5OSwxNDgzOTUwNDk1LC0xOD
 IzMTc0NTA2XX0=
 -->
