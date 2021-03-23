@@ -30,9 +30,10 @@ $$
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 
-일반적인 이미지의 각 픽셀은 RGB로 표현이 됩니다. RGB 색 모형은 빛의 삼원색을 이용하여 색을 표현하는 방식입니다. RGB로 표현된 이미지의 각 픽셀에는 빨간색, 초록색, 파란색 값이 어느 정도로 섞여 있는지 알 수 있습니다. 예를 들어 주황색은 (255,127,0)으로 나타낼 수 있습니다. 
+일반적인 이미지의 각 픽셀은 RGB로 표현이 됩니다. RGB 색 모형은 빛의 삼원색을 이용하여 색을 표현하는 방식입니다. RGB로 표현된 이미지의 각 픽셀에는 빨간색, 초록색, 파란색 값이 어느 정도로 섞여 있는지 알 수 있습니다. 예를 들어 주황색은 (255,127,0)으로 나타낼 수 있습니다.
+RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 32 X 32 크기의 이미지가 있다고 하죠.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgyMjIxMDksLTEzNTA2OTgzOSwtMT
-kyOTUwNjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0
-ODczNzYyMF19
+eyJoaXN0b3J5IjpbMTA5NzMxODM3MCwtMTM1MDY5ODM5LC0xOT
+I5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4
+NzM3NjIwXX0=
 -->
