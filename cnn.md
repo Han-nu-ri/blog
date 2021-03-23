@@ -35,12 +35,12 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 ![image](https://user-images.githubusercontent.com/11609881/112203329-c333e900-8c55-11eb-81fe-3555a08def5c.png)
 이미지 출처: http://taewan.kim/post/cnn/#fnref:3
 
-이미지가 RGB와 같은 3개의 채널로 구성되어 있다면, 이와 합성곱하는 필터도 3개의 채널로 구성하여 채널 간 합성곱을 한 후 같은 픽셀끼리 더합니다. 그리고 각 픽셀에 bias를 더해주죠 (아래 그림에는 표현되어 있지 않습니다).
+이미지가 RGB와 같은 3개의 채널로 구성되어 있다면, 이와 합성곱하는 필터도 3개의 채널로 구성하여 채널 간 합성곱을 한 후 같은 픽셀끼리 더합니다. 그리고 각 픽셀에 같은 bias 값을 더해주죠 (아래 그림에는 표현되어 있지 않습니다).
 ![image](https://user-images.githubusercontent.com/11609881/112205451-232b8f00-8c58-11eb-82a5-4d6acb2a5333.png)
 출처: http://taewan.kim/post/cnn/#fnref:3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDQ4ODUxMiwtMTIxNTAyNDg4NSwtMT
-AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
-NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE5Mzg3NzgwNjUsLTEyMTUwMjQ4ODUsLT
+EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
+MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
