@@ -64,10 +64,10 @@ $$
 ![image](https://user-images.githubusercontent.com/11609881/112212053-dba90100-8c5f-11eb-911f-1005a837fb62.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
 
-
+## 이미지의 특징을 학습하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODU4Nzk4OSwtOTgzMTk0MjUzLDEzMD
-E3OTI3NjEsLTEyMTUwMjQ4ODUsLTEwMjgxNjQ0ODIsLTEzNTA2
-OTgzOSwtMTkyOTUwNjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4ND
-Y2MiwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbLTE3OTQxNTQyMDMsLTk4MzE5NDI1MywxMz
+AxNzkyNzYxLC0xMjE1MDI0ODg1LC0xMDI4MTY0NDgyLC0xMzUw
+Njk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1NzYzNTMsLTEwNjQ1OD
+Q2NjIsLTEzNDg3Mzc2MjBdfQ==
 -->
