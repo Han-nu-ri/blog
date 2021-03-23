@@ -1,4 +1,4 @@
-# CNN: (Convolutional Neural Network)의 이해
+# CNN (Convolutional Neural Network)의 이해
 이미지, 영상과 같은 시각적 데이터에 사용되는 CNN (Convolutional Neural Network)에 대한 글입니다. 위키피디아, http://taewan.kim/post/cnn/#fnref:3 블로그와 CS231n (https://cs231n.github.io/convolutional-networks/)를 참고하였음을 밝힙니다.
 ## 도입
 사람은 이미지, 영상을 어떻게 이해할까요? 깨어 있는 동안 수많은 시각적 정보를 보는데, 그 모든 정보에 중요하게 받아들이지는 않습니다. 산책을 하면서 지나가는 사람들, 나무들을 의식하지 않으면 대부분 인지 과정의 유의미한 신호로 처리 되지 않습니다. 잠시 제 뇌 안에 머물다가 사라지거나,심지어 인식하지도 못하는 것이지요.
@@ -72,9 +72,9 @@ CNN은 위와 같은 Layer들을 쌓고, 이미지의 특징을 나타내는 필
 ![image](https://user-images.githubusercontent.com/11609881/112213909-f2e8ee00-8c61-11eb-84a5-cb37b4595c48.png)
 이미지 출처: https://hal.archives-ouvertes.fr/hal-02053205/document
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3Mzc0MjMxLC0zNzQzNTk2MDcsMTIyMD
-k2NjI5NywtOTgzMTk0MjUzLDEzMDE3OTI3NjEsLTEyMTUwMjQ4
-ODUsLTEwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MS
-wtMTA0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
-
+eyJoaXN0b3J5IjpbLTkxMzg3MzY2Myw0ODczNzQyMzEsLTM3ND
+M1OTYwNywxMjIwOTY2Mjk3LC05ODMxOTQyNTMsMTMwMTc5Mjc2
+MSwtMTIxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5ODM5LC
+0xOTI5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0x
+MzQ4NzM3NjIwXX0=
 -->
