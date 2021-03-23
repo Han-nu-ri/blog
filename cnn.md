@@ -52,9 +52,10 @@ F: Filter \ size \\
 P: Padding \ size \\
 S: Stride
 $$
-
+![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
+ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzAxMTIyLC0xMjE1MDI0ODg1LC0xMD
-I4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1
-NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MzI4NDM1MDgsLTEyMTUwMjQ4ODUsLT
+EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
+MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
