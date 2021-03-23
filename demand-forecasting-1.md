@@ -56,7 +56,9 @@ $$
 ={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} \\
 0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} \\
 e^{0.38t}= 10 + {9 \times 31 \over 7} \\
-{7 \over 2860} = e^{-0.38t} \\
+e^{0.38t}= {70 + 9 \times 31 \over 7} \\
+e^{0.38t}= {349 \over 7} \\
+t = {ln({349 \over 7}) \over 2} \\
 $$
 양변에 자연로그를 씌우고 전개하면 아래와 같습니다. 
 $$
@@ -64,7 +66,7 @@ t={ln({7 \over 2860}) \over -0.38}=15.82280725
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNDkxODc3LDg3NzEyNTcxMiwtMTg0MD
+eyJoaXN0b3J5IjpbMjU1NDU5MzQyLDg3NzEyNTcxMiwtMTg0MD
 k3NzkzMSwxNjg5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1
 Ml19
 -->
