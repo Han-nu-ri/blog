@@ -9,11 +9,12 @@ CNN(Convolutional Neural Network)은 위와 같은 사람의 시각적 정보를
 ## Convolution
 CNN에 활용되는 합성곱(Convolution) 연산에 대하여 이해해보죠. 합성곱은 아래 이미지로 굉장히 쉽게 이해할 수 있습니다. 파란색 함수와 빨간색 함수가 있을 때, 빨간색 함수를 반전 시킨 후에 오른쪽으로 이동해가면서 파란색과 빨간색 함수가 겹치는 부분을 적분하는 연산입니다.
 ![image](https://user-images.githubusercontent.com/11609881/112197016-f7f07200-8c4e-11eb-892a-99f6cffbdeb7.png)
+이미지 출처: https://ko.wikipedia.org/wiki/%ED%95%A9%EC%84%B1%EA%B3%B1
 
 ## Convolution을 활용한 이미지 특징 찾기
 ## Zero padding
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0Mzc1NTE5LC0xMDY0NTg0NjYyLC0xMz
-Q4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbMTc1MjE0MDU1MCwtMTA2NDU4NDY2MiwtMT
+M0ODczNzYyMF19
 -->
