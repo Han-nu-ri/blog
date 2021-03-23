@@ -65,11 +65,11 @@ $$
 이미지 출처: https://cs231n.github.io/convolutional-networks/
 
 ## 이미지의 특징을 학습하기
-CNN은 위와 같ㅇ
+CNN은 위와 같은 Layer들을 쌓고, 이미지의 특징을 나타내는 필터(커널)를 학습하여 특징ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODg4MTAxNiwtMzc0MzU5NjA3LDEyMj
-A5NjYyOTcsLTk4MzE5NDI1MywxMzAxNzkyNzYxLC0xMjE1MDI0
-ODg1LC0xMDI4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwND
-EsLTEwNDM1NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNzQ4NDg4MjMsLTM3NDM1OTYwNywxMj
+IwOTY2Mjk3LC05ODMxOTQyNTMsMTMwMTc5Mjc2MSwtMTIxNTAy
+NDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MD
+QxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIw
+XX0=
 -->
