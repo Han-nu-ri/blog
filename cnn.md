@@ -53,12 +53,12 @@ P: Padding \ size \\
 S: Stride
 $$
 
-아래 이미지는 입력 이미지에 한 줄 패딩(양쪽에 하므로 두 줄이 됩니다)하고, 보폭(stride)를 2로 하여 하나의 필터와 합성곱을 하고 있는 과정입니다. ㅊ
+아래 이미지는 입력 이미지에 한 줄 패딩(양쪽에 하므로 두 줄이 됩니다)하고, 보폭(stride)를 2로 하여 하나의 필터와 합성곱을 하고 있는 과정입니다. 채널의 개수가 3개이므로, 필터도 3개의 채널로 구성된 것을 볼 수 있고 마지막에 Bias를 더해주는 것을 볼 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk3MDI4MTMsMTMwMTc5Mjc2MSwtMT
-IxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5
-NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4Nz
-M3NjIwXX0=
+eyJoaXN0b3J5IjpbOTI2Mzc4NDg3LDEzMDE3OTI3NjEsLTEyMT
+UwMjQ4ODUsLTEwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUw
+NjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNz
+YyMF19
 -->
