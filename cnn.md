@@ -39,9 +39,9 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 ![image](https://user-images.githubusercontent.com/11609881/112205451-232b8f00-8c58-11eb-82a5-4d6acb2a5333.png)
 출처: http://taewan.kim/post/cnn/#fnref:3
 
-보시면 Feature Map의 크기가 Input data에 비해 줄어든 것을 볼 수 있습니다.
+Output data의 크기가 Input data에 비해 줄어든 것을 볼 수 있습니다. Output data는 Filter의 크
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMzYzMjYzLC0xMjE1MDI0ODg1LC0xMD
+eyJoaXN0b3J5IjpbLTY3NjM3MTY1LC0xMjE1MDI0ODg1LC0xMD
 I4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1
 NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
 -->
