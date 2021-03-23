@@ -60,11 +60,12 @@ $$
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
 
-필터를 하나 더 추가하면 아래와 같습니다.
-
+필터를 하나 더 추가하면 아래와 같습니다. 하나만 이해하면 확장하는 건 쉽습니다.
+![image](https://user-images.githubusercontent.com/11609881/112212053-dba90100-8c5f-11eb-911f-1005a837fb62.png)
+이미지 출처: https://cs231n.github.io/convolutional-networks/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg4Nzc3NzksLTk4MzE5NDI1MywxMz
-AxNzkyNzYxLC0xMjE1MDI0ODg1LC0xMDI4MTY0NDgyLC0xMzUw
-Njk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1NzYzNTMsLTEwNjQ1OD
-Q2NjIsLTEzNDg3Mzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMjA4MzcxNDQ5LC05ODMxOTQyNTMsMTMwMT
+c5Mjc2MSwtMTIxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5
+ODM5LC0xOTI5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0Nj
+YyLC0xMzQ4NzM3NjIwXX0=
 -->
