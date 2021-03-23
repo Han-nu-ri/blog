@@ -43,11 +43,13 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 이외도 어떤 요소가 출력의 크기에 영향을 줄까요? 필터를 입력에 좌상단에서 움직일 때, 한 칸씩 움직이지 않고 두 칸씩 움직일 수도 있습니다. 이렇게 한번에 움직이는 칸의 수를 stride(보폭)이라고 합니다. 
 ![image](https://user-images.githubusercontent.com/11609881/112208128-5885ac00-8c5b-11eb-9ff1-0165a5f2b2d1.png)
 이미지 출처: https://lycee-europeen-schuman.eu/index.php/word-of-the-week
+
+일반화해서 출력의 크기를 다음과 같이 표현할 수 있습니다.
 $$
 {N-F+2P \over S} + 1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODczMTAyNSwtMTIxNTAyNDg4NSwtMT
+eyJoaXN0b3J5IjpbLTMyODUzMDgzOCwtMTIxNTAyNDg4NSwtMT
 AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
 NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
