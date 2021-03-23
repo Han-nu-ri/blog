@@ -16,7 +16,11 @@ CNN에 활용되는 합성곱(Convolution) 연산에 대하여 이해해보죠. 
 이미지 출처: https://www.usatoday.com/story/life/music/2017/04/13/john-mayer-search-for-everything-new-album/100372750/
 
 위 이미지에서 눈을 어떻게 찾을 수 있을까요? 눈 모양 matrix를 좌상단에서부터 움직이면서 convolution 연산을 하고, 그 값이 높은 지점들을 찾으면 됩니다.
+
+![
+이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0Nzk4NjAwLC0xOTI5NTA2MDQxLC0xMD
-QzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTEyODkzMTkxNzAsLTE5Mjk1MDYwNDEsLT
+EwNDM1NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
+
 -->
