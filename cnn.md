@@ -7,7 +7,7 @@
 사람마다 순서와 방식은 다르겠지만 비슷할 거라고 생각합니다. 시각적 정보를 하나하나 픽셀 단위로 이해하는 것이 아니라, 자연스럽게 학습된 시각적 정보를 이해하기 위한 중요한 특징들을 활용해서 판단하는 것이죠.
 CNN(Convolutional Neural Network)은 위와 같은 사람의 시각적 정보를 이해하는 방식을 활용하여 모델을 구성합니다. 이미지의 중요한 특징을 학습해서, 새로운 이미지에 학습된 중요한 특징이 있는지 확인하게 됩니다.
 ## Convolution
-합성곱(Convolution)은
+이름을 이해하는 것에 합성곱(Convolution)에 대하여 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM3MjYwNSwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbMzU2NzEwMjM0LC0xMzQ4NzM3NjIwXX0=
 -->
