@@ -31,9 +31,9 @@ $$
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 
 일반적인 이미지의 각 픽셀은 RGB로 표현이 됩니다. RGB 색 모형은 빛의 삼원색을 이용하여 색을 표현하는 방식입니다. RGB로 표현된 이미지의 각 픽셀에는 빨간색, 초록색, 파란색 값이 어느 정도로 섞여 있는지 알 수 있습니다. 예를 들어 주황색은 (255,127,0)으로 나타낼 수 있습니다.
-RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이와 너비가 32 픽셀인 이미지가 있다고 하면, 32 X 32 X 3의 행렬로 표현할 수 있는 것이죠. 이 행렬을 R, G, B 행렬로 나눈 것을 채널
+RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이와 너비가 32 픽셀인 이미지가 있다고 하면, 32 X 32 X 3의 행렬로 표현할 수 있는 것이죠. 이 행렬을 32 X 32 X 1 크기의 R, G, B 행렬로 나눈 것을 채널(Channel)이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzY3MzYwNSwtMTM1MDY5ODM5LC0xOT
-I5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4
-NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE5NzA5ODc3ODcsLTEzNTA2OTgzOSwtMT
+kyOTUwNjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0
+ODczNzYyMF19
 -->
