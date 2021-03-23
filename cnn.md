@@ -59,9 +59,11 @@ $$
 $$
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzE5NDI1MywxMzAxNzkyNzYxLC0xMj
-E1MDI0ODg1LC0xMDI4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1
-MDYwNDEsLTEwNDM1NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mz
-c2MjBdfQ==
+eyJoaXN0b3J5IjpbNTk1NjU1ODg3LC05ODMxOTQyNTMsMTMwMT
+c5Mjc2MSwtMTIxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5
+ODM5LC0xOTI5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0Nj
+YyLC0xMzQ4NzM3NjIwXX0=
 -->
