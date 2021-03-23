@@ -59,8 +59,9 @@ e^{0.38t}= 10 + {9 \times 31 \over 7} \\
 e^{0.38t}= {70 + 9 \times 31 \over 7} \\
 e^{0.38t}= {349 \over 7} \\
 t = {ln({349 \over 7}) \over 0.38} = 10.28726782\\
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNTY0MDU0LDg3NzEyNTcxMiwtMTg0MD
+eyJoaXN0b3J5IjpbODY3ODQzMTQwLDg3NzEyNTcxMiwtMTg0MD
 k3NzkzMSwxNjg5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1
 Ml19
 -->
