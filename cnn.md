@@ -63,9 +63,11 @@ $$
 필터를 하나 더 추가하면 아래와 같습니다. 하나만 이해하면 확장하는 건 쉽습니다.
 ![image](https://user-images.githubusercontent.com/11609881/112212053-dba90100-8c5f-11eb-911f-1005a837fb62.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzcxNDQ5LC05ODMxOTQyNTMsMTMwMT
-c5Mjc2MSwtMTIxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5
-ODM5LC0xOTI5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0Nj
-YyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbMTQ5ODU4Nzk4OSwtOTgzMTk0MjUzLDEzMD
+E3OTI3NjEsLTEyMTUwMjQ4ODUsLTEwMjgxNjQ0ODIsLTEzNTA2
+OTgzOSwtMTkyOTUwNjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4ND
+Y2MiwtMTM0ODczNzYyMF19
 -->
