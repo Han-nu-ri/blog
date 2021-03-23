@@ -29,7 +29,10 @@ $$
 
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
+
+## Architecture Overview
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTc4NDQ5LC0xOTI5NTA2MDQxLC0xMD
+eyJoaXN0b3J5IjpbOTg2MzU3NzE1LC0xOTI5NTA2MDQxLC0xMD
 QzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
