@@ -7,8 +7,8 @@
 사람마다 순서와 방식은 다르겠지만 비슷할 거라고 생각합니다. 시각적 정보를 하나하나 픽셀 단위로 이해하는 것이 아니라, 자연스럽게 학습된 시각적 정보를 이해하기 위한 중요한 특징들을 활용해서 판단하는 것이죠.
 CNN(Convolutional Neural Network)은 위와 같은 사람의 시각적 정보를 이해하는 방식을 활용하여 모델을 구성합니다. 이미지의 중요한 특징을 학습해서, 새로운 이미지에 학습된 중요한 특징이 있는지 확인하게 됩니다.
 ## Convolution
-CNN을 이해하기 앞서, 합성곱(Convolution)에 대하여 이해해보죠. 합성곱은 아래 이미지로 굉장히 쉽게 이해할 수 있습니다. 두 함수 f(t)와 g(t)가 있을 때, 빨
+CNN을 이해하기 앞서, 합성곱(Convolution)에 대하여 이해해보죠. 합성곱은 아래 이미지로 굉장히 쉽게 이해할 수 있습니다. 파란색 함수와 빨간색 함수가 있을 때, 빨간색 함수를 반전 시킨 후에 오른쪽으로 이동해가면서 파란색과 빨간색 함수가 겹치는 부분을 적분하는 연산입니다. 이 합성곱은 
 ![image](https://user-images.githubusercontent.com/11609881/112197016-f7f07200-8c4e-11eb-892a-99f6cffbdeb7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjgyNjAwMCwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbMzk3MjYyMjYsLTEzNDg3Mzc2MjBdfQ==
 -->
