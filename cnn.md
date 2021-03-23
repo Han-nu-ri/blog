@@ -20,15 +20,16 @@ CNN에 활용되는 합성곱(Convolution) 연산에 대하여 이해해보죠. 
 눈 모양 matrix를 
 $$
 \begin{bmatrix}
-1 $ 0 $ 1 \\
-0 $ 1 $ 0 \\
-1 $ 0 $ 1 \\
+1 & 0 & 1 \\
+0 & 1 & 0 \\
+1 & 0 & 1 \\
 \end{bmatrix}
 $$
+라고 하면, 아래와 같이 움직이면서 convolution 연산을 하는 것 입니다.
 
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzM5NzkxOSwtMTkyOTUwNjA0MSwtMT
-A0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbLTc5NTc4NDQ5LC0xOTI5NTA2MDQxLC0xMD
+QzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
