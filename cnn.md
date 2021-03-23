@@ -25,7 +25,7 @@ $$
 1 & 0 & 1 \\
 \end{bmatrix}
 $$
-라고 하면, 아래와 같이 움직이면서 convolution 연산을 하는 것 입니다. 이런 특징 matrix를 필터(filter)라고 합니다.
+라고 하면, 아래와 같이 움직이면서 convolution 연산을 하는 것 입니다. 이런 특징 matrix를 필터(filter)라고 합니다 (커널(kernel)이라고도 부릅니다).
 
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
@@ -66,8 +66,8 @@ $$
 
 ## 이미지의 특징을 학습하기
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxNTQyMDMsLTk4MzE5NDI1MywxMz
-AxNzkyNzYxLC0xMjE1MDI0ODg1LC0xMDI4MTY0NDgyLC0xMzUw
-Njk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1NzYzNTMsLTEwNjQ1OD
-Q2NjIsLTEzNDg3Mzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMTIyMDk2NjI5NywtOTgzMTk0MjUzLDEzMD
+E3OTI3NjEsLTEyMTUwMjQ4ODUsLTEwMjgxNjQ0ODIsLTEzNTA2
+OTgzOSwtMTkyOTUwNjA0MSwtMTA0MzU3NjM1MywtMTA2NDU4ND
+Y2MiwtMTM0ODczNzYyMF19
 -->
