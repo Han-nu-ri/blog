@@ -40,12 +40,12 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 출처: http://taewan.kim/post/cnn/#fnref:3
 
 출력의 크기가 입력에 비해 줄어든 것을 볼 수 있습니다. 합성곱 연산 과정을 따라가면, 필터의 크기가 출력의 크기에 영향을 주는 것을 쉽게 알 수 있습니다. 보통 딥러닝은 깊게 쌓으려고 하는데, 쌓으면 쌓을수록 크기가 작아지니 여간 불편합니다. 출력의 크기를 조절할 수 없을까요? 입력의 경계에 무언가 값을 넣어주면 원하는 크기로 조절할 수 있습니다. 이를 패딩(padding)이라고 하는데, 보통 0을 넣어 주어 zero-padding이라고 합니다. CSS의 padding 속성은 안쪽 여백을 의미하는데, 같은 맥락입니다.
-
+이외도 어떤 요소가 출력의 크기에 영향을 줄까요? 필터를 입력에 좌상단에서 움직일 때, 한 칸씩 움직이지 않고 두 칸씩 움직일 수도 있습니다. 이렇게 한번에 움직이는 칸의 수를 stride(보폭라고 합니다. 
 $$
 {N-F+2P \over S} + 1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzYxOTM3NywtMTIxNTAyNDg4NSwtMT
-AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
-NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTE0MjgyNTE1MzcsLTEyMTUwMjQ4ODUsLT
+EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
+MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
