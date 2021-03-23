@@ -58,7 +58,7 @@ $$
 e^{0.38t}= 10 + {9 \times 31 \over 7} \\
 e^{0.38t}= {70 + 9 \times 31 \over 7} \\
 e^{0.38t}= {349 \over 7} \\
-t = {ln({349 \over 7}) \over 2} \\
+t = {ln({349 \over 7}) \over 0.38} \\
 $$
 양변에 자연로그를 씌우고 전개하면 아래와 같습니다. 
 $$
@@ -66,7 +66,7 @@ t={ln({7 \over 2860}) \over -0.38}=15.82280725
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1NDU5MzQyLDg3NzEyNTcxMiwtMTg0MD
-k3NzkzMSwxNjg5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1
-Ml19
+eyJoaXN0b3J5IjpbLTcwNDE3ODIxMyw4NzcxMjU3MTIsLTE4ND
+A5Nzc5MzEsMTY4OTgyMTA2MywtMTQyMjMxNDE4LDIxMjA2Mzg1
+NTJdfQ==
 -->
