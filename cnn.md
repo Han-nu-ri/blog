@@ -30,8 +30,8 @@ $$
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 
-일반적인 이미지의 각 픽셀은 RGB로 표현이 됩니다. RGB 색 모형은 빛의 삼원색을 이용하여 색을 표현하는 방식입니다. RGB로 표현된 이미지는 
+일반적인 이미지의 각 픽셀은 RGB로 표현이 됩니다. RGB 색 모형은 빛의 삼원색을 이용하여 색을 표현하는 방식입니다. RGB로 표현된 이미지는 각 픽셀 별로
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NjU4MTgzLC0xOTI5NTA2MDQxLC0xMD
-QzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbMTA3MDc0ODUwMywtMTkyOTUwNjA0MSwtMT
+A0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
