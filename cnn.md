@@ -12,9 +12,11 @@ CNN에 활용되는 합성곱(Convolution) 연산에 대하여 이해해보죠. 
 이미지 출처: https://ko.wikipedia.org/wiki/%ED%95%A9%EC%84%B1%EA%B3%B1
 
 ## Convolution을 활용한 이미지 특징 찾기
+![image](https://user-images.githubusercontent.com/11609881/112199227-49016580-8c51-11eb-8eb0-439fdf84ae49.png)
+이미지 출처: https://www.usatoday.com/story/life/music/2017/04/13/john-mayer-search-for-everything-new-album/100372750/
 
-
+위 이미지에서 눈을 어떻게 찾을 수 있을까요?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM3MDkyNjMsLTEwNjQ1ODQ2NjIsLT
+eyJoaXN0b3J5IjpbLTEwNDM1NzYzNTMsLTEwNjQ1ODQ2NjIsLT
 EzNDg3Mzc2MjBdfQ==
 -->
