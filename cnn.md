@@ -52,13 +52,9 @@ F: Filter \ size \\
 P: Padding \ size \\
 S: Stride
 $$
-입력과 출력의 크기를 보존하려면 어떻게 패딩을 붙이면 될까요? 
-$$
-N={N-F+2P \over S} + 1 \\
-NS-S-N+F
-$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkxMTE2NjYsLTEyMTUwMjQ4ODUsLT
-EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
-MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbMTAyNzAxMTIyLC0xMjE1MDI0ODg1LC0xMD
+I4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1
+NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
 -->
