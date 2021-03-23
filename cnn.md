@@ -53,11 +53,11 @@ P: Padding \ size \\
 S: Stride
 $$
 
-그럼 입력 이미지에 한 줄 패딩(양쪽에 하므로 두 줄이 됩니다)해서, 필터
+그럼 입력 이미지에 한 줄 패딩(양쪽에 하므로 두 줄이 됩니다)해서, 필터와 합성곱을 해보죠.
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjYxMTE5LC0xMjE1MDI0ODg1LC0xMD
-I4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1
-NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
+eyJoaXN0b3J5IjpbMTA3NTA2MjQyOCwtMTIxNTAyNDg4NSwtMT
+AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
+NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
