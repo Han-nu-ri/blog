@@ -4,7 +4,8 @@
 사람은 이미지, 영상을 어떻게 이해할까요? 깨어 있는 동안 수많은 시각적 정보를 보는데, 그 모든 정보에 중요하게 받아들이지는 않습니다. 산책을 하면서 지나가는 사람들, 나무들을 의식하지 않으면 대부분 인지 과정의 유의미한 신호로 처리 되지 않습니다. 잠시 제 뇌 안에 머물다가 사라지거나,심지어 인식하지도 못하는 것이지요.
 그럼 어떤 정보가 유의미하다는 것을 어떻게 판단할까요? 아래 gif를 보시죠.
 ![Iu](https://user-images.githubusercontent.com/11609881/111646763-45cb3b80-8845-11eb-8a03-35fb0b8e97c7.gif)
-사람마다 순서
+이 gif를 어떻게 이해하는지 그 과정을 의식적으로 따라가보면, 무언가 변화하는 것들을 인지
+사람마다 순서는 다르겠지만, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMTUzODA2LC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbOTM5ODkyNDgzLC0xMzQ4NzM3NjIwXX0=
 -->
