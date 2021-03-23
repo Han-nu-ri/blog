@@ -52,10 +52,12 @@ F: Filter \ size \\
 P: Padding \ size \\
 S: Stride
 $$
+
+ㄷ
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
-ㅇ
+이미지 출처: https://cs231n.github.io/convolutional-networks/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI4NDM1MDgsLTEyMTUwMjQ4ODUsLT
-EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
-MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbLTY3NTQ1MjQ2MywtMTIxNTAyNDg4NSwtMT
+AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
+NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
