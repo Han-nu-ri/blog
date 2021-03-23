@@ -5,7 +5,9 @@
 ![Iu](https://user-images.githubusercontent.com/11609881/111646763-45cb3b80-8845-11eb-8a03-35fb0b8e97c7.gif)
 그럼 어떤 정보가 유의미하다는 것을 어떻게 판단할까요? 위 gif를 보시죠. gif를 보면서, 저는 먼저 무언가 움직이고 있음을 인지하고 이것들을 중요한 정보로 판단하였습니다. t의 변화에 따른 그래프의 변화임을 판단하고 어떤 식인지 확인하였습니다. 이 글을 쓰면서 자세히 보니, 수학식 왼쪽에 있는 1, 2과 같은 숫자들이 보이네요. 처음 gif를 이해할 때 그다지 유용하지 않다고 판단된 것 같습니다.
 사람마다 순서와 방식은 다르겠지만 비슷할 거라고 생각합니다. 시각적 정보를 하나하나 픽셀 단위로 이해하는 것이 아니라, 자연스럽게 학습된 시각적 정보를 이해하기 위한 중요한 특징들을 활용해서 판단하는 것이죠.
-CNN(Convolutional Neural Network)은 위와 같은 사람의 시각적 정보를 이해하는 방식을 활용하여 모델을 구성합니다. 이미지의 중요한 특징을 학
+CNN(Convolutional Neural Network)은 위와 같은 사람의 시각적 정보를 이해하는 방식을 활용하여 모델을 구성합니다. 이미지의 중요한 특징을 학습해서, 새로운 이미지에 학습된 중요한 특징이 있는지 확인하게 됩니다.
+## Convolution
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwODMwOTcxLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTYxNTU4NzEwMywtMTM0ODczNzYyMF19
 -->
