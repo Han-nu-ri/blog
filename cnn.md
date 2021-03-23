@@ -66,14 +66,16 @@ $$
 
 ## 이미지의 특징을 학습하기
 CNN은 위와 같은 Layer들을 쌓고, 이미지의 특징을 나타내는 필터(커널)들이 Loss를 줄이는 방향으로 업데이트 되며 학습합니다. 일반적인 뉴럴넷의 학습 과정과 같고, 다만 학습할 파라미터가 필터와 필터 별 바이어스라는 것만 인지하면 됩니다. 
-당연히 Fully Connected Layer와 비교하여 학습할 파라미터의 개수가 적습니다. 입력 이미지가 32 X 32 X 3 (W X H X C)이고, 크기가 5 X 5인 필터가 10
+당연히 Fully Connected Layer와 비교하여 학습할 파라미터의 개수가 적습니다. 입력 이미지가 32 X 32 X 3 (W X H X C)이고, 크기가 5 X 5인 필터가 10개 있다면 학습할 파라미터의 개수는 몇 개일까요?
+(5 X 5 X 3+ 1)
+
 또한 Layer가 쌓일수록 더 높은 수준의 특징들이 있습니다. Layer가 쌓일수록 입력으로 들어오는 이미지가 초기 이미지의 여러 특징들을 종합한 이미지가 되기 때문으로 생각됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/112213909-f2e8ee00-8c61-11eb-84a5-cb37b4595c48.png)
 이미지 출처: https://hal.archives-ouvertes.fr/hal-02053205/document
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEwNDAyOTUsLTM3NDM1OTYwNywxMj
-IwOTY2Mjk3LC05ODMxOTQyNTMsMTMwMTc5Mjc2MSwtMTIxNTAy
-NDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MD
-QxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIw
-XX0=
+eyJoaXN0b3J5IjpbMjExMjE5MTE2NywtMzc0MzU5NjA3LDEyMj
+A5NjYyOTcsLTk4MzE5NDI1MywxMzAxNzkyNzYxLC0xMjE1MDI0
+ODg1LC0xMDI4MTY0NDgyLC0xMzUwNjk4MzksLTE5Mjk1MDYwND
+EsLTEwNDM1NzYzNTMsLTEwNjQ1ODQ2NjIsLTEzNDg3Mzc2MjBd
+fQ==
 -->
