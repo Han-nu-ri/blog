@@ -39,13 +39,13 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 ![image](https://user-images.githubusercontent.com/11609881/112205451-232b8f00-8c58-11eb-82a5-4d6acb2a5333.png)
 출처: http://taewan.kim/post/cnn/#fnref:3
 
-출력의 크기가 입력에 비해 줄어든 것을 볼 수 있습니다. 합성곱 연산 과정을 따라가면, 필터의 크기가 출력의 크기에 영향을 주는 것을 쉽게 알 수 있습니다. 보통 딥러닝은 깊게 쌓으려고 하는데, 쌓으면 쌓을수록 크기가 작아지니 여간 불편합니다. 출력의 크기를 조절할 수 없을까요? 입력의 경계에 무언가 값을 넣어주면 원하는 크기로 조절할 수 있습니다. 이를 패딩(padding)이라고 하는데, 보통 0을 넣어 주어 zero-padding이라고 합니다.
+출력의 크기가 입력에 비해 줄어든 것을 볼 수 있습니다. 합성곱 연산 과정을 따라가면, 필터의 크기가 출력의 크기에 영향을 주는 것을 쉽게 알 수 있습니다. 보통 딥러닝은 깊게 쌓으려고 하는데, 쌓으면 쌓을수록 크기가 작아지니 여간 불편합니다. 출력의 크기를 조절할 수 없을까요? 입력의 경계에 무언가 값을 넣어주면 원하는 크기로 조절할 수 있습니다. 이를 패딩(padding)이라고 하는데, 보통 0을 넣어 주어 zero-padding이라고 합니다. CSS의 padding 속성은 안쪽 여백을 의미하는데, 같은 맥락입니다.
 
 $$
 {N-F+2P \over S} + 1
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU2ODQ1NTksLTEyMTUwMjQ4ODUsLT
-EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
-MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
+eyJoaXN0b3J5IjpbMTI3MzYxOTM3NywtMTIxNTAyNDg4NSwtMT
+AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
+NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
