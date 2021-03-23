@@ -12,9 +12,9 @@ CNN에 활용되는 합성곱(Convolution) 연산에 대하여 이해해보죠. 
 이미지 출처: https://ko.wikipedia.org/wiki/%ED%95%A9%EC%84%B1%EA%B3%B1
 
 ## Convolution을 활용한 이미지 특징 찾기
-## Zero padding
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjE0MDU1MCwtMTA2NDU4NDY2MiwtMT
-M0ODczNzYyMF19
+eyJoaXN0b3J5IjpbLTEyOTM3MDkyNjMsLTEwNjQ1ODQ2NjIsLT
+EzNDg3Mzc2MjBdfQ==
 -->
