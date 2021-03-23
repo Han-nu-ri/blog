@@ -44,7 +44,7 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 ![image](https://user-images.githubusercontent.com/11609881/112208128-5885ac00-8c5b-11eb-9ff1-0165a5f2b2d1.png)
 이미지 출처: https://lycee-europeen-schuman.eu/index.php/word-of-the-week
 
-일반화해서 출력의 크기를 다음과 같이 표현할 수 있습니다. Padding size는 한 쪽의 크기를 의미하므로 2ㅂ
+일반화해서 출력의 크기를 다음과 같이 표현할 수 있습니다. Padding size는 한 쪽의 크기를 의미하므로 2배 해줍니다.
 $$
 {N-F+2P \over S} + 1, \\ 
 N: input \ size \\
@@ -53,7 +53,7 @@ P: Padding \ size \\
 S: Stride
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjI3Mzk2NSwtMTIxNTAyNDg4NSwtMT
+eyJoaXN0b3J5IjpbLTU2OTYwNjM4MCwtMTIxNTAyNDg4NSwtMT
 AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
 NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
 -->
