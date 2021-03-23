@@ -25,14 +25,13 @@ $$
 1 & 0 & 1 \\
 \end{bmatrix}
 $$
-라고 하면, 아래와 같이 움직이면서 convolution 연산을 하는 것 입니다.
+라고 하면, 아래와 같이 움직이면서 convolution 연산을 하는 것 입니다. 이런 특징 matrix를 filter라고 합니다.
 
 ![Convolution_schematic](https://user-images.githubusercontent.com/11609881/112200801-f2952680-8c52-11eb-9680-04c158410186.gif)
 이미지 출처: http://deeplearning.stanford.edu/wiki/index.php/Feature_extraction_using_convolution
 
-## Architecture Overview
-
+보통의 이미지는 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MzU3NzE1LC0xOTI5NTA2MDQxLC0xMD
-QzNTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTQyMDUwMjY1NCwtMTkyOTUwNjA0MSwtMT
+A0MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
