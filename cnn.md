@@ -54,10 +54,11 @@ S: Stride
 $$
 입력과 출력의 크기를 보존하려면 어떻게 패딩을 붙이면 될까요? 
 $$
-N={N-F+2P \over S} + 1
+N={N-F+2P \over S} + 1 \\
+NS-S-N+F
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njk4MzI3MywtMTIxNTAyNDg4NSwtMT
-AyODE2NDQ4MiwtMTM1MDY5ODM5LC0xOTI5NTA2MDQxLC0xMDQz
-NTc2MzUzLC0xMDY0NTg0NjYyLC0xMzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTExODkxMTE2NjYsLTEyMTUwMjQ4ODUsLT
+EwMjgxNjQ0ODIsLTEzNTA2OTgzOSwtMTkyOTUwNjA0MSwtMTA0
+MzU3NjM1MywtMTA2NDU4NDY2MiwtMTM0ODczNzYyMF19
 -->
