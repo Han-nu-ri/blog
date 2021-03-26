@@ -12,7 +12,8 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 
 ## Supervised learning
 머신러닝의 가장 일반적인 형태는 supervised learning입니다. 우리가 집, 자동차, 사람 혹은 고양이가 담긴 이미지들을 분류하고 싶다고 상상해보죠. 우리는 먼저 라벨링된 데이터들을  모으고, 에러를 측정하는 목적 함수를 줄이는 방향으로 머신의 파라미터들을 조절하도록 훈련 시킵니다.
+적절히 파라미터들을 조절하기 위해, 학스파라미터가 조금 변할 때 에러가 어떻게 변하는 지를 표현해주는 gradient 벡터를 계산
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzg3MTA5LDEzMzg0MTYxODAsLTEyND
-U3MDE2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0NzM0MzAwMTEsMTMzODQxNjE4MCwtMT
+I0NTcwMTY0MV19
 -->
