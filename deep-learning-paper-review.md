@@ -12,8 +12,8 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 
 ## Supervised learning
 머신러닝의 가장 일반적인 형태는 supervised learning입니다. 우리가 집, 자동차, 사람 혹은 고양이가 담긴 이미지들을 분류하고 싶다고 상상해보죠. 우리는 먼저 라벨링된 데이터들을  모으고, 에러를 측정하는 목적 함수를 줄이는 방향으로 머신의 파라미터들을 조절하도록 훈련 시킵니다.
-적절히 파라미터들을 조절하기 위해, 학습 알고리즘은 파라미터가 조금 변할 때 에러가 어떻게 변하는 지를 표현해주는 기울기 벡터를 계산합니다. 목적 함수는 훈련 데이터들로 평균된 파라미터들의 고차원 공간 안의 경사로 볼 수 있고, 음수 기울기 벡터
+적절히 파라미터들을 조절하기 위해, 학습 알고리즘은 파라미터가 조금 변할 때 에러가 어떻게 변하는 지를 표현해주는 기울기 벡터를 계산합니다. 목적 함수는 훈련 데이터들로 평균된 파라미터들의 고차원 공간 안의 경사로 볼 수 있고, 음수 기울기 벡터는 목적 함수가 최소점에 가까워지도록 경사 안의 가장 빠르게 떨어지는 방향을 가르킵니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzMxNTc1NSwtMTQ2MDc2NjE4MSwxMz
-M4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
+eyJoaXN0b3J5IjpbMTMxMTUxODQxLC0xNDYwNzY2MTgxLDEzMz
+g0MTYxODAsLTEyNDU3MDE2NDFdfQ==
 -->
