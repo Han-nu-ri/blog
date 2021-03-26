@@ -5,9 +5,9 @@
 
 머신러닝 기술은 현대 사회의 많은 측면에서 힘을 보이고 있습니다. 머신러닝 시스템은 이미지 안의 사물을 인식하거나, 스피치를 텍스트로 번역하거나, 사용자의 흥미와 맞는 제품들을 추천하는 등에 사용됩니다. 이런 어플리케이션들은 딥러닝이라 불리는 기술들을 더욱 더 이용하고 있습니다.
 보편적인 머신러닝 기술들은 원시 데이터를 가공하는데 제한적이었습니다. 수십년동안, 패턴 인지나 머신러닝 시스템을 구축하는 것은 원시 데이터에서 데이터의 표현을 추출하기 위해 조심스러운 엔지니어링과 도메인 전문가가 필요했습니다.
-Representation learning은
+Representation learning은 머신이 원시 데이터로부터 감지나 분류 작업을 위해 필요한 표현들을 자동으로 발견하는 것을 가능하게 해줍니다. 딥러닝 방법들은 Representation learning
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTg2NDgzNywxMzM4NDE2MTgwLC0xMj
+eyJoaXN0b3J5IjpbMTE4Mzc3MzE3MiwxMzM4NDE2MTgwLC0xMj
 Q1NzAxNjQxXX0=
 -->
