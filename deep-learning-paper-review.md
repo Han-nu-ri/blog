@@ -16,7 +16,10 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 일반적으로 Stochastic gradient descent (SGD)라고 불리우는 과정을 사용합니다. SGD는 몇 가지의 데이터들로 입력 벡터들을 구성하고, 출력들과 에러들, 그리고 평균 기울기를 계산하여 파라미터들을 조절합니다. 이 과정을 목적 함수가 줄어드는 것을 멈출 때까지 반복하게 됩니다. Stochastic이라고 불리는 이유는 전체 데이터의 평균 gradient에 대한 noisy estimate을 제공하기 때문입니다.
 
 ![image](https://user-images.githubusercontent.com/11609881/112597276-4587fd00-8e50-11eb-9ddb-0b4b3066984a.png)
+이미지 출처: LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015) 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE5MzMzMDAsLTE3NjIwMzQ0NSwtMT
-Q2MDc2NjE4MSwxMzM4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
+eyJoaXN0b3J5IjpbLTI5MTU0NDIxOCwtMTc2MjAzNDQ1LC0xND
+YwNzY2MTgxLDEzMzg0MTYxODAsLTEyNDU3MDE2NDFdfQ==
 -->
