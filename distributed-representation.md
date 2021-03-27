@@ -11,12 +11,12 @@ Representation은 뉴로사이언스, 인지 과학에서의 representation은 �
 Local representation은 특정한 feature를 표현하는 정보가 대응되는 소규모의 뉴런들에만 존재함을 의미합니다. one-hot encoding은 local representation의 쉬운 예입니다. 예를 들어 아래 단어들을 one-hot encoding으로 표현해보죠.
 
 > 텐서플로
-> 고양이
+> 키보드
 
-{텐서플로, 딥러닝, 고양이, 강아지}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
+{텐서플로, 딥러닝, 컴퓨터, 키보드}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
 > 텐서플로: {1, 0, 0, 0}
-> 고양이: {0, 0, 1, 0}
+> 키보드: {0, 0, 0, 1}
 
 와 같이 표현될 수 있습니다.
 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
@@ -25,7 +25,7 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다.
-{텐서플로, 딥러닝, 고양이, 강아지} 이 예제로 돌아가보죠. 각 단어를 one-hot encoding의 형태로 표현하기 위해 4차원의 벡터를 사용하였습니다. 잘 살펴보면, 텐서플로와 딥러닝은 유사한 의미를 가지고 있습니다. 고양이와 강아지도 그렇습니다.
+{텐서플로, 딥러닝, 컴퓨터, 키보드} 이 예제로 돌아가보죠. 각 단어를 one-hot encoding의 형태로 표현하기 위해 4차원의 벡터를 사용하였습니다. 잘 살펴보면, 텐서플로와 딥러닝은 유사한 의미를 가지고 있습니다. 고양이와 강아지도 그렇습니다.
 텐서플로와 딥러닝을 대변하는 특징을 컴퓨터라고 지정하고, 고양이와 강아지를 대변하는 특징을 동물
 이렇게 비슷한 의미(semantic)을 가지는 단어를 
 그럼 이들을 아래와 같이 단어 집합의 크기 보다는 작지만 각 차원이 단어들의 특징들을 잘 표현하도록 representation learning을 할 수 있습니다.
@@ -37,7 +37,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDM5NTM0LDE3MzY3NDEzOTcsLTc3Nj
-Q4MTk3LDE2NTU2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUy
-OSw2NTYxMjQ1MTEsMTQwNjg1MjY4Nl19
+eyJoaXN0b3J5IjpbLTEzNzMwMjMyMjAsMTczNjc0MTM5NywtNz
+c2NDgxOTcsMTY1NTY4NDc1OSwtMTIzMjk0NzAwNiwxNTE2Nzcz
+NTI5LDY1NjEyNDUxMSwxNDA2ODUyNjg2XX0=
 -->
