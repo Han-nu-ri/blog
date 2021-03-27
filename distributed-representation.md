@@ -33,7 +33,6 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 키보드: {0.3, 0.9}
 
 이렇게 단어 집합의 크기보다 작지만, 각 차원이 우리가 관심 있는 단어들의 특징을 표현하는 벡터로 구성할 수 있고 자연스럽게 비슷한 의미(semantic)을 가지는 단어은 유사한 공간 상에 놓여지게 됨을 알 수 있습니다.
-그럼 이들을 아래와 같이 단어 집합의 크기 보다는 작지만 각 차원이 단어들의 특징들을 잘 표현하도록 representation learning을 할 수 있습니다.
 
 이 예제를 distributed representation으로 표현해보죠.
 > {}: 000
@@ -42,7 +41,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg5ODE4MjIsMTczNjc0MTM5NywtNz
-c2NDgxOTcsMTY1NTY4NDc1OSwtMTIzMjk0NzAwNiwxNTE2Nzcz
-NTI5LDY1NjEyNDUxMSwxNDA2ODUyNjg2XX0=
+eyJoaXN0b3J5IjpbMjUxODQ4ODkwLDE3MzY3NDEzOTcsLTc3Nj
+Q4MTk3LDE2NTU2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUy
+OSw2NTYxMjQ1MTEsMTQwNjg1MjY4Nl19
 -->
