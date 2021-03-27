@@ -10,16 +10,16 @@ Representation은 뉴로사이언스, 인지 과학에서의 representation은 �
 ## Local representation
 Local representation은 특정한 feature를 표현하는 정보가 대응되는 소규모의 뉴런들에만 존재함을 의미합니다. one-hot encoding은 local representation의 쉬운 예입니다. 예를 들어 아래 단어들을 one-hot encoding으로 표현해보죠.
 
-> 텐서플로 딥러닝 프로젝트
-문장 B: 딥러닝, 머신러닝
+> 텐서플로
+> 딥러닝
 
 {텐서플로, 딥러닝, 프로젝트, 머신러닝}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
->문장 A: {1, 1, 1, 0}
-문장 B: {0, 1, 0, 1}
+> 텐서플로: {1, 0, 0, 0}
+> 딥러닝: {0, 1, 0, 0}
 
 와 같이 표현될 수 있습니다.
-문장 A에 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
+텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
 
 이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다. 우리가 서로 다른 다양한 단어들을 포함하는 수많은 문서들을 one-hot encoding의 형태로 표현한다고 해보죠. 단어들이 겹치지 않은 것들이 많을 수 있기 때문에, 하나의 문서를 표현하는 one-hoe encoding 벡터에 많은 요소들이 0이 될 것 입니다. 그래서 one-hot 벡터를 sparce vector라고도 부르게 됩니다.
 
@@ -37,6 +37,6 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjkwMTI4OSwtMTIzMjk0NzAwNiwxNT
-E2NzczNTI5LDY1NjEyNDUxMSwxNDA2ODUyNjg2XX0=
+eyJoaXN0b3J5IjpbLTU1NDc5NDk0LC0xMjMyOTQ3MDA2LDE1MT
+Y3NzM1MjksNjU2MTI0NTExLDE0MDY4NTI2ODZdfQ==
 -->
