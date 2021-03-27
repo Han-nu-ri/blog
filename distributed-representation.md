@@ -2,9 +2,9 @@
 distributed representation에 관한 포스트입니다. 
 
 ## representation in deep learning
-딥러닝을 공부하다 보면 representation이라는 단어가 많이 나옵니다. representation은 뉴로사이언스, 인지 과학에서의 representation은 현실 세계의 특정한 사물이나 정보를 만들기 위한 사람 마음 안의 심볼을 의미합니다.
+딥러닝을 공부하다 보면 representation이라는 단어가 많이 나옵니다. representation은 뉴로사이언스, 인지 과학에서의 representation은 현실 세계의 특정한 사물이나 정보를 만들기 위한 사람 마음 안의 심볼을 의미한다고 합니다(https://en.wikipedia.org/wiki/Mental_representation). 굉장히 추상적인데, 저는 사람이 무언가를 떠올릴 때 
 
 Definition: **Distributed representations** are a way of representing information in a pattern of activation over a set of neurons, in which each concept is represented by activation over multiple neurons, and each neuron participates in the **representation** of multiple concepts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MDYzNzc2LDEyODQyNzAyNThdfQ==
+eyJoaXN0b3J5IjpbLTE5MzcwMDg3NTEsMTI4NDI3MDI1OF19
 -->
