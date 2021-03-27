@@ -21,7 +21,7 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 와 같이 표현될 수 있습니다.
 문장 A에 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
 
-이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다. 우리가 서로 다른 다양한 단어들을 포함하는 수많은 문서들을 one-hot encoding의 형태로 표현한다고 해보죠. 단어들이 겹치지 않은 것들이 많을 수 있기 때문에, 하나의 문서를 표현하는 one-hoe encoding 벡터에 많은 요소들이 0이 될 것 입니다.
+이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다. 우리가 서로 다른 다양한 단어들을 포함하는 수많은 문서들을 one-hot encoding의 형태로 표현한다고 해보죠. 단어들이 겹치지 않은 것들이 많을 수 있기 때문에, 하나의 문서를 표현하는 one-hoe encoding 벡터에 많은 요소들이 0이 될 것 입니다. 그래서 one-hot 벡터를 sparce vector라고도 부르게 됩니다.
 
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다.
@@ -36,6 +36,6 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjA4NDMxLDE1MTY3NzM1MjksNjU2MT
-I0NTExLDE0MDY4NTI2ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NT
+YxMjQ1MTEsMTQwNjg1MjY4Nl19
 -->
