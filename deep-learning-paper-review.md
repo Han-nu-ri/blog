@@ -23,8 +23,13 @@ SGD를 통해 Multilayer architecture를 학습 시킬 수 있고, architecture 
 gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용적인 application에 불과합니다. 핵심 insight는 objective function의 derivative(gradient)는 upstream gradient와 local gradient를 곱하여 계산할 수 있다는 것 입니다.  Backpropation 과정은 네트워크의 가장 끝에서부터 처음까지 gradient들을 chain rule를 사용하여 반복적으로 계산해나가면 됩니다.
 1990년 후반에 뉴럴 넷과 Backpropagation은 Computer vision과 speech recognition community에서 무시당했습니다. 그 당시에는 작은 prior knowledge를 통해 유의미한 feature를 추출하는 것이 불가능해보였습니다. 간단한 gradient descent는 local minima에 빠질 수 있다고 생각했었죠.
 실제로는 네트워크의 크기가 크면 local minima는 거의 문제가 되지 않습니다. 초기 컨디션과 무관하게, 시스템은 거의 언제나 매우 유사한 품질로 솔루션에 도달하게 됩니다. 
+
+## CNN
+## Distributed representations and language processing
+## RNN
+## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NzMzMzI3LC0xNjEyODkwNTcxLC0yOT
-E1NDQyMTgsLTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMzM4NDE2
-MTgwLC0xMjQ1NzAxNjQxXX0=
+eyJoaXN0b3J5IjpbNjk4MzQwNDYyLDQ2ODczMzMyNywtMTYxMj
+g5MDU3MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUsLTE0NjA3NjYx
+ODEsMTMzODQxNjE4MCwtMTI0NTcwMTY0MV19
 -->
