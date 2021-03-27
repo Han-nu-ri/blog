@@ -10,7 +10,7 @@
 보편적인 머신러닝 기술들은 원시 데이터를 가공하는데 제한적이었습니다. 수십년동안, 패턴 인지나 머신러닝 시스템을 구축하는 것은 원시 데이터에서 데이터의 표현을 추출하기 위해 조심스러운 엔지니어링과 도메인 전문가가 필요했습니다.
 Representation learning은 머신이 원시 데이터로부터 감지나 분류 작업을 위해 필요한 표현들을 자동으로 발견하는 것을 가능하게 해줍니다. 딥러닝은 간단하지만 비선형인 모듈들을 구성하여 원시 데이터 입력으로부터 시작하는 표현을 조금 더 높은 추상화 레벨로 바꿔주고, 이를 통해 여러 레벨의 표현들을 얻는 Representation learning 방법입니다. 이미지를 예로 들면, 첫 번째 레이어는 이미지에 존재하는 선들을 감지하게 됩니다. 두 번째 레이어는 여러 선들의 배열로부터 감지되는 패턴들을 감지하게 됩니다. 딥러닝의 핵심적인 측면은 이들을 데이터로부터 배운다는 것 입니다.
 
-## Supervised learning
+## Supervised learning and Backpropagation
 머신러닝의 가장 일반적인 형태는 supervised learning입니다. 우리가 집, 자동차, 사람 혹은 고양이가 담긴 이미지들을 분류하고 싶다고 상상해보죠. 우리는 먼저 라벨링된 데이터들을  모으고, 에러를 측정하는 목적 함수를 줄이는 방향으로 머신의 파라미터들을 조절하도록 훈련 시킵니다.
 적절히 파라미터들을 조절하기 위해, 학습 알고리즘은 파라미터가 조금 변할 때 에러가 어떻게 변하는 지를 표현해주는 기울기 벡터를 계산합니다. 목적 함수는 훈련 데이터들로 평균된 파라미터들의 고차원 공간 안의 경사로 볼 수 있고, 음수 기울기 벡터는 목적 함수가 최소점에 가까워지도록 경사 안의 가장 빠르게 떨어지는 방향을 가르킵니다.
 일반적으로 Stochastic gradient descent (SGD)라고 불리우는 과정을 사용합니다. SGD는 몇 가지의 데이터들로 입력 벡터들을 구성하고, 출력들과 에러들, 그리고 평균 기울기를 계산하여 파라미터들을 조절합니다. 이 과정을 목적 함수가 줄어드는 것을 멈출 때까지 반복하게 됩니다. Stochastic이라고 불리는 이유는 전체 데이터의 평균 gradient에 대한 noisy estimate을 제공하기 때문입니다.
@@ -20,6 +20,7 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTU0NDIxOCwtMTc2MjAzNDQ1LC0xND
-YwNzY2MTgxLDEzMzg0MTYxODAsLTEyNDU3MDE2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTgzMjA0MTQsLTI5MTU0NDIxOCwtMT
+c2MjAzNDQ1LC0xNDYwNzY2MTgxLDEzMzg0MTYxODAsLTEyNDU3
+MDE2NDFdfQ==
 -->
