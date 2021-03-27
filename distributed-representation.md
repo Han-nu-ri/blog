@@ -30,8 +30,12 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 문장 B: 딥러닝, 머신러닝
 
 이 예제를 distributed representation으로 표현해보죠.
-
+> {}: 000
+> {텐서플로}: 001
+> {텐서플로, 딥러닝}: 010
+> 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MTI0NTExLDE0MDY4NTI2ODZdfQ==
+eyJoaXN0b3J5IjpbMTUxNjc3MzUyOSw2NTYxMjQ1MTEsMTQwNj
+g1MjY4Nl19
 -->
