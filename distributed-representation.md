@@ -24,7 +24,9 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다.
 
 ## Distributed representation
-Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다. 간단히 예를 들어 '딥러닝'을 떠올리면 활성화되는 뉴런들이 A, B, F, H라고 하고, '머신러닝'을 떠올리면 활성화되는 뉴런들이 A, B, C인 경우 처럼요.
+Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ4NjMwOTVdfQ==
+eyJoaXN0b3J5IjpbMTQwNjg1MjY4Nl19
 -->
