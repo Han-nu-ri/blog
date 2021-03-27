@@ -1,5 +1,5 @@
 # Distributed representation
-Distributed representation에 관한 포스트입니다. 
+Distributed representation에 관한 포스트입니다. 원론적인 내용과 Local representation과의 차이를 이해하기 쉽게 예제로 풀어보았습니다.
 
 ## Representation in deep learning
 Representation은 뉴로사이언스, 인지 과학에서의 representation은 현실 세계의 특정한 사물이나 정보를 만들기 위한 사람 마음 안의 심볼을 의미한다고 합니다(https://en.wikipedia.org/wiki/Mental_representation). 굉장히 추상적인데, 저는 사람이 무언가를 떠올릴 때 살아가면서 학습한 그 무언가에 대한 특징들을 무의식적으로 활용한다는 뜻으로 이해했습니다.
@@ -36,8 +36,8 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 
 우리가 관심 있는 단어 셋이 1000개라고 하고, 각 단어들을 딥러닝을 통해 representation learning하여 더 작은 차원의 벡터로 표현한다고 해보죠. 이와 같이 표현하는 방법을 Word embedding이라고, embedding layer의 출력을 embedding vector라고 합니다. embedding vector는 one-hot vector에 비해 저차원이 되지만 각 차원의 값들은 0이 아닌 값들이 많기 때문에 dense합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0ODMyMjUsLTkwNDI1ODAzNCwxNz
-Q0NTY2MDQyLDE3MzY3NDEzOTcsLTc3NjQ4MTk3LDE2NTU2ODQ3
-NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NTYxMjQ1MTEsMT
-QwNjg1MjY4Nl19
+eyJoaXN0b3J5IjpbMTg4ODg0NzY1LC0xNTU1NDgzMjI1LC05MD
+QyNTgwMzQsMTc0NDU2NjA0MiwxNzM2NzQxMzk3LC03NzY0ODE5
+NywxNjU1Njg0NzU5LC0xMjMyOTQ3MDA2LDE1MTY3NzM1MjksNj
+U2MTI0NTExLDE0MDY4NTI2ODZdfQ==
 -->
