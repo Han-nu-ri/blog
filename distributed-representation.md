@@ -9,9 +9,10 @@ Representation은 뉴로사이언스, 인지 과학에서의 representation은 �
 예전에는 학습을 위해 데이터의 feature들을 조심스럽게 추출하고 골랐다면 (feature engineering), 이제는 딥러닝을 통해 이를 자동적으로 (representation learning) 하고 있습니다.
 ## Local representation
 Local representation은 특정한 feature를 표현하는 정보가 대응되는 소규모의 뉴런들에만 존재함을 의미합니다. one-hot encoding은 local representation의 쉬운 예입니다. 예를 들어 아래 문장들을 one-hot encoding으로 표현해보죠.
-
+문장 A: 텐서플로 딥러닝 프로젝트
+문장 B: 딥러닝RHK AJ
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다. 간단히 예를 들어 '딥러닝'을 떠올리면 활성화되는 뉴런들이 A, B, F, H라고 하고, '머신러닝'을 떠올리면 활성화되는 뉴런들이 A, B, C인 경우 처럼요.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg3MzgwNjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MTk1ODAwMzZdfQ==
 -->
