@@ -13,14 +13,16 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 문장 A: 텐서플로 딥러닝 프로젝트
 문장 B: 딥러닝, 머신러닝
 
-{텐서플로, 딥러닝, 프로젝트, 머신러닝}이 우리가 관심 있는 단어 셋이라고 하면,
+{텐서플로, 딥러닝, 프로젝트, 머신러닝}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
 문장 A: {1, 1, 1, 0}
 문장 B: {0, 1, 0, 1}
+
 와 같이 표현될 수 있습니다.
+문장
 
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다. 간단히 예를 들어 '딥러닝'을 떠올리면 활성화되는 뉴런들이 A, B, F, H라고 하고, '머신러닝'을 떠올리면 활성화되는 뉴런들이 A, B, C인 경우 처럼요.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MDg2MDIwXX0=
+eyJoaXN0b3J5IjpbMTIxNTc5Njc4M119
 -->
