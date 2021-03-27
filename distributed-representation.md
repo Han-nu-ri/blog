@@ -34,10 +34,10 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 
 이렇게 단어 집합의 크기보다 작지만, 각 차원이 우리가 관심 있는 단어들의 특징을 표현하는 벡터로 구성할 수 있고 자연스럽게 비슷한 의미(semantic)를 가지는 단어는 유사한 공간 상에 놓여지게 됨을 알 수 있습니다.
 
-우리가 관심 있는 단어 셋이 1000개라고 하고, 각 단어들을 딥러닝을 통해 representation learning하여 더 작은 차원의 벡터로 표현한다고 해보죠. 
+우리가 관심 있는 단어 셋이 1000개라고 하고, 각 단어들을 딥러닝을 통해 representation learning하여 더 작은 차원의 벡터로 표현한다고 해보죠. 이 벡터는 one-hot vector에 비해 저차원이 되지만 각 차원의 값들은 0이 아닌 값들이 많습니다. 이를 dense vector라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU0Njk2MDUsLTkwNDI1ODAzNCwxNz
-Q0NTY2MDQyLDE3MzY3NDEzOTcsLTc3NjQ4MTk3LDE2NTU2ODQ3
-NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NTYxMjQ1MTEsMT
-QwNjg1MjY4Nl19
+eyJoaXN0b3J5IjpbODYyNzI2NTQyLC05MDQyNTgwMzQsMTc0ND
+U2NjA0MiwxNzM2NzQxMzk3LC03NzY0ODE5NywxNjU1Njg0NzU5
+LC0xMjMyOTQ3MDA2LDE1MTY3NzM1MjksNjU2MTI0NTExLDE0MD
+Y4NTI2ODZdfQ==
 -->
