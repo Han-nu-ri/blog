@@ -25,14 +25,15 @@ gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용�
 실제로는 네트워크의 크기가 크면 local minima는 거의 문제가 되지 않습니다. 초기 컨디션과 무관하게, 시스템은 거의 언제나 매우 유사한 품질로 솔루션에 도달하게 됩니다. 
 
 ## CNN
-CNN은 이미 정리한 포스트가 있어  생략합니다.
+CNN은 이미 정리한 포스트가 있어 생략합니다.
 https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D%B4%ED%95%B4
 ## Distributed representations and language processing
+
 ## RNN
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTgyNDM0LC0xMDU2NTAzNDE0LDY5OD
-M0MDQ2Miw0Njg3MzMzMjcsLTE2MTI4OTA1NzEsLTI5MTU0NDIx
-OCwtMTc2MjAzNDQ1LC0xNDYwNzY2MTgxLDEzMzg0MTYxODAsLT
-EyNDU3MDE2NDFdfQ==
+eyJoaXN0b3J5IjpbLTk1OTAzMjY2MCwtMTA1NjUwMzQxNCw2OT
+gzNDA0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcxLC0yOTE1NDQy
+MTgsLTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMzM4NDE2MTgwLC
+0xMjQ1NzAxNjQxXX0=
 -->
