@@ -13,7 +13,7 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 > 텐서플로
 > 딥러닝
 
-{텐서플로, 딥러닝, 프로젝트, 머신러닝}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
+{텐서플로, 딥러닝, 고양이, 강아지}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
 > 텐서플로: {1, 0, 0, 0}
 > 딥러닝: {0, 1, 0, 0}
@@ -34,7 +34,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTYyMDE2LC03NzY0ODE5NywxNjU1Nj
-g0NzU5LC0xMjMyOTQ3MDA2LDE1MTY3NzM1MjksNjU2MTI0NTEx
-LDE0MDY4NTI2ODZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDU0NDk0NDYsLTc3NjQ4MTk3LDE2NT
+U2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NTYxMjQ1
+MTEsMTQwNjg1MjY4Nl19
 -->
