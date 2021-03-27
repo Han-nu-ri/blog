@@ -21,10 +21,10 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 
 SGD를 통해 Multilayer architecture를 학습 시킬 수 있고, architecture 내 함수들이 상대적으로 smooth한 함수들로 구성되어 있다면 Backpropagation 알고리즘으로 gradient들을 계산할 수 있습니다.
 gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용적인 application에 불과합니다. 핵심 insight는 objective function의 derivative(gradient)는 upstream gradient와 local gradient를 곱하여 계산할 수 있다는 것 입니다.  Backpropation 과정은 네트워크의 가장 끝에서부터 처음까지 gradient들을 chain rule를 사용하여 반복적으로 계산해나가면 됩니다.
-1990년 후반에 뉴럴 넷과 backpropagation은  
+1990년 후반에 뉴럴 넷과 Backpropagation은 Computer vision과 speech recognition community에서 무시당했습니다. 그 당시에는 작은 prior knowledge를 통해 유의미한 feature를 추출하는 것이 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MTM3NzQwLC0yOTE1NDQyMTgsLTE3Nj
-IwMzQ0NSwtMTQ2MDc2NjE4MSwxMzM4NDE2MTgwLC0xMjQ1NzAx
-NjQxXX0=
+eyJoaXN0b3J5IjpbLTIwMTgyNTA2NTMsLTI5MTU0NDIxOCwtMT
+c2MjAzNDQ1LC0xNDYwNzY2MTgxLDEzMzg0MTYxODAsLTEyNDU3
+MDE2NDFdfQ==
 -->
