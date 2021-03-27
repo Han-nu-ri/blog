@@ -16,7 +16,7 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 {텐서플로, 딥러닝, 고양이, 강아지}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
 > 텐서플로: {1, 0, 0, 0}
-> 딥러닝: {0, 1, 0, 0}
+> 고양이: {0, 0, 1, 0}
 
 와 같이 표현될 수 있습니다.
 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
@@ -34,7 +34,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU0NDk0NDYsLTc3NjQ4MTk3LDE2NT
+eyJoaXN0b3J5IjpbLTE2MjIxMTEyODUsLTc3NjQ4MTk3LDE2NT
 U2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NTYxMjQ1
 MTEsMTQwNjg1MjY4Nl19
 -->
