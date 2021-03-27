@@ -19,10 +19,10 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 문장 B: {0, 1, 0, 1}
 
 와 같이 표현될 수 있습니다.
-문장
+문장 A에 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들ㄷ
 
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다. 간단히 예를 들어 '딥러닝'을 떠올리면 활성화되는 뉴런들이 A, B, F, H라고 하고, '머신러닝'을 떠올리면 활성화되는 뉴런들이 A, B, C인 경우 처럼요.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTc5Njc4M119
+eyJoaXN0b3J5IjpbLTIxNDY2MjYxNjJdfQ==
 -->
