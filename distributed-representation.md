@@ -11,7 +11,7 @@ Representation은 뉴로사이언스, 인지 과학에서의 representation은 �
 Local representation은 특정한 feature를 표현하는 정보가 대응되는 소규모의 뉴런들에만 존재함을 의미합니다. one-hot encoding은 local representation의 쉬운 예입니다. 예를 들어 아래 단어들을 one-hot encoding으로 표현해보죠.
 
 > 텐서플로
-> 딥러닝
+> 고양이
 
 {텐서플로, 딥러닝, 고양이, 강아지}이 4개의 단어가 우리가 관심 있는 단어 셋이라고 하면,
 
@@ -34,7 +34,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIxMTEyODUsLTc3NjQ4MTk3LDE2NT
+eyJoaXN0b3J5IjpbLTExMDUwMDYzNzYsLTc3NjQ4MTk3LDE2NT
 U2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUyOSw2NTYxMjQ1
 MTEsMTQwNjg1MjY4Nl19
 -->
