@@ -26,7 +26,8 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다.
 {텐서플로, 딥러닝, 모니터, 키보드} 이 예제로 돌아가보죠. 각 단어를 one-hot encoding의 형태로 표현하기 위해 4차원의 벡터를 사용하였습니다. 잘 살펴보면, 텐서플로와 딥러닝은 유사한 의미를 가지고 있습니다. 모니터와 키보드도 그렇습니다.
-텐서플로와 딥러닝을 대변하는 특징을 '머신러닝'이라고 지정하고, 고양이와 강아지를 대변하는 특징을 동물
+텐서플로와 딥러닝을 대변하는 특징을 '머신러닝'이라고 지정하고, 모니터와 키보드를 대변하는 특징을 '컴퓨터'라고 지정하면 우리는 위 단어들을 2차원 벡터를 통해 표현할 수 있습니다.
+
 이렇게 비슷한 의미(semantic)을 가지는 단어를 
 그럼 이들을 아래와 같이 단어 집합의 크기 보다는 작지만 각 차원이 단어들의 특징들을 잘 표현하도록 representation learning을 할 수 있습니다.
 
@@ -37,7 +38,7 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjgxMTM4MywxNzM2NzQxMzk3LC03Nz
-Y0ODE5NywxNjU1Njg0NzU5LC0xMjMyOTQ3MDA2LDE1MTY3NzM1
-MjksNjU2MTI0NTExLDE0MDY4NTI2ODZdfQ==
+eyJoaXN0b3J5IjpbNDg5NjIxMTM2LDE3MzY3NDEzOTcsLTc3Nj
+Q4MTk3LDE2NTU2ODQ3NTksLTEyMzI5NDcwMDYsMTUxNjc3MzUy
+OSw2NTYxMjQ1MTEsMTQwNjg1MjY4Nl19
 -->
