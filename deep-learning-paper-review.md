@@ -20,10 +20,10 @@ Representation learning은 머신이 원시 데이터로부터 감지나 분류 
 이미지 출처: LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015) 
 
 SGD를 통해 Multilayer architecture를 학습 시킬 수 있고, architecture 내 함수들이 상대적으로 smooth한 함수들로 구성되어 있다면 Backpropagation 알고리즘으로 gradient들을 계산할 수 있습니다.
-gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용적인 application에 불과합니다. 핵심 insight는 objective function이 derivative(gradient)는 그 module의 output으로부터 흘러온 g
+gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용적인 application에 불과합니다. 핵심 insight는 objective function의 derivative(gradient)는 upstream gradient와 local gradient를 곱하여 계산할 수 있다는 것 입니다.  Backpropation 과정은 네트워크의 가장 끝에서부터 처음까지 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MjQyOTQyNSwtMjkxNTQ0MjE4LC0xNz
+eyJoaXN0b3J5IjpbLTE5OTU0NzA4NCwtMjkxNTQ0MjE4LC0xNz
 YyMDM0NDUsLTE0NjA3NjYxODEsMTMzODQxNjE4MCwtMTI0NTcw
 MTY0MV19
 -->
