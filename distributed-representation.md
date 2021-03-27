@@ -21,7 +21,7 @@ Local representation은 특정한 feature를 표현하는 정보가 대응되는
 와 같이 표현될 수 있습니다.
 문장 A에 텐서플로라는 단어가 있음을 표현하기 위해서, 첫 번째 비트에 1을 넣는 것 외에는 할 일이 없습니다. 다른 단어들도 마찬가지이지요.
 
-이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다.
+이렇게 특정한 정보를 표현함에 있어 하나의 (혹은 소규모의) 뉴런들만 사용된다면 이를 Local representation이라고 합니다. 우리가 서로 다른 다양한 단어들을 포함하는 수많은 문장들을 one-hot encoding의 형태로 표현한다고 해보죠.
 
 ## Distributed representation
 Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표현하는 방법으로, 각 정보는 여러 뉴런들의 활성화로 표현되며 각 뉴런들은 여러 정보들의 representation에 참여하게 됩니다.
@@ -36,6 +36,6 @@ Distributed representation은 정보를 여러 뉴런들의 집합을 통해 표
 > 텐서플로
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjc3MzUyOSw2NTYxMjQ1MTEsMTQwNj
-g1MjY4Nl19
+eyJoaXN0b3J5IjpbMzQ5OTA0OTAzLDE1MTY3NzM1MjksNjU2MT
+I0NTExLDE0MDY4NTI2ODZdfQ==
 -->
