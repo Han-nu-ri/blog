@@ -99,9 +99,12 @@ f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1) \\
 f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
 (1) 부등식을 전개하면
+$$
+
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ4OTExNTksODQzNzk0MzYxLDE4ND
+eyJoaXN0b3J5IjpbLTE1ODgwNTQ2MDUsODQzNzk0MzYxLDE4ND
 M0MjQzNSwxNTM5MzUwNjQxLDE0Mjg0NTkyMzgsLTIwNjE1MzA4
 OTksLTIwNzU3NzcyMzUsLTYwOTA1MDU2MSw5Nzc2MTE0MDMsMT
 I0MjEzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1MzQxLC0xMTkx
