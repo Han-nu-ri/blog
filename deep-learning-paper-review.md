@@ -30,12 +30,13 @@ https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D
 ## Distributed representations and language processing
 딥러닝은 distributed representation을 쓰지 않는 전통적인 학습 알고리즘에 비해 큰 장점들이 있습니다. 먼저 학습 기간 때 보였던 feature들 외의 새로운 값의 조합에 대한 generalization입니다.  두 번째로,  딥러닝은 학습 과정에서 입력 안의 explicitly하게 존재하지 않는 semantic feature들을 one-hot vector에서 embedding vector로 변경 시키면서 배울 수 있습니다. NLP Application에서는 이런 단어에 대한  Vector representation을 광범히 활용하고 있습니다.
 딥러닝을 활용한 language model 전에는, language에 대한 통계적 모델링의 표준적인 접근 방법은 N-grams이었습니다. N-grams은 길이가 N까지의 연속된 단어 조합이 발생하는 빈도수를 세는 것에 기반합니다. 그렇기 때문에 연속적인 단어들 사이에 semantic을 일반화하지 못합니다.
+(distributed representation에 대한 내용은 https://nrhan.tistory.com/entry/distributed-representation 에 포스트하였습니다.)
 ## RNN
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjc2MTQxMCw1NDM4Njk0OCwxNzM5OD
-QyNDI0LC0yMDE2MzM2ODQsOTIyMjMyNzg4LC05NTkwMzI2NjAs
-LTEwNTY1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMzMyNywtMTYxMj
-g5MDU3MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUsLTE0NjA3NjYx
-ODEsMTMzODQxNjE4MCwtMTI0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbLTE5ODUxMDcsLTYyMjc2MTQxMCw1NDM4Nj
+k0OCwxNzM5ODQyNDI0LC0yMDE2MzM2ODQsOTIyMjMyNzg4LC05
+NTkwMzI2NjAsLTEwNTY1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMz
+MyNywtMTYxMjg5MDU3MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUs
+LTE0NjA3NjYxODEsMTMzODQxNjE4MCwtMTI0NTcwMTY0MV19
 -->
