@@ -44,14 +44,11 @@ Continuous review에서는 다음 조건들이 있습니다.
 4. Purchase cost **c** per unit
 5. Holding cost **h** per unit and per year
 
-이런 제약 사항 속에서 평균 비용을 최소화는데 그 목적이 있습니다.
-ㅇ
-최적의 IL을 위한 두 가지 속성들이 있는데,
+위 조건들을 만족하는 최적의 IL은 자연스럽게 두 가지 속성들을 만족하게 됩니다.
 Zero-Inventory Ordering
-ㅊ
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY4NjMyMTAsMTk1ODg1OTY1OSwtNT
-I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
-ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ
-==
+eyJoaXN0b3J5IjpbLTM3Mzk0MDA3LDE5NTg4NTk2NTksLTUyND
+I0MjU0LC0xMTk3NDc5MTc1LDgwOTA0MjU4MSwxNTY2MjM1NDg4
+LC00ODQyNTAwMzIsLTExMzY0MTQ2OTksODEwOTgxMDU0XX0=
 -->
