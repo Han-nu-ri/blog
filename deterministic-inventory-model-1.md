@@ -1,5 +1,5 @@
 # deterministic-inventory-model-1
-재고 모델과 관련된 비용, Economic Order Quantity(EOQ) 문제와
+재고 모델과 관련된 비용, Economic Order Quantity(EOQ) 문제와 Power-of-Two Policy를 다룬 포스트입니다.
 ## Why holding inventory? Why is inventory important?
 왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
@@ -107,7 +107,7 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ1ODkxNzgsLTEwOTEyMzI1NTcsNz
+eyJoaXN0b3J5IjpbLTE2MTQwMjM1MDEsLTEwOTEyMzI1NTcsNz
 AxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MDU4MzIyLDg0Mzc5NDM2
 MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwxNDI4NDU5MjM4LC0yMD
 YxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1NjEsOTc3NjEx
