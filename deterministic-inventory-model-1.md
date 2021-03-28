@@ -41,9 +41,10 @@ Continuous review에서는 다음 제약 사항이 있습니다.
 1. Lead time = **0**, so stockout is not allowed.
 2. Fixed cost **K** per order
 3. Purchase cost **c** per unit
-4. 
+4. Holding cost **h** per unit and per year
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzE4ODAxOSwxOTU4ODU5NjU5LC01Mj
-QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
-OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTE2MDE0NzEyMzMsMTk1ODg1OTY1OSwtNT
+I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
+ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ
+==
 -->
