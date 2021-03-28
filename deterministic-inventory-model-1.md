@@ -74,10 +74,10 @@ $$
 현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EQQ Sensitivity라고 합니다.
 EQQ Sensitivity
 $$
-{g(Q) \over g(Q^*)} = 
+{g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTQ2MDc0NiwtMTE1MDk3NTM0MSwtMT
+eyJoaXN0b3J5IjpbLTg1NzcyOTU5MSwtMTE1MDk3NTM0MSwtMT
 E5MTIwMDQ2MiwtMTE3Njg1OTUwLDEzNzQxMjI1NzksLTQ0MzE0
 MzgzNSwtMTQxNjA0ODQzLC0yNDA2MzY0NzMsLTEwOTYyODk2Ny
 w4MDg0NzE4ODIsNTYwMDIxMjY3LDE1MzIzNjAyMTMsODk4ODky
