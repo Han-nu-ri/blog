@@ -87,8 +87,9 @@ $$
 T=T_B2^k. k = \cdots -2, -1, 0, 1, 2, 3, ...
 $$
 ### Error bound of Power-of-Two Policies
+T
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTE5OTIxLDE1MzkzNTA2NDEsMTQyOD
+eyJoaXN0b3J5IjpbODk3MTI0NzM3LDE1MzkzNTA2NDEsMTQyOD
 Q1OTIzOCwtMjA2MTUzMDg5OSwtMjA3NTc3NzIzNSwtNjA5MDUw
 NTYxLDk3NzYxMTQwMywxMjQyMTMwODM4LC04NTc3Mjk1OTEsLT
 ExNTA5NzUzNDEsLTExOTEyMDA0NjIsLTExNzY4NTk1MCwxMzc0
