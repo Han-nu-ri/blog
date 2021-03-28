@@ -76,10 +76,10 @@ EQQ Sensitivity
 $$
 {g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
 $$
-Q* 대비  Q가 변함에 따라 최적의 cost 대비 cost가 어떻게 변할까요? ㅇ
+Q* 대비  Q가 변함에 따라 최적의 cost 대비 cost가 어떻게 변할까요? 아래는 EQQ Sensitivity의 그래프입니다. 
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzE0ODU0NCwtODU3NzI5NTkxLC0xMT
+eyJoaXN0b3J5IjpbLTgxNTMyNzM0MCwtODU3NzI5NTkxLC0xMT
 UwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3NDEy
 MjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0MDYzNjQ3My
 wtMTA5NjI4OTY3LDgwODQ3MTg4Miw1NjAwMjEyNjcsMTUzMjM2
