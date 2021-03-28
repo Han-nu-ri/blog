@@ -65,9 +65,9 @@ $$
 Q^* = \sqrt{2K\lambda \over h}
 $$
 ### EQQ Sensitivity
-정확히 Q
+현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDE3MjY0NywtMTE3Njg1OTUwLDEzNz
+eyJoaXN0b3J5IjpbMjA4MTI1ODQ0OSwtMTE3Njg1OTUwLDEzNz
 QxMjI1NzksLTQ0MzE0MzgzNSwtMTQxNjA0ODQzLC0yNDA2MzY0
 NzMsLTEwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMDIxMjY3LDE1Mz
 IzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIsMTk1ODg1OTY1
