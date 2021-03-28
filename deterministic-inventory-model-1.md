@@ -1,5 +1,5 @@
 # deterministic-inventory-model-1
-재고
+재고 모델과 관련된 비용, Economic Order Quantity(EOQ) 문제와
 ## Why holding inventory? Why is inventory important?
 왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
@@ -107,11 +107,11 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjQzMzY1NywtMTA5MTIzMjU1Nyw3MD
-E5MjE0OTgsLTgyNTYyODgzNCw0NTkwNTgzMjIsODQzNzk0MzYx
-LDE4NDM0MjQzNSwxNTM5MzUwNjQxLDE0Mjg0NTkyMzgsLTIwNj
-E1MzA4OTksLTIwNzU3NzcyMzUsLTYwOTA1MDU2MSw5Nzc2MTE0
-MDMsMTI0MjEzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1MzQxLC
-0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3NDEyMjU3OSwtNDQz
-MTQzODM1XX0=
+eyJoaXN0b3J5IjpbLTE2OTQ1ODkxNzgsLTEwOTEyMzI1NTcsNz
+AxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MDU4MzIyLDg0Mzc5NDM2
+MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwxNDI4NDU5MjM4LC0yMD
+YxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1NjEsOTc3NjEx
+NDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5MSwtMTE1MDk3NTM0MS
+wtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLDEzNzQxMjI1NzksLTQ0
+MzE0MzgzNV19
 -->
