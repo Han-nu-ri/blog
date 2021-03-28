@@ -54,16 +54,9 @@ $$
 g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
-$$
-{K\lambda \over Q^*} = {hQ^* \over 2} \\
-Q^* = {\sqrt {2K\lambda \over h}}
-$$
+![image](https://user-images.githubusercontent.com/11609881/112759094-6b69f900-902c-11eb-9f7d-bc3c7c1df73c.png)
 또한 g(Q*)는 아래와 같습니다.
-$$
-g(Q)={K \over T^*} + {hQ^* \over 2} \\
-={K\lambda \over Q^*} + {hQ^* \over 2} \\
-={\sqrt {2K\lambda h}}
-$$
+![image](https://user-images.githubusercontent.com/11609881/112759110-7d4b9c00-902c-11eb-9c5d-f749b6ee8394.png)
 ### EOQ Sensitivity
 현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EOQ Sensitivity라고 합니다.
 EOQ Sensitivity
@@ -107,7 +100,7 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjgyNDMwMCwtMzMyODI0MzAwLDExOD
+eyJoaXN0b3J5IjpbMTc2MjMxNjkzOSwtMzMyODI0MzAwLDExOD
 cwNzg1MiwtMTA5MTIzMjU1Nyw3MDE5MjE0OTgsLTgyNTYyODgz
 NCw0NTkwNTgzMjIsODQzNzk0MzYxLDE4NDM0MjQzNSwxNTM5Mz
 UwNjQxLDE0Mjg0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3Nzcy
