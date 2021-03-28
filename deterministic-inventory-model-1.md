@@ -20,10 +20,12 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 재고를 보유하는 비용을 의미합니다. 물리적으로 공간을 차지하는 것 뿐만 아니라, 세금, 보험, 그리고 기회 비용까지 포함합니다. 종종 1년 단위로 제품의 가치치의 비율로 표현됩니다.
 ### Stockout cost
 수요를 충족 시킬 수 있는 충분한 재고가 없을 때 발생하는 비용입니다. 재고가 없어서 떠나는 수요의 양과, 예약 구매자를 위한 비용, 지연 비용 등이 포함됩니다.
+### Fixed cost
+
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ3NDM1NTgsLTQ4NDI1MDAzMiwtMT
-EzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbODMwNzI2MDgwLC00ODQyNTAwMzIsLTExMz
+Y0MTQ2OTksODEwOTgxMDU0XX0=
 -->
