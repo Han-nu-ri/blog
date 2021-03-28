@@ -60,12 +60,14 @@ g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
 $$
-{K\lambda \over Q^*} = {hQ \over 2}
+{K\lambda \over Q^*} = {hQ^* \over 2} \\
+Q^*
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTYwNDg0MywtMjQwNjM2NDczLC0xMD
-k2Mjg5NjcsODA4NDcxODgyLDU2MDAyMTI2NywxNTMyMzYwMjEz
-LDg5ODg5MjMyMCwtMjI2OTAyOTEyLDE5NTg4NTk2NTksLTUyND
-I0MjU0LC0xMTk3NDc5MTc1LDgwOTA0MjU4MSwxNTY2MjM1NDg4
-LC00ODQyNTAwMzIsLTExMzY0MTQ2OTksODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbLTkyMzg5MDMwNiwtMTQxNjA0ODQzLC0yND
+A2MzY0NzMsLTEwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMDIxMjY3
+LDE1MzIzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIsMTk1OD
+g1OTY1OSwtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgx
+LDE1NjYyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MT
+A5ODEwNTRdfQ==
 -->
