@@ -45,10 +45,11 @@ Continuous review에서는 다음 조건들이 있습니다.
 5. Holding cost **h** per unit and per year
 
 위 조건들을 만족하는 최적의 IL은 자연스럽게 두 가지 속성들을 만족하게 됩니다.
-Zero-Inventory Ordering:
+Zero-Inventory Ordering(ZIO): 
 Constant order size:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTkzNTUyMiwxOTU4ODU5NjU5LC01Mj
-QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
-OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTEwNTg0MTAxNzEsMTk1ODg1OTY1OSwtNT
+I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
+ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ
+==
 -->
