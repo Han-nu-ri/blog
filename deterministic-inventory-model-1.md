@@ -43,8 +43,10 @@ Continuous review에서는 다음 제약 사항이 있습니다.
 3. Fixed cost **K** per order
 4. Purchase cost **c** per unit
 5. Holding cost **h** per unit and per year
+6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzU2MjA4MiwxOTU4ODU5NjU5LC01Mj
-QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
-OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTE5MDUxODkyODgsMTk1ODg1OTY1OSwtNT
+I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
+ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ
+==
 -->
