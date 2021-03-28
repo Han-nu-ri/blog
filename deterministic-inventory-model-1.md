@@ -95,10 +95,11 @@ f(T)={K \over T}+{h \lambda T \over 2}
 $$
 Power-of-Two 정책을 따를 때 최적의 비용을 만드는 optimal k라고 하면 다음 식을 만족하게 됩니다.
 $$
-f(T_B2^k) \le f(T_B2^{k+1})
+f(T_B2^k) \le f(T_B2^{k+1}) \\
+f(T_B2^k) \le f(T_B2^{k-1})
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNjUyNDgsMTg0MzQyNDM1LDE1MzkzNT
+eyJoaXN0b3J5IjpbMjk3MDA3MzksMTg0MzQyNDM1LDE1MzkzNT
 A2NDEsMTQyODQ1OTIzOCwtMjA2MTUzMDg5OSwtMjA3NTc3NzIz
 NSwtNjA5MDUwNTYxLDk3NzYxMTQwMywxMjQyMTMwODM4LC04NT
 c3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEyMDA0NjIsLTExNzY4
