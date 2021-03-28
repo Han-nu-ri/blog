@@ -70,13 +70,13 @@ g(Q)={K \over T^*} + {hQ^* \over 2} \\
 ={K\lambda \over Q^*} + {hQ^* \over 2} \\
 =\sqrt {2K\lambda h}
 $$
-### EQQ Sensitivity
-현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EQQ Sensitivity라고 합니다.
-EQQ Sensitivity
+### EOQ Sensitivity
+현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EOQ Sensitivity라고 합니다.
+EOQ Sensitivity
 $$
 {g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
 $$
-아래는 EQQ Sensitivity의 그래프입니다. 1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
+아래는 EOQ Sensitivity의 그래프입니다. 1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
 또한 최적의 Q 근방에서는 비용이 생각보다 별로 증가하지 않습니다.
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
 ### Lead time이 0이 아닌 고정 상수인 경우
@@ -84,11 +84,11 @@ Lead Time이 0이  아니라  고정  상수 L이라고  해도, 별로  복잡�
 ### Power-of-Two Policies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0Mj
-EzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAw
-NDYyLC0xMTc2ODU5NTAsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC
-0xNDE2MDQ4NDMsLTI0MDYzNjQ3MywtMTA5NjI4OTY3LDgwODQ3
-MTg4Miw1NjAwMjEyNjcsMTUzMjM2MDIxMyw4OTg4OTIzMjAsLT
-IyNjkwMjkxMiwxOTU4ODU5NjU5LC01MjQyNDI1NCwtMTE5NzQ3
-OTE3NV19
+eyJoaXN0b3J5IjpbLTk3NDEwNzQ1NywtNjA5MDUwNTYxLDk3Nz
+YxMTQwMywxMjQyMTMwODM4LC04NTc3Mjk1OTEsLTExNTA5NzUz
+NDEsLTExOTEyMDA0NjIsLTExNzY4NTk1MCwxMzc0MTIyNTc5LC
+00NDMxNDM4MzUsLTE0MTYwNDg0MywtMjQwNjM2NDczLC0xMDk2
+Mjg5NjcsODA4NDcxODgyLDU2MDAyMTI2NywxNTMyMzYwMjEzLD
+g5ODg5MjMyMCwtMjI2OTAyOTEyLDE5NTg4NTk2NTksLTUyNDI0
+MjU0XX0=
 -->
