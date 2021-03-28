@@ -64,12 +64,16 @@ $$
 {K\lambda \over Q^*} = {hQ^* \over 2} \\
 Q^* = \sqrt{2K\lambda \over h}
 $$
-
+또한 g(Q*)는 아래와 같습니다.
+$$
+g(Q)={K \over T} + {hQ \over 2} \\
+={K\lambd \over Q} + {hQ \over 2}
+$$
 ### EQQ Sensitivity
 현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EQQ Sensitivity라고 합니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjk4MjE0MCwtMTE5MTIwMDQ2MiwtMT
+eyJoaXN0b3J5IjpbLTk5MDQ0OTk4MywtMTE5MTIwMDQ2MiwtMT
 E3Njg1OTUwLDEzNzQxMjI1NzksLTQ0MzE0MzgzNSwtMTQxNjA0
 ODQzLC0yNDA2MzY0NzMsLTEwOTYyODk2Nyw4MDg0NzE4ODIsNT
 YwMDIxMjY3LDE1MzIzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5
