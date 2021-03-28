@@ -15,11 +15,11 @@
 
 재고가 필요한 이유를 살펴보면, 재고는 나쁜 것이 아닙니다. 여러 리스크를 줄이고, 보유 비용과 운송 비용 등 여러가지를 고려해서 재고의 양을 최적화하는 것이 필요하게 됩니다. 이렇게 여러 가지 요소를 고려해서 재고를 모델링하는 것을 Inventory model이라고 합니다.
 ## Relevant Costs
-ㅑㅜ
+Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용을 살펴보죠.
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDUzMDg0NSwtNDg0MjUwMDMyLC0xMT
-M2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTEzMzY5MTMxNjIsLTQ4NDI1MDAzMiwtMT
+EzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
 -->
