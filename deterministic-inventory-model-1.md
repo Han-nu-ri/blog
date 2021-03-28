@@ -25,10 +25,11 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 ### Purchase cost
 제품의 단위마다 발생하는 구매 비용입니다.
 ## Measurement of Inventory Level
-Inventory level는 
+Inventory level은 현재 판매할 수 있는 재고의 양과 수요가 발생했지만 아직 물품을 주지 못한 양으로 결정됩니다.
+ㅎ
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2ODI2NzI4LDE1NjYyMzU0ODgsLTQ4ND
-I1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbMTI0NTE4MTU4NywxNTY2MjM1NDg4LC00OD
+QyNTAwMzIsLTExMzY0MTQ2OTksODEwOTgxMDU0XX0=
 -->
