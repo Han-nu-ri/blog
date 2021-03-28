@@ -90,11 +90,11 @@ $$
 Power-of-Two 정책을 따를 때의 최적의 비용과 따르지 않을 때의 최적의 비용은 최대 얼마나 차이가 날까요?
 먼저 Q에 대한 비용의 함수는 T로 표현할 수 있습니다.
 $$
-g(Q)={K\lambda \over Q}+{hQ \over 2}
-f
+g(Q)={K\lambda \over Q}+{hQ \over 2} \\
+f(T)={K \over T}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM1Njg3OTQsMTUzOTM1MDY0MSwxND
+eyJoaXN0b3J5IjpbLTE1ODg5MDc2NTEsMTUzOTM1MDY0MSwxND
 I4NDU5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkw
 NTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5MS
 wtMTE1MDk3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLDEz
