@@ -94,20 +94,20 @@ f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
 (1) 부등식을 전개하면 아래 부등식을 얻을 수 있고,
 $$
-T_B2^k \le \sqrt {2} T^*
+T_B2^k \le {\sqrt {2} T^*}
 $$
 (2) 부등식을 전개하면 아래 부등식을 얻을 수 있습니다.
 $$
-{1 \over \sqrt {2}} T^* \le T_B2^k 
+{1 \over {\sqrt {2}}} T^* \le T_B2^k 
 $$
 Power-of-Two 정책을 따르는 Optimal T가 T*에 가장 멀리 떨어진 최악의 두 상황에서의 EOQ Sensitivity를 계산하면,
 $$
 {f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k}) \\
-= {3 \over 2 \sqrt 2} \approx 1.06.
+= {3 \over 2 {\sqrt 2}} \approx 1.06.
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTU1NzgyMiwxMTg3MDc4NTIsLTEwOT
+eyJoaXN0b3J5IjpbLTMzMjgyNDMwMCwxMTg3MDc4NTIsLTEwOT
 EyMzI1NTcsNzAxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MDU4MzIy
 LDg0Mzc5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwxNDI4ND
 U5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1
