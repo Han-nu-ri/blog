@@ -23,11 +23,11 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 ### Fixed cost
 주문마다 발생하는 고정된 비용을 의미합니다. 제품의 크기와는 무관하게 주문을 발주하면서 발생하는 관리 비용, 배송 비용 등을 포함합니다.
 ### Purchase cost
-
+제품의 단위마다 발생하는 구매 비용입니다.
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTA3NDE4NywtNDg0MjUwMDMyLC0xMT
+eyJoaXN0b3J5IjpbMTI4Nzc1MDIyMiwtNDg0MjUwMDMyLC0xMT
 M2NDE0Njk5LDgxMDk4MTA1NF19
 -->
