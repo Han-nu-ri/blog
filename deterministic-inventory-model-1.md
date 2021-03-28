@@ -58,9 +58,10 @@ Fixed cost는 K에, 1년에 주문하는 빈도를 곱하면 됩니다. 따라�
 $$
 g(Q)={K \over T} + {hQ \over 2}
 $$
-Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점입니다.
+Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODM5MDExOCwtMjQwNjM2NDczLC0xMD
+eyJoaXN0b3J5IjpbMTMyMTIwNzU3MiwtMjQwNjM2NDczLC0xMD
 k2Mjg5NjcsODA4NDcxODgyLDU2MDAyMTI2NywxNTMyMzYwMjEz
 LDg5ODg5MjMyMCwtMjI2OTAyOTEyLDE5NTg4NTk2NTksLTUyND
 I0MjU0LC0xMTk3NDc5MTc1LDgwOTA0MjU4MSwxNTY2MjM1NDg4
