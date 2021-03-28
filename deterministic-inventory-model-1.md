@@ -1,11 +1,5 @@
 # deterministic-inventory-model-1
 
-## Introduction
-
-정확한 시간에 적절한 양의 제품을 공급하는 것은 쉽지 않습니다. 평창 올림픽 때 유형했던 하얀색 롱패딩을 기억하시나요? 그 인기가 엄청 나서, 제품을 만드는 공급 업체는 다음해에 많이 만들어두었습니다. 그런데 하필 다음해 겨울은 매우 따뜻해서, 아웃도어업계는 넘쳐나는 재고에 힘들어했었죠.  
-재고를 무조건 줄이는 것이 좋을까요? 요즘 수요 대비 공급이 현저히 부족하다고 이슈가 되는 차량 반도체를 생각해보죠. 이렇게 수요와 공급의 불균형이 언제 발생할 지 모르니, 일정량의 재고를 쌓는 것이 리스크를 피하는 길이겠죠.  
-이렇게 최적의 재고량을 논하는 모델을 Deterministic Inventory Model이라고 합니다.
-
 ## Why holding inventory? Why is inventory important?
 왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
@@ -113,11 +107,11 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MD
-U4MzIyLDg0Mzc5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwx
-NDI4NDU5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MD
-kwNTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5
-MSwtMTE1MDk3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLD
-EzNzQxMjI1NzksLTQ0MzE0MzgzNSwtMTQxNjA0ODQzLC0yNDA2
-MzY0NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTEyMzI1NTcsNzAxOTIxNDk4LC04Mj
+U2Mjg4MzQsNDU5MDU4MzIyLDg0Mzc5NDM2MSwxODQzNDI0MzUs
+MTUzOTM1MDY0MSwxNDI4NDU5MjM4LC0yMDYxNTMwODk5LC0yMD
+c1Nzc3MjM1LC02MDkwNTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4
+MzgsLTg1NzcyOTU5MSwtMTE1MDk3NTM0MSwtMTE5MTIwMDQ2Mi
+wtMTE3Njg1OTUwLDEzNzQxMjI1NzksLTQ0MzE0MzgzNSwtMTQx
+NjA0ODQzXX0=
 -->
