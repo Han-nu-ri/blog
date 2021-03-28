@@ -34,9 +34,9 @@ $$
 IP = OH - BO + OO
 $$
 ## Deterministic Inventory Models
-
+Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1Nj
-YyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEw
-NTRdfQ==
+eyJoaXN0b3J5IjpbLTUyNDI0MjU0LC0xMTk3NDc5MTc1LDgwOT
+A0MjU4MSwxNTY2MjM1NDg4LC00ODQyNTAwMzIsLTExMzY0MTQ2
+OTksODEwOTgxMDU0XX0=
 -->
