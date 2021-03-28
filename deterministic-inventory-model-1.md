@@ -34,9 +34,9 @@ $$
 IP = OH - BO + OO
 $$
 ## Deterministic Inventory Models
-Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다. 또한 
+Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다. 또한 Continuous review systems generally order the same quantity of items in each order. The order frequency varies in continuous systems because the inventory is monitored and orders are placed when items reach a particular level. With periodic review systems, products are ordered at the same time each period.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDk0NTAxMCwtNTI0MjQyNTQsLTExOT
+eyJoaXN0b3J5IjpbMTk1ODg1OTY1OSwtNTI0MjQyNTQsLTExOT
 c0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0ODgsLTQ4NDI1MDAz
 MiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
 -->
