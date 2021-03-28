@@ -7,12 +7,12 @@
 이렇게 최적의 재고량을 논하는 모델을 Deterministic Inventory Model이라고 합니다.
 
 ## Why holding inventory?
-
+왜 우리는 재고가 필요한 것일까요? 
 ## Inventory Models
 
 재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAxMTAxNDAsODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbMTMyNDEyNzk4Miw4MTA5ODEwNTRdfQ==
 -->
