@@ -54,7 +54,10 @@ $$
 g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
-![image](https://user-images.githubusercontent.com/11609881/112759055-44132c00-902c-11eb-8c8b-2f80c958877b.png)
+$$
+{K\lambda \over Q^*} = {hQ^* \over 2} \\
+Q^* = {\sqrt {2K\lambda \over h}}
+$$
 또한 g(Q*)는 아래와 같습니다.
 $$
 g(Q)={K \over T^*} + {hQ^* \over 2} \\
@@ -104,7 +107,7 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTE5NjczMCwtMzMyODI0MzAwLDExOD
+eyJoaXN0b3J5IjpbLTMzMjgyNDMwMCwtMzMyODI0MzAwLDExOD
 cwNzg1MiwtMTA5MTIzMjU1Nyw3MDE5MjE0OTgsLTgyNTYyODgz
 NCw0NTkwNTgzMjIsODQzNzk0MzYxLDE4NDM0MjQzNSwxNTM5Mz
 UwNjQxLDE0Mjg0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3Nzcy
