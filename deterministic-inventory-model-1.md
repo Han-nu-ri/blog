@@ -7,12 +7,14 @@
 이렇게 최적의 재고량을 논하는 모델을 Deterministic Inventory Model이라고 합니다.
 
 ## Why holding inventory?
-왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
+왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
+먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
+
 ## Inventory Models
 
 재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTg5Nzg2Nyw4MTA5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbMzc0NTU3OTksODEwOTgxMDU0XX0=
 -->
