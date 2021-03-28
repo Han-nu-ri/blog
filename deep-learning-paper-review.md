@@ -39,13 +39,13 @@ RNN의 Weight를 학습하기 위해서는 RNN을 unfold한 후 Backpropagation�
 
 RNN은 매우 강력하지만, gradient를 backpropgated하는 과정에서 explode하거나 vanish하는 문제가 있습니다. 이런 문제들은 RNN의 진보된 Architecture로 해결되었습니다.
 RNN을 Unfold하면, 같은 Weight를 가지는 매우 깊은 layer들로 구성됨을 알 수 있습니다. RNN의 주 목적은 매우 긴 의존 관계를 배우기 위해서 이지만, 이론적이고 실증적인 증거들이 어렵다는 것을 보이고 있습니다.
-이것을 바로 잡기 위한 한 아이디어는 explicit한 메모리를 활용하는 것 입니다.
+이것을 바로 잡기 위한 한 아이디어는 explicit한 메모리를 활용하는 것 입니다. 이런 아이디어를 활용하도록 제안된 첫 번째 모델은 LSTM 네트워크입니다.
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NjYzOTMsLTE0MzY1OTIxNzAsLTE5OD
-UxMDcsLTYyMjc2MTQxMCw1NDM4Njk0OCwxNzM5ODQyNDI0LC0y
-MDE2MzM2ODQsOTIyMjMyNzg4LC05NTkwMzI2NjAsLTEwNTY1MD
-M0MTQsNjk4MzQwNDYyLDQ2ODczMzMyNywtMTYxMjg5MDU3MSwt
-MjkxNTQ0MjE4LC0xNzYyMDM0NDUsLTE0NjA3NjYxODEsMTMzOD
-QxNjE4MCwtMTI0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbMTE0OTMwOTcyNywtMTQzNjU5MjE3MCwtMT
+k4NTEwNywtNjIyNzYxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQs
+LTIwMTYzMzY4NCw5MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1Nj
+UwMzQxNCw2OTgzNDA0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcx
+LC0yOTE1NDQyMTgsLTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMz
+M4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
 -->
