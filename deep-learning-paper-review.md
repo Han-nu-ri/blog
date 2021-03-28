@@ -43,12 +43,14 @@ RNN을 Unfold하면, 같은 Weight를 가지는 매우 깊은 layer들로 구성
 ## The future of deep learning
 비록 이 논문에서는 집중하지 못했지만, Unsupervised learning이 시간이 지날수록 더 중요해질 것으로 기대하고 있습니다. 사람과 동물은 각 세상을 관찰하면서 구조를 발견하는 unsupervised learning을 하기 때문입니다.
 컴퓨터 비전에서는 CNN과 RNN을 end-to-end 형태로 합치고, reinforcement learning으로 무언가를 결정하는 시스템을 예상하고 있습니다.
-자연어 이해에서는 RNN 계열이 시간에 따라 선택적인 A을 배우는 전략을 사용하면 문장이나 전체 문서를 이해하는데 더 잘할 것으로 예상하고 있습니다.
+자연어 이해에서는 RNN 계열이 시간에 따라 Selective Attention(**Selective attention** is the process of focusing on a particular object in the environment for a certain period of time.)을 배우는 전략을 사용하면 문장이나 전체 문서를 이해하는데 더 잘할 것으로 예상하고 있습니다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTIwMzk1OCwxMTQ5MzA5NzI3LC0xND
-M2NTkyMTcwLC0xOTg1MTA3LC02MjI3NjE0MTAsNTQzODY5NDgs
-MTczOTg0MjQyNCwtMjAxNjMzNjg0LDkyMjIzMjc4OCwtOTU5MD
-MyNjYwLC0xMDU2NTAzNDE0LDY5ODM0MDQ2Miw0Njg3MzMzMjcs
-LTE2MTI4OTA1NzEsLTI5MTU0NDIxOCwtMTc2MjAzNDQ1LC0xND
-YwNzY2MTgxLDEzMzg0MTYxODAsLTEyNDU3MDE2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2MTg2MjUsMTE0OTMwOTcyNywtMT
+QzNjU5MjE3MCwtMTk4NTEwNywtNjIyNzYxNDEwLDU0Mzg2OTQ4
+LDE3Mzk4NDI0MjQsLTIwMTYzMzY4NCw5MjIyMzI3ODgsLTk1OT
+AzMjY2MCwtMTA1NjUwMzQxNCw2OTgzNDA0NjIsNDY4NzMzMzI3
+LC0xNjEyODkwNTcxLC0yOTE1NDQyMTgsLTE3NjIwMzQ0NSwtMT
+Q2MDc2NjE4MSwxMzM4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
 -->
