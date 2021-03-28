@@ -76,15 +76,15 @@ EQQ Sensitivity
 $$
 {g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
 $$
-아래는 EQQ Sensitivity의 그래프입니다. 오1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
-
+아래는 EQQ Sensitivity의 그래프입니다. 1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
+또한
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3ODEyMjM2LC04NTc3Mjk1OTEsLTExNT
-A5NzUzNDEsLTExOTEyMDA0NjIsLTExNzY4NTk1MCwxMzc0MTIy
-NTc5LC00NDMxNDM4MzUsLTE0MTYwNDg0MywtMjQwNjM2NDczLC
-0xMDk2Mjg5NjcsODA4NDcxODgyLDU2MDAyMTI2NywxNTMyMzYw
-MjEzLDg5ODg5MjMyMCwtMjI2OTAyOTEyLDE5NTg4NTk2NTksLT
-UyNDI0MjU0LC0xMTk3NDc5MTc1LDgwOTA0MjU4MSwxNTY2MjM1
-NDg4XX0=
+eyJoaXN0b3J5IjpbLTE0ODUzOTU1NDAsLTg1NzcyOTU5MSwtMT
+E1MDk3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLDEzNzQx
+MjI1NzksLTQ0MzE0MzgzNSwtMTQxNjA0ODQzLC0yNDA2MzY0Nz
+MsLTEwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMDIxMjY3LDE1MzIz
+NjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIsMTk1ODg1OTY1OS
+wtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYy
+MzU0ODhdfQ==
 -->
