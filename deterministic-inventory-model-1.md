@@ -86,8 +86,9 @@ Lead Time이 0이  아니라  고정  상수 L이라고  해도, 별로  복잡�
 $$
 T=T_B2^k. k = \cdots -2, -1, 0, 1, 2, 3, ...
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODkyNTgyNywxNDI4NDU5MjM4LC0yMD
+eyJoaXN0b3J5IjpbMTUzOTM1MDY0MSwxNDI4NDU5MjM4LC0yMD
 YxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1NjEsOTc3NjEx
 NDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5MSwtMTE1MDk3NTM0MS
 wtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLDEzNzQxMjI1NzksLTQ0
