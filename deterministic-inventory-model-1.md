@@ -40,9 +40,9 @@ Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 �
 Continuous review에서는 다음 제약 사항이 있습니다.
 1. Lead time = 0
 2. Fixed cost K per order
-3. 
+3. Purchase cost c per unit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk2OTA2MiwxOTU4ODU5NjU5LC01Mj
+eyJoaXN0b3J5IjpbLTg4Nzk3NDU1OCwxOTU4ODU5NjU5LC01Mj
 QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
 OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
