@@ -98,13 +98,14 @@ $$
 f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1) \\
 f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
-(1) 부등식을 전개하면
+(1) 부등식을 전개하면 아래 부등식을 얻을 수 있고,
 $$
 T_B2^k \le \sqrt {2} T^*
 $$
+(
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODk3MTU1NCw4NDM3OTQzNjEsMTg0Mz
+eyJoaXN0b3J5IjpbMTI5OTM3OTg1NSw4NDM3OTQzNjEsMTg0Mz
 QyNDM1LDE1MzkzNTA2NDEsMTQyODQ1OTIzOCwtMjA2MTUzMDg5
 OSwtMjA3NTc3NzIzNSwtNjA5MDUwNTYxLDk3NzYxMTQwMywxMj
 QyMTMwODM4LC04NTc3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEy
