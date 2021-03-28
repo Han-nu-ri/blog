@@ -108,10 +108,11 @@ $$
 $$
 EOQ Sensitivity를 계산하면,
 $$
-{f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k})
+{f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k}) \\
+=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MjY0Njc0LDQ1OTA1ODMyMiw4NDM3OT
+eyJoaXN0b3J5IjpbMzUwNTYyODcxLDQ1OTA1ODMyMiw4NDM3OT
 QzNjEsMTg0MzQyNDM1LDE1MzkzNTA2NDEsMTQyODQ1OTIzOCwt
 MjA2MTUzMDg5OSwtMjA3NTc3NzIzNSwtNjA5MDUwNTYxLDk3Nz
 YxMTQwMywxMjQyMTMwODM4LC04NTc3Mjk1OTEsLTExNTA5NzUz
