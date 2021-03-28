@@ -13,13 +13,13 @@
 또한 주문 후 제품이 도착하는데 소요되는 lead time도 존재합니다.
 아니면 규모의 경제 관점에서, 운송의 편함과 많은 양을 주문할 때 할인되는 정책 등을 활용하게 되면 이는 재고로 이어지게 됩니다.
 
-재고가 필요한 이유를 살펴보면, 재고는 나쁜 것이 아닙니다. 여러 리스크를 ㅈ
+재고가 필요한 이유를 살펴보면, 재고는 나쁜 것이 아닙니다. 여러 리스크를 줄이고, 보유 비용과 운송 비용 등 여러가지를 고려해서 재고의 양일 최적화하는 것이 필요하게 됩니다.
 ## Inventory Models
 
 재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTE4NDczMCwtMTEzNjQxNDY5OSw4MT
-A5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDc3OTEwNTIsLTExMzY0MTQ2OTksOD
+EwOTgxMDU0XX0=
 -->
