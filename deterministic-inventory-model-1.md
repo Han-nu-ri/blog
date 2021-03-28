@@ -38,12 +38,12 @@ Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 �
 
 ### Continuous review
 Continuous review에서는 다음 제약 사항이 있습니다.
-1. Lead time = **0**, so sotc
+1. Lead time = **0**, so stockout is not allowed.
 2. Fixed cost **K** per order
 3. Purchase cost **c** per unit
 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjM3NzY2MSwxOTU4ODU5NjU5LC01Mj
+eyJoaXN0b3J5IjpbMTM0MzE4ODAxOSwxOTU4ODU5NjU5LC01Mj
 QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
 OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
