@@ -93,9 +93,11 @@ $$
 g(Q)={K\lambda \over Q}+{hQ \over 2} \\
 f(T)={K \over T}+{h \lambda T \over 2}
 $$
-Power-of-Two 정책을 따를 때 최적의 비용을 만드는 optimal k라고 하면 ㄷ
+Power-of-Two 정책을 따를 때 최적의 비용을 만드는 optimal k라고 하면 다음 식을 만족하게 됩니다.
+$$
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzY2MzMwNywxODQzNDI0MzUsMTUzOT
+eyJoaXN0b3J5IjpbMTMxMDcxNDc2NywxODQzNDI0MzUsMTUzOT
 M1MDY0MSwxNDI4NDU5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3
 MjM1LC02MDkwNTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4MzgsLT
 g1NzcyOTU5MSwtMTE1MDk3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3
