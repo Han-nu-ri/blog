@@ -31,12 +31,12 @@ IL = OH - BO
 $$
 그럼 우리는 주문하기 위한 요소들을 모두 고려했을까요? 주문이 완료되어, 지금 창고로 배송 오고 있는 양을 고려하지 않았습니다. 이를 On-Order(OO)이라고 하고, OO까지 고려한 개념을 Inventory Position(IP)이라고 합니다.
 $$
-I
+IP = OH - BO + OO
 $$
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc4MDEyMjQsODA5MDQyNTgxLDE1Nj
+eyJoaXN0b3J5IjpbLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1Nj
 YyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEw
 NTRdfQ==
 -->
