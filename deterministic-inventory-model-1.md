@@ -22,10 +22,12 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 수요를 충족 시킬 수 있는 충분한 재고가 없을 때 발생하는 비용입니다. 재고가 없어서 떠나는 수요의 양과, 예약 구매자를 위한 비용, 지연 비용 등이 포함됩니다.
 ### Fixed cost
 주문마다 발생하는 고정된 비용을 의미합니다. 제품의 크기와는 무관하게 주문을 발주하면서 발생하는 관리 비용, 배송 비용 등을 포함합니다.
+### Purchase cost
+
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzU2MDc5MCwtNDg0MjUwMDMyLC0xMT
+eyJoaXN0b3J5IjpbLTkzMTA3NDE4NywtNDg0MjUwMDMyLC0xMT
 M2NDE0Njk5LDgxMDk4MTA1NF19
 -->
