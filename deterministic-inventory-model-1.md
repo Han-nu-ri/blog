@@ -58,9 +58,8 @@ $$
 Total cost = Fixed cost + Holding cost
 와 같이 표현할 수 있습니다.
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDU2NTkyNiw4MDg0NzE4ODIsNTYwMD
+eyJoaXN0b3J5IjpbMTU4NTk4MzczNiw4MDg0NzE4ODIsNTYwMD
 IxMjY3LDE1MzIzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIs
 MTk1ODg1OTY1OSwtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MD
 QyNTgxLDE1NjYyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5
