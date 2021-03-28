@@ -16,10 +16,7 @@
 재고가 필요한 이유를 살펴보면, 재고는 나쁜 것이 아닙니다. 여러 리스크를 줄이고, 보유 비용과 운송 비용 등 여러가지를 고려해서 재고의 양을 최적화하는 것이 필요하게 됩니다. 이렇게 여러 가지 요소를 고려해서 재고를 모델링하는 것을 Inventory model이라고 합니다.
 ## Inventory Models
 
-재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
-
- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDEzNjkzNywtMTEzNjQxNDY5OSw4MT
+eyJoaXN0b3J5IjpbLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MT
 A5ODEwNTRdfQ==
 -->
