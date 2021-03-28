@@ -53,11 +53,11 @@ Constant order size: 최적의 주문량 Q를 찾았다면, 다음 주문 시에
 $$
 T={Q \over \lambda}
 $$
-그럼 우리가 고려해야 하는 비용은 무엇일까요? H, S, F, P 중 Lead time이 0이기 때문에 Stockout은 고려 대상이 아닙니다. 또한 P
+그럼 최적의 주문량 Q를 찾기 위해 우리가 고려해야 하는 비용은 무엇일까요? H, S, F, P 중 Lead time이 0이기 때문에 Stockout cost은 고려 대상이 아닙니다. 또한 Purㄱ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDY4NzQ5MSw1NjAwMjEyNjcsMTUzMj
-M2MDIxMyw4OTg4OTIzMjAsLTIyNjkwMjkxMiwxOTU4ODU5NjU5
-LC01MjQyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2Nj
-IzNTQ4OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1
-NF19
+eyJoaXN0b3J5IjpbLTEzNjEwMjU1NTksNTYwMDIxMjY3LDE1Mz
+IzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIsMTk1ODg1OTY1
+OSwtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1Nj
+YyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEw
+NTRdfQ==
 -->
