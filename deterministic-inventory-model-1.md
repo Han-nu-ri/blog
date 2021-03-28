@@ -80,9 +80,9 @@ $$
 또한 최적의 Q 근방에서는 비용이 생각보다 별로 증가하지 않습니다.
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
 ### Lead time이 0이 아닌 고정 상수인 경우
-Lead Time이 0이  아니라  고정  상수 l이라고  해도, 별로  복잡하질게  없습니다. 주문해야 하는 시점  측면에서는  재고가  떨어질  시점 보다 l 전에  미리  주문만 하면 되니깐요.  또한 재고의  양  측면에서는 L * lambda가  남았을  때  주문하면  됩니다.
+Lead Time이 0이  아니라  고정  상수 l이라고  해도, 별로  복잡하질게  없습니다. 주문해야 하는 시점 측면에서는  재고가 떨어질 시점 보다 l 전에  미리  주문만 하면 되니깐요.  또한 재고의 양  측면에서는 ㅣ * lambda가  남았을  때  주문하면  됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NTcyMDkzLDEyNDIxMzA4MzgsLTg1Nz
+eyJoaXN0b3J5IjpbMzgwMjU5MzQ4LDEyNDIxMzA4MzgsLTg1Nz
 cyOTU5MSwtMTE1MDk3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3Njg1
 OTUwLDEzNzQxMjI1NzksLTQ0MzE0MzgzNSwtMTQxNjA0ODQzLC
 0yNDA2MzY0NzMsLTEwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMDIx
