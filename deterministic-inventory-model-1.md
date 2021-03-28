@@ -29,9 +29,11 @@ Inventory level은 현재 판매할 수 있는 재고의 양과 수요가 발생
 $$
 IL = OH - BO
 $$
+Inventory Position(IP)은
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MDQyNTgxLDE1NjYyMzU0ODgsLTQ4ND
-I1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbLTIwMzM5NDk3NDYsODA5MDQyNTgxLDE1Nj
+YyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEw
+NTRdfQ==
 -->
