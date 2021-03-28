@@ -36,7 +36,7 @@ $$
 ## Deterministic Inventory Models
 Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다. 재고의 주문이 연속적으로 이뤄지는 Continuous review와 특정한 주기마다 이뤄지는 Periodic review가 있습니다.
 
-## Continuous review
+## Continuous review: EOQ model
 Continuous review에서는 다음 조건들이 있습니다.
 1. Demand rate \lambda per year
 2. Lead time = **0**, so stockout is not allowed.
@@ -85,11 +85,11 @@ Lead Time이 0이  아니라  고정  상수 L이라고  해도, 별로  복잡�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3NzcyMzUsLTYwOTA1MDU2MSw5Nz
-c2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1
-MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3NDEyMjU3OS
-wtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0MDYzNjQ3MywtMTA5
-NjI4OTY3LDgwODQ3MTg4Miw1NjAwMjEyNjcsMTUzMjM2MDIxMy
-w4OTg4OTIzMjAsLTIyNjkwMjkxMiwxOTU4ODU5NjU5LC01MjQy
-NDI1NF19
+eyJoaXN0b3J5IjpbLTIwNjA5MTA2ODksLTIwNzU3NzcyMzUsLT
+YwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5
+NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NT
+AsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0
+MDYzNjQ3MywtMTA5NjI4OTY3LDgwODQ3MTg4Miw1NjAwMjEyNj
+csMTUzMjM2MDIxMyw4OTg4OTIzMjAsLTIyNjkwMjkxMiwxOTU4
+ODU5NjU5XX0=
 -->
