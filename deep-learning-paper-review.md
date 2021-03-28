@@ -33,12 +33,13 @@ https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D
 (distributed representation에 대한 내용은 https://nrhan.tistory.com/entry/distributed-representation 에 포스트하였습니다.)
 ## RNN
 스피치나 언어와 같은 연속적인 입력과 관련된 태스크를 처리하는데 있어, RNN 계열의 딥러닝을 사용하는 것이 좋습니다. RNN은 연속된 입력을 처리하는데, state vector라는 hidden unit들을 포함하고 있습니다. 이 state vector은 입력의 과거 정보들을 implicitly하게 가지고 있습니다.
+RNN의 Weight를 학습하기 위해서느
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1OTIxNzAsLTE5ODUxMDcsLTYyMj
-c2MTQxMCw1NDM4Njk0OCwxNzM5ODQyNDI0LC0yMDE2MzM2ODQs
-OTIyMjMyNzg4LC05NTkwMzI2NjAsLTEwNTY1MDM0MTQsNjk4Mz
-QwNDYyLDQ2ODczMzMyNywtMTYxMjg5MDU3MSwtMjkxNTQ0MjE4
-LC0xNzYyMDM0NDUsLTE0NjA3NjYxODEsMTMzODQxNjE4MCwtMT
-I0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbMTUwOTgwMjk4NiwtMTQzNjU5MjE3MCwtMT
+k4NTEwNywtNjIyNzYxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQs
+LTIwMTYzMzY4NCw5MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1Nj
+UwMzQxNCw2OTgzNDA0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcx
+LC0yOTE1NDQyMTgsLTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMz
+M4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
 -->
