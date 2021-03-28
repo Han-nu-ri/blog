@@ -46,7 +46,7 @@ Continuous review에서는 다음 조건들이 있습니다.
 
 위 조건들을 만족하는 최적의 IL은 자연스럽게 두 가지 속성들을 만족하게 됩니다.
 
-Zero-Inventory Ordering(ZIO): Lead time이 0이기 때문에, Inventory가 0이 될 때 주문하는 것이 Holding cost를 줄일 수 있습니다.
+>Zero-Inventory Ordering(ZIO): Lead time이 0이기 때문에, Inventory가 0이 될 때 주문하는 것이 Holding cost를 줄일 수 있습니다.
 Constant order size: 최적의 주문량 Q를 찾았다면, 다음 주문 시에도 최적의 주문량은 같은 Q가 됩니다.
 
 수요량은 일정하므로, 주문 주기는 아래와 같이 나타낼 수 있습니다.
@@ -56,8 +56,8 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjM2MDIxMyw4OTg4OTIzMjAsLTIyNj
-kwMjkxMiwxOTU4ODU5NjU5LC01MjQyNDI1NCwtMTE5NzQ3OTE3
-NSw4MDkwNDI1ODEsMTU2NjIzNTQ4OCwtNDg0MjUwMDMyLC0xMT
-M2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbNTYwMDIxMjY3LDE1MzIzNjAyMTMsODk4OD
+kyMzIwLC0yMjY5MDI5MTIsMTk1ODg1OTY1OSwtNTI0MjQyNTQs
+LTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0ODgsLTQ4ND
+I1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
 -->
