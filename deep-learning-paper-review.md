@@ -33,16 +33,16 @@ https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D
 (distributed representation에 대한 내용은 https://nrhan.tistory.com/entry/distributed-representation 에 포스트하였습니다.)
 ## RNN
 스피치나 언어와 같은 연속적인 입력과 관련된 태스크를 처리하는데 있어, RNN 계열의 딥러닝을 사용하는 것이 좋습니다. RNN은 연속된 입력을 처리하는데, state vector라는 hidden unit들을 포함하고 있습니다. 이 state vector은 입력의 과거 정보들을 implicitly하게 가지고 있습니다.
-RNN의 Weight를 학습하기 위해서는 RNN을 unfold한 후 Backpropagation을 하면 됩니다. 다만 다른 step 간 Weight는 공통으로 쓰이고, t 시간의 출력이 이 전 t-1, t-2 시간의 값들에 영향을 받는다는 것을 유의하면 됩니다.
+RNN의 Weight를 학습하기 위해서는 RNN을 unfold한 후 Backpropagation을 하면 됩니다. 다만 다른 step 간 Weight는 공통으로 쓰이고, t 시간의 출력이 이 전 t-1, t-2 시간의 값들에 영향을 받는다는 것을 유의하면 됩니다. (자세한 내용은 잘 정리된 포스트를 공유합니다. https://aikorea.org/blog/rnn-tutorial-3/ )
 ![image](https://user-images.githubusercontent.com/11609881/112741537-abe05d00-8fc1-11eb-9a7e-cb0ae9d93dc9.png)
 이미지 출처: LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015) 
 
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc0OTIzMzIsLTE0MzY1OTIxNzAsLT
-E5ODUxMDcsLTYyMjc2MTQxMCw1NDM4Njk0OCwxNzM5ODQyNDI0
-LC0yMDE2MzM2ODQsOTIyMjMyNzg4LC05NTkwMzI2NjAsLTEwNT
-Y1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMzMyNywtMTYxMjg5MDU3
-MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUsLTE0NjA3NjYxODEsMT
-MzODQxNjE4MCwtMTI0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbLTY1NDUxMzY4MiwtMTQzNjU5MjE3MCwtMT
+k4NTEwNywtNjIyNzYxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQs
+LTIwMTYzMzY4NCw5MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1Nj
+UwMzQxNCw2OTgzNDA0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcx
+LC0yOTE1NDQyMTgsLTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMz
+M4NDE2MTgwLC0xMjQ1NzAxNjQxXX0=
 -->
