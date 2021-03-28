@@ -36,9 +36,10 @@ $$
 ## Deterministic Inventory Models
 Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다. 재고의 주문이 연속적으로 이뤄지는 Continuous review와 특정한 주기마다 이뤄지는 Periodic review가 있습니다.
 
-또한 Continuous review systems generally order the same quantity of items in each order. The order frequency varies in continuous systems because the inventory is monitored and orders are placed when items reach a particular level. With periodic review systems, products are ordered at the same time each period.
+### Continuous review
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODM4NDcxMCwxOTU4ODU5NjU5LC01Mj
+eyJoaXN0b3J5IjpbLTY1MDA4Mzk5MSwxOTU4ODU5NjU5LC01Mj
 QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
 OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
