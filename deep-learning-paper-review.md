@@ -32,13 +32,13 @@ https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D
 딥러닝을 활용한 language model 전에는, language에 대한 통계적 모델링의 표준적인 접근 방법은 N-grams이었습니다. N-grams은 길이가 N까지의 연속된 단어 조합이 발생하는 빈도수를 세는 것에 기반합니다. 그렇기 때문에 연속적인 단어들 사이에 semantic을 일반화하지 못합니다.
 (distributed representation에 대한 내용은 https://nrhan.tistory.com/entry/distributed-representation 에 포스트하였습니다.)
 ## RNN
-스피치연속적인 입력
+스피치나 언어와 같은 연속적인 입력과 관련된 태스크를 처리하는데 있어, RNN 계열의 딥러닝을 사용하는 것이 좋습니다. RNN은 연속된 입력을 처리하는데, state vector라는 hidden unit들을 포함하고 있습니다. 이 state vector은 입력의 과거 정보
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMDUwOTkxLC0xOTg1MTA3LC02MjI3Nj
-E0MTAsNTQzODY5NDgsMTczOTg0MjQyNCwtMjAxNjMzNjg0LDky
-MjIzMjc4OCwtOTU5MDMyNjYwLC0xMDU2NTAzNDE0LDY5ODM0MD
-Q2Miw0Njg3MzMzMjcsLTE2MTI4OTA1NzEsLTI5MTU0NDIxOCwt
-MTc2MjAzNDQ1LC0xNDYwNzY2MTgxLDEzMzg0MTYxODAsLTEyND
-U3MDE2NDFdfQ==
+eyJoaXN0b3J5IjpbLTU3OTY1MzM3NSwtMTk4NTEwNywtNjIyNz
+YxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQsLTIwMTYzMzY4NCw5
+MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1NjUwMzQxNCw2OTgzND
+A0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcxLC0yOTE1NDQyMTgs
+LTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMzM4NDE2MTgwLC0xMj
+Q1NzAxNjQxXX0=
 -->
