@@ -41,9 +41,10 @@ RNN은 매우 강력하지만, gradient를 backpropgated하는 과정에서 expl
 RNN을 Unfold하면, 같은 Weight를 가지는 매우 깊은 layer들로 구성됨을 알 수 있습니다. RNN의 주 목적은 매우 긴 의존 관계를 배우기 위해서 이지만, 이론적이고 실증적인 증거들이 어렵다는 것을 보이고 있습니다.
 이것을 바로 잡기 위한 한 아이디어는 explicit한 메모리를 활용하는 것 입니다. 이런 아이디어를 활용하도록 제안된 첫 번째 모델은 LSTM 네트워크입니다.
 ## The future of deep learning
-비록 이 논문에서는 집중하지 못했지만, Unsupervised learning이 시간이 지날수록 더 중요해질 것으로 기대하고 있습니다.
+비록 이 논문에서는 집중하지 못했지만, Unsupervised learning이 시간이 지날수록 더 중요해질 것으로 기대하고 있습니다. 사람과 동물은 각 세상을 관찰하면서 구조를 발견하는 unsupervised learning을 하기 때문입니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzIxMTQ5NiwxMTQ5MzA5NzI3LC0xND
+eyJoaXN0b3J5IjpbMjAzMTgyMzAwOSwxMTQ5MzA5NzI3LC0xND
 M2NTkyMTcwLC0xOTg1MTA3LC02MjI3NjE0MTAsNTQzODY5NDgs
 MTczOTg0MjQyNCwtMjAxNjMzNjg0LDkyMjIzMjc4OCwtOTU5MD
 MyNjYwLC0xMDU2NTAzNDE0LDY5ODM0MDQ2Miw0Njg3MzMzMjcs
