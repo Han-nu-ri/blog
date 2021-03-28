@@ -76,14 +76,14 @@ EQQ Sensitivity
 $$
 {g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
 $$
-Q* 대비  Q가 변함에 따라 최적의 cost 대비 cost가 어떻게 변할까요? 아래는 EQQ Sensitivity의 그래프입니다. 오1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 따라Q* 대비 더 많이 주문할 
+Q* 대비  Q가 변함에 따라 최적의 cost 대비 cost가 어떻게 변할까요? 아래는 EQQ Sensitivity의 그래프입니다. 오1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1NDAwODYsLTg1NzcyOTU5MSwtMTE1MD
-k3NTM0MSwtMTE5MTIwMDQ2MiwtMTE3Njg1OTUwLDEzNzQxMjI1
-NzksLTQ0MzE0MzgzNSwtMTQxNjA0ODQzLC0yNDA2MzY0NzMsLT
-EwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMDIxMjY3LDE1MzIzNjAy
-MTMsODk4ODkyMzIwLC0yMjY5MDI5MTIsMTk1ODg1OTY1OSwtNT
-I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
-ODhdfQ==
+eyJoaXN0b3J5IjpbMTU1NjA1ODA4MywtODU3NzI5NTkxLC0xMT
+UwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3NDEy
+MjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0MDYzNjQ3My
+wtMTA5NjI4OTY3LDgwODQ3MTg4Miw1NjAwMjEyNjcsMTUzMjM2
+MDIxMyw4OTg4OTIzMjAsLTIyNjkwMjkxMiwxOTU4ODU5NjU5LC
+01MjQyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIz
+NTQ4OF19
 -->
