@@ -38,14 +38,13 @@ Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 �
 
 ### Continuous review
 Continuous review에서는 다음 제약 사항이 있습니다.
-1. Demand rate lambda per year
+1. Demand rate \lambda per year
 2. Lead time = **0**, so stockout is not allowed.
 3. Fixed cost **K** per order
 4. Purchase cost **c** per unit
 5. Holding cost **h** per unit and per year
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQxMzAzOTgsMTk1ODg1OTY1OSwtNT
-I0MjQyNTQsLTExOTc0NzkxNzUsODA5MDQyNTgxLDE1NjYyMzU0
-ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5OSw4MTA5ODEwNTRdfQ
-==
+eyJoaXN0b3J5IjpbMTk1MzU2MjA4MiwxOTU4ODU5NjU5LC01Mj
+QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
+OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
