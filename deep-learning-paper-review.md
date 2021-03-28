@@ -37,10 +37,10 @@ RNN의 Weight를 학습하기 위해서는 RNN을 unfold한 후 Backpropagation�
 ![image](https://user-images.githubusercontent.com/11609881/112741537-abe05d00-8fc1-11eb-9a7e-cb0ae9d93dc9.png)
 이미지 출처: LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015) 
 
-RNN은 매우 강력하지만, gradient를 backpropgated하는 과정에서 explode하거나 vanish하는 문제가 있습니다.
+RNN은 매우 강력하지만, gradient를 backpropgated하는 과정에서 explode하거나 vanish하는 문제가 있습니다. 이런 문제들은 RNN의 진보된 Architecture로 해결되었습니다.
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODE2ODI4MSwtMTQzNjU5MjE3MCwtMT
+eyJoaXN0b3J5IjpbMTc3NzE2MjA1NSwtMTQzNjU5MjE3MCwtMT
 k4NTEwNywtNjIyNzYxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQs
 LTIwMTYzMzY4NCw5MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1Nj
 UwMzQxNCw2OTgzNDA0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcx
