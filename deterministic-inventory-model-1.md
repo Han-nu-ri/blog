@@ -6,7 +6,7 @@
 재고를 무조건 줄이는 것이 좋을까요? 요즘 수요 대비 공급이 현저히 부족하다고 이슈가 되는 차량 반도체를 생각해보죠. 이렇게 수요와 공급의 불균형이 언제 발생할 지 모르니, 일정량의 재고를 쌓는 것이 리스크를 피하는 길이겠죠.  
 이렇게 최적의 재고량을 논하는 모델을 Deterministic Inventory Model이라고 합니다.
 
-## Why holding inventory?
+## Why holding inventory? Why is inventory important?
 왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
 공급 측면에서도 품질이나 양, 비용 측면에서의 불확실성이 존재합니다. 제품의 원료 가격이 변동함에 따라 생산할 수 있는 양이 변하기도 하죠.
@@ -18,5 +18,6 @@
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY0MTQ2OTksODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbLTE4OTYwNTM1NzgsLTExMzY0MTQ2OTksOD
+EwOTgxMDU0XX0=
 -->
