@@ -82,9 +82,9 @@ $$
 ### Lead time이 0이 아닌 고정 상수인 경우
 Lead Time이 0이  아니라  고정  상수 L이라고  해도, 별로  복잡하질게  없습니다. 주문해야 하는 시점 측면에서는  재고가 떨어질 시점 보다 L 전에  미리  주문만 하면 되니깐요.  또한 재고의 양  측면에서는 L * lambda가  남았을  때  주문하면  됩니다. L * lambda를 reorder point r 이라고 합니다.
 ### Power-of-Two Policies
-
+하나의 Supplier와 여러 Retailer가 있다고 해보죠. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDc2NDI4NywtMjA2MTUzMDg5OSwtMj
+eyJoaXN0b3J5IjpbMjE0MzMyODQ1MywtMjA2MTUzMDg5OSwtMj
 A3NTc3NzIzNSwtNjA5MDUwNTYxLDk3NzYxMTQwMywxMjQyMTMw
 ODM4LC04NTc3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEyMDA0Nj
 IsLTExNzY4NTk1MCwxMzc0MTIyNTc5LC00NDMxNDM4MzUsLTE0
