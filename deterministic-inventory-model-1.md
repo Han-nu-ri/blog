@@ -109,11 +109,11 @@ $$
 Power-of-Two 정책을 따르는 Optimal T가 T*에 가장 멀리 떨어진 최악의 두 상황에서의 EOQ Sensitivity를 계산하면,
 $$
 {f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k}) \\
-= {3 \over 2 \sqrt 2}
+= {3 \over 2 \sqrt 2} \approx 1.06.
 $$
 따라서 e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3OTM5NjM5LC04MjU2Mjg4MzQsNDU5MD
+eyJoaXN0b3J5IjpbNzkyMTQyNTI4LC04MjU2Mjg4MzQsNDU5MD
 U4MzIyLDg0Mzc5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwx
 NDI4NDU5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MD
 kwNTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5
