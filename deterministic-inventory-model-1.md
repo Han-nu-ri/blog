@@ -1,5 +1,5 @@
 # deterministic-inventory-model-1
-재고 모델과 관련된 비용, Economic Order Quantity(EOQ) 문제와 Power-of-Two Policy를 다룬 포스트입니다. Book by Lawrence V. Snyder and Zuo-Jun Max Shen, Fundamentals of Supply Chain Theory, 2nd Edition f
+재고 모델과 관련된 비용, Economic Order Quantity(EOQ) 문제와 Power-of-Two Policy를 다룬 포스트입니다. Book by Lawrence V. Snyder and Zuo-Jun Max Shen, Fundamentals of Supply Chain Theory, 2nd Edition 를 참고하였음을 밝힙니다.
 ## Why holding inventory? Why is inventory important?
 왜 우리는 재고가 필요한 것일까요? 여러 이유가 있습니다. 그 이유를 살펴보죠.
 먼저 고객의 수요가 불확실합니다. 시장의 경쟁이 치열해짐에 따라 제품들의 라이프사이클이 굉장히 짧아지게 되고, 이런 경우 과거 데이터가 없어서 고객의 수요를 예측하기가 어렵습니다.
@@ -107,7 +107,7 @@ $$
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MTg1MzMwLC0xMDkxMjMyNTU3LDcwMT
+eyJoaXN0b3J5IjpbMTE4NzA3ODUyLC0xMDkxMjMyNTU3LDcwMT
 kyMTQ5OCwtODI1NjI4ODM0LDQ1OTA1ODMyMiw4NDM3OTQzNjEs
 MTg0MzQyNDM1LDE1MzkzNTA2NDEsMTQyODQ1OTIzOCwtMjA2MT
 UzMDg5OSwtMjA3NTc3NzIzNSwtNjA5MDUwNTYxLDk3NzYxMTQw
