@@ -53,6 +53,7 @@ Constant order size: 최적의 주문량 Q를 찾았다면, 다음 주문 시에
 $$
 T={Q \over \lambda}
 $$
+### Optimal Q*
 그럼 최적의 주문량 Q를 찾기 위해 우리가 고려해야 하는 비용은 무엇일까요? H, S, F, P 중 Lead time이 0이기 때문에 Stockout cost은 고려 대상이 아닙니다. 또한 Purchase cost은 매년 발생하는 수요량에 정확히 맞춰야 하기 때문에, Q를 어떻게 하든 정해져 있습니다. 그러므로 이 문제에서 전체 비용은 Total cost = Fixed cost + Holding cost 와 같이 표현할 수 있습니다.
 Fixed cost는 K에, 1년에 주문하는 빈도를 곱하면 됩니다. 따라서 K / T가 됩니다. 또한 평균 재고량은 Q/2이므로, 평균 Holding cost는 h*Q/2가 됩니다.  따라서 Total cost g(Q)는 아래와 같습니다.
 $$
@@ -65,10 +66,10 @@ Q^* = \sqrt{2K\lambda \over h}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xND
-E2MDQ4NDMsLTI0MDYzNjQ3MywtMTA5NjI4OTY3LDgwODQ3MTg4
-Miw1NjAwMjEyNjcsMTUzMjM2MDIxMyw4OTg4OTIzMjAsLTIyNj
-kwMjkxMiwxOTU4ODU5NjU5LC01MjQyNDI1NCwtMTE5NzQ3OTE3
-NSw4MDkwNDI1ODEsMTU2NjIzNTQ4OCwtNDg0MjUwMDMyLC0xMT
-M2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTE1NTUyNjE0NzksMTM3NDEyMjU3OSwtND
+QzMTQzODM1LC0xNDE2MDQ4NDMsLTI0MDYzNjQ3MywtMTA5NjI4
+OTY3LDgwODQ3MTg4Miw1NjAwMjEyNjcsMTUzMjM2MDIxMyw4OT
+g4OTIzMjAsLTIyNjkwMjkxMiwxOTU4ODU5NjU5LC01MjQyNDI1
+NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4OCwtND
+g0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
