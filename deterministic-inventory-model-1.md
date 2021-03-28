@@ -17,11 +17,12 @@
 ## Relevant Costs
 Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용을 살펴보죠. Inventory model이 결국 비용을 최소화하는 것이니깐요.
 ### Holding cost
-재고를 보유하는 비용을 의미합니다. 공간을 차지하고
+재고를 보유하는 비용을 의미합니다. 공간을 차지하고 
+
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgxMjc0LC00ODQyNTAwMzIsLTExMz
-Y0MTQ2OTksODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbLTIxMDM5MzUxNDYsLTQ4NDI1MDAzMiwtMT
+EzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
 -->
