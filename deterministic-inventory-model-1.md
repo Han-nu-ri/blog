@@ -25,10 +25,10 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 ### Purchase cost
 제품의 단위마다 발생하는 구매 비용입니다.
 ## Measurement of Inventory Level
-Inventory level은 현재 판매할 수 있는 재고의 양과 수요가 발생했지만 아직 물품을 주지 못한 양으로 결정됩니다. 현재 판매할 수 있는 재고의 양을 On-Hand inventory(OH), 수요가 발생했지만 아직 배송 못한 양을 Backorders(BO)라고 합니다. 
+Inventory level은 현재 판매할 수 있는 재고의 양과 수요가 발생했지만 아직 물품을 주지 못한 양으로 결정됩니다. 현재 판매할 수 있는 재고의 양을 On-Hand inventory(OH), 수요가 발생했지만 아직 배송 못한 양을 Backorders(BO)라고 합니다. i
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTQ4NjU1MywxNTY2MjM1NDg4LC00OD
+eyJoaXN0b3J5IjpbMTgzODEwNzY2MCwxNTY2MjM1NDg4LC00OD
 QyNTAwMzIsLTExMzY0MTQ2OTksODEwOTgxMDU0XX0=
 -->
