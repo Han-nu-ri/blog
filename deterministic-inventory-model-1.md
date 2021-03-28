@@ -79,14 +79,14 @@ $$
 아래는 EQQ Sensitivity의 그래프입니다. 1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
 또한 최적의 Q 근방에서는 비용이 생각보다 별로 증가하지 않습니다.
 ![image](https://user-images.githubusercontent.com/11609881/112757047-e62e1680-9022-11eb-9c33-ffff85d929bc.png)
-
+### Lead time이 0이 아닌 고정 상수인 경우
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgwNjU3OTUsMTI0MjEzMDgzOCwtOD
-U3NzI5NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2
-ODU5NTAsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4ND
-MsLTI0MDYzNjQ3MywtMTA5NjI4OTY3LDgwODQ3MTg4Miw1NjAw
-MjEyNjcsMTUzMjM2MDIxMyw4OTg4OTIzMjAsLTIyNjkwMjkxMi
-wxOTU4ODU5NjU5LC01MjQyNDI1NCwtMTE5NzQ3OTE3NSw4MDkw
-NDI1ODFdfQ==
+eyJoaXN0b3J5IjpbLTU2MjIzMTA3NiwxMjQyMTMwODM4LC04NT
+c3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEyMDA0NjIsLTExNzY4
+NTk1MCwxMzc0MTIyNTc5LC00NDMxNDM4MzUsLTE0MTYwNDg0My
+wtMjQwNjM2NDczLC0xMDk2Mjg5NjcsODA4NDcxODgyLDU2MDAy
+MTI2NywxNTMyMzYwMjEzLDg5ODg5MjMyMCwtMjI2OTAyOTEyLD
+E5NTg4NTk2NTksLTUyNDI0MjU0LC0xMTk3NDc5MTc1LDgwOTA0
+MjU4MV19
 -->
