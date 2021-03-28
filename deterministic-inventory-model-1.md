@@ -91,9 +91,10 @@ Power-of-Two 정책을 따를 때의 최적의 비용과 따르지 않을 때의
 먼저 Q에 대한 비용의 함수는 T로 표현할 수 있습니다.
 $$
 g(Q)={K\lambda \over Q}+{hQ \over 2}
+=
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDU3MDAzOCwxNTM5MzUwNjQxLDE0Mj
+eyJoaXN0b3J5IjpbMTYyOTU4NjQxNSwxNTM5MzUwNjQxLDE0Mj
 g0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3NzcyMzUsLTYwOTA1
 MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5NTkxLC
 0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3
