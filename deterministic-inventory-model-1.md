@@ -47,9 +47,9 @@ Continuous review에서는 다음 조건들이 있습니다.
 이런 제약 사항 속에서 평균 비용을 최소화는데 그 목적이 있습니다.
 
 최적의 IL을 위한 두 가지 속성들이 있는데,
-ㅋ
+Zero-Inventory Ordering
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTc0NTgyMywxOTU4ODU5NjU5LC01Mj
+eyJoaXN0b3J5IjpbMTA1Mzc4OTYxMywxOTU4ODU5NjU5LC01Mj
 QyNDI1NCwtMTE5NzQ3OTE3NSw4MDkwNDI1ODEsMTU2NjIzNTQ4
 OCwtNDg0MjUwMDMyLC0xMTM2NDE0Njk5LDgxMDk4MTA1NF19
 -->
