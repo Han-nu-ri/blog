@@ -95,15 +95,16 @@ f(T)={K \over T}+{h \lambda T \over 2}
 $$
 Power-of-Two 정책을 따를 때 최적의 비용을 만드는 optimal k라고 하면 다음 두 부등식을 만족하게 됩니다.
 $$
-f(T_B2^k) \le f(T_B2^{k+1}) \cdots (1)\\
-f(T_B2^k) \le f(T_B2^{k-1}) \cdots (2)\\
+f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1) \\
+f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNzk0MzYxLDE4NDM0MjQzNSwxNTM5Mz
-UwNjQxLDE0Mjg0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3Nzcy
-MzUsLTYwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtOD
-U3NzI5NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2
-ODU5NTAsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4ND
-MsLTI0MDYzNjQ3MywtMTA5NjI4OTY3LDgwODQ3MTg4Miw1NjAw
-MjEyNjddfQ==
+eyJoaXN0b3J5IjpbMTYwNzMzNDA3Nyw4NDM3OTQzNjEsMTg0Mz
+QyNDM1LDE1MzkzNTA2NDEsMTQyODQ1OTIzOCwtMjA2MTUzMDg5
+OSwtMjA3NTc3NzIzNSwtNjA5MDUwNTYxLDk3NzYxMTQwMywxMj
+QyMTMwODM4LC04NTc3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEy
+MDA0NjIsLTExNzY4NTk1MCwxMzc0MTIyNTc5LC00NDMxNDM4Mz
+UsLTE0MTYwNDg0MywtMjQwNjM2NDczLC0xMDk2Mjg5NjcsODA4
+NDcxODgyXX0=
 -->
