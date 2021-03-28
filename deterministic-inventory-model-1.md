@@ -54,14 +54,14 @@ $$
 T={Q \over \lambda}
 $$
 그럼 최적의 주문량 Q를 찾기 위해 우리가 고려해야 하는 비용은 무엇일까요? H, S, F, P 중 Lead time이 0이기 때문에 Stockout cost은 고려 대상이 아닙니다. 또한 Purchase cost은 매년 발생하는 수요량에 정확히 맞춰야 하기 때문에, Q를 어떻게 하든 정해져 있습니다. 그러므로 이 문제에서 전체 비용은 Total cost = Fixed cost + Holding cost 와 같이 표현할 수 있습니다.
-Fixed cost는 K에, 1년에 주문하는 빈도를 곱하면 됩니다. 따라서 K / T가 됩니다. 또한 평균 재고량은 Q/2이므로, 평균 Holding cost는 h*Q/2가 됩니다.  ㄸ
+Fixed cost는 K에, 1년에 주문하는 빈도를 곱하면 됩니다. 따라서 K / T가 됩니다. 또한 평균 재고량은 Q/2이므로, 평균 Holding cost는 h*Q/2가 됩니다.  따라서 Total cost g(Q)는 아래와 같습니다.
 $$
 g(Q)={K \over T} + {hQ \over 2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY1MjM2MzMsODA4NDcxODgyLDU2MD
-AyMTI2NywxNTMyMzYwMjEzLDg5ODg5MjMyMCwtMjI2OTAyOTEy
-LDE5NTg4NTk2NTksLTUyNDI0MjU0LC0xMTk3NDc5MTc1LDgwOT
-A0MjU4MSwxNTY2MjM1NDg4LC00ODQyNTAwMzIsLTExMzY0MTQ2
-OTksODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbLTEwOTYyODk2Nyw4MDg0NzE4ODIsNTYwMD
+IxMjY3LDE1MzIzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIs
+MTk1ODg1OTY1OSwtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MD
+QyNTgxLDE1NjYyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5
+OSw4MTA5ODEwNTRdfQ==
 -->
