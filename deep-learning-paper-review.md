@@ -28,12 +28,12 @@ gradient들을 계산하기 위한 Backpropation 과정은 chain rule의 실용�
 CNN은 이미 정리한 포스트가 있어 생략합니다.
 https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D%B4%ED%95%B4
 ## Distributed representations and language processing
-딥러닝은 distributed representation을 쓰지 않는 전통적인 학습 알고리즘에 비해 큰 장점들이 있습니다. 먼저 학습 기간 때 보였던 feature들 외의 새로운 값의 조합에 대한 generalization입니다. 
+딥러닝은 distributed representation을 쓰지 않는 전통적인 학습 알고리즘에 비해 큰 장점들이 있습니다. 먼저 학습 기간 때 보였던 feature들 외의 새로운 값의 조합에 대한 generalization입니다.  두 번째로, 입력 안의 explicitly하게 존재하지 않는 semantic feature들을 one-hot vector에서 embedding vector
 ## RNN
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMjMyNzg4LC05NTkwMzI2NjAsLTEwNT
-Y1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMzMyNywtMTYxMjg5MDU3
-MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUsLTE0NjA3NjYxODEsMT
-MzODQxNjE4MCwtMTI0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbLTE2NzE2MDk1OTQsOTIyMjMyNzg4LC05NT
+kwMzI2NjAsLTEwNTY1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMzMy
+NywtMTYxMjg5MDU3MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUsLT
+E0NjA3NjYxODEsMTMzODQxNjE4MCwtMTI0NTcwMTY0MV19
 -->
