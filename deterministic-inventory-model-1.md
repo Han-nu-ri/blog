@@ -21,11 +21,11 @@ Inventory model을 살펴보기 앞서, 재고 관리와 관련된 여러 비용
 ### Stockout cost
 수요를 충족 시킬 수 있는 충분한 재고가 없을 때 발생하는 비용입니다. 재고가 없어서 떠나는 수요의 양과, 예약 구매자를 위한 비용, 지연 비용 등이 포함됩니다.
 ### Fixed cost
-
+주문마다 발생하는 고정된 비용을 의미합니다.
 ## Measurement of Inventory Level
 ## Deterministic Inventory Models
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNzI2MDgwLC00ODQyNTAwMzIsLTExMz
-Y0MTQ2OTksODEwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbMTA3NjIyNjAxOCwtNDg0MjUwMDMyLC0xMT
+M2NDE0Njk5LDgxMDk4MTA1NF19
 -->
