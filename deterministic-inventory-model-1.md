@@ -37,6 +37,7 @@ $$
 Deterministic Inventory Model은 수요의 불확실성이 없음을 가정한 모델입니다. 재고의 주문이 연속적으로 이뤄지는 Continuous review와 특정한 주기마다 이뤄지는 Periodic review가 있습니다.
 
 ## Continuous review: EOQ model
+Economic Order Quantity(EOQ) Problem은 1년에 평균 비용을 최소화하기 위한 최적의 주문량을 정하는 문제입니다.주문량을 어떻게 결정ㅎ
 Continuous review에서는 다음 조건들이 있습니다.
 1. Demand rate \lambda per year
 2. Lead time = **0**, so stockout is not allowed.
@@ -85,7 +86,7 @@ Lead Time이 0이  아니라  고정  상수 L이라고  해도, 별로  복잡�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA5MTA2ODksLTIwNzU3NzcyMzUsLT
+eyJoaXN0b3J5IjpbLTE2MDY3OTEwMDIsLTIwNzU3NzcyMzUsLT
 YwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5
 NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NT
 AsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0
