@@ -106,17 +106,17 @@ $$
 $$
 {1 \over \sqrt {2}} T^* \le T_B2^k 
 $$
-EOQ Sensitivity를 계산하면,
+Power-of-Two 정책을 따르는 Optimal T가 T*에 가장 멀리 떨어진 최악의 두 상황에서의 EOQ Sensitivity를 계산하면,
 $$
 {f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k}) \\
 = {3 \over 2 \sqrt 2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTYyODgzNCw0NTkwNTgzMjIsODQzNz
-k0MzYxLDE4NDM0MjQzNSwxNTM5MzUwNjQxLDE0Mjg0NTkyMzgs
-LTIwNjE1MzA4OTksLTIwNzU3NzcyMzUsLTYwOTA1MDU2MSw5Nz
-c2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1
-MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NTAsMTM3NDEyMjU3OS
-wtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0MDYzNjQ3MywtMTA5
-NjI4OTY3XX0=
+eyJoaXN0b3J5IjpbLTE2NjcxMzYwMDYsLTgyNTYyODgzNCw0NT
+kwNTgzMjIsODQzNzk0MzYxLDE4NDM0MjQzNSwxNTM5MzUwNjQx
+LDE0Mjg0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3NzcyMzUsLT
+YwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5
+NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2ODU5NT
+AsMTM3NDEyMjU3OSwtNDQzMTQzODM1LC0xNDE2MDQ4NDMsLTI0
+MDYzNjQ3M119
 -->
