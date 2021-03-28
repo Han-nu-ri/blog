@@ -32,11 +32,13 @@ https://nrhan.tistory.com/entry/CNN-Convolutional-Neural-Network%EC%9D%98-%EC%9D
 딥러닝을 활용한 language model 전에는, language에 대한 통계적 모델링의 표준적인 접근 방법은 N-grams이었습니다. N-grams은 길이가 N까지의 연속된 단어 조합이 발생하는 빈도수를 세는 것에 기반합니다. 그렇기 때문에 연속적인 단어들 사이에 semantic을 일반화하지 못합니다.
 (distributed representation에 대한 내용은 https://nrhan.tistory.com/entry/distributed-representation 에 포스트하였습니다.)
 ## RNN
+RN
 ## The future of deep learning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUxMDcsLTYyMjc2MTQxMCw1NDM4Nj
-k0OCwxNzM5ODQyNDI0LC0yMDE2MzM2ODQsOTIyMjMyNzg4LC05
-NTkwMzI2NjAsLTEwNTY1MDM0MTQsNjk4MzQwNDYyLDQ2ODczMz
-MyNywtMTYxMjg5MDU3MSwtMjkxNTQ0MjE4LC0xNzYyMDM0NDUs
-LTE0NjA3NjYxODEsMTMzODQxNjE4MCwtMTI0NTcwMTY0MV19
+eyJoaXN0b3J5IjpbLTcyODE5MjIyNSwtMTk4NTEwNywtNjIyNz
+YxNDEwLDU0Mzg2OTQ4LDE3Mzk4NDI0MjQsLTIwMTYzMzY4NCw5
+MjIyMzI3ODgsLTk1OTAzMjY2MCwtMTA1NjUwMzQxNCw2OTgzND
+A0NjIsNDY4NzMzMzI3LC0xNjEyODkwNTcxLC0yOTE1NDQyMTgs
+LTE3NjIwMzQ0NSwtMTQ2MDc2NjE4MSwxMzM4NDE2MTgwLC0xMj
+Q1NzAxNjQxXX0=
 -->
