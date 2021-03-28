@@ -54,14 +54,12 @@ $$
 T={Q \over \lambda}
 $$
 그럼 최적의 주문량 Q를 찾기 위해 우리가 고려해야 하는 비용은 무엇일까요? H, S, F, P 중 Lead time이 0이기 때문에 Stockout cost은 고려 대상이 아닙니다. 또한 Purchase cost은 매년 발생하는 수요량에 정확히 맞춰야 하기 때문에, Q를 어떻게 하든 정해져 있습니다.
-따라서 이 문제에서 전체 비용은 
-Total cost = Fixed cost + Holding cost
-와 같이 표현할 수 있습니다.
-
+따라서 이 문제에서 전체 비용은 Total cost = Fixed cost + Holding cost 와 같이 표현할 수 있습니다.
+Fixed cost는 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTk4MzczNiw4MDg0NzE4ODIsNTYwMD
-IxMjY3LDE1MzIzNjAyMTMsODk4ODkyMzIwLC0yMjY5MDI5MTIs
-MTk1ODg1OTY1OSwtNTI0MjQyNTQsLTExOTc0NzkxNzUsODA5MD
-QyNTgxLDE1NjYyMzU0ODgsLTQ4NDI1MDAzMiwtMTEzNjQxNDY5
-OSw4MTA5ODEwNTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjk3ODA3ODUsODA4NDcxODgyLDU2MD
+AyMTI2NywxNTMyMzYwMjEzLDg5ODg5MjMyMCwtMjI2OTAyOTEy
+LDE5NTg4NTk2NTksLTUyNDI0MjU0LC0xMTk3NDc5MTc1LDgwOT
+A0MjU4MSwxNTY2MjM1NDg4LC00ODQyNTAwMzIsLTExMzY0MTQ2
+OTksODEwOTgxMDU0XX0=
 -->
