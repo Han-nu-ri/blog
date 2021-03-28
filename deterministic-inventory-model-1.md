@@ -12,12 +12,14 @@
 공급 측면에서도 품질이나 양, 비용 측면에서의 불확실성이 존재합니다. 제품의 원료 가격이 변동함에 따라 생산할 수 있는 양이 변하기도 하죠.
 또한 주문 후 제품이 도착하는데 소요되는 lead time도 존재합니다.
 아니면 규모의 경제 관점에서, 운송의 편함과 많은 양을 주문할 때 할인되는 정책 등을 활용하게 되면 이는 재고로 이어지게 됩니다.
+
+즉
 ## Inventory Models
 
 재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwNTM1NzgsLTExMzY0MTQ2OTksOD
-EwOTgxMDU0XX0=
+eyJoaXN0b3J5IjpbOTQzNTY5Mzc1LC0xMTM2NDE0Njk5LDgxMD
+k4MTA1NF19
 -->
