@@ -51,12 +51,12 @@ Constant order size: 최적의 주문량 Q를 찾았다면, 다음 주문 시에
 
 수요량은 일정하므로, 주문 주기는 아래와 같이 나타낼 수 있습니다.
 $$
-T=Q/\lambda
+T=Q \over \lambda
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDA0NjQyMCw4OTg4OTIzMjAsLTIyNj
-kwMjkxMiwxOTU4ODU5NjU5LC01MjQyNDI1NCwtMTE5NzQ3OTE3
-NSw4MDkwNDI1ODEsMTU2NjIzNTQ4OCwtNDg0MjUwMDMyLC0xMT
-M2NDE0Njk5LDgxMDk4MTA1NF19
+eyJoaXN0b3J5IjpbLTE0NTkyOTg3OTMsODk4ODkyMzIwLC0yMj
+Y5MDI5MTIsMTk1ODg1OTY1OSwtNTI0MjQyNTQsLTExOTc0Nzkx
+NzUsODA5MDQyNTgxLDE1NjYyMzU0ODgsLTQ4NDI1MDAzMiwtMT
+EzNjQxNDY5OSw4MTA5ODEwNTRdfQ==
 -->
