@@ -54,9 +54,16 @@ $$
 g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
-![image](https://user-images.githubusercontent.com/11609881/112759094-6b69f900-902c-11eb-9f7d-bc3c7c1df73c.png)
+$$
+{K\lambda \over Q^*} = {hQ^* \over 2} \\
+Q^* = {\sqrt {2K\lambda \over h}}
+$$
 또한 g(Q*)는 아래와 같습니다.
-![image](https://user-images.githubusercontent.com/11609881/112759110-7d4b9c00-902c-11eb-9c5d-f749b6ee8394.png)
+$$
+g(Q)={K \over T^*} + {hQ^* \over 2} \\
+={K\lambda \over Q^*} + {hQ^* \over 2} \\
+={\sqrt {2K\lambda h}}
+$$
 ### EOQ Sensitivity
 현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EOQ Sensitivity라고 합니다.
 EOQ Sensitivity
@@ -86,18 +93,25 @@ f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1) \\
 f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
 (1) 부등식을 전개하면 아래 부등식을 얻을 수 있고,
-![image](https://user-images.githubusercontent.com/11609881/112759126-95232000-902c-11eb-8322-1118b5ae8101.png)
+$$
+T_B2^k \le {\sqrt {2} T^*}
+$$
 (2) 부등식을 전개하면 아래 부등식을 얻을 수 있습니다.
-![image](https://user-images.githubusercontent.com/11609881/112759134-9ce2c480-902c-11eb-9c5c-0e24b501ebda.png)
+$$
+{1 \over {\sqrt {2}}} T^* \le T_B2^k 
+$$
 Power-of-Two 정책을 따르는 Optimal T가 T*에 가장 멀리 떨어진 최악의 두 상황에서의 EOQ Sensitivity를 계산하면,
-![image](https://user-images.githubusercontent.com/11609881/112759142-a5d39600-902c-11eb-9356-5a40011660c6.png)
+$$
+{f(T_B2^k) \over f(T^*)} = {1 \over 2}({T_B2^k \over T^*}+{T^* \over T_B2^k}) \\
+= {3 \over 2 {\sqrt 2}} \approx 1.06.
+$$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDE2MDM2NiwtMzMyODI0MzAwLDExOD
-cwNzg1MiwtMTA5MTIzMjU1Nyw3MDE5MjE0OTgsLTgyNTYyODgz
-NCw0NTkwNTgzMjIsODQzNzk0MzYxLDE4NDM0MjQzNSwxNTM5Mz
-UwNjQxLDE0Mjg0NTkyMzgsLTIwNjE1MzA4OTksLTIwNzU3Nzcy
-MzUsLTYwOTA1MDU2MSw5Nzc2MTE0MDMsMTI0MjEzMDgzOCwtOD
-U3NzI5NTkxLC0xMTUwOTc1MzQxLC0xMTkxMjAwNDYyLC0xMTc2
-ODU5NTBdfQ==
+eyJoaXN0b3J5IjpbLTMzMjgyNDMwMCwxMDUwMTYwMzY2LC0zMz
+I4MjQzMDAsMTE4NzA3ODUyLC0xMDkxMjMyNTU3LDcwMTkyMTQ5
+OCwtODI1NjI4ODM0LDQ1OTA1ODMyMiw4NDM3OTQzNjEsMTg0Mz
+QyNDM1LDE1MzkzNTA2NDEsMTQyODQ1OTIzOCwtMjA2MTUzMDg5
+OSwtMjA3NTc3NzIzNSwtNjA5MDUwNTYxLDk3NzYxMTQwMywxMj
+QyMTMwODM4LC04NTc3Mjk1OTEsLTExNTA5NzUzNDEsLTExOTEy
+MDA0NjJdfQ==
 -->
