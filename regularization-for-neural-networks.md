@@ -17,10 +17,11 @@ $$
 
 ## Regularization for Deep Neural Networks
 딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
-##
+### Weight Decay
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDg1NzkxOCwxMzQ5ODA1MzczLDExMT
-A3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMw
-OF19
+eyJoaXN0b3J5IjpbLTIxMDcxMTM1LDEzNDk4MDUzNzMsMTExMD
+czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
+XX0=
 -->
