@@ -64,13 +64,12 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 ### 장점
 딥네트워크를 훈련하기 쉬워지고
 ### 단점
-테스트 시 훈련 데이터의 평균과 표준편차를 활용하여 Normalization할 때에는, 데이터들이 i.i.d임을 가정한 것 입니다. 하지만 시간이 흘러 실제 application의  데이터 셋이 많이 변경된 경우 i.i.d 가정에 맞지 않게 됩니다.
-
+테스트 시 훈련 데이터의 평균과 표준편차를 활용하여 Normalization할 때에는, 데이터들이 i.i.d임을 가정한 것 입니다. 하지만 시간이 흘러 실제 application의  데이터 셋이 많이 변경된 경우 i.i.d 가정에 맞지 않게 됩니다. 하여 한번 더 normalization 해주는 개념이 'Batch Renormalization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc4ODIwNjgsMzg1ODU1Njg2LDY4Nj
-M4OTI1NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUz
-LDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNz
-MzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhd
-fQ==
+eyJoaXN0b3J5IjpbMTk5MDQzMTc4NiwzODU4NTU2ODYsNjg2Mz
+g5MjU0LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMs
+NjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3Mz
+M2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
+
 -->
