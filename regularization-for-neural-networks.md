@@ -23,10 +23,10 @@ Ridge와 Lasso처럼 Weight의 2-norm과 1-norm을 목적 함수에 더해줍니
 Validation set을 활용해서, validation loss가 커질 때 overffing 되고 있다고 판단하여 멈춥니다. 다만 기준은 어떤 데이터를 활용하여 어떤 문제를 다루느냐에 따라서 적절히 판단해주어야 합니다.
 ### Dropout
 forward pass할 때 임의로 몇 뉴런들을 0으로 만듭니다. 얼마나 drop할 것인가는 hyperparameter로 정합니다.
-뉴럴넷의 capacity가 크다면, 모델은 중복된 표현들을 가질 수 있습니다. 예를 들어 고양이를 인식할 때 고양이의 눈과 귀, 코의 representation들로 판단할 수 있습니다. 고양
+뉴럴넷의 capacity가 크다면, 모델은 중복된 표현들을 가질 수 있습니다. 예를 들어 고양이를 인식할 때 고양이의 눈과 귀, 코의 representation들로 판단할 수 있습니다. 고양이의 눈을 주지 않아도, 학습이 잘 되어 있다면 귀와 코로 고양이임을 판단할 수 있겠죠.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkxNTIwNjUsMTI5NzI3NjY3LDEzND
-k4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4Mjcx
-MjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbLTcxNTg4MDk1NiwxMjk3Mjc2NjcsMTM0OT
+gwNTM3MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEy
+Nyw5Mzg0NzMzMDhdfQ==
 -->
