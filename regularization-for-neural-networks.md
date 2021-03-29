@@ -32,8 +32,7 @@ Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 �
 ### Regularization in Practice
 dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping은 잘 쓰면 좋습니다.
 
-# Optimizer for Deep Neural Networks
-## Optimization beyond SGD
+# Optimization beyond SGD
 SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 또한 gradient가 0인 경우 get stuck하기도 합니다.
 SGD의 세 가지 문제점들은 아래와 같습니다.
 1. Jittering
@@ -58,8 +57,8 @@ Adam으로 시작하고, SGD + Momemtum을 가끔 활용하기도 합니다. Lea
 ### Learning Rate 조절하기
 Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적절하게 세팅하는 것이 중요한데, initial learning rate을 크게 주고 점점 감소 시키는 것이 일반적입니다. 가진 데이터와 문제에 따라 learning rate을 잘 디자인하는 것이 필요합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjMzMzc3LDY4NjM4OTI1NCw2NDg5MD
-E4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mzk0ODE2Miwx
-Mjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1Mj
-A1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQxMjE1MSw2ODYzODkyNTQsNjQ4OT
+AxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2NjM5NDgxNjIs
+MTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NT
+IwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
