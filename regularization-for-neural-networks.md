@@ -50,9 +50,10 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에 learning rate이 빨리 떨어집니다.
 ### Adam
 Momentum과 AdaGrad를 적절히 합친 optimizer입니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDU0NjMzMSwtNjA2MjI2NDUzLC04OT
-YzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1Mzcz
-LDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzOD
-Q3MzMwOF19
+eyJoaXN0b3J5IjpbMTc2MTQ1NTQ1LC02MDYyMjY0NTMsLTg5Nj
+MwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMs
+MTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4ND
+czMzA4XX0=
 -->
