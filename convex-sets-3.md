@@ -15,7 +15,7 @@ w는 L의 원소이므로, v가 w일 때 0이 됩니다. 따라서 원점을 지
 2. 덧셈과 실수 곱에 대하여 닫혀 있어야 한다.
 L에 속하는 두 벡터와, 임의의 스칼라를 세팅합니다.
 $$
-\forall u, v \in L, \forall \alpha \in R \\
+\forall u, v \in L, \forall \alpha \in R
 $$
 위 두 벡터를 w만큼의 평행 이동하고, 하나의 벡터에 스칼라 곱을 한 벡터가 L-w에 속함을 보이면 됩니다.
 $$
@@ -143,11 +143,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMzNzcwNjQsLTE3NDEyNzc4ODAsLT
-E5ODE3MzIyODAsLTc3NjI2NTQwNiwxNjY0NDEyNDEyLC0xNDc1
-NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3MjQxMjEsNDYyMjI0Mz
-g3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC01ODMzMDY4MjksLTE1
-NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5Nz
-M5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywx
-MDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbLTU1MDE2OTMyLC0xOTIzMzc3MDY0LC0xNz
+QxMjc3ODgwLC0xOTgxNzMyMjgwLC03NzYyNjU0MDYsMTY2NDQx
+MjQxMiwtMTQ3NTY2MTQ0MiwtMTA5NDAzODgyMiwxMTQyNzI0MT
+IxLDQ2MjIyNDM4NywxOTI2Njk0MzQ4LDc3MTQ3NDc3OSwtNTgz
+MzA2ODI5LC0xNTQwNzI3NTIyLC0xODAxNTA2Nzg1LC0xMTE5OD
+g3MTUsLTcyOTczOTg4Myw1MTY3NTM1MywyMDYyNzA5MTkzLC05
+ODM4NzU5MjddfQ==
 -->
