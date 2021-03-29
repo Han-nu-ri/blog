@@ -11,7 +11,7 @@ Sigmoid function을 미분하게 되면
 $$
 {\partial \sigma(x) \over \partial x} = \sigma(x) (1-\sigma x)
 $$
-과 같습니다.
+과 같습니다. 따라서 x의 절대값이 커지게 되면 미분이 0에 가까워집니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTkxNTQ2Nl19
+eyJoaXN0b3J5IjpbMjEzMDM1NzU1NSwxODY1OTE1NDY2XX0=
 -->
