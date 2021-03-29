@@ -15,9 +15,11 @@ $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
 
+## Regularization for Deep Neural Networks
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjUzMzM3LDEzNDk4MDUzNzMsMTExMD
-czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
-XX0=
+eyJoaXN0b3J5IjpbNTgyNTEwNjAsMTM0OTgwNTM3MywxMTEwNz
+MzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhd
+fQ==
 -->
