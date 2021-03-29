@@ -31,15 +31,16 @@ $$
 따라서 sigmoid function에 있는 gradient vanishing 문제가 여전히 있습니다.
 ## ReLU
 ReLU(Rectified Linear Unit)은 max(0, x)과 같은 식으로 표현됩니다. + region에서 값이 saturate하지 않고, computationally efficient하며 sigmoid/tanh 보다 더 빨리 수렴하는 장점을 가지고 있습니다.
+![image](https://user-images.githubusercontent.com/11609881/112780508-f5917c00-9083-11eb-8846-d8a0a13582cf.png)
 ReLU에도 단점들이 존재합니다.
 1. 출력이 Zero-centered 되어 있지 않습니다.
 2. x=0 부분에서 미분 가능하지 않습니다.
 3. Dead ReLU Problem이 있습니다.
 ReLU의 입력(WX+b)으로 음수가 들어오게 되면, backpropagation시 음수인 곳에는 gradient가 흘러 들어가지 않습니다. 따라서 업데이트가 되지 않는 문제가 있습니다.
 
-위 다
+위 단점들 중 3번을 개선하기 위해 Leak ReLU가 제안되었습니다. Leak
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTA5MzI0NywtMjE0Njg1NDk0MywtMT
+eyJoaXN0b3J5IjpbMTI1MDM3NTcwNiwtMjE0Njg1NDk0MywtMT
 k5OTgwNzY1NCwtMTk0OTI3Nzk2NywtODE5MjExMjQ1LDE4NjU5
 MTU0NjZdfQ==
 -->
