@@ -53,10 +53,11 @@ Momentum과 AdaGrad를 적절히 합친 optimizer입니다.
 
 ### First vs. Second-order Optimization
 Second-order optimization을 하게 되면 횟수를 기준으로 더 빠른 convergence를 하게 됩니다. 그럼에도 Second-order를 쓰지 않는 이유는 Hessian size가 O(N^2)이고, 이를 Inverse하면 O(N^3)이 됩니다. 그래서 N이 굉장히 커지게 되면 더 오래 걸리므로 First-order Optimization을 대부분 씁니다.
-
+### Optimizers in Practice
+Adam으로 시작하고, SGD + Momemtum을 가끔 활용하기도 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2OTE1MjU2LDY0ODkwMTgwNywtNjA2Mj
-I2NDUzLC04OTYzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2Nywx
-MzQ5ODA1MzczLDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1OD
-I3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbMTY5OTQ2MDkyMyw2NDg5MDE4MDcsLTYwNj
+IyNjQ1MywtODk2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2Njcs
+MTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NT
+gyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
