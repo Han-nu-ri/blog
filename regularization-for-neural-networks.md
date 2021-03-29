@@ -44,9 +44,9 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 물리학에서 Momentum은 mass와 velocity의 곱입니다. 우리가 다루고자 하는 SGD에서 Momentum을 활용한 개념에서의 Momentum은 inertia(관성)에 더 가깝습니다.
 즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
 ### AdaGrad
-작은
+역사를 가지고, gradient가 컸던 방향이면 완만하게 가도록 하고 작았던 방향이면 더 가보도록 해주는 기능을 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2NTkwNTMsLTYwNjIyNjQ1MywtOD
+eyJoaXN0b3J5IjpbLTIxMzY3ODE1NTksLTYwNjIyNjQ1MywtOD
 k2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3
 MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mz
 g0NzMzMDhdfQ==
