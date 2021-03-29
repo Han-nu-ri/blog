@@ -7,7 +7,10 @@ $$
 $$
 ![image](https://user-images.githubusercontent.com/11609881/112778853-6c2c7a80-9080-11eb-9af8-44d9b93ce0a6.png)
 Sigmoid function의 장점은 0에서 1 사이의 값이 나온다는 것 입니다. 그렇기 때문에 사람이 값을 해석하기가 상대적으로 쉬워 역사적으로 유명합니다.
-
+Sigmoid function을 미분하게 되면
+$$
+{\partial \sigma(x) \over \partial x = \sigma(x) (1-\sigma x)
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzODkyMzQxXX0=
+eyJoaXN0b3J5IjpbLTE4MDA3Nzk0MDNdfQ==
 -->
