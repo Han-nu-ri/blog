@@ -115,7 +115,7 @@ Ax=0, \space
 $$
 과 같습니다. 각각의 식을 전개해보죠.
 $$
-x_1+x_2+x_3=0 \cdots 1)\\
+x_1+x_2+x_3=0 \cdots 1), \space
 -x_2+2x_3=0 \cdots 2)\\
 $$
 식 2)에서 x2를 우변으로 옮기면.
@@ -129,7 +129,7 @@ x_1=-3x_3
 $$
 x3가 1이라 하면 x2는 2, x1은  -3 입니다. 따라서 빈공간은 아래와 같습니다.
 $$
-c {\begin{pmatrix} -3 \\ 2 \\ 1 \end{pmatrix}}, \forall c \in R,
+c {\begin{bmatrix} -3 \\ 2 \\ 1 \end{bmatrix}}, \forall c \in R,
 $$
 ## 모든 평면 집합 L은 어떤 행렬 A의 선형 시스템 Ax=b의 해 집합이다.
 x, w를 L의 원소라고 두면, L-w은 부분 공간이 됩니다. 위에서 보인 것처럼 부분 공간의 기저를 사용하면 부분 공간을 빈공간(영공간, null space)으로 하는 행렬 A를 구할 수 있습니다. A의 빈공간은 A에 의하여 0으로 변환되는 벡터들의 집합이므로,
@@ -143,11 +143,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MjQ3NDkwLC0xNzQxMjc3ODgwLC0xOT
-gxNzMyMjgwLC03NzYyNjU0MDYsMTY2NDQxMjQxMiwtMTQ3NTY2
-MTQ0MiwtMTA5NDAzODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4Ny
-wxOTI2Njk0MzQ4LDc3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQw
-NzI3NTIyLC0xODAxNTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOT
-g4Myw1MTY3NTM1MywyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3
-MTk1ODI1OF19
+eyJoaXN0b3J5IjpbLTE5MjMzNzcwNjQsLTE3NDEyNzc4ODAsLT
+E5ODE3MzIyODAsLTc3NjI2NTQwNiwxNjY0NDEyNDEyLC0xNDc1
+NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3MjQxMjEsNDYyMjI0Mz
+g3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC01ODMzMDY4MjksLTE1
+NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5Nz
+M5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywx
+MDcxOTU4MjU4XX0=
 -->
