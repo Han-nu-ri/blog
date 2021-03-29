@@ -46,16 +46,16 @@ RGB로 표현된 이미지는 각 셀에 세가지 값이 있습니다. 높이�
 
 일반화해서 출력의 크기를 다음과 같이 표현할 수 있습니다. Padding size는 한 쪽의 크기를 의미하므로 2배 해줍니다.
 $$
-{N-F+2P \over S} + 1, \\ 
-N: input \ size \\
-F: Filter \ size \\
-P: Padding \ size \\
+{N-F+2P \over S} + 1,
+N: input \ size,
+F: Filter \ size,
+P: Padding \ size,
 S: Stride
 $$
 
 아래 이미지는 입력 이미지에 한 줄 패딩(양쪽에 하므로 두 줄이 됩니다)하고, 보폭(stride)를 2로 하여 하나의 필터와 합성곱을 하고 있는 과정입니다. 채널의 개수가 3개이므로, 필터도 3개의 채널로 구성된 것을 볼 수 있고 마지막에 Bias를 더해주는 것을 볼 수 있습니다 (RF는 Receptive Field로, 필터와 합성곱 중인 X 영역입니다(그림의 파란색 영역)):
 $$
-\sum_{i=1}^3 RF_{i} * W_{0i}+b_0 \\
+\sum_{i=1}^3 RF_{i} W_{0i}+b_0 \\
 $$
 ![image](https://user-images.githubusercontent.com/11609881/112209149-7dc6ea00-8c5c-11eb-9a89-7be1ecd5be0b.png)
 이미지 출처: https://cs231n.github.io/convolutional-networks/
@@ -72,9 +72,9 @@ CNN은 위와 같은 Layer들을 쌓고, 이미지의 특징을 나타내는 필
 ![image](https://user-images.githubusercontent.com/11609881/112213909-f2e8ee00-8c61-11eb-84a5-cb37b4595c48.png)
 이미지 출처: https://hal.archives-ouvertes.fr/hal-02053205/document
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzg3MzY2Myw0ODczNzQyMzEsLTM3ND
-M1OTYwNywxMjIwOTY2Mjk3LC05ODMxOTQyNTMsMTMwMTc5Mjc2
-MSwtMTIxNTAyNDg4NSwtMTAyODE2NDQ4MiwtMTM1MDY5ODM5LC
-0xOTI5NTA2MDQxLC0xMDQzNTc2MzUzLC0xMDY0NTg0NjYyLC0x
-MzQ4NzM3NjIwXX0=
+eyJoaXN0b3J5IjpbLTcxMDI5MjczMywtOTEzODczNjYzLDQ4Nz
+M3NDIzMSwtMzc0MzU5NjA3LDEyMjA5NjYyOTcsLTk4MzE5NDI1
+MywxMzAxNzkyNzYxLC0xMjE1MDI0ODg1LC0xMDI4MTY0NDgyLC
+0xMzUwNjk4MzksLTE5Mjk1MDYwNDEsLTEwNDM1NzYzNTMsLTEw
+NjQ1ODQ2NjIsLTEzNDg3Mzc2MjBdfQ==
 -->
