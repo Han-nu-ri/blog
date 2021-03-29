@@ -57,19 +57,19 @@ $$
 $$
 이 성립합니다. z를 대입해보고 전개해보죠.
 $$
-\begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
-= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
+\begin {bmatrix} 1 \\ 0 \\ 0  \end{bmatrix}
+= \lambda_1 \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
 +\lambda_2 z
-= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 (\lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix})
+= \lambda_1 \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
++\lambda_2 (\lambda_a \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix})
 \\
-= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+= \lambda_1 \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
++\lambda_2 \lambda_a \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
 \\
-= \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 (1-\lambda_b) \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
+= \lambda_1 \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
++\lambda_2 (1-\lambda_b) \begin {bmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
 +\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
 \\
 = (1-\lambda_2) \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
@@ -108,9 +108,8 @@ z
 =\begin {pmatrix} -1 \\ {1 \over 2} \\ 6 \end {pmatrix}.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIyNzQ1NDEsLTkyMTczMTM5MSwtMT
-ExODMzNjkyMiwyNTU3NDM3ODYsLTIwMDM0NTMzNzAsLTE0MTAy
-NTQ2OCwtNjY2NDc3MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OC
-wtMTc4MTk2NjQ2MSwxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
-
+eyJoaXN0b3J5IjpbNTAxMzU2MzQxLC05MjE3MzEzOTEsLTExMT
+gzMzY5MjIsMjU1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0
+NjgsLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLT
+E3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
 -->
