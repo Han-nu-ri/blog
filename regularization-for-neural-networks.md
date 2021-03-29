@@ -14,7 +14,10 @@ $$
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExND
-k1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbMTA0MjUzMzM3LDEzNDk4MDUzNzMsMTExMD
+czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
+XX0=
 -->
