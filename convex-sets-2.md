@@ -50,7 +50,7 @@ z
 $$
 (1, 0, 0)은 (-3, 1, 12)와 z의 평면 조합이므로,
 $$
-\begin {pmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
+\begin {bmatrix} 1 \\ 0 \\ 0  \end{pmatrix}
 = \lambda_1 \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
 +\lambda_2 z,
 \lambda_1 + \lambda_2= 1.
@@ -108,8 +108,8 @@ z
 =\begin {pmatrix} -1 \\ {1 \over 2} \\ 6 \end {pmatrix}.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTczMTM5MSwtMTExODMzNjkyMiwyNT
-U3NDM3ODYsLTIwMDM0NTMzNzAsLTE0MTAyNTQ2OCwtNjY2NDc3
-MDQyLDIwNjkzMDY0NzIsLTQ4NjUzOTc4OCwtMTc4MTk2NjQ2MS
-wxMDc1NzY1NjU0LDIwNDMzODAyNDJdfQ==
+eyJoaXN0b3J5IjpbNjI0MDA0Nzg3LC05MjE3MzEzOTEsLTExMT
+gzMzY5MjIsMjU1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0
+NjgsLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLT
+E3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
 -->
