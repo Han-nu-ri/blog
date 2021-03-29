@@ -16,10 +16,11 @@ $$
 $$
 
 ## Regularization for Deep Neural Networks
-딥러닝은 
+딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
+##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY1Njg4NjYsMTM0OTgwNTM3MywxMT
-EwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMz
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTk0NDg1NzkxOCwxMzQ5ODA1MzczLDExMT
+A3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMw
+OF19
 -->
