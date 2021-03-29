@@ -5,8 +5,8 @@ Regularization은 머신러닝에서 굉장히 중요한 주제입니다.
 이것을 방지하기 위해 도입하는 개념이 Regularization입니다. 보통 목적 함수에 penalty항을 더하여, 모델이 불필요하게 복잡해지는 것을 막아줍니다.
 
 ### Ridge Regression
-Linear Regression의 목적 함수에 계수의 제곱(Penalty term)을 더하여 Regularization하게 됩니다.
+Linear Regression의 목적 함수에 계수의 제곱(Penalty term)을 더하여 Regularization하게 됩니다. 이 의미를 생각해보면, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyNTM3NDIsMTE0OTUyMDU4NSwtMTY1OD
-I3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbLTE3OTcxMTEzMzQsMTE0OTUyMDU4NSwtMT
+Y1ODI3MTI3LDkzODQ3MzMwOF19
 -->
