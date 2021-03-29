@@ -11,7 +11,7 @@ Sigmoid function의 단점은 세 가지가 있습니다.
 1. zero-centered 되어 있지 않습니다.
 zero-centered 되어 있지 않다면 어떤 문제가 발생할까요? 우리의 데이터가 모두 양수라고 해보죠. WX+b가 sigmoid의 입력으로 들어가는 경우, 우리는 local gradient인
 $$
-{\partial \sigma(W^TX+b) \over \partial W}=
+{\partial \sigma(W^TX+b) \over \partial W}=\simga(W^TX+b)
 $$
 3. exp 연산이 computationally expensive하다.
 4. gradient가 vanishing한다.
@@ -23,6 +23,6 @@ $$
 
 d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MDg4MDIzLC0xOTQ5Mjc3OTY3LC04MT
-kyMTEyNDUsMTg2NTkxNTQ2Nl19
+eyJoaXN0b3J5IjpbLTIxMjg1MjQ4MDcsLTE5NDkyNzc5NjcsLT
+gxOTIxMTI0NSwxODY1OTE1NDY2XX0=
 -->
