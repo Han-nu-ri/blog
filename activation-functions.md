@@ -23,8 +23,10 @@ $$
 과 같습니다. 따라서 x의 절대값이 커지게 되면 미분이 0에 가까워지기 때문에 gradient가 vanishing하는 문제가 있습니다.
 
 ## Tanh
+tanh는 어떨까요? zero-centered이고, 출력의 범위는 [-1, 1]입니다.
+![image](https://user-images.githubusercontent.com/11609881/112780051-f83fa180-9082-11eb-8975-f9c17efd202d.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk4MDc2NTQsLTE5NDkyNzc5NjcsLT
-gxOTIxMTI0NSwxODY1OTE1NDY2XX0=
+eyJoaXN0b3J5IjpbLTE2NzMzMzM5MDAsLTE5OTk4MDc2NTQsLT
+E5NDkyNzc5NjcsLTgxOTIxMTI0NSwxODY1OTE1NDY2XX0=
 -->
