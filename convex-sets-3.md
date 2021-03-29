@@ -89,15 +89,15 @@ $$
 Ax= 
 \begin{bmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
 {-1 \over 2} & -1 & 0 & 1  \\
-\end{pmatrix}
+\end{bmatrix}
 \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ x_4
 \end{bmatrix}
-=\begin{pmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
+=\begin{bmatrix} {1 \over 4} & {-1 \over 2} & 1 & 0\\ 
 {-1 \over 2} & -1 & 0 & 1  \\
-\end{pmatrix}
-\begin{pmatrix} 2 \\ 1 \\ 0 \\ 2
-\end{pmatrix}
-= \begin{pmatrix} 0 \\ 0 \end{pmatrix}
+\end{bmatrix}
+\begin{bmatrix} 2 \\ 1 \\ 0 \\ 2
+\end{bmatrix}
+= \begin{bmatrix} 0 \\ 0 \end{bmatrix}
 $$
 
 ## 행렬 A의 빈공간 구하기
@@ -108,10 +108,10 @@ $$
 
 빈공간의 정의에 따라, 
 $$
-Ax=0. \\
-\begin{pmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{pmatrix}
-\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix}
-= \begin{pmatrix} 0 \\ 0 \end{pmatrix}. \\
+Ax=0, \space
+\begin{bmatrix} 1 & 1 & 1 \\ 0 & -1 & 2 \end{bmatrix}
+\begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}
+= \begin{bmatrix} 0 \\ 0 \end{bmatrix}. \\
 $$
 과 같습니다. 각각의 식을 전개해보죠.
 $$
@@ -143,11 +143,11 @@ Ax=b
 $$
 가 되고, x는 L의 원소이므로 L은 선형 시스템 Ax=b의 해 집합입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcyNjMxODIsLTE3NDEyNzc4ODAsLT
-E5ODE3MzIyODAsLTc3NjI2NTQwNiwxNjY0NDEyNDEyLC0xNDc1
-NjYxNDQyLC0xMDk0MDM4ODIyLDExNDI3MjQxMjEsNDYyMjI0Mz
-g3LDE5MjY2OTQzNDgsNzcxNDc0Nzc5LC01ODMzMDY4MjksLTE1
-NDA3Mjc1MjIsLTE4MDE1MDY3ODUsLTExMTk4ODcxNSwtNzI5Nz
-M5ODgzLDUxNjc1MzUzLDIwNjI3MDkxOTMsLTk4Mzg3NTkyNywx
-MDcxOTU4MjU4XX0=
+eyJoaXN0b3J5IjpbODI0MjQ3NDkwLC0xNzQxMjc3ODgwLC0xOT
+gxNzMyMjgwLC03NzYyNjU0MDYsMTY2NDQxMjQxMiwtMTQ3NTY2
+MTQ0MiwtMTA5NDAzODgyMiwxMTQyNzI0MTIxLDQ2MjIyNDM4Ny
+wxOTI2Njk0MzQ4LDc3MTQ3NDc3OSwtNTgzMzA2ODI5LC0xNTQw
+NzI3NTIyLC0xODAxNTA2Nzg1LC0xMTE5ODg3MTUsLTcyOTczOT
+g4Myw1MTY3NTM1MywyMDYyNzA5MTkzLC05ODM4NzU5MjcsMTA3
+MTk1ODI1OF19
 -->
