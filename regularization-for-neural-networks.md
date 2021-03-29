@@ -57,10 +57,10 @@ Second-order optimization을 하게 되면 횟수를 기준으로 더 빠른 con
 Adam으로 시작하고, SGD + Momemtum을 가끔 활용하기도 합니다. Learning rate을 잘 조절하는게 중요합니다.
 
 # Learning Rate 조절하기
-Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다.
+Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적절하게 세팅하는 것이 중요한데, initial learning rate을 크게 주고 점점 감소 시키면서 테스트해보는 것이 일반적입니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2Mzg5MjU0LDY0ODkwMTgwNywtNjA2Mj
-I2NDUzLC04OTYzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2Nywx
-MzQ5ODA1MzczLDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1OD
-I3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbLTU4NzY5NzE5NSw2ODYzODkyNTQsNjQ4OT
+AxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2NjM5NDgxNjIs
+MTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NT
+IwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
