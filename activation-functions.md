@@ -7,11 +7,11 @@ $$
 $$
 ![image](https://user-images.githubusercontent.com/11609881/112778853-6c2c7a80-9080-11eb-9af8-44d9b93ce0a6.png)
 Sigmoid function의 장점은 0에서 1 사이의 값이 나온다는 것 입니다. 그렇기 때문에 사람이 값을 해석하기가 상대적으로 쉬워 역사적으로 유명합니다.
-Sigmoid function을 미분하게 되면
+Sigmoid function의 단점은 sigmoid function이 zero-centered 되어 있지 않고, exp 연산이 computationally expensive하다는 것이 있습니다. 이 두 단점보다도 더 중요한 것은 을 미분하게 되면
 $$
 {\partial \sigma(x) \over \partial x} = \sigma(x) (1-\sigma x)
 $$
 과 같습니다. 따라서 x의 절대값이 커지게 되면 미분이 0에 가까워지기 때문에 gradient가 사라지는 문제가 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDgxNzYwMSwxODY1OTE1NDY2XX0=
+eyJoaXN0b3J5IjpbLTM1MzQ5MzMyOSwxODY1OTE1NDY2XX0=
 -->
