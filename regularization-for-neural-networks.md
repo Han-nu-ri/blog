@@ -26,10 +26,10 @@ forward pass할 때 임의로 몇 뉴런들을 0으로 만듭니다. 얼마나 d
 뉴럴넷의 capacity가 크다면, 모델은 중복된 표현들을 가질 수 있습니다. 예를 들어 고양이를 인식할 때 고양이의 눈과 귀, 코의 representation들로 판단할 수 있습니다. 고양이의 눈을 주지 않아도, 학습이 잘 되어 있다면 귀와 코로 고양이임을 판단할 수 있겠죠. 이것이 Dropout의 intuition입니다.
 layer 크기의 벡터를 랜덤함수로 채운 후에, drop out parameter 보다 작은 것들을 0으로 만들고 남은 값들을 drop out hyperparameter로 나눠서 scale을 맞춰줍니다.
 ### Stochastic Depth
-
+Dropout과 비슷하게, 몇가지 layer의 집합을 skip합니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1ODI3Mzg0LDY2Mzk0ODE2MiwxMjk3Mj
-c2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1MjA1ODUs
-LTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTY3OTk1MDU5OCw2NjM5NDgxNjIsMTI5Nz
+I3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1
+LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
