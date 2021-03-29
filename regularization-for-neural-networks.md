@@ -58,8 +58,9 @@ Adam으로 시작하고, SGD + Momemtum을 가끔 활용하기도 합니다. Lea
 
 # Learning Rate 조절하기
 Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적절하게 세팅하는 것이 중요한데, initial learning rate을 크게 주고 점점 감소 시키면서 테스트해보는 것이 일반적입니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzY5NzE5NSw2ODYzODkyNTQsNjQ4OT
+eyJoaXN0b3J5IjpbLTEwMjcwMjkwOSw2ODYzODkyNTQsNjQ4OT
 AxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2NjM5NDgxNjIs
 MTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NT
 IwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
