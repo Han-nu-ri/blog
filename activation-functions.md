@@ -14,8 +14,8 @@ $$
 {\partial \sigma(W^TX+b) \over \partial W_i}=\sigma(W^TX+b)(1-\sigma(W^TX+b)X_i
 $$
 를 구해야 합니다. 식을 살펴보면 3가지 요소가 모두 양수임을 알 수 있습니다. 따라서 gradient는 계속 한 방향으로만 업데이트가 됨을 알 수 있습니다.
-3. exp 연산이 computationally expensive합니다.
-4. gradient가 vanishing한다.
+2. exp 연산이 computationally expensive합니다.
+3. gradient가 vanishing합니다.
 sigmoid function을 미분하게 되면
 $$
 {\partial \sigma(x) \over \partial x} = \sigma(x) (1-\sigma x)
@@ -24,6 +24,6 @@ $$
 
 d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTQ4MjczMiwtMTk0OTI3Nzk2NywtOD
-E5MjExMjQ1LDE4NjU5MTU0NjZdfQ==
+eyJoaXN0b3J5IjpbLTEyOTI1NzY5MTMsLTE5NDkyNzc5NjcsLT
+gxOTIxMTI0NSwxODY1OTE1NDY2XX0=
 -->
