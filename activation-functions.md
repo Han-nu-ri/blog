@@ -25,8 +25,13 @@ $$
 ## Tanh
 tanh는 어떨까요? zero-centered이고, 출력의 범위는 [-1, 1]입니다.
 ![image](https://user-images.githubusercontent.com/11609881/112780051-f83fa180-9082-11eb-8975-f9c17efd202d.png)
+하지만 tanh은 sigmoid function의 scaled 버전에 불과합니다.
+$$
+tanh(x)=2\sigma(2x)-1
+$$
+따라서 sigmoid function에 있는 gradient vanishing 문제가 여전히 있습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMzMzM5MDAsLTE5OTk4MDc2NTQsLT
-E5NDkyNzc5NjcsLTgxOTIxMTI0NSwxODY1OTE1NDY2XX0=
+eyJoaXN0b3J5IjpbMTk0NDgxNzQ3LC0xOTk5ODA3NjU0LC0xOT
+Q5Mjc3OTY3LC04MTkyMTEyNDUsMTg2NTkxNTQ2Nl19
 -->
