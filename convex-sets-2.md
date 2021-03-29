@@ -101,14 +101,14 @@ $$
 따라서 z는 
 $$
 z
-= \lambda_a \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix} \\
-={1 \over 2} \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+{1 \over 2} \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
-=\begin {pmatrix} -1 \\ {1 \over 2} \\ 6 \end {pmatrix}.
+= \lambda_a \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix} \\
+={1 \over 2} \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++{1 \over 2} \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
+=\begin {bmatrix} -1 \\ {1 \over 2} \\ 6 \end {bmatrix}.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjYzNzQxNSwtOTIxNzMxMzkxLC0xMT
+eyJoaXN0b3J5IjpbLTQwNTcyNDEwMSwtOTIxNzMxMzkxLC0xMT
 E4MzM2OTIyLDI1NTc0Mzc4NiwtMjAwMzQ1MzM3MCwtMTQxMDI1
 NDY4LC02NjY0NzcwNDIsMjA2OTMwNjQ3MiwtNDg2NTM5Nzg4LC
 0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4MDI0Ml19
