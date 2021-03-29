@@ -42,9 +42,11 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 
 ### SGD + Momentum
 물리학에서 Momentum은 mass와 velocity의 곱입니다. 우리가 다루고자 하는 SGD에서 Momentum을 활용한 개념에서의 Momentum은 inertia(관성)에 더 가깝습니다.
+즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
+###
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM1OTQ1NSwtNjA2MjI2NDUzLC04OT
-YzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1Mzcz
-LDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzOD
-Q3MzMwOF19
+eyJoaXN0b3J5IjpbNjA5NTk2NDQ4LC02MDYyMjY0NTMsLTg5Nj
+MwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMs
+MTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4ND
+czMzA4XX0=
 -->
