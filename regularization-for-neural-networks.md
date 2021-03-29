@@ -30,10 +30,12 @@ Dropout과 비슷하게, 몇 가지 layer의 집합을 skip합니다.
 ### Cutout
 Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 임의로 골라서 0으로 만드는 것 입니다. 전처리가 들어가기 때문에 큰 데이터 셋에 대해서는 잘 쓰이지 않습니다.
 ### Regularization in Practice
-dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping을 잘 쓰면 좋습니다.
+dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping은 잘 쓰면 좋습니다.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI0Njk2NDQsLTg5NjMwNjc1Myw2Nj
-M5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2
-MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbMTQxNDQ1NjkwOCwtODk2MzA2NzUzLDY2Mz
+k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
+LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
