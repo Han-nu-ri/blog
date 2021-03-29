@@ -14,9 +14,11 @@ $$
 Mu=\sigma v, u \in K^n, v \in K^m
 $$
 
-
+$$
+M=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxNDU0NDUyLDExNTg4NzQwMDgsMTMyNj
+eyJoaXN0b3J5IjpbMzQyNDA4Mzg0LDExNTg4NzQwMDgsMTMyNj
 g4MjA2NCwxMDg2OTExNTk4LC0xMTAxMjQzMTEyLC0xNDkwNTE0
 Mzg3LC0xMjc5OTg1MzQ4LC0xNzk5Njg1NTI4LC0xODk3NzQ2MT
 A4XX0=
