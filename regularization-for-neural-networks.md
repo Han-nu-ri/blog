@@ -32,8 +32,10 @@ Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 �
 ### Regularization in Practice
 dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping은 잘 쓰면 좋습니다.
 
+# Optimization beyond SGD
+SGD를 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM1NTQxMzYwLC04OTYzMDY3NTMsNjYzOT
-Q4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIs
-MTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbLTY4NjQ2ODIzOSwtODk2MzA2NzUzLDY2Mz
+k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
+LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
