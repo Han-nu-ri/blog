@@ -41,9 +41,10 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다. 예를 들어 데이터 셋이 수백만개이면 batch size가 수천개라도 그 비율은 굉장히 작습니다.
 
 ### SGD + Momentum
-물리학에서 Momentum은 
+물리학에서 Momentum은 mass와 velocity의 곱입니다. 우리
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mz
-k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
-LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNDI2NDg1NTYsLTYwNjIyNjQ1MywtOD
+k2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3
+MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mz
+g0NzMzMDhdfQ==
 -->
