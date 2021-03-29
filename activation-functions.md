@@ -5,7 +5,8 @@ Sigmoid fuction은 아래와 같은 식으로 정의 됩니다.
 $$
 \sigma(x)={1 \over 1+e^{-x}}
 $$
+![image](https://user-images.githubusercontent.com/11609881/112778853-6c2c7a80-9080-11eb-9af8-44d9b93ce0a6.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NDE0MDAyXX0=
+eyJoaXN0b3J5IjpbLTcxOTM2OTA3Nl19
 -->
