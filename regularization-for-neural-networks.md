@@ -45,10 +45,10 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
 ### AdaGrad
 역사를 가지고, gradient가 컸던 방향이면 완만하게 가도록 하고 작았던 방향이면 더 가보도록 해주는 아이디어입니다.
-### Leaky AdaGrad
+### RMSProp: Leaky AdaGrad
 AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에 learning rate이 빨리 떨어집니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjg0ODY4NiwtNjA2MjI2NDUzLC04OT
+eyJoaXN0b3J5IjpbLTkyNDAzMjg4NywtNjA2MjI2NDUzLC04OT
 YzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1Mzcz
 LDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzOD
 Q3MzMwOF19
