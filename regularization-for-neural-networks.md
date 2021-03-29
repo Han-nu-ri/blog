@@ -28,10 +28,11 @@ layer 크기의 벡터를 랜덤함수로 채운 후에, drop out parameter 보�
 ### Stochastic Depth
 Dropout과 비슷하게, 몇 가지 layer의 집합을 skip합니다.
 ### Cutout
-Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 임의로 골라서 0으로 만드는 것 입니다. 
+Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 임의로 골라서 0으로 만드는 것 입니다. 전처리가 들어가기 때문에 큰 데이터 셋에 대해서는 잘 쓰이지 않습니다.
+###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjMwNjc1Myw2NjM5NDgxNjIsMTI5Nz
-I3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1
-LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbMzQ0NzQzMDgwLC04OTYzMDY3NTMsNjYzOT
+Q4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIs
+MTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
 -->
