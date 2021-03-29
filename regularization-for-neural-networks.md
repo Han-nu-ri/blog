@@ -11,7 +11,10 @@ $$
 $$
 ### Lasso Regression
 계수의 제곱이 아니라 절대값으로 둘 수 있습니다.
+$$
+\min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTI1ODU2NCwxMTEwNzMzNjYyLDExND
+eyJoaXN0b3J5IjpbMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExND
 k1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
