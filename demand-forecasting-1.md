@@ -43,9 +43,9 @@ $$
 
 d(t)를 t에 대해서 미분하여 0인 지점을 확인하면 수요가 정점을 찍는 순간(t*)과 그때의 수요, 누적 수요를 알 수 있습니다.
 $$
-t^*={1 \over p+q}ln({q \over p}) \\
-d(t^*)={m(p+q)^2 \over 4q} \\
-D(t^*)={m(q-p) \over 2q}
+t^{\ast}={1 \over p+q}ln({q \over p}) \\
+d(t^{\ast})={m(p+q)^2 \over 4q} \\
+D(t^{\ast})={m(q-p) \over 2q}
 $$
 
   
@@ -61,7 +61,7 @@ e^{0.38t}= {349 \over 7} \\
 t = {ln({349 \over 7}) \over 0.38} = 10.28726782\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3ODQzMTQwLDg3NzEyNTcxMiwtMTg0MD
-k3NzkzMSwxNjg5ODIxMDYzLC0xNDIyMzE0MTgsMjEyMDYzODU1
-Ml19
+eyJoaXN0b3J5IjpbMTMwNTc4NzM4NCw4Njc4NDMxNDAsODc3MT
+I1NzEyLC0xODQwOTc3OTMxLDE2ODk4MjEwNjMsLTE0MjIzMTQx
+OCwyMTIwNjM4NTUyXX0=
 -->
