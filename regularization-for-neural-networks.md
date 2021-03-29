@@ -58,10 +58,10 @@ Adam으로 시작하고, SGD + Momemtum을 가끔 활용하기도 합니다. Lea
 Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적절하게 세팅하는 것이 중요한데, initial learning rate을 크게 주고 점점 감소 시키는 것이 일반적입니다. 가진 데이터와 문제에 따라 learning rate을 잘 디자인하는 것이 필요합니다.
 
 # Batch Normalization
-
+데이터를 평균으로 빼고 표준편차로 나눠주는 Normalization을 Batch별로 하는 것을 Batch Normalization이라고 합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNzI5MjgzLDY4NjM4OTI1NCw2NDg5MD
-E4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mzk0ODE2Miwx
-Mjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1Mj
-A1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTExOTk0Nzg2MzIsNjg2Mzg5MjU0LDY0OD
+kwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMsNjYzOTQ4MTYy
+LDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIsMTE0OT
+UyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
 -->
