@@ -69,21 +69,21 @@ $$
 +\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
 \\
 = \lambda_1 \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
-+\lambda_2 (1-\lambda_b) \begin {bmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
++\lambda_2 (1-\lambda_b) \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
 \\
-= (1-\lambda_2) \begin {pmatrix} -3 \\ 1 \\ 12 \end {pmatrix} 
-+\lambda_2 (1-\lambda_b) \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+= (1-\lambda_2) \begin {bmatrix} -3 \\ 1 \\ 12 \end {bmatrix} 
++\lambda_2 (1-\lambda_b) \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
 \\
-\begin {pmatrix} 4 \\ -1 \\ -12  \end{pmatrix}
-= \lambda_2 \begin {pmatrix} 3 \\ -1 \\ -8 \end {pmatrix} 
-+-\lambda_2 \lambda_b \begin {pmatrix} 0 \\ 0 \\ 4 \end {pmatrix}
-+\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 8 \end {pmatrix}
+\begin {bmatrix} 4 \\ -1 \\ -12  \end{bmatrix}
+= \lambda_2 \begin {bmatrix} 3 \\ -1 \\ -8 \end {bmatrix} 
++-\lambda_2 \lambda_b \begin {bmatrix} 0 \\ 0 \\ 4 \end {bmatrix}
++\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 8 \end {bmatrix}
 \\
-\begin {pmatrix} 4 \\ -1 \\ -12  \end{pmatrix}
-= \lambda_2 \begin {pmatrix} 3 \\ -1 \\ -8 \end {pmatrix} 
-+\lambda_2 \lambda_b \begin {pmatrix} -2 \\ 1 \\ 4 \end {pmatrix}
+\begin {bmatrix} 4 \\ -1 \\ -12  \end{bmatrix}
+= \lambda_2 \begin {bmatrix} 3 \\ -1 \\ -8 \end {bmatrix} 
++\lambda_2 \lambda_b \begin {bmatrix} -2 \\ 1 \\ 4 \end {bmatrix}
 $$
 마지막 행렬식에서 첫 번째와 두 번째 식을 사용하면 방정식을 쉽게 풀 수 있습니다.
 첫 번째 식으로부터 \lambda_b를 \lambda_2로 표현하고,
@@ -108,8 +108,8 @@ z
 =\begin {pmatrix} -1 \\ {1 \over 2} \\ 6 \end {pmatrix}.
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMzU2MzQxLC05MjE3MzEzOTEsLTExMT
-gzMzY5MjIsMjU1NzQzNzg2LC0yMDAzNDUzMzcwLC0xNDEwMjU0
-NjgsLTY2NjQ3NzA0MiwyMDY5MzA2NDcyLC00ODY1Mzk3ODgsLT
-E3ODE5NjY0NjEsMTA3NTc2NTY1NCwyMDQzMzgwMjQyXX0=
+eyJoaXN0b3J5IjpbMTI1MjYzNzQxNSwtOTIxNzMxMzkxLC0xMT
+E4MzM2OTIyLDI1NTc0Mzc4NiwtMjAwMzQ1MzM3MCwtMTQxMDI1
+NDY4LC02NjY0NzcwNDIsMjA2OTMwNjQ3MiwtNDg2NTM5Nzg4LC
+0xNzgxOTY2NDYxLDEwNzU3NjU2NTQsMjA0MzM4MDI0Ml19
 -->
