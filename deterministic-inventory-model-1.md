@@ -55,20 +55,20 @@ g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
 $$
-{K\lambda \over Q^*} = {hQ^* \over 2}, 
-Q^* = {\sqrt {2K\lambda \over h}}
+{K\lambda \over Q^\ast} = {hQ^\ast \over 2}, 
+Q^\ast = {\sqrt {2K\lambda \over h}}
 $$
 또한 g(Q*)는 아래와 같습니다.
 $$
-g(Q)={K \over T^*} + {hQ^* \over 2} \\
-={K\lambda \over Q^*} + {hQ^* \over 2} \\
+g(Q)={K \over T^\ast} + {hQ^\ast \over 2} \\
+={K\lambda \over Q^\ast} + {hQ^\ast \over 2} \\
 ={\sqrt {2K\lambda h}}
 $$
 ### EOQ Sensitivity
 현실적으로, 최적의 Q*를 정확히 주문하기는 쉽지 않습니다. Q*을 주문했을 때의 최적의 비용 대비 Q를 주문했을 때 비용이 변하는 정도를 EOQ Sensitivity라고 합니다.
 EOQ Sensitivity
 $$
-{g(Q) \over g(Q^*)} = \cdots = {1 \over 2}({Q^* \over Q} + {Q \over Q^*})
+{g(Q) \over g(Q^\ast)} = \cdots = {1 \over 2}({Q^\ast \over Q} + {Q \over Q^\ast})
 $$
 아래는 EOQ Sensitivity의 그래프입니다. 1을 기준으로 오른쪽 이동할 때의 경사가 왼쪽 이동할 때 보다 더 큽니다. 덜 주문하는 것보다는 더 주문하는 것이 낫다는 것이지요.
 또한 최적의 Q 근방에서는 비용이 생각보다 별로 증가하지 않습니다.
@@ -109,11 +109,11 @@ $$
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDM1ODY5NiwtMzMyODI0MzAwLDEwNT
-AxNjAzNjYsLTMzMjgyNDMwMCwxMTg3MDc4NTIsLTEwOTEyMzI1
-NTcsNzAxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MDU4MzIyLDg0Mz
-c5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwxNDI4NDU5MjM4
-LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1NjEsOT
-c3NjExNDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5MSwtMTE1MDk3
-NTM0MV19
+eyJoaXN0b3J5IjpbLTE1NzU4NTI2NjQsMTUzNDM1ODY5NiwtMz
+MyODI0MzAwLDEwNTAxNjAzNjYsLTMzMjgyNDMwMCwxMTg3MDc4
+NTIsLTEwOTEyMzI1NTcsNzAxOTIxNDk4LC04MjU2Mjg4MzQsND
+U5MDU4MzIyLDg0Mzc5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0
+MSwxNDI4NDU5MjM4LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC
+02MDkwNTA1NjEsOTc3NjExNDAzLDEyNDIxMzA4MzgsLTg1Nzcy
+OTU5MV19
 -->
