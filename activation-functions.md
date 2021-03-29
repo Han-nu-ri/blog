@@ -40,11 +40,9 @@ ReLU의 입력(WX+b)으로 음수가 들어오게 되면, backpropagation시 음
 
 위 단점들 중 3번을 개선하기 위해 Leak ReLU가 제안되었습니다. Leak ReLU는
 max(0.01x, x)와 같이 x가 음수인 곳을 0으로 만들지 않고, slope를 곱해서 느리게 증가하도록 하였습니다. 당연히 값이 존재하므로 Dead ReLU Problem이 발생하지 않음을 이해할 수 있습니다.
-$$
-max(slope*x, x)
-$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA4OTQ2NjUsLTIxNDY4NTQ5NDMsLT
-E5OTk4MDc2NTQsLTE5NDkyNzc5NjcsLTgxOTIxMTI0NSwxODY1
-OTE1NDY2XX0=
+eyJoaXN0b3J5IjpbMzE0NTYzOTM5LC0yMTQ2ODU0OTQzLC0xOT
+k5ODA3NjU0LC0xOTQ5Mjc3OTY3LC04MTkyMTEyNDUsMTg2NTkx
+NTQ2Nl19
 -->
