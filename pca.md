@@ -5,7 +5,8 @@
 데이터들을 축을 따라 움직였을 때 그 변화가 큰 축들을 찾는 것을 주성분 분석이라고 합니다. 각 새로운 축을 주성분이라고 하며, 변화가 큰 것을 주요합니다.
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjQ5NjYwOCw3ODMyNzMyMDIsMTg4Nz
+eyJoaXN0b3J5IjpbLTcxOTI1NTkyMiw3ODMyNzMyMDIsMTg4Nz
 c3NTYyMF19
 -->
