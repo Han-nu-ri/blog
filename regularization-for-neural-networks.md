@@ -66,12 +66,12 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 ### 단점
 테스트 시 훈련 데이터의 평균과 표준편차를 활용하여 Normalization할 때에는, 데이터들이 i.i.d임을 가정한 것 입니다. 하지만 시간이 흘러 실제 application의  데이터 셋이 많이 변경된 경우 i.i.d 가정에 맞지 않게 됩니다. 하여 한번 더 normalization 해주는 개념이 'Batch Renormalization입니다.
 ### 구현
-실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다.
+실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDYwOTMwNywzODU4NTU2ODYsNjg2Mz
-g5MjU0LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMs
-NjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3Mz
-M2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
-
+eyJoaXN0b3J5IjpbLTU4MjgzMDMxNSwxNzQ0NjA5MzA3LDM4NT
+g1NTY4Niw2ODYzODkyNTQsNjQ4OTAxODA3LC02MDYyMjY0NTMs
+LTg5NjMwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MD
+UzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcs
+OTM4NDczMzA4XX0=
 -->
