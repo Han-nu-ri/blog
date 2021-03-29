@@ -64,10 +64,10 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 ### 장점
 딥네트워크를 훈련하기 쉬워지고
 ### 단점
-테스트 시 훈련 데이터의 평균과 표준편차를 활용하여 
+테스트 시 훈련 데이터의 평균과 표준편차를 활용하여 Normalization할 때에는, 데이터들이 i.i.d임을 가정한 것 입니다. 하지만 ㅁ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTMwMDU1MSwzODU4NTU2ODYsNjg2Mz
+eyJoaXN0b3J5IjpbLTM3NjYxNjkxNCwzODU4NTU2ODYsNjg2Mz
 g5MjU0LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMs
 NjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3Mz
 M2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
