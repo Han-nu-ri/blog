@@ -10,7 +10,7 @@ $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_2^2
 $$
 ### Lasso Regression
-계수의 제곱이 아니라 절대값으로 둘 수 있습니다.
+계수의 제곱이 아니라 절대값으로 둘 수 있습니다. 계수들이 sparse representation으로 되는 특징이 있습니다.
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
@@ -19,7 +19,7 @@ $$
 딥러닝은 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NTcwMjQ2LDEzNDk4MDUzNzMsMTExMD
-czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
-XX0=
+eyJoaXN0b3J5IjpbLTEzMDY1Njg4NjYsMTM0OTgwNTM3MywxMT
+EwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMz
+MDhdfQ==
 -->
