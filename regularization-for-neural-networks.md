@@ -28,10 +28,10 @@ layer 크기의 벡터를 랜덤함수로 채운 후에, drop out parameter 보�
 ### Stochastic Depth
 Dropout과 비슷하게, 몇 가지 layer의 집합을 skip합니다.
 ### Cutout
-
+Data augmentation과 비슷합니다. 이미지
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODIyODAwMSw2NjM5NDgxNjIsMTI5Nz
-I3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1
-LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbLTExMjc3NDgwMDUsNjYzOTQ4MTYyLDEyOT
+cyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIsMTE0OTUyMDU4
+NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
 -->
