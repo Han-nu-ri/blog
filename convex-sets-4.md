@@ -6,9 +6,9 @@
 $$
 V=\{v_1, v_2, v_3\}
 =\{
-\begin{pmatrix} 1 \\ 0 \end{pmatrix}, 
-\begin{pmatrix} 0 \\ 1 \end{pmatrix},
-\begin{pmatrix} 2\\ 2 \end{pmatrix}
+\begin{bmatrix} 1 \\ 0 \end{bmatrix}, 
+\begin{bmatrix} 0 \\ 1 \end{bmatrix},
+\begin{bmatrix} 2\\ 2 \end{bmatrix}
 \}
 $$
 위와 같은 집합 V에서, v3은 다른 두 벡터의 선형 결합으로 표현될 수 있습니다.
@@ -20,9 +20,9 @@ $$
 $$
 V=\{v_1, v_2, v_3\}
 =\{
-\begin{pmatrix} 1 \\ 0 \\ 0\end{pmatrix}, 
-\begin{pmatrix} 0 \\ 1 \\ 0\end{pmatrix},
-\begin{pmatrix} 0 \\ 0 \\ 1 \end{pmatrix}
+\begin{bmatrix} 1 \\ 0 \\ 0\end{bmatrix}, 
+\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},
+\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}
 \}
 $$
 위와 같은 집합 V에서, 다른 두 벡터의 선형 결합으로 하나의 벡터를 표현할 수 없습니다. 따라서 V는 선형 독립입니다.
@@ -58,6 +58,6 @@ $$
 집합 V의 점 (1/2, 1/2)은 남은 점들로 생성된 affine hull에 속합니다. 따라서 평면 종속(affine dependent)입니다.
 ![image](https://user-images.githubusercontent.com/11609881/111814599-0290cb80-891e-11eb-9a33-3e56f46cf894.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NDA5OTU2LDIyMDQyNjE0MSwxNTMxMj
-IwNzEzLC05NDY4NTc5MV19
+eyJoaXN0b3J5IjpbLTEyMjU1OTM3NDAsMzA2NDA5OTU2LDIyMD
+QyNjE0MSwxNTMxMjIwNzEzLC05NDY4NTc5MV19
 -->
