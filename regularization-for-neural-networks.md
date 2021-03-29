@@ -10,8 +10,8 @@ $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_2^2
 $$
 ### Lasso Regression
-
+계수의 제곱이 아니라 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjQyODg5MCwxMTEwNzMzNjYyLDExND
+eyJoaXN0b3J5IjpbLTUzMzk1Mzk4MywxMTEwNzMzNjYyLDExND
 k1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
