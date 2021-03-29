@@ -45,10 +45,11 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
 ### AdaGrad
 역사를 가지고, gradient가 컸던 방향이면 완만하게 가도록 하고 작았던 방향이면 더 가보도록 해주는 아이디어입니다.
+### Leaky AdaGrad
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIyMjg2NjEsLTYwNjIyNjQ1MywtOD
-k2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3
-MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mz
-g0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbMzgyMTY5OTA2LC02MDYyMjY0NTMsLTg5Nj
+MwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMs
+MTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4ND
+czMzA4XX0=
 -->
