@@ -38,9 +38,9 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 1. Jittering
 2. Local optimum
 3. Inaccurate Gradient Estimation
-데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다. 예를 들어 데이터 셋이 수백만개이면 batch size가 수 천개라도 
+데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다. 예를 들어 데이터 셋이 수백만개이면 batch size가 수천개라도 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY2NDg2OCwtODk2MzA2NzUzLDY2Mz
-k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
-LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDQ3MzA3MTIsLTg5NjMwNjc1Myw2Nj
+M5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2
+MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
