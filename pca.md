@@ -6,6 +6,8 @@
 이미지 출처: https://en.wikipedia.org/wiki/Principal_component_analysis
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyOTM4MDQyLC0xODk3NzQ2MTA4XX0=
+eyJoaXN0b3J5IjpbLTE3OTk2ODU1MjgsLTE4OTc3NDYxMDhdfQ
+==
 -->
