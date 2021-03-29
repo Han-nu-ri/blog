@@ -22,8 +22,9 @@ $$
 $$
 과 같습니다. 따라서 x의 절대값이 커지게 되면 미분이 0에 가까워지기 때문에 gradient가 vanishing하는 문제가 있습니다.
 
-d
+## Tanh
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI1NzY5MTMsLTE5NDkyNzc5NjcsLT
+eyJoaXN0b3J5IjpbLTE5OTk4MDc2NTQsLTE5NDkyNzc5NjcsLT
 gxOTIxMTI0NSwxODY1OTE1NDY2XX0=
 -->
