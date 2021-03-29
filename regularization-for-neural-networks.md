@@ -20,10 +20,10 @@ $$
 ### Weight Decay
 Ridge와 Lasso처럼 Weight의 2-norm과 1-norm을 목적 함수에 더해줍니다.
 ### Early Stopping
-EValidation set을 활용해서
+Validation set을 활용해서, validation loss가 커질 때 overffing 되고 있다고 판단하여 멈춥니다. 다만 기 주
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjE3Mjc5OSwxMzQ5ODA1MzczLDExMT
+eyJoaXN0b3J5IjpbLTc3MDk1OTQxNywxMzQ5ODA1MzczLDExMT
 A3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMw
 OF19
 -->
