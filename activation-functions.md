@@ -21,7 +21,6 @@ $$
 {\partial \sigma(x) \over \partial x} = \sigma(x) (1-\sigma x)
 $$
 과 같습니다. 따라서 x의 절대값이 커지게 되면 미분이 0에 가까워지기 때문에 gradient가 vanishing하는 문제가 있습니다.
-
 ## Tanh
 tanh는 어떨까요? zero-centered이고, 출력의 범위는 [-1, 1]입니다.
 ![image](https://user-images.githubusercontent.com/11609881/112780051-f83fa180-9082-11eb-8975-f9c17efd202d.png)
@@ -33,6 +32,6 @@ $$
 ## ReLU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDc0ODY3LC0xOTk5ODA3NjU0LC0xOT
-Q5Mjc3OTY3LC04MTkyMTEyNDUsMTg2NTkxNTQ2Nl19
+eyJoaXN0b3J5IjpbLTIxNDY4NTQ5NDMsLTE5OTk4MDc2NTQsLT
+E5NDkyNzc5NjcsLTgxOTIxMTI0NSwxODY1OTE1NDY2XX0=
 -->
