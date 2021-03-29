@@ -37,9 +37,10 @@ SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 
 SGD의 세 가지 문제점들은 아래와 같습니다.
 1. Jittering
 2. Local optimum
-
+3. Inaccurate Gradient Estimation
+데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzM1NjE0NCwtODk2MzA2NzUzLDY2Mz
+eyJoaXN0b3J5IjpbLTE5MDQxMTQxMSwtODk2MzA2NzUzLDY2Mz
 k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
 LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
