@@ -52,10 +52,10 @@ AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에
 Momentum과 AdaGrad를 적절히 합친 optimizer입니다.
 
 ### First vs. Second-order Optimization
-Second-order optimization을 하게 되면 횟수를 기준으로 더 빠른 convergence를 하게 됩니다.
+Second-order optimization을 하게 되면 횟수를 기준으로 더 빠른 convergence를 하게 됩니다. 그럼에도 Second-order를 쓰지 않는 이유는 Hessian size가 O(N^2)이고, 이를 Inverse하면 O(N^3)이 됩니다. ㄱ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI1MzYzMDQsNjQ4OTAxODA3LC02MD
-YyMjY0NTMsLTg5NjMwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3
-LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNj
-U4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbLTg5OTQwOTAzMCw2NDg5MDE4MDcsLTYwNj
+IyNjQ1MywtODk2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2Njcs
+MTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NT
+gyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
