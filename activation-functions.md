@@ -1,6 +1,7 @@
-# activation functions: sigmoid, tanh, ReLU
+# Activation functions: Sigmoid, Tanh, ReLU
 뉴럴 네트워크의 non-linearity 표현을 가능하게 해주는 activation function에 관한 포스트입니다.
+## Sigmoid Function
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzk4MjMxMF19
+eyJoaXN0b3J5IjpbNDg0OTAxNDcwXX0=
 -->
