@@ -51,8 +51,10 @@ AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에
 ### Adam
 Momentum과 AdaGrad를 적절히 합친 optimizer입니다.
 
+### First vs. Second-order Optimization
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTQ1NTQ1LC02MDYyMjY0NTMsLTg5Nj
+eyJoaXN0b3J5IjpbNjQ4OTAxODA3LC02MDYyMjY0NTMsLTg5Nj
 MwNjc1Myw2NjM5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMs
 MTExMDczMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4ND
 czMzA4XX0=
