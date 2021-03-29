@@ -8,10 +8,12 @@
 ![image](https://user-images.githubusercontent.com/11609881/112843195-4aadac00-90dd-11eb-8b6d-f81a1e87cbdf.png)
 이미지 출처: https://en.wikipedia.org/wiki/Principal_component_analysis
 
-
+PCA 방법
+1. 데이터를 Zero-centered로 이동합니다.
+2. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzUxMzA4OCwtMTc5OTY4NTUyOCwtMT
-g5Nzc0NjEwOF19
+eyJoaXN0b3J5IjpbLTEyNzk5ODUzNDgsLTE3OTk2ODU1MjgsLT
+E4OTc3NDYxMDhdfQ==
 -->
