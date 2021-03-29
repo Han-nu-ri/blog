@@ -7,12 +7,14 @@ Innovator들의 수요는 처음에 최고조로 시작하다가 점점 줄어�
 ![image](https://user-images.githubusercontent.com/11609881/111876772-a1cbc680-89e3-11eb-982f-f4776ab0c895.png)
 이런 수요 모델을 '제품을 사지 않은 사람이 t 시간에 제품을 살 확률'로 수식적으로 표현하면 아래와 같습니다.
 $$
-P(t)=p+{q \over m}D(t),\\
-P(t): \text{t시간에 제품을 살 확률} \\
-p: \text{innovation 계수} \\
-q: \text{imitation 계수} \\
-m: \text{market 크기} \\
-D(t): \text{t 시간 까지의 누적 수요}\\
+P(t)=p+{q \over m}D(t),
+P(t): \text{t시간에 제품을 살 확률} 
+$$
+$$
+p: \text{innovation 계수},
+q: \text{imitation 계수},
+m: \text{market 크기}
+D(t): \text{t 시간 까지의 누적 수요}
 $$
 
 제품이 처음 시장에 나올 때 그 제품을 살 확률은 어떻게 될까요? t=0이므로, 누적 수요가 없어서 D(0)=0이 됩니다. 따라서 P(0)=p가 되지요. 즉 p는 Innovator에 의한 초기 수요를 '확률'로 표현한 계수입니다. 시간이 지날수록, Innovator에 의해 Imitator들이 수요 욕구가 감염되기 시작합니다. 이것은 t 시간까지의 누적 수요에 비례하여 D(t)*q/m으로 표현됩니다.
@@ -29,8 +31,8 @@ $$
 입니다.
 P(B|A)는 t 시간에 구매한 사건이 주어졌을 때 t 시간 전에 구매하지 않을 확률이므로 당연히 1이 됩니다. P(A)는 t 시간에 구매할 확률이므로 d(t)/m이 됩니다. P(B)는 t 시간 전에 구매하지 않을 확률이므로, '1 - t 시간 전까지 구매할 확률'이므로 '1-D(t)/m'입니다. 따라서,
 $$
-P(A|B)={P(B|A)P(A) \over P(B)} \\
-={1 \times {d_t \over m} \over {1-{D(t) \over m}}} \\
+P(A|B)={P(B|A)P(A) \over P(B)}
+={1 \times {d_t \over m} \over {1-{D(t) \over m}}}
 = {d_t \over m-D(t)}
 $$
 입니다.
@@ -52,16 +54,18 @@ $$
 
 p:0.07, q: 0.31, m: 170000일 때, 누적 수요가 전체 market size의 90%가 되는 시점은 언제를 구해보죠.
 $$
-{D(t) \over m} = 0.9 \\
-={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} \\
-0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} \\
-e^{0.38t}= 10 + {9 \times 31 \over 7} \\
+{D(t) \over m} = 0.9 
+={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} 
+$$
+$$
+0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} 
+e^{0.38t}= 10 + {9 \times 31 \over 7} 
 e^{0.38t}= {70 + 9 \times 31 \over 7} \\
 e^{0.38t}= {349 \over 7} \\
 t = {ln({349 \over 7}) \over 0.38} = 10.28726782\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTc4NzM4NCw4Njc4NDMxNDAsODc3MT
-I1NzEyLC0xODQwOTc3OTMxLDE2ODk4MjEwNjMsLTE0MjIzMTQx
-OCwyMTIwNjM4NTUyXX0=
+eyJoaXN0b3J5IjpbMTQ1NjA1MzMwNCwxMzA1Nzg3Mzg0LDg2Nz
+g0MzE0MCw4NzcxMjU3MTIsLTE4NDA5Nzc5MzEsMTY4OTgyMTA2
+MywtMTQyMjMxNDE4LDIxMjA2Mzg1NTJdfQ==
 -->
