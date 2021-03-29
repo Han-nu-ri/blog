@@ -20,10 +20,10 @@ $$
 ### Weight Decay
 Ridge와 Lasso처럼 Weight의 2-norm과 1-norm을 목적 함수에 더해줍니다.
 ### Early Stopping
-
+EValidation set을 활용해서
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1NTczNDYsMTM0OTgwNTM3MywxMT
-EwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMz
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTkxNjE3Mjc5OSwxMzQ5ODA1MzczLDExMT
+A3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMw
+OF19
 -->
