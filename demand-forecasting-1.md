@@ -13,7 +13,7 @@ $$
 $$
 p: \text{innovation 계수},
 q: \text{imitation 계수},
-m: \text{market 크기}
+m: \text{market 크기}, 
 D(t): \text{t 시간 까지의 누적 수요}
 $$
 
@@ -39,14 +39,14 @@ $$
 
 위 식을 만족하는 closed-form의 표현은 아래와 같습니다. (증명은 생략합니다)
 $$
-D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}e^{-(p+q)t}}} \\
+D(t)=m{1-e^{-(p+q)t} \over {1+{q \over p}e^{-(p+q)t}}}, 
 d(t)={{mp(p+q)^2e^{-(p+q)t}} \over (p+qe^{-(p+q)t})^2}
 $$
 
 d(t)를 t에 대해서 미분하여 0인 지점을 확인하면 수요가 정점을 찍는 순간(t*)과 그때의 수요, 누적 수요를 알 수 있습니다.
 $$
-t^{\ast}={1 \over p+q}ln({q \over p}) \\
-d(t^{\ast})={m(p+q)^2 \over 4q} \\
+t^{\ast}={1 \over p+q}ln({q \over p}), 
+d(t^{\ast})={m(p+q)^2 \over 4q}, 
 D(t^{\ast})={m(q-p) \over 2q}
 $$
 
@@ -58,14 +58,16 @@ $$
 ={1-e^{-0.38t} \over 1+{0.31 \over 0.07}e^{-0.38t}} 
 $$
 $$
-0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} 
-e^{0.38t}= 10 + {9 \times 31 \over 7} 
-e^{0.38t}= {70 + 9 \times 31 \over 7} \\
-e^{0.38t}= {349 \over 7} \\
+0.1=(1+{0.9 \times 0.31 \over 0.07})e^{-0.38t} , 
+e^{0.38t}= 10 + {9 \times 31 \over 7}, 
+e^{0.38t}= {70 + 9 \times 31 \over 7}
+$$
+$$
+e^{0.38t}= {349 \over 7}, 
 t = {ln({349 \over 7}) \over 0.38} = 10.28726782\\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjA1MzMwNCwxMzA1Nzg3Mzg0LDg2Nz
+eyJoaXN0b3J5IjpbLTcwODIyNjUwMiwxMzA1Nzg3Mzg0LDg2Nz
 g0MzE0MCw4NzcxMjU3MTIsLTE4NDA5Nzc5MzEsMTY4OTgyMTA2
 MywtMTQyMjMxNDE4LDIxMjA2Mzg1NTJdfQ==
 -->
