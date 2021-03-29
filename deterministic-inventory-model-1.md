@@ -55,7 +55,7 @@ g(Q)={K \over T} + {hQ \over 2}
 $$
 Q에 대한 두 cost와 total cost를 그려보면, g(Q)를 최소화하는 Q*은, K/T와 hQ/2 두 비용이 만나는 지점임을 알 수 있습니다.
 $$
-{K\lambda \over Q^*} = {hQ^* \over 2} \\
+{K\lambda \over Q^*} = {hQ^* \over 2}, 
 Q^* = {\sqrt {2K\lambda \over h}}
 $$
 또한 g(Q*)는 아래와 같습니다.
@@ -84,12 +84,12 @@ $$
 Power-of-Two 정책을 따를 때의 최적의 비용과 따르지 않을 때의 최적의 비용은 최대 얼마나 차이가 날까요?
 먼저 Q에 대한 비용의 함수는 T로 표현할 수 있습니다.
 $$
-g(Q)={K\lambda \over Q}+{hQ \over 2} \\
+g(Q)={K\lambda \over Q}+{hQ \over 2}, 
 f(T)={K \over T}+{h \lambda T \over 2}
 $$
 Power-of-Two 정책을 따를 때 최적의 비용을 만드는 optimal k라고 하면 다음 두 부등식을 만족하게 됩니다.
 $$
-f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1) \\
+f(T_B2^k) \le f(T_B2^{k-1}) \cdots (1), 
 f(T_B2^k) \le f(T_B2^{k+1}) \cdots (2) \\
 $$
 (1) 부등식을 전개하면 아래 부등식을 얻을 수 있고,
@@ -106,23 +106,14 @@ $$
 = {3 \over 2 {\sqrt 2}} \approx 1.06.
 $$
 따라서 Power-of-Two 정책을 따르는 최적의 비용은 정책을 따르지 않는 최적의 비용보다 최대 6% 이상 커질 수 없습니다.
-## Introduction
-
-정확한 시간에 적절한 양의 제품을 공급하는 것은 쉽지 않습니다. 평창 올림픽 때 유형했던 하얀색 롱패딩을 기억하시나요? 그 인기가 엄청 나서, 제품을 만드는 공급 업체는 다음해에 많이 만들어두었습니다. 그런데 하필 다음해 겨울은 매우 따뜻해서, 아웃도어업계는 넘쳐나는 재고에 힘들어했었죠.  
-재고를 무조건 줄이는 것이 좋을까요? 요즘 수요 대비 공급이 현저히 부족하다고 이슈가 되는 차량 반도체를 생각해보죠. 이렇게 수요와 공급의 불균형이 언제 발생할 지 모르니, 일정량의 재고를 쌓는 것이 리스크를 피하는 길이겠죠.  
-이렇게 최적의 재고량을 논하는 모델을 Deterministic Inventory Model이라고 합니다.
-
-## Inventory Models
-
-재고의 종류는 무엇이 있을까요? 컴퓨터들, 제빵에 사용되는 생산품들을 떠올릴 수 있습니다. 각 제품들마다 재고에 들어갔다가 빠져나가는 기간(turn over)가 다르게 됩니다.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MzEwMzM2LC0zMzI4MjQzMDAsMTA1MD
-E2MDM2NiwtMzMyODI0MzAwLDExODcwNzg1MiwtMTA5MTIzMjU1
-Nyw3MDE5MjE0OTgsLTgyNTYyODgzNCw0NTkwNTgzMjIsODQzNz
-k0MzYxLDE4NDM0MjQzNSwxNTM5MzUwNjQxLDE0Mjg0NTkyMzgs
-LTIwNjE1MzA4OTksLTIwNzU3NzcyMzUsLTYwOTA1MDU2MSw5Nz
-c2MTE0MDMsMTI0MjEzMDgzOCwtODU3NzI5NTkxLC0xMTUwOTc1
-MzQxXX0=
+eyJoaXN0b3J5IjpbMTUzNDM1ODY5NiwtMzMyODI0MzAwLDEwNT
+AxNjAzNjYsLTMzMjgyNDMwMCwxMTg3MDc4NTIsLTEwOTEyMzI1
+NTcsNzAxOTIxNDk4LC04MjU2Mjg4MzQsNDU5MDU4MzIyLDg0Mz
+c5NDM2MSwxODQzNDI0MzUsMTUzOTM1MDY0MSwxNDI4NDU5MjM4
+LC0yMDYxNTMwODk5LC0yMDc1Nzc3MjM1LC02MDkwNTA1NjEsOT
+c3NjExNDAzLDEyNDIxMzA4MzgsLTg1NzcyOTU5MSwtMTE1MDk3
+NTM0MV19
 -->
