@@ -33,9 +33,11 @@ Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 �
 dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping은 잘 쓰면 좋습니다.
 
 # Optimization beyond SGD
-SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 
+SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 또한 saddle point의 gradient가 0인 경우 get stuck하기도 합니다.
+### SGD Problem 1: Jittering
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTE0Njk3MywtODk2MzA2NzUzLDY2Mz
+eyJoaXN0b3J5IjpbMTMxNDAyNDg1OSwtODk2MzA2NzUzLDY2Mz
 k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
 LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
