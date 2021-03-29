@@ -27,10 +27,11 @@ forward pass할 때 임의로 몇 뉴런들을 0으로 만듭니다. 얼마나 d
 layer 크기의 벡터를 랜덤함수로 채운 후에, drop out parameter 보다 작은 것들을 0으로 만들고 남은 값들을 drop out hyperparameter로 나눠서 scale을 맞춰줍니다.
 ### Stochastic Depth
 Dropout과 비슷하게, 몇 가지 layer의 집합을 skip합니다.
-### 
+### Cutout
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODQ2NTYzLDY2Mzk0ODE2MiwxMjk3Mj
-c2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYyLDExNDk1MjA1ODUs
-LTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTQ3ODIyODAwMSw2NjM5NDgxNjIsMTI5Nz
+I3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1
+LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
