@@ -34,9 +34,12 @@ ReLU(Rectified Linear Unit)은 max(0, x)과 같은 식으로 표현됩니다. + 
 ReLU에도 단점들이 존재합니다.
 1. 출력이 Zero-centered 되어 있지 않습니다.
 2. x=0 부분에서 미분 가능하지 않습니다.
-3. Dead ReLU Problem이 있습니다. ReLU의 입력(WX+b)으로 음수가 들어오게 되면, backpropagation시 음수인 곳에는 gradient가 흘러 들어가지 않습니다.
+3. Dead ReLU Problem이 있습니다.
+ReLU의 입력(WX+b)으로 음수가 들어오게 되면, backpropagation시 음수인 곳에는 gradient가 흘러 들어가지 않습니다. 따라서 업데이트가 되지 않는 문제가 있습니다.
+
+위 다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDY0NzcxLC0yMTQ2ODU0OTQzLC0xOT
-k5ODA3NjU0LC0xOTQ5Mjc3OTY3LC04MTkyMTEyNDUsMTg2NTkx
-NTQ2Nl19
+eyJoaXN0b3J5IjpbLTY5NTA5MzI0NywtMjE0Njg1NDk0MywtMT
+k5OTgwNzY1NCwtMTk0OTI3Nzk2NywtODE5MjExMjQ1LDE4NjU5
+MTU0NjZdfQ==
 -->
