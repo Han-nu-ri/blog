@@ -9,8 +9,9 @@ Linear Regression의 목적 함수에 계수의 제곱(Penalty term)을 더하�
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_2^2
 $$
+### Lasso Regression
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTI5MjQsMTExMDczMzY2MiwxMTQ5NT
-IwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbLTYxNjQyODg5MCwxMTEwNzMzNjYyLDExND
+k1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
