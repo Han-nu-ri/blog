@@ -13,7 +13,7 @@ zero-centered 되어 있지 않다면 어떤 문제가 발생할까요? 우리�
 $$
 {\partial \sigma(W^TX+b) \over \partial W_i}=\sigma(W^TX+b)(1-\sigma(W^TX+b)X_i
 $$
-를 구해야 합니다. 식을 살펴보면 3가지 요소가 모두 양수임을 알 수 있습니다.
+를 구해야 합니다. 식을 살펴보면 3가지 요소가 모두 양수임을 알 수 있습니다. 따라서 gradient는 계속 한 방향으로만 업데이트가 됨을 알 수 있습니다.
 3. exp 연산이 computationally expensive하다.
 4. gradient가 vanishing한다.
 sigmoid function을 미분하게 되면
@@ -24,6 +24,6 @@ $$
 
 d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzQ4NjI2NiwtMTk0OTI3Nzk2NywtOD
-E5MjExMjQ1LDE4NjU5MTU0NjZdfQ==
+eyJoaXN0b3J5IjpbMzAxNDUzMzcsLTE5NDkyNzc5NjcsLTgxOT
+IxMTI0NSwxODY1OTE1NDY2XX0=
 -->
