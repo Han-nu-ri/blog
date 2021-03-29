@@ -16,10 +16,10 @@ $$
 $$
 
 ## Regularization for Deep Neural Networks
-
+딥러닝은 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNTEwNjAsMTM0OTgwNTM3MywxMTEwNz
-MzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhd
-fQ==
+eyJoaXN0b3J5IjpbNDQ1NTcwMjQ2LDEzNDk4MDUzNzMsMTExMD
+czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
+XX0=
 -->
