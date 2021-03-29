@@ -30,9 +30,9 @@ tanh(x)=2\sigma(2x)-1
 $$
 따라서 sigmoid function에 있는 gradient vanishing 문제가 여전히 있습니다.
 ## ReLU
-ReLU(Rectified Linear Unit)은 max(0, x)과 같은 식으로 표현됩니다. + g
+ReLU(Rectified Linear Unit)은 max(0, x)과 같은 식으로 표현됩니다. + region에서 값이 saturate하지 않고, computationally efficient하며 sigmoid/tanh 보다 더 빨리 수렴하는 장점을 가지고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjY2MDUzOCwtMjE0Njg1NDk0MywtMT
-k5OTgwNzY1NCwtMTk0OTI3Nzk2NywtODE5MjExMjQ1LDE4NjU5
-MTU0NjZdfQ==
+eyJoaXN0b3J5IjpbLTE1OTcxMjMzNTgsLTIxNDY4NTQ5NDMsLT
+E5OTk4MDc2NTQsLTE5NDkyNzc5NjcsLTgxOTIxMTI0NSwxODY1
+OTE1NDY2XX0=
 -->
