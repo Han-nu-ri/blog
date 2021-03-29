@@ -18,10 +18,12 @@ $$
 ## Regularization for Deep Neural Networks
 딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
 ### Weight Decay
+Ridge와 Lasso처럼 Weight의 2-norm과 1-norm을 목적 함수에 더해줍니다.
+### Early Stopping
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDcxMTM1LDEzNDk4MDUzNzMsMTExMD
-czMzY2MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDE1NTczNDYsMTM0OTgwNTM3MywxMT
+EwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMz
+MDhdfQ==
 -->
