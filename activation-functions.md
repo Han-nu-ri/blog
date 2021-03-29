@@ -30,8 +30,9 @@ $$
 tanh(x)=2\sigma(2x)-1
 $$
 따라서 sigmoid function에 있는 gradient vanishing 문제가 여전히 있습니다.
+## ReLU
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDgxNzQ3LC0xOTk5ODA3NjU0LC0xOT
+eyJoaXN0b3J5IjpbMTIxMDc0ODY3LC0xOTk5ODA3NjU0LC0xOT
 Q5Mjc3OTY3LC04MTkyMTEyNDUsMTg2NTkxNTQ2Nl19
 -->
