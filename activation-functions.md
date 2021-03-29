@@ -6,7 +6,7 @@ $$
 \sigma(x)={1 \over 1+e^{-x}}
 $$
 ![image](https://user-images.githubusercontent.com/11609881/112778853-6c2c7a80-9080-11eb-9af8-44d9b93ce0a6.png)
-Sigmoid 
+Sigmoid function은 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMxMDkzNDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNjgzNTA5MzVdfQ==
 -->
