@@ -59,9 +59,11 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 
 # Batch Normalization
 데이터를 평균으로 빼고 표준편차로 나눠주는 Normalization을 Batch별로 하는 것을 Batch Normalization이라고 합니다.
-## 
+### 테스트
+테스트 시에는 훈련 데이터의 평균과 표준편차를 활용하여 Normalization해줍니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODc1NzIzNCwzODU4NTU2ODYsNjg2Mz
+eyJoaXN0b3J5IjpbMTYwMzkwMTkwOSwzODU4NTU2ODYsNjg2Mz
 g5MjU0LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMs
 NjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3Mz
 M2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
