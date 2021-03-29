@@ -29,10 +29,11 @@ layer 크기의 벡터를 랜덤함수로 채운 후에, drop out parameter 보�
 Dropout과 비슷하게, 몇 가지 layer의 집합을 skip합니다.
 ### Cutout
 Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 임의로 골라서 0으로 만드는 것 입니다. 전처리가 들어가기 때문에 큰 데이터 셋에 대해서는 잘 쓰이지 않습니다.
-###
+### Regularization in Practice
+dropout/batch normalization은 대부분 좋습니다. 더
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NzQzMDgwLC04OTYzMDY3NTMsNjYzOT
-Q4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIs
-MTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbLTkxMjk2NDQ4MSwtODk2MzA2NzUzLDY2Mz
+k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
+LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
