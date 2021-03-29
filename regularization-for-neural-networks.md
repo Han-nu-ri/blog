@@ -32,7 +32,8 @@ Data augmentation과 비슷합니다. 훈련 이미지 안의 특정 영역을 �
 ### Regularization in Practice
 dropout/batch normalization은 대부분 좋습니다. data augmentation과 early stopping은 잘 쓰면 좋습니다.
 
-# Optimization beyond SGD
+# Optimizer for Deep Neural Networks
+## Optimization beyond SGD
 SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 또한 gradient가 0인 경우 get stuck하기도 합니다.
 SGD의 세 가지 문제점들은 아래와 같습니다.
 1. Jittering
@@ -48,10 +49,10 @@ SGD의 세 가지 문제점들은 아래와 같습니다.
 ### RMSProp: Leaky AdaGrad
 AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에 learning rate이 빨리 떨어집니다.
 ### Adam
-
+Momentum과 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYzMzc3OTksLTYwNjIyNjQ1MywtOD
-k2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3
-MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mz
-g0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTU2NjIxNTgxOSwtNjA2MjI2NDUzLC04OT
+YzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1Mzcz
+LDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzOD
+Q3MzMwOF19
 -->
