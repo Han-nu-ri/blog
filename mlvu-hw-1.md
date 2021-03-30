@@ -85,12 +85,13 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 ![image](https://user-images.githubusercontent.com/11609881/112932876-ab7aca00-9159-11eb-8d34-193318f5c22c.png)
 **(f) Set aside some training examples as validation set, and tune the hyperparameters (e.g., learning rate, hidden dimensions, number of epochs, batch size) to optimize the validation accuracy. Report the best combination of hyperparameters you found, along with your final test accuracy.**
 ![image](https://user-images.githubusercontent.com/11609881/112933196-555a5680-915a-11eb-9d96-3f77af24a520.png)
+
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMDc3OSwyMTI4NDg5Mjc0LDE4NjA4OD
-UwNTAsLTQ4Njg4MDg0NCwxNzAzODQ4NjMyLDgyMjM5Njc3Miwt
-MTg0Nzc5NjI0LC0xNTk5MzI4OTAxLDU5MjU4MjQ5MCwtMTEwOD
-g0NDM0OCwtMTYzNTIxMDc2NCwtNzc5NDkzMjk5LC00NjU4MTgz
-OTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQxMDQ0LD
-E0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
+eyJoaXN0b3J5IjpbLTIyODE5MTgxMSw3NDIwNzc5LDIxMjg0OD
+kyNzQsMTg2MDg4NTA1MCwtNDg2ODgwODQ0LDE3MDM4NDg2MzIs
+ODIyMzk2NzcyLC0xODQ3Nzk2MjQsLTE1OTkzMjg5MDEsNTkyNT
+gyNDkwLC0xMTA4ODQ0MzQ4LC0xNjM1MjEwNzY0LC03Nzk0OTMy
+OTksLTQ2NTgxODM5NCwxNTk1MzY2NTExLC04MzQ5Mzg2OTIsLT
+IwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMTgyMzE3NDUwNl19
 -->
