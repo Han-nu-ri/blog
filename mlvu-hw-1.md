@@ -26,15 +26,15 @@ $$
 {\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i} \\
 =-N (\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
 $$
-(c) Derive the partial derivative of log likelihood with regards to beta.
+\(c\) Derive the partial derivative of log likelihood with regards to beta.
 $$
 {\partial l(\theta) \over \partial \beta}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)} \\
 =-N (\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
 (d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.
-참고: https://www.youtube.com/watch?v=tUXfxaB3EHs
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTY3NTYyNywxNTk1MzY2NTExLC04Mz
+eyJoaXN0b3J5IjpbLTQ2NTgxODM5NCwxNTk1MzY2NTExLC04Mz
 Q5Mzg2OTIsLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMTgyMzE3
 NDUwNl19
 -->
