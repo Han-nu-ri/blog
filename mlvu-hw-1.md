@@ -64,10 +64,12 @@ Source code:
 ![image](https://user-images.githubusercontent.com/11609881/112927069-605bb980-914f-11eb-9e8b-a104ae0b6dd1.png)
 **\(c\) Experiment with multiple values for k and report what you observe.**
 ![image](https://user-images.githubusercontent.com/11609881/112928249-3acfaf80-9151-11eb-8c75-1b5e86c73ce5.png)
+![image](https://user-images.githubusercontent.com/11609881/112928294-5044d980-9151-11eb-921a-830454d10b95.png)
+
 **(d) Repeat (b) and \(c\) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTgzMTc1MSwtMTEwODg0NDM0OCwtMT
-YzNTIxMDc2NCwtNzc5NDkzMjk5LC00NjU4MTgzOTQsMTU5NTM2
-NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQxMDQ0LDE0ODM5NTA0OT
-UsLTE4MjMxNzQ1MDZdfQ==
+eyJoaXN0b3J5IjpbNTkyNTgyNDkwLC0xMTA4ODQ0MzQ4LC0xNj
+M1MjEwNzY0LC03Nzk0OTMyOTksLTQ2NTgxODM5NCwxNTk1MzY2
+NTExLC04MzQ5Mzg2OTIsLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NS
+wtMTgyMzE3NDUwNl19
 -->
