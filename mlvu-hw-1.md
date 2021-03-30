@@ -63,11 +63,11 @@ Source code:
 **(b) Implement the inference(self, X, k) method. Specifically, predict a label for each test example in X using k nearest neighbors based on Euclidean (L2) distance.** 
 ![image](https://user-images.githubusercontent.com/11609881/112927069-605bb980-914f-11eb-9e8b-a104ae0b6dd1.png)
 **\(c\) Experiment with multiple values for k and report what you observe.**
-
+![image](https://user-images.githubusercontent.com/11609881/112928249-3acfaf80-9151-11eb-8c75-1b5e86c73ce5.png)
 **(d) Repeat (b) and \(c\) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg4NDQzNDgsLTE2MzUyMTA3NjQsLT
-c3OTQ5MzI5OSwtNDY1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkz
-ODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NT
-A2XX0=
+eyJoaXN0b3J5IjpbLTM1OTgzMTc1MSwtMTEwODg0NDM0OCwtMT
+YzNTIxMDc2NCwtNzc5NDkzMjk5LC00NjU4MTgzOTQsMTU5NTM2
+NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQxMDQ0LDE0ODM5NTA0OT
+UsLTE4MjMxNzQ1MDZdfQ==
 -->
