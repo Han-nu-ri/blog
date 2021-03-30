@@ -57,8 +57,10 @@ Histograms:
 Source code:
 ![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 
+**2. K-nearest Neighbor Classifiers**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU3MDUyNjgsLTc3OTQ5MzI5OSwtND
-Y1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0
-MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NTA2XX0=
+eyJoaXN0b3J5IjpbLTc1NDY4NzE0MCwtNzc5NDkzMjk5LC00Nj
+U4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQx
+MDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
