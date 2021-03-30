@@ -34,15 +34,17 @@ $$
 **(d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.**
 Function explanation
 1. calculate_log_likelihood_of_beta_distribution(alpha, beta, samples)
-Calcu
+Calculate log likelihood of beta distribution with alpha, beta and samples.
 $$
 -Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + (\beta-1)\sum_{i=1}^N {log(1-x_i)}
 $$
+2. generate_samples_from_beta_distribution(initial_alpha, initial_beta, sample_count)
+Generate samples from beta distribution with alpla, beta
 
 ![image](https://user-images.githubusercontent.com/11609881/112924128-8c287080-914a-11eb-9e7d-809ecfd64e11.png)
 ![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTgyMzIyNiwtNDY1ODE4Mzk0LDE1OT
-UzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUw
-NDk1LC0xODIzMTc0NTA2XX0=
+eyJoaXN0b3J5IjpbMTYyNTQyNDQ2LC00NjU4MTgzOTQsMTU5NT
+M2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQxMDQ0LDE0ODM5NTA0
+OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
