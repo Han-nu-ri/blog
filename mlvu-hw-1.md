@@ -64,9 +64,9 @@ Source code:
 
 **\(c\) Experiment with multiple values for k and report what you observe.**
 
-(d) Repeat (b) and (c) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.
+**(d) Repeat (b) and \(c\) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQzMTQzNiwtNzc5NDkzMjk5LC00Nj
-U4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQx
-MDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzUyMTA3NjQsLTc3OTQ5MzI5OSwtND
+Y1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0
+MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NTA2XX0=
 -->
