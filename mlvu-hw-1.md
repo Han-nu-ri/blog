@@ -90,9 +90,9 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 I ran the model by combining the model hyper parameters into 20 as above table. As a result, it was confirmed that the 17th model has the best accuracy of the validation set and its's final test loss = 0.07604792833443366, acc = 0.9801.
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 ![image](https://user-images.githubusercontent.com/11609881/112934658-31e4db00-915d-11eb-993f-d1db27dc8316.png)
-I ran the model with Re by combining the model hyper parameters into 20 as above table. As a result, it was confirmed that the 17th model has the best accuracy of the validation set and its's final test loss = 0.07604792833443366, acc = 0.9801.
+I ran the model with ReLU activation by combining the model hyper parameters into 20 as above table. As a result, it was confirmed that the 16th model has the best accuracy of the validation set and its's final test loss = 0.09150032574877622, acc = 0.9813
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTAyNzk4MCwtNzc3MDkyOTkyLC03MT
+eyJoaXN0b3J5IjpbMTY3NDI4NjMxMCwtNzc3MDkyOTkyLC03MT
 I0MTg3NCw3NDIwNzc5LDIxMjg0ODkyNzQsMTg2MDg4NTA1MCwt
 NDg2ODgwODQ0LDE3MDM4NDg2MzIsODIyMzk2NzcyLC0xODQ3Nz
 k2MjQsLTE1OTkzMjg5MDEsNTkyNTgyNDkwLC0xMTA4ODQ0MzQ4
