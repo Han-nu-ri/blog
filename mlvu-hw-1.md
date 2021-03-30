@@ -49,12 +49,15 @@ $$
 $$
 
 ![image](https://user-images.githubusercontent.com/11609881/112924128-8c287080-914a-11eb-9e7d-809ecfd64e11.png)
-![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
+
 **(e) Generate 500 samples from a Beta distribution with parameters α = 2, β = 3, and estimate α and β using your gradient descent implementation in (d). Repeat this experiment 100 times and include histograms of the resulting estimates for the two parameters (two histograms total, each based on 100
 estimates) in report. Submit the source code including (d) and (e) named h1.gd.py.**
-a
+
+Source code
+![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTQ5MzI5OSwtNDY1ODE4Mzk0LDE1OT
-UzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUw
-NDk1LC0xODIzMTc0NTA2XX0=
+eyJoaXN0b3J5IjpbMTc1ODEzMzQ3MCwtNzc5NDkzMjk5LC00Nj
+U4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQx
+MDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
