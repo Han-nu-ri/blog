@@ -86,14 +86,15 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 **(f) Set aside some training examples as validation set, and tune the hyperparameters (e.g., learning rate, hidden dimensions, number of epochs, batch size) to optimize the validation accuracy. Report the best combination of hyperparameters you found, along with your final test accuracy.**
 ![image](https://user-images.githubusercontent.com/11609881/112933196-555a5680-915a-11eb-9d96-3f77af24a520.png)
 ![image](https://user-images.githubusercontent.com/11609881/112934313-758b1500-915c-11eb-89fd-d26a3576b841.png)
-
-Final test loss = 0.07604792833443366, acc = 0.9801
+  
+I ran the model by combining the model hyper parameters into 20 as above table. As a result, it was confirmed that the 17th model has the best accuracy of the validation set and its's final test loss = 0.07604792833443366, acc = 0.9801.
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjQxODc0LDc0MjA3NzksMjEyODQ4OT
-I3NCwxODYwODg1MDUwLC00ODY4ODA4NDQsMTcwMzg0ODYzMiw4
-MjIzOTY3NzIsLTE4NDc3OTYyNCwtMTU5OTMyODkwMSw1OTI1OD
-I0OTAsLTExMDg4NDQzNDgsLTE2MzUyMTA3NjQsLTc3OTQ5MzI5
-OSwtNDY1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkzODY5MiwtMj
-AwODQ0MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NTA2XX0=
+eyJoaXN0b3J5IjpbLTc3NzA5Mjk5MiwtNzEyNDE4NzQsNzQyMD
+c3OSwyMTI4NDg5Mjc0LDE4NjA4ODUwNTAsLTQ4Njg4MDg0NCwx
+NzAzODQ4NjMyLDgyMjM5Njc3MiwtMTg0Nzc5NjI0LC0xNTk5Mz
+I4OTAxLDU5MjU4MjQ5MCwtMTEwODg0NDM0OCwtMTYzNTIxMDc2
+NCwtNzc5NDkzMjk5LC00NjU4MTgzOTQsMTU5NTM2NjUxMSwtOD
+M0OTM4NjkyLC0yMDA4NDQxMDQ0LDE0ODM5NTA0OTUsLTE4MjMx
+NzQ1MDZdfQ==
 -->
