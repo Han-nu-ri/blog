@@ -68,12 +68,14 @@ Source code:
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 3, the accuracy is the highest at 89.50%.
 **(d) Repeat (b) and \(c\) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.**
 ![image](https://user-images.githubusercontent.com/11609881/112930951-2f32b780-9156-11eb-89b0-942ec69adeb5.png)
+![image](https://user-images.githubusercontent.com/11609881/112931183-99e3f300-9156-11eb-9c8c-81359bb73609.png)
 ![image](https://user-images.githubusercontent.com/11609881/112931048-57221b00-9156-11eb-9036-e6f0669cf027.png)
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 1, the accuracy is the highest at 93.50%.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMzk2NzcyLC0xODQ3Nzk2MjQsLTE1OT
-kzMjg5MDEsNTkyNTgyNDkwLC0xMTA4ODQ0MzQ4LC0xNjM1MjEw
-NzY0LC03Nzk0OTMyOTksLTQ2NTgxODM5NCwxNTk1MzY2NTExLC
-04MzQ5Mzg2OTIsLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMTgy
-MzE3NDUwNl19
+eyJoaXN0b3J5IjpbMTcwMzg0ODYzMiw4MjIzOTY3NzIsLTE4ND
+c3OTYyNCwtMTU5OTMyODkwMSw1OTI1ODI0OTAsLTExMDg4NDQz
+NDgsLTE2MzUyMTA3NjQsLTc3OTQ5MzI5OSwtNDY1ODE4Mzk0LD
+E1OTUzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgz
+OTUwNDk1LC0xODIzMTc0NTA2XX0=
 -->
