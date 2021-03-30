@@ -33,27 +33,25 @@ $$
 $$
 **(d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.**
 Function explanation
-1. calculate_log_likelihood_of_beta_distribution(alpha, beta, samples)
+1\) calculate_log_likelihood_of_beta_distribution(alpha, beta, samples)
 Calculate log likelihood of beta distribution with alpha, beta and samples.
 $$
 -Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + (\beta-1)\sum_{i=1}^N {log(1-x_i)}
 $$
-2. generate_samples_from_beta_distribution(initial_alpha, initial_beta, sample_count)
+2\) generate_samples_from_beta_distribution(initial_alpha, initial_beta, sample_count)
 Extracts beta distribution samples as much as sample count with alpha and beta.
-3. update_parameters_in_beta_distribution_using_gradient_descent(alpha, beta, samples)
+3\) update_parameters_in_beta_distribution_using_gradient_descent(alpha, beta, samples)
 Update gradients in the direction of maximizing log likelihood with alpha, beta and samples.
 $$
-{\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i} \\
-=-N (\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
-$$
-$$
+{\partial l(\theta) \over \partial \alpha}
+=-N (\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i} \\
 {\partial l(\theta) \over \partial \beta} =-N (\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
 
 ![image](https://user-images.githubusercontent.com/11609881/112924128-8c287080-914a-11eb-9e7d-809ecfd64e11.png)
 ![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTk3ODIzLC00NjU4MTgzOTQsMTU5NT
+eyJoaXN0b3J5IjpbODEyODU0MjgxLC00NjU4MTgzOTQsMTU5NT
 M2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQxMDQ0LDE0ODM5NTA0
 OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
