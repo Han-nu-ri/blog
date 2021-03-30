@@ -74,7 +74,7 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 1, the accuracy is the highest at 93.50%.
 **3. Two-layer Neural Networks**
 **(a) Implement the init (self, ...) method. This function needs to do two things: 1) initializing model parameters, and 2) storing hyperparameters. You may add additional arguments of this method.**
-
+![image](https://user-images.githubusercontent.com/11609881/112932280-981b2f00-9158-11eb-9561-404d5bdcaf22.png)
 **(b) Implement the feed forward(self, X) method, which performs the forward pass and output a dictionary containing all intermediate outputs that are necessary for backpropagation.**
 
 **\(c\) Implement the back propagate(self, X, Y, ff dict) method, which performs the backpropagation steps and output a dictionary of gradients for all model parameters. Here, ff dict is the output from the forward step.**
@@ -87,9 +87,10 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Njg4MDg0NCwxNzAzODQ4NjMyLDgyMj
-M5Njc3MiwtMTg0Nzc5NjI0LC0xNTk5MzI4OTAxLDU5MjU4MjQ5
-MCwtMTEwODg0NDM0OCwtMTYzNTIxMDc2NCwtNzc5NDkzMjk5LC
-00NjU4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4
-NDQxMDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
+eyJoaXN0b3J5IjpbMzc0MDY3ODgyLC00ODY4ODA4NDQsMTcwMz
+g0ODYzMiw4MjIzOTY3NzIsLTE4NDc3OTYyNCwtMTU5OTMyODkw
+MSw1OTI1ODI0OTAsLTExMDg4NDQzNDgsLTE2MzUyMTA3NjQsLT
+c3OTQ5MzI5OSwtNDY1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkz
+ODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NT
+A2XX0=
 -->
