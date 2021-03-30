@@ -1,5 +1,5 @@
 **1.Gradient Descent**
-(a) Write the log-likelihood of N i.i.d samples from Beta distribution.
+**(a) Write the log-likelihood of N i.i.d samples from Beta distribution.**
 The beta distribution is parameterized in terms of two positive parameters, alpha, beta:
 $$
 p_\theta(x)={1 \over B(\alpha, \beta)} x^{\alpha - 1}(1-x)^{\beta -1}, \\
@@ -21,22 +21,25 @@ log({1 \over B(\alpha, \beta)} x_N^{\alpha -1}(1-x_N)^{\beta -1}) \\
 = -Nlog({B(\alpha, \beta)})+ \sum_{i=1}^N {log(x_i^{\alpha-1})} + \sum_{i=1}^N {log(1-x_i)^{\beta-1}} \\
 = -Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + (\beta-1)\sum_{i=1}^N {log(1-x_i)}
 $$
-(b) Derive the partial derivative of log likelihood with regards to alpha.
+**(b) Derive the partial derivative of log likelihood with regards to alpha.**
 $$
 {\partial l(\theta) \over \partial \alpha}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i} \\
 =-N (\psi(\alpha)-\psi(\alpha + \beta))+\sum_{i=1}^N {log x_i}
 $$
-\(c\) Derive the partial derivative of log likelihood with regards to beta.
+**\(c\) Derive the partial derivative of log likelihood with regards to beta.**
 $$
 {\partial l(\theta) \over \partial \beta}={-N \over B(\alpha, \beta)}B(\alpha, \beta)(\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)} \\
 =-N (\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
-(d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.
+**(d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.**
 calculate_log_likelihood_of_beta_distribution(alpha, beta, samples)
+$$
+-Nlog({B(\alpha, \beta)})+ (\alpha-1)\sum_{i=1}^N {log x_i} + (\beta-1)\sum_{i=1}^N {log(1-x_i)}
+$$
 ![image](https://user-images.githubusercontent.com/11609881/112924128-8c287080-914a-11eb-9e7d-809ecfd64e11.png)
 ![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTcxNTE2NCwtNDY1ODE4Mzk0LDE1OT
+eyJoaXN0b3J5IjpbLTUzMzE2NTY5OCwtNDY1ODE4Mzk0LDE1OT
 UzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUw
 NDk1LC0xODIzMTc0NTA2XX0=
 -->
