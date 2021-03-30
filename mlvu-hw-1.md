@@ -32,9 +32,11 @@ $$
 =-N (\psi(\beta)-\psi(\alpha + \beta))+\sum_{i=1}^N {log (1-x_i)}
 $$
 (d) Implement a gradient descent procedure for maximizing the likelihood. Submit the source code.
-
+calculate_log_likelihood_of_beta_distribution(alpha, beta, samples)
+![image](https://user-images.githubusercontent.com/11609881/112924128-8c287080-914a-11eb-9e7d-809ecfd64e11.png)
+![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTgxODM5NCwxNTk1MzY2NTExLC04Mz
-Q5Mzg2OTIsLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMTgyMzE3
-NDUwNl19
+eyJoaXN0b3J5IjpbMTM3NTcxNTE2NCwtNDY1ODE4Mzk0LDE1OT
+UzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUw
+NDk1LC0xODIzMTc0NTA2XX0=
 -->
