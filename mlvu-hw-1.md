@@ -63,6 +63,7 @@ Source code:
 **(b) Implement the inference(self, X, k) method. Specifically, predict a label for each test example in X using k nearest neighbors based on Euclidean (L2) distance.** 
 ![image](https://user-images.githubusercontent.com/11609881/112927069-605bb980-914f-11eb-9e8b-a104ae0b6dd1.png)
 **\(c\) Experiment with multiple values for k and report what you observe.**
+
 ![image](https://user-images.githubusercontent.com/11609881/112928249-3acfaf80-9151-11eb-8c75-1b5e86c73ce5.png)
 ![image](https://user-images.githubusercontent.com/11609881/112928294-5044d980-9151-11eb-921a-830454d10b95.png)
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 3, the accuracy is the highest at 89.50%.
@@ -71,11 +72,18 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 ![image](https://user-images.githubusercontent.com/11609881/112931183-99e3f300-9156-11eb-9c8c-81359bb73609.png)
 ![image](https://user-images.githubusercontent.com/11609881/112931048-57221b00-9156-11eb-9036-e6f0669cf027.png)
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 1, the accuracy is the highest at 93.50%.
-
+**3. Two-layer Neural Networks**
+**(a) Implement the init (self, ...) method. This function needs to do two things: 1) initializing model parameters, and 2) storing hyperparameters. You may add additional arguments of this method.**
+**(b) Implement the feed forward(self, X) method, which performs the forward pass and output a dictionary containing all intermediate outputs that are necessary for backpropagation.**
+**(c) Implement the back propagate(self, X, Y, ff dict) method, which performs the backpropagation steps and output a dictionary of gradients for all model parameters. Here, ff dict is the output from the forward step.**
+**(d) Implement the train(self, X, Y) method, which performs forward pass, backpropagation, and gradient descent with mini-batches.**
+**(e) Implement the evaluate(self, X, Y) method, which takes a test set and returns the classification accuracy.**
+**(f) Set aside some training examples as validation set, and tune the hyperparameters (e.g., learning rate, hidden dimensions, number of epochs, batch size) to optimize the validation accuracy. Report the best combination of hyperparameters you found, along with your final test accuracy.**
+**(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzg0ODYzMiw4MjIzOTY3NzIsLTE4ND
-c3OTYyNCwtMTU5OTMyODkwMSw1OTI1ODI0OTAsLTExMDg4NDQz
-NDgsLTE2MzUyMTA3NjQsLTc3OTQ5MzI5OSwtNDY1ODE4Mzk0LD
-E1OTUzNjY1MTEsLTgzNDkzODY5MiwtMjAwODQ0MTA0NCwxNDgz
-OTUwNDk1LC0xODIzMTc0NTA2XX0=
+eyJoaXN0b3J5IjpbMTI5NjgxMTcwMCwxNzAzODQ4NjMyLDgyMj
+M5Njc3MiwtMTg0Nzc5NjI0LC0xNTk5MzI4OTAxLDU5MjU4MjQ5
+MCwtMTEwODg0NDM0OCwtMTYzNTIxMDc2NCwtNzc5NDkzMjk5LC
+00NjU4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4
+NDQxMDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
