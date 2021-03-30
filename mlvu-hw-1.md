@@ -74,14 +74,20 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 I measured the accuracy by increasing k from 1 to 20. As a result, it was confirmed that when k is 1, the accuracy is the highest at 93.50%.
 **3. Two-layer Neural Networks**
 **(a) Implement the init (self, ...) method. This function needs to do two things: 1) initializing model parameters, and 2) storing hyperparameters. You may add additional arguments of this method.**
+
 **(b) Implement the feed forward(self, X) method, which performs the forward pass and output a dictionary containing all intermediate outputs that are necessary for backpropagation.**
-**(c) Implement the back propagate(self, X, Y, ff dict) method, which performs the backpropagation steps and output a dictionary of gradients for all model parameters. Here, ff dict is the output from the forward step.**
+
+**\(c\) Implement the back propagate(self, X, Y, ff dict) method, which performs the backpropagation steps and output a dictionary of gradients for all model parameters. Here, ff dict is the output from the forward step.**
+
 **(d) Implement the train(self, X, Y) method, which performs forward pass, backpropagation, and gradient descent with mini-batches.**
+
 **(e) Implement the evaluate(self, X, Y) method, which takes a test set and returns the classification accuracy.**
+
 **(f) Set aside some training examples as validation set, and tune the hyperparameters (e.g., learning rate, hidden dimensions, number of epochs, batch size) to optimize the validation accuracy. Report the best combination of hyperparameters you found, along with your final test accuracy.**
+
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjgxMTcwMCwxNzAzODQ4NjMyLDgyMj
+eyJoaXN0b3J5IjpbLTQ4Njg4MDg0NCwxNzAzODQ4NjMyLDgyMj
 M5Njc3MiwtMTg0Nzc5NjI0LC0xNTk5MzI4OTAxLDU5MjU4MjQ5
 MCwtMTEwODg0NDM0OCwtMTYzNTIxMDc2NCwtNzc5NDkzMjk5LC
 00NjU4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4
