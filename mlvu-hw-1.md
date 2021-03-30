@@ -58,9 +58,14 @@ Source code:
 ![image](https://user-images.githubusercontent.com/11609881/112924160-96e30580-914a-11eb-9a6c-c4cd0f24f420.png)
 
 **2. K-nearest Neighbor Classifiers**
+(a) Implement the train(self, X, y) method.
+(b) Implement the inference(self, X, k) method. Specifically, predict a label for each test example in X using k nearest neighbors based on Euclidean (L2) distance. 
 
+**\(c\) Experiment with multiple values for k and report what you observe.**
+
+(d) Repeat (b) and (c) with the dot-product similarity when you compute the k nearest neighbors, and compare the result with the L2 distance.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDY4NzE0MCwtNzc5NDkzMjk5LC00Nj
+eyJoaXN0b3J5IjpbMTYxODMwMjU5OCwtNzc5NDkzMjk5LC00Nj
 U4MTgzOTQsMTU5NTM2NjUxMSwtODM0OTM4NjkyLC0yMDA4NDQx
 MDQ0LDE0ODM5NTA0OTUsLTE4MjMxNzQ1MDZdfQ==
 -->
