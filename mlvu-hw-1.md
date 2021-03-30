@@ -82,12 +82,12 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 **(d) Implement the train(self, X, Y) method, which performs forward pass, backpropagation, and gradient descent with mini-batches.**
 ![image](https://user-images.githubusercontent.com/11609881/112932801-8be3a180-9159-11eb-8547-5e3f519fa15f.png)
 **(e) Implement the evaluate(self, X, Y) method, which takes a test set and returns the classification accuracy.**
-
+![image](https://user-images.githubusercontent.com/11609881/112932876-ab7aca00-9159-11eb-8d34-193318f5c22c.png)
 **(f) Set aside some training examples as validation set, and tune the hyperparameters (e.g., learning rate, hidden dimensions, number of epochs, batch size) to optimize the validation accuracy. Report the best combination of hyperparameters you found, along with your final test accuracy.**
 
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzEwNjAzNiwxODYwODg1MDUwLC00OD
+eyJoaXN0b3J5IjpbMjEyODQ4OTI3NCwxODYwODg1MDUwLC00OD
 Y4ODA4NDQsMTcwMzg0ODYzMiw4MjIzOTY3NzIsLTE4NDc3OTYy
 NCwtMTU5OTMyODkwMSw1OTI1ODI0OTAsLTExMDg4NDQzNDgsLT
 E2MzUyMTA3NjQsLTc3OTQ5MzI5OSwtNDY1ODE4Mzk0LDE1OTUz
