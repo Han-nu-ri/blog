@@ -76,7 +76,7 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 **(a) Implement the init (self, ...) method. This function needs to do two things: 1) initializing model parameters, and 2) storing hyperparameters. You may add additional arguments of this method.**
 ![image](https://user-images.githubusercontent.com/11609881/112932280-981b2f00-9158-11eb-9561-404d5bdcaf22.png)
 **(b) Implement the feed forward(self, X) method, which performs the forward pass and output a dictionary containing all intermediate outputs that are necessary for backpropagation.**
-
+![image](https://user-images.githubusercontent.com/11609881/112932400-ca2c9100-9158-11eb-8417-6556c216ca67.png)
 **\(c\) Implement the back propagate(self, X, Y, ff dict) method, which performs the backpropagation steps and output a dictionary of gradients for all model parameters. Here, ff dict is the output from the forward step.**
 
 **(d) Implement the train(self, X, Y) method, which performs forward pass, backpropagation, and gradient descent with mini-batches.**
@@ -87,10 +87,10 @@ I measured the accuracy by increasing k from 1 to 20. As a result, it was confir
 
 **(g) (Bonus) Change the activation function to ReLU (or other ones we learned in the class), and repeat (f). Compare the final performance and training speed against softmax.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MDY3ODgyLC00ODY4ODA4NDQsMTcwMz
-g0ODYzMiw4MjIzOTY3NzIsLTE4NDc3OTYyNCwtMTU5OTMyODkw
-MSw1OTI1ODI0OTAsLTExMDg4NDQzNDgsLTE2MzUyMTA3NjQsLT
-c3OTQ5MzI5OSwtNDY1ODE4Mzk0LDE1OTUzNjY1MTEsLTgzNDkz
-ODY5MiwtMjAwODQ0MTA0NCwxNDgzOTUwNDk1LC0xODIzMTc0NT
-A2XX0=
+eyJoaXN0b3J5IjpbMTg2MDg4NTA1MCwtNDg2ODgwODQ0LDE3MD
+M4NDg2MzIsODIyMzk2NzcyLC0xODQ3Nzk2MjQsLTE1OTkzMjg5
+MDEsNTkyNTgyNDkwLC0xMTA4ODQ0MzQ4LC0xNjM1MjEwNzY0LC
+03Nzk0OTMyOTksLTQ2NTgxODM5NCwxNTk1MzY2NTExLC04MzQ5
+Mzg2OTIsLTIwMDg0NDEwNDQsMTQ4Mzk1MDQ5NSwtMTgyMzE3ND
+UwNl19
 -->
