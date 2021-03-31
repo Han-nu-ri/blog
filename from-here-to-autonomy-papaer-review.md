@@ -27,8 +27,10 @@ Figure 1은 HASO 모델 다이어그램입니다.
 1. 자율화 신뢰성이 올라가게 되면 사람의 Attention 할당이 줄어들게 됩니다.
 2. 자율화에 Interface는 Situation Awareness에 영향을 줍니다.
 3. 자율화와 교류하는 틀, 체계 (Automation Interaction Paradigm)는 SA, 자율화 관리와 Interaction 능력에 영향을 줍니다.
+
+Automation Interface는 SA에 영향을 주므로 효과적인 Interface가 중요한데요, 본 논문에서는 Operator의 이해를 증가 시킬 수 있는 가이드라인들을 제공합니다. 시스템 투명
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc0OTA4NzMsNDYxNzgzODQ4LDEwNT
-ExNjE5ODIsNTkzMjczODY4LC0xOTcxMzQ0MDg0LDEyOTUxOTAz
-OTVdfQ==
+eyJoaXN0b3J5IjpbNTc1NDA5OTAwLC0xMTc3NDkwODczLDQ2MT
+c4Mzg0OCwxMDUxMTYxOTgyLDU5MzI3Mzg2OCwtMTk3MTM0NDA4
+NCwxMjk1MTkwMzk1XX0=
 -->
