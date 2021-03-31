@@ -14,8 +14,10 @@ OOTL은 Out-Of-The-Loop의 약자로, 사람이 어떤 환경이 변하거나 �
 > Person1: Hey i didn't know steve irwin died
 Person2: dude you're ootl
 
-사람은 자율 시스템을 관리할 때, Situation Awareness(SA)가 약하기 때문에 문제를 효과적으로 해결하기 위한 간섭을 하기 까지 시간이 오래 걸립니다.
+사람은 자율 시스템을 관리할 때, Situation Awareness(SA)가 약하기 때문에 문제를 효과적으로 해결하기 위한 간섭을 하기 까지 시간이 오래 걸립니다. 왜 자율 시스템 관리할 때 Low SA가 될까요? 본 논문에서는 세가지 이유를 말합니다.
+1. 낮은 수준의 투명성
+많은 자율 시스템은 어떤 일이 발생하고 있는지 필요한 정보들이나, 피드백들을 젝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY2Mjk5MjIsLTE5NzEzNDQwODQsMT
-I5NTE5MDM5NV19
+eyJoaXN0b3J5IjpbNzI5NTM4MDU3LC0xOTcxMzQ0MDg0LDEyOT
+UxOTAzOTVdfQ==
 -->
