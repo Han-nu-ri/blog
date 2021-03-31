@@ -26,8 +26,8 @@ Person2: dude you're ootl
 Figure 1은 HASO 모델 다이어그램입니다.
 1. 자율화 신뢰성이 올라가게 되면 사람의 Attention 할당이 줄어들게 됩니다.
 2. 자율화에 Interface는 Situation Awareness에 영향을 줍니다.
-3. 
+3. 자율화와 교류하는 패러다임
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAyNTMxMjgsMTA1MTE2MTk4Miw1OT
-MyNzM4NjgsLTE5NzEzNDQwODQsMTI5NTE5MDM5NV19
+eyJoaXN0b3J5IjpbNTc1ODY5OTcyLDEwNTExNjE5ODIsNTkzMj
+czODY4LC0xOTcxMzQ0MDg0LDEyOTUxOTAzOTVdfQ==
 -->
