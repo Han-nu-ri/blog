@@ -19,9 +19,9 @@ Person2: dude you're ootl
 많은 자율 시스템은 어떤 일이 발생하고 있는지 필요한 정보들이나, 피드백들을 제공하고 있지 않습니다.
 2. 자율시스템에 대한 믿음
 자율 시스템에 대한 믿음이 커서, 자율 시스템은 모니터링하는데 노력을 덜 들이게 됩니다.
-3. 자율시스템의 간섭
+3. ㅇ
 수동적인 인
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwODIxNzk3LC0xOTcxMzQ0MDg0LDEyOT
-UxOTAzOTVdfQ==
+eyJoaXN0b3J5IjpbLTk4Mzc0NTAxMywtMTk3MTM0NDA4NCwxMj
+k1MTkwMzk1XX0=
 -->
