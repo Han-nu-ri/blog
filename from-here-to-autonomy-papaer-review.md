@@ -22,12 +22,13 @@ Person2: dude you're ootl
 3. 수동적인 인지적 관여
 인지적 관여는 학습자가 자신의 지식과 기술을 이해하고 사용하고 창조하려는 전략적인 노력입니다.  자율 시스템의 특성 상, 인지적 관여를 작게 하게 됩니다. 그래서 중요한 정보를 이해하고 활용하는데 적극적인 인지 관여를 하지 않게 됩니다.
 ## HASO (Human-Autonomy System Oversight)
-![image](https://user-images.githubusercontent.com/11609881/113097492-ef410280-9231-11eb-9d55-4f615e7c5466.png)
+![image](https://user-images.githubusercontent.com/11609881/113098195-24018980-9233-11eb-9467-d573ad36c5b2.png)
 Figure 1은 HASO 모델 다이어그램입니다.
 1. 자율화 신뢰성이 올라가게 되면 사람의 Attention 할당이 줄어들게 됩니다.
 2. 자율화에 Interface는 Situation Awareness에 영향을 줍니다.
 3. 자율화와 교류하는 틀, 체계 (Automation Interaction Paradigm)는 SA, 자율화 관리와 Interaction 능력에 영향을 줍니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNzgzODQ4LDEwNTExNjE5ODIsNTkzMj
-czODY4LC0xOTcxMzQ0MDg0LDEyOTUxOTAzOTVdfQ==
+eyJoaXN0b3J5IjpbLTExNzc0OTA4NzMsNDYxNzgzODQ4LDEwNT
+ExNjE5ODIsNTkzMjczODY4LC0xOTcxMzQ0MDg0LDEyOTUxOTAz
+OTVdfQ==
 -->
