@@ -24,8 +24,10 @@ Person2: dude you're ootl
 ## HASO (Human-Autonomy System Oversight)
 ![image](https://user-images.githubusercontent.com/11609881/113097492-ef410280-9231-11eb-9d55-4f615e7c5466.png)
 Figure 1은 HASO 모델 다이어그램입니다.
-1. 자동화 신뢰성이 올라가게 되면 Atten
+1. 자율화 신뢰성이 올라가게 되면 사람의 Attention 할당이 줄어들게 됩니다.
+2. 자율화에 Interface는 Situation Awareness에 영향을 줍니다.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc3MzczNjMsMTA1MTE2MTk4Miw1OT
+eyJoaXN0b3J5IjpbLTIwODAyNTMxMjgsMTA1MTE2MTk4Miw1OT
 MyNzM4NjgsLTE5NzEzNDQwODQsMTI5NTE5MDM5NV19
 -->
