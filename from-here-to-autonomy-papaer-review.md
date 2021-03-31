@@ -10,9 +10,12 @@ Endsley MR. From Here to Autonomy: Lessons Learned From Human–Automation Resea
 3. 자율 그리고 부분자율 시스템을 디자인하는 가이드라인을 제공합니다.
 
 ## OOTL of Situation Awareness
-OOTL은 Out-Of-The-Loop의 약자로, 
+OOTL은 Out-Of-The-Loop의 약자로, 사람이 어떤 환경이 변하거나 새로운 정보가 생겼을 때 일상적으로 쓰는 용어입니다. 현재 어떤 일이 발생하고 있는지 모르는 경우 OOTL이라고 합니다.
+> Person1: Hey i didn't know steve irwin died
+Person2: dude you're ootl
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk3OTIyODgsLTE5NzEzNDQwODQsMT
+eyJoaXN0b3J5IjpbLTE5MjA4MDQwNDQsLTE5NzEzNDQwODQsMT
 I5NTE5MDM5NV19
 -->
