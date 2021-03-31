@@ -20,8 +20,8 @@ Person2: dude you're ootl
 2. 자율시스템에 대한 믿음
 자율 시스템에 대한 믿음이 커서, 자율 시스템은 모니터링하는데 노력을 덜 들이게 됩니다.
 3. 수동적인 인지적 관여
-인지적 관여는 학습자가 자신의 지식과 기술을 이해하고 사용하고 창조하려는 전략적인 노력입니다.  자율 시스템의 특성 상, 인지적 관여를 작게 하게 됩니다.
+인지적 관여는 학습자가 자신의 지식과 기술을 이해하고 사용하고 창조하려는 전략적인 노력입니다.  자율 시스템의 특성 상, 인지적 관여를 작게 하게 됩니다. 그래서 중요한 정보를 이해하고 활용하는데 적극적인 인지 관여를 하지 않게 됩니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NTkyMjEsLTE5NzEzNDQwODQsMTI5NT
-E5MDM5NV19
+eyJoaXN0b3J5IjpbNTkzMjczODY4LC0xOTcxMzQ0MDg0LDEyOT
+UxOTAzOTVdfQ==
 -->
