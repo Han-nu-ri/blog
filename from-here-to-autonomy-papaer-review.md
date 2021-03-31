@@ -14,8 +14,8 @@ OOTL은 Out-Of-The-Loop의 약자로, 사람이 어떤 환경이 변하거나 �
 > Person1: Hey i didn't know steve irwin died
 Person2: dude you're ootl
 
-
+사람은 자율 시스템을 관리할 때, Situation Awareness(SA)가 약하기 때문에 문제를 효과적으로 해결하기 위한 간섭을 하기 까지 시간이 오래 걸립니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA4MDQwNDQsLTE5NzEzNDQwODQsMT
+eyJoaXN0b3J5IjpbLTExMTY2Mjk5MjIsLTE5NzEzNDQwODQsMT
 I5NTE5MDM5NV19
 -->
