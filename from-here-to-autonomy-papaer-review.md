@@ -36,9 +36,9 @@ Automation Interface는 SA에 영향을 주므로 효과적인 Interface가 중�
 ### Learning system consistency
 operator들 간 자율 시스템에 대한 이해가 차이가 있을 수 있기 때문에 이에 따른 혼란이 야기될 수 있습니다. 또한 자율 시스템은 시간이 흐를수록 새로운 것을 배우는데, 이것들을 operator들에게 전달할 수 있는 방법을 개발해야 합니다.
 ### Transparency of Learning Systems
-
+자율 시스템이 Deep Learning과 같은 모델로 무언가를 배울 때, 모델의 특성 상 operator들이 어떻게 배운 것인지 투명하지가 않습니다. 그렇기 때문에operator들이 자율 시스템의 이해력과 예지력을 높이기 위해 투명한 Interface를 ㄷ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU0NzMyMCwtMTE3NzQ5MDg3Myw0Nj
-E3ODM4NDgsMTA1MTE2MTk4Miw1OTMyNzM4NjgsLTE5NzEzNDQw
-ODQsMTI5NTE5MDM5NV19
+eyJoaXN0b3J5IjpbMTY1ODU3NTY0LC0xMTc3NDkwODczLDQ2MT
+c4Mzg0OCwxMDUxMTYxOTgyLDU5MzI3Mzg2OCwtMTk3MTM0NDA4
+NCwxMjk1MTkwMzk1XX0=
 -->
