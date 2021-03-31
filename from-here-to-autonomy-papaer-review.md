@@ -10,6 +10,8 @@ Endsley MR. From Here to Autonomy: Lessons Learned From Human–Automation Resea
 3. 자율 그리고 부분자율 시스템을 디자인하는 가이드라인을 제공합니다.
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEzNDQwODQsMTI5NTE5MDM5NV19
+eyJoaXN0b3J5IjpbMTY1MjQ5ODUyMiwtMTk3MTM0NDA4NCwxMj
+k1MTkwMzk1XX0=
 -->
