@@ -31,9 +31,10 @@ Figure 1은 HASO 모델 다이어그램입니다.
 Automation Interface는 SA에 영향을 주므로 효과적인 Interface가 중요한데요, 본 논문에서는 Operator의 이해를 증가 시킬 수 있는 가이드라인들을 제공합니다. 이 가이드라인들의 전반적인 목적은 시스템 투명성과 이해력, 그리고 예지력을 높이기 위함에 있습니다.
 
 ## Toward fully autonomous systems: research needs
-자율화의 능력이 증가함에 따라, 사람의 간섭의 빈도가 줄어들 확률이 있
+자율화의 능력이 증가함에 따라, 사람의 간섭의 빈도가 줄어들 가능성이 있습니다. 하지만 OOTL과 같은 문제를 해결하기 위해서, 자율화 시스템은 사람과 자율 시스템 간 효과적인 Interface가 필요합니다.
+또한 Operator들 간 자율 시스템에 대한 이해가 차이가 있ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjM3NzA0OSwtMTE3NzQ5MDg3Myw0Nj
+eyJoaXN0b3J5IjpbLTk4MjY2OTgwNiwtMTE3NzQ5MDg3Myw0Nj
 E3ODM4NDgsMTA1MTE2MTk4Miw1OTMyNzM4NjgsLTE5NzEzNDQw
 ODQsMTI5NTE5MDM5NV19
 -->
