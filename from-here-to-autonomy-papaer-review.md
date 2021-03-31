@@ -6,7 +6,8 @@ Endsley MR. From Here to Autonomy: Lessons Learned From Human–Automation Resea
 
 본 논문에서는 아래 내용을 다룹니다.
 1. HASO(Human-Autonomy System Oversight)라는 모델을 통해, 자율 시스템의 성격과 인간의 인지 기능, 그리고 성공적인 자율 시스템 관리를 위한 능력 간의 관계를 묘사합니다.
-2. HASO 모델은 LOA, AA, GOC를 포함합
+2. HASO 모델은 자동화 레벨(Level Of Automation, LOA), AA, 컨트GOC를 포함합니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzY5OTA5XX0=
+eyJoaXN0b3J5IjpbMTI5NTE5MDM5NV19
 -->
