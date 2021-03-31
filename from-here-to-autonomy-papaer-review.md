@@ -9,9 +9,10 @@ Endsley MR. From Here to Autonomy: Lessons Learned From Human–Automation Resea
 2. HASO 모델은 자율화 레벨(Level Of Automation, LOA), Adaptive Automation (AA), 컨트롤의 단위 (Granularity Of Control, GOC)를 포함합니다.
 3. 자율 그리고 부분자율 시스템을 디자인하는 가이드라인을 제공합니다.
 
-
+## OOTL of Situation Awareness
+OOTL은 Out-Of-The-Loop의 약자로, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjQ5ODUyMiwtMTk3MTM0NDA4NCwxMj
-k1MTkwMzk1XX0=
+eyJoaXN0b3J5IjpbLTE5Njk3OTIyODgsLTE5NzEzNDQwODQsMT
+I5NTE5MDM5NV19
 -->
