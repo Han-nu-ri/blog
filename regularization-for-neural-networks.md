@@ -12,7 +12,7 @@ $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_2^2
 $$
 ### Lasso Regression
-계수의 제곱이 아니라 절대값으로 둘 수 있습니다. 계수들이 sparse representation으로 되는 특징이 있습니다.
+계수의 제곱이 아니라 절대값으로 둘 수 있습니다. 
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
@@ -87,9 +87,9 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTMxNDY4MSwtMTQ0MTU0NTgzNSwtNT
-gyODMwMzE1LDE3NDQ2MDkzMDcsMzg1ODU1Njg2LDY4NjM4OTI1
-NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mz
-k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
-LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbOTIyOTk2MzUsLTE0NDE1NDU4MzUsLTU4Mj
+gzMDMxNSwxNzQ0NjA5MzA3LDM4NTg1NTY4Niw2ODYzODkyNTQs
+NjQ4OTAxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2NjM5ND
+gxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2Miwx
+MTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
