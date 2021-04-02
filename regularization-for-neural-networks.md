@@ -31,6 +31,7 @@ $$
 $$
 이를 그림으로 표현하게 되면 아래와 같습니다. 빨간색 선이 움직이면서 목적 함수를 최소화 되는 지점을 찾아야 하는데, 그 지점이 L-1 norm은 사각형의 코너에 L-2 norm은 원의 중간에 위치하게 될 가능성이 높아 보입니다.
 ![image](https://user-images.githubusercontent.com/11609881/113402180-944d0e00-93df-11eb-8788-d0541d6cb45d.png)
+출처: https://en.wikipedia.org/wiki/Lasso_(statistics)
 따라서 **L-1 norm을 쓰게 되면 계수들이 sparse representation**으로 되는 특징이 있습니다.
 
 ## Regularization for Deep Neural Networks
@@ -87,10 +88,10 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTczOTY3MTcsLTY0MTI4MDk0MSwtMT
-Q0MTU0NTgzNSwtNTgyODMwMzE1LDE3NDQ2MDkzMDcsMzg1ODU1
-Njg2LDY4NjM4OTI1NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtOD
-k2MzA2NzUzLDY2Mzk0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3
-MywxMTEwNzMzNjYyLDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mz
-g0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTIyOTcwNTU1MSwtNjQxMjgwOTQxLC0xND
+QxNTQ1ODM1LC01ODI4MzAzMTUsMTc0NDYwOTMwNywzODU4NTU2
+ODYsNjg2Mzg5MjU0LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OT
+YzMDY3NTMsNjYzOTQ4MTYyLDEyOTcyNzY2NywxMzQ5ODA1Mzcz
+LDExMTA3MzM2NjIsMTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzOD
+Q3MzMwOF19
 -->
