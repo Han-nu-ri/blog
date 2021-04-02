@@ -1,11 +1,11 @@
 
-Yoshua  Bengio eural Probabilistic Language Model
+Yoshua Bengio 등, 2003년 The Journal of Machine Learning Research에서 발표한 A Neural Probabilistic Language Model 논문을 읽고 남기고 싶은 부분을 정리한 글 입니다.
 
-Abstract
+# Abstract
 
 statistical language model의 목적은 언어의 단어들의 연속에 대한 결합 확률 함수를 학습하는 것입니다. 이것은 curse of dimensionality 때문에 어렵습니다. 이를 해결하기 위한 전통적인 방법은 n-gram입니다. 본 논문에서는 n-gram 대신 semantically 유사한 문장들을 알 수 있는 distributed representation을 제안합니다. model은 단어의 distributed representation을 배우는 것과 더불어, 단어들의 시퀀스에 대한 확률 함수를 배웁니다.
 
-Introduction
+# Introduction
 
 statistical model of language은 이 전 단어들이 주어질 때 다음 단어가 발생할 조건부 확률로 표현됩니다.
 ![image](https://user-images.githubusercontent.com/11609881/113379600-e4fb4180-93b4-11eb-8349-3127a7e5be21.png)
@@ -21,7 +21,7 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 2. 문장의 단어들의 feature vector들의 결합 확률 함수로 단어의 시퀀스를 표현합니다.
 3. feature vector와 확률 함수의 파라미터들을 동시에 학습합니다.
 
-Architecture
+# Architecture
 Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 모델의 목적은 t부터 t-n+1까지의 단어들을 입력으로 넣었을 때 t번째 단어가 나올 조건부 확률이 높게 나오도록 만드는 것 입니다.
 ![image](https://user-images.githubusercontent.com/11609881/113380955-a1a2d200-93b8-11eb-88b2-85f0a6e1ea25.png)
 본 논문의 모델에서는 위 함수를 C와 g 두 부분으로 분리합니다:
@@ -41,7 +41,7 @@ parameter b, W, U, d 그리고 H를 활용하여 다음과 같이 표현될 수 
 ![image](https://user-images.githubusercontent.com/11609881/113382249-03b10680-93bc-11eb-9530-8e11274a3f99.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjI1MTQzLC0xNzgwNTk0MjU1LDg0Mj
-MxMDIwOCwyMDU2NDY1MzQyLC0yMjg1NTAyNjYsLTEwMDQ3OTg5
-NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbLTE0Mjc5ODE3ODEsLTE3ODA1OTQyNTUsOD
+QyMzEwMjA4LDIwNTY0NjUzNDIsLTIyODU1MDI2NiwtMTAwNDc5
+ODk2LC0xMTUyMDM0MzU5XX0=
 -->
