@@ -21,7 +21,7 @@ The Architecture
 1. ReLU
 2. GPU 병렬 처리 
 3. Local Response Normalization
-Generalization을 위한 테크닉입니다. 특정 
+Generalization을 위한 테크닉입니다. ReLU를 지난 각 점에 이 점과 주변 점들의 제곱
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0MTQ5NTYwXX0=
+eyJoaXN0b3J5IjpbNDUyMzM5MTBdfQ==
 -->
