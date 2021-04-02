@@ -21,8 +21,9 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 Architecture
 Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 모델의 목적은 t부터 t-n+1까지의 단어들을 입력으로 넣었을 때 t번째 단어가 나올 조건부 확률이 높게 나오도록 만드는 것 입니다.
 ![image](https://user-images.githubusercontent.com/11609881/113380955-a1a2d200-93b8-11eb-88b2-85f0a6e1ea25.png)
-
+본 논문의 모델에서는 위 함수를 두 부분으로 분리합니다:
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3Mjc3ODkyLC0yMjg1NTAyNjYsLTEwMD
+eyJoaXN0b3J5IjpbNDMyMjM1NzY4LC0yMjg1NTAyNjYsLTEwMD
 Q3OTg5NiwtMTE1MjAzNDM1OV19
 -->
