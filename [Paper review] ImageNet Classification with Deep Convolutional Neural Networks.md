@@ -27,8 +27,11 @@ Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 �
 전통적으로 Pooling layer들은 Pooling할 때 overlap 되지 않게 하는데요. 본 논문에서는 Pooling 시 Stride 보다 Pooling 영역을 크게 설정하여 overlap pooling을 하였습니다.
 
 Reducing Overfitting
-Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였씁니다.
-1. Data
+Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습니다.
+
+1. Data Augmentation
+
+2. Dropout
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTg1NjQ0MiwxNzYzMDI4NDEyXX0=
+eyJoaXN0b3J5IjpbODQ4MTk4NTA5LDE3NjMwMjg0MTJdfQ==
 -->
