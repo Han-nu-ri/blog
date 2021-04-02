@@ -1,3 +1,6 @@
+ImageNet Classification with Deep Convolutional Neural Networks
+
+# Abstract
 Deep convolutional neural network로 ImageNet 컨테스트에서 좋은 성적을 거둠. 이전 SOTA보다 더 좋다.
 구조는 5개의 Convolutional layer로 구성되어 있고, 60백만개의 파라미터와 65만개의 뉴런들이 있음. max-polling layer들도 사용하였고, 3개의 FC layer들과 출력단에 softmax.
 Dropout 사용.
@@ -37,5 +40,6 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgxMjg0NjQsMTc2MzAyODQxMl19
+eyJoaXN0b3J5IjpbLTE2NTg0NDI5NDgsLTIwMjgxMjg0NjQsMT
+c2MzAyODQxMl19
 -->
