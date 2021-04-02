@@ -21,7 +21,7 @@ The Architecture
 1. ReLU
 2. GPU 병렬 처리 
 3. Local Response Normalization
-ReLU은 그 특성 상 Saturation이 되지 않아 Input Normalization이 필요하지 않습니다. 하지만 
+Generalization을 위한 테크닉입니다. 특정 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY4MzY1NV19
+eyJoaXN0b3J5IjpbODY0MTQ5NTYwXX0=
 -->
