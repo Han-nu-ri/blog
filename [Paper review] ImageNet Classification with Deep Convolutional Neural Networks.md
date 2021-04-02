@@ -14,7 +14,8 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 4. Overfitting을 방지하기 위해 dropout 등 효과적인 테크닉들을 사용하였습니다.
 
 The Architecture
-
+![image](https://user-images.githubusercontent.com/11609881/113373871-c68e4980-93a6-11eb-9152-7cb5984df86d.png)
+본 논문의 네트워크 구조는 Figure 1과 같습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk2MTgyNjRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY5MTc5NjFdfQ==
 -->
