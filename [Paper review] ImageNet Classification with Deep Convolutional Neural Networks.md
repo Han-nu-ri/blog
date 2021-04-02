@@ -13,11 +13,15 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 3. Training 시간을 줄이고 성능을 높이기 위해 새로운 feature들을 사용하였습니다.
 4. Overfitting을 방지하기 위해 dropout 등 효과적인 테크닉들을 사용하였습니다.
 
+
 The Architecture
 ![image](https://user-images.githubusercontent.com/11609881/113373871-c68e4980-93a6-11eb-9152-7cb5984df86d.png)
 본 논문의 네트워크 구조는 Figure 1과 같습니다. 5개의 Convolution layer와 3개의 FC layer로 구성되어 있습니다. 이 네트워크의 특징들은 아래와 같습니다.
-1) ReLU
-2) GPU 병렬 처리 
+
+1. ReLU
+2. GPU 병렬 처리 
+3. Local Response Normalization
+ReLU은 그 특성 상
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTcxNzI0Nl19
+eyJoaXN0b3J5IjpbLTEwODA4NDg2MzVdfQ==
 -->
