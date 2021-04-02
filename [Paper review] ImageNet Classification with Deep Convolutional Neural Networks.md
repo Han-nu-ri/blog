@@ -22,8 +22,8 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 
 1. ReLU
 2. GPU 병렬 처리 
-3. Local Response Normalization
-Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 다른 커널들의 값들을 활용합니다.
+3. Local Response Normalization (LRN)
+Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 다른 커널들의 값들을 활용하여 normalize합니다. VGG에서 거의 
 ![image](https://user-images.githubusercontent.com/11609881/113378006-dc087100-93b0-11eb-861b-3d058a0aaa69.png)
 4. Overlapping Pooling
 전통적으로 Pooling layer들은 Pooling할 때 overlap 되지 않게 하는데요. 본 논문에서는 Pooling 시 Stride 보다 Pooling 영역을 크게 설정하여 overlap pooling을 하였습니다.
@@ -39,6 +39,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 # Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc4MDk3MzMsMjA3NjY1MjI3NCwtMT
-IxMjU5NjcyOCwtMjAyODEyODQ2NCwxNzYzMDI4NDEyXX0=
+eyJoaXN0b3J5IjpbLTE0Mzk4MDIyMDksLTE3MTc4MDk3MzMsMj
+A3NjY1MjI3NCwtMTIxMjU5NjcyOCwtMjAyODEyODQ2NCwxNzYz
+MDI4NDEyXX0=
 -->
