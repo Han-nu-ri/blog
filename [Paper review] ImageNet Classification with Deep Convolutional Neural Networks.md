@@ -24,7 +24,7 @@ The Architecture
 Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 다른 커널들의 값들을 활용합니다.
 ![image](https://user-images.githubusercontent.com/11609881/113378006-dc087100-93b0-11eb-861b-3d058a0aaa69.png)
 4. Overlapping Pooling
-Po
+전통적으로 Pooling layer들은 Pooling할 때 overlap 되지 않게 하는데요. 본 논문에서는 Pooling 시 Stride 보다 Pooling 영역을 크게 설정하여 overlap pooling을 하였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU4NTUyMDQsMTc2MzAyODQxMl19
+eyJoaXN0b3J5IjpbLTEzNDU2NzM2NSwxNzYzMDI4NDEyXX0=
 -->
