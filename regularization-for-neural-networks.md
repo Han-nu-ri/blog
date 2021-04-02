@@ -1,9 +1,11 @@
 # Regularization for neural networks
-Regularization은 머신러닝에서 굉장히 중요한 주제입니다. 먼저 간단히 선형 회귀에서 활용되는 Regularization 기법에 대해서, 그리고 Neural Network에서 사용되는 기법들에 대해서 적어보려고 합니다. 서울대학교 이준석 교수님의 강읠
-우리가 어떤 데이터에 대하여 모델을 fitting 시키는데, general한 trend에 fitting 시킬수록 좋습니다. Overfitting은 학습 데이터의 노이즈가 있을 때, 이 노이즈까지 fitting하는 것을 말합니다. 모델이 불필요하게 복잡하다면 Overfitting의 증거일 수 있습니다.
+Regularization은 머신러닝에서 굉장히 중요한 주제입니다. 먼저 간단히 선형 회귀에서 활용되는 Regularization 기법에 대해서, 그리고 Neural Network에서 사용되는 기법들에 대해서 적어보려고 합니다. 서울대학교 이준석 교수님의 '시각적 이해를 위한 기계학습' 와 위키피디아를 참고했음을 밝힙니다.
+
+우리가 어떤 데이터에 대하여 모델을 fitting 시키는데, general한 trend에 fitting 시킬수록 좋습니다. Overfitting은 학습 데이터의 노이즈가 있을 때, 이 노이즈까지 fitting하는 것을 말합니다. 만약 모델이 불필요하게 복잡하다면 Overfitting의 증거일 수 있습니다.
 
 이것을 방지하기 위해 도입하는 개념이 Regularization입니다. 보통 목적 함수에 penalty항을 더하여, 모델이 불필요하게 복잡해지는 것을 막아줍니다.
 
+## Regularization for Regression
 ### Ridge Regression
 Linear Regression의 목적 함수에 계수의 제곱(Penalty term)을 더하여 Regularization하게 됩니다. 이 의미를 생각해보면, 계수가 원래의 목적 함수를 줄이는데 기여하지 않는다면 그 값을 쓸데 없이 높게 만들지 않는다는 것 입니다.
 $$
@@ -69,7 +71,7 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM1OTA0ODksLTU4MjgzMDMxNSwxNz
+eyJoaXN0b3J5IjpbLTE0NDE1NDU4MzUsLTU4MjgzMDMxNSwxNz
 Q0NjA5MzA3LDM4NTg1NTY4Niw2ODYzODkyNTQsNjQ4OTAxODA3
 LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2NjM5NDgxNjIsMTI5Nz
 I3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2MiwxMTQ5NTIwNTg1
