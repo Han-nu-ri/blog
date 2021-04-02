@@ -19,8 +19,8 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 3. feature vector와 확률 함수의 파라미터들을 동시에 학습합니다.
 
 Architecture
-Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 모델의 목적은 단어들의 시퀀스를 입력을
+Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 모델의 목적은 t부터 t-n+1까지의 단어들을 입력으로 넣었을 때 t번째 단어가 나올 조건부 확률이 높게 나오도록 likelihood
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjY2Njg1NiwtMjI4NTUwMjY2LC0xMD
+eyJoaXN0b3J5IjpbMTE2MzY2ODcyNCwtMjI4NTUwMjY2LC0xMD
 A0Nzk4OTYsLTExNTIwMzQzNTldfQ==
 -->
