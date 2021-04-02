@@ -21,7 +21,8 @@ The Architecture
 1. ReLU
 2. GPU 병렬 처리 
 3. Local Response Normalization
-Generalization을 위한 테크닉입니다.
+Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 다른 커널들의 값들을 활용합니다.
+![image](https://user-images.githubusercontent.com/11609881/113378006-dc087100-93b0-11eb-861b-3d058a0aaa69.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzAyODQxMl19
+eyJoaXN0b3J5IjpbLTI2NDg4MDQyNCwxNzYzMDI4NDEyXX0=
 -->
