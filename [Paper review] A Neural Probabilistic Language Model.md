@@ -27,8 +27,9 @@ Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 
 2. feature vector들을 t번째 다음 단어를 위한 조건부 확률 분포와 mapping 시켜주는 함수 g.
 ![image](https://user-images.githubusercontent.com/11609881/113381211-589f4d80-93b9-11eb-8dc8-ce3eaaaa2259.png)
 
+![image](https://user-images.githubusercontent.com/11609881/113381336-a916ab00-93b9-11eb-82d8-9ac9507aac9d.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjQ2NTM0MiwtMjI4NTUwMjY2LC0xMD
-A0Nzk4OTYsLTExNTIwMzQzNTldfQ==
+eyJoaXN0b3J5IjpbMTM3MjQ0ODQzMSwyMDU2NDY1MzQyLC0yMj
+g1NTAyNjYsLTEwMDQ3OTg5NiwtMTE1MjAzNDM1OV19
 -->
