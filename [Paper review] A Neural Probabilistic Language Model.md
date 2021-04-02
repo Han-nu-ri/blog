@@ -33,11 +33,12 @@ Training은 Regularization term과 함께 다음 log-likelihood를 최대화하�
 ![image](https://user-images.githubusercontent.com/11609881/113381899-1c6cec80-93bb-11eb-8eef-3f5089edb4b9.png)
 
 x를 C를 통과한 feature vector들을 concatenate한 것으로 두면,
+![image](https://user-images.githubusercontent.com/11609881/113382219-f562ea80-93bb-11eb-8624-a6ac8a2d249d.png)
 parameter b, W, U, d 그리고 H를 활용하여 다음과 같이 표현될 수 있습니다:
-
+![image](https://user-images.githubusercontent.com/11609881/113382249-03b10680-93bc-11eb-9530-8e11274a3f99.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAzNTgyMzQsLTE3ODA1OTQyNTUsOD
-QyMzEwMjA4LDIwNTY0NjUzNDIsLTIyODU1MDI2NiwtMTAwNDc5
-ODk2LC0xMTUyMDM0MzU5XX0=
+eyJoaXN0b3J5IjpbMTI2ODM3ODg2MywtMTc4MDU5NDI1NSw4ND
+IzMTAyMDgsMjA1NjQ2NTM0MiwtMjI4NTUwMjY2LC0xMDA0Nzk4
+OTYsLTExNTIwMzQzNTldfQ==
 -->
