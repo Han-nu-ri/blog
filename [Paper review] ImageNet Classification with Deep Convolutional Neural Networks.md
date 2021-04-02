@@ -23,8 +23,8 @@ The Architecture
 3. Local Response Normalization
 Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 다른 커널들의 값들을 활용합니다.
 ![image](https://user-images.githubusercontent.com/11609881/113378006-dc087100-93b0-11eb-861b-3d058a0aaa69.png)
-
-alpha_1가 0.1, alpha_2가 0.5, ㅁ
+4. Overlapping Pooling
+Po
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNjE5NzkyLDE3NjMwMjg0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODU4NTUyMDQsMTc2MzAyODQxMl19
 -->
