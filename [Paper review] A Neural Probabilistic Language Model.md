@@ -30,9 +30,11 @@ Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 
 ![image](https://user-images.githubusercontent.com/11609881/113381336-a916ab00-93b9-11eb-82d8-9ac9507aac9d.png)
 
 Training은 Regularization term과 함께 다음 log-likelihood를 최대화하도록 theta를 업데이트합니다. 본 논문에서의 Neural Network 구조는 두 개의 hidden layer와 C로 구성되어 있고, 출력 단에 softmax layer를 붙인 형태로 간단합니다.
+![image](https://user-images.githubusercontent.com/11609881/113381899-1c6cec80-93bb-11eb-8eef-3f5089edb4b9.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjcwODkyNSw4NDIzMTAyMDgsMjA1Nj
-Q2NTM0MiwtMjI4NTUwMjY2LC0xMDA0Nzk4OTYsLTExNTIwMzQz
-NTldfQ==
+eyJoaXN0b3J5IjpbLTE3ODA1OTQyNTUsODQyMzEwMjA4LDIwNT
+Y0NjUzNDIsLTIyODU1MDI2NiwtMTAwNDc5ODk2LC0xMTUyMDM0
+MzU5XX0=
 -->
