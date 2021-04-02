@@ -29,8 +29,8 @@ Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 
 
 ![image](https://user-images.githubusercontent.com/11609881/113381336-a916ab00-93b9-11eb-82d8-9ac9507aac9d.png)
 
-
+Training은 Regularization term과 함께 다음 log-likelihood를 최대화하도록 theta를 업데이트합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzAwMzg2MCwyMDU2NDY1MzQyLC0yMj
-g1NTAyNjYsLTEwMDQ3OTg5NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbLTEzODY3MTI5NDIsMjA1NjQ2NTM0MiwtMj
+I4NTUwMjY2LC0xMDA0Nzk4OTYsLTExNTIwMzQzNTldfQ==
 -->
