@@ -30,8 +30,8 @@ Reducing Overfitting
 Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습니다.
 
 1. Data Augmentation
-
+데이터의 라벨을 유지하면서 이미지를 horizontal reflection하거나, translation하여 많은 데이터를 얻었습니다.
 2. Dropout
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4MTk4NTA5LDE3NjMwMjg0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTIxMTUxNzksMTc2MzAyODQxMl19
 -->
