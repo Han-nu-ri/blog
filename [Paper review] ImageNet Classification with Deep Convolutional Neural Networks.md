@@ -15,7 +15,9 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 
 The Architecture
 ![image](https://user-images.githubusercontent.com/11609881/113373871-c68e4980-93a6-11eb-9152-7cb5984df86d.png)
-본 논문의 네트워크 구조는 Figure 1과 같습니다. 5개의 Convolution layer와 3개의 FC layer로 구성되어 있습니다.
+본 논문의 네트워크 구조는 Figure 1과 같습니다. 5개의 Convolution layer와 3개의 FC layer로 구성되어 있습니다. 이 네트워크의 특징들은 아래와 같습니다.
+1) ReLU
+2) GPU 병렬 처리 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTI2MTY3Nl19
+eyJoaXN0b3J5IjpbMTA4MTcxNzI0Nl19
 -->
