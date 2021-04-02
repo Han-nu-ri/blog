@@ -33,14 +33,14 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 
 1. Data Augmentation
 Training data 셋을 늘려서 top-1 error를 1% 감소 시키는 효과를 얻었습니다.
-데이터의 라벨을 유지하면서 이미지를 horizontal reflection하거나, translation하여
+이미지를 horizontal reflection하거나, translation하여 데이터를 얻었고,
 3. Dropout
 이 챕터에는 표현되어 있지 않지만, 목적함수에 Weight decay를 활용하였습니다.
 
 # Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ4NTM3LC0xNzE3ODA5NzMzLDIwNz
-Y2NTIyNzQsLTEyMTI1OTY3MjgsLTIwMjgxMjg0NjQsMTc2MzAy
-ODQxMl19
+eyJoaXN0b3J5IjpbMTQ4MjI2NjU4MiwtMTcxNzgwOTczMywyMD
+c2NjUyMjc0LC0xMjEyNTk2NzI4LC0yMDI4MTI4NDY0LDE3NjMw
+Mjg0MTJdfQ==
 -->
