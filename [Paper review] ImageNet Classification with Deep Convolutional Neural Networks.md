@@ -34,6 +34,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 1. Data Augmentation
 이미지를 horizontal reflection하거나, translation하여 데이터를 얻어서 데이터를 늘렸습니다.
 2. PCA
+PCA를 통해 
 3. Dropout
 
 이 챕터에는 표현되어 있지 않지만, 목적함수에 Weight decay를 활용하였습니다.
@@ -41,7 +42,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 # Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjE3OTgxNSwtNjQzNzgyODIyLC0xNz
-E3ODA5NzMzLDIwNzY2NTIyNzQsLTEyMTI1OTY3MjgsLTIwMjgx
-Mjg0NjQsMTc2MzAyODQxMl19
+eyJoaXN0b3J5IjpbMTY5OTU5Njc0NCwxMTg2MTc5ODE1LC02ND
+M3ODI4MjIsLTE3MTc4MDk3MzMsMjA3NjY1MjI3NCwtMTIxMjU5
+NjcyOCwtMjAyODEyODQ2NCwxNzYzMDI4NDEyXX0=
 -->
