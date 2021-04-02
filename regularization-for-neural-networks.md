@@ -17,6 +17,7 @@ $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
 ### Geometric Interpretation
+Ridge나 Lasso 모두 결국 다음 목적 함수를 최소화하는 최적화 함
 
 ## Regularization for Deep Neural Networks
 딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
@@ -72,9 +73,9 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEwNjY0MzMsLTE0NDE1NDU4MzUsLT
-U4MjgzMDMxNSwxNzQ0NjA5MzA3LDM4NTg1NTY4Niw2ODYzODky
-NTQsNjQ4OTAxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2Nj
-M5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2
-MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
+eyJoaXN0b3J5IjpbODQ1NzYyMTQyLC0xNDQxNTQ1ODM1LC01OD
+I4MzAzMTUsMTc0NDYwOTMwNywzODU4NTU2ODYsNjg2Mzg5MjU0
+LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMsNjYzOT
+Q4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIs
+MTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
 -->
