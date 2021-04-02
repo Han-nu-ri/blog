@@ -29,7 +29,8 @@ Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 
 
 ![image](https://user-images.githubusercontent.com/11609881/113381336-a916ab00-93b9-11eb-82d8-9ac9507aac9d.png)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjQ0ODQzMSwyMDU2NDY1MzQyLC0yMj
-g1NTAyNjYsLTEwMDQ3OTg5NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbLTE4OTMzOTkyNjcsMjA1NjQ2NTM0MiwtMj
+I4NTUwMjY2LC0xMDA0Nzk4OTYsLTExNTIwMzQzNTldfQ==
 -->
