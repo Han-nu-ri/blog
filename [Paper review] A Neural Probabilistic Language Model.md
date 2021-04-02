@@ -17,7 +17,9 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 1. 단어들을 distributed된 word feature vector로 표현합니다.
 2. 문장의 단어들의 feature vector들의 결합 확률 함수로 단어의 시퀀스를 표현합니다.
 3. feature vector와 확률 함수의 파라미터들을 동시에 학습합니다.
+
+ㅁ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODU1MDI2NiwtMTAwNDc5ODk2LC0xMT
-UyMDM0MzU5XX0=
+eyJoaXN0b3J5IjpbNzMwMTAwODgxLC0yMjg1NTAyNjYsLTEwMD
+Q3OTg5NiwtMTE1MjAzNDM1OV19
 -->
