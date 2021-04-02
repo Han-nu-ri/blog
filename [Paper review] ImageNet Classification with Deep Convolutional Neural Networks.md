@@ -34,7 +34,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 1. Data Augmentation
 이미지를 horizontal reflection하거나, translation하여 데이터를 얻어서 데이터를 늘렸습니다.
 2. PCA
-이미지 각 pixcel에는 RGB 3개의 값이 있는데요. 세개의 RGB 값의 covariance matrix를 구하고 Eigen  PCA를 통해 RGB 채널 3개의 Covariance matrix
+이미지 각 pixcel에는 RGB 3개의 값이 있는데요. 세개의 RGB 값의 covariance matrix를 구하고 Eigen decomposition을 하여  세개의 Eigen Vector들을 구할 수 있습니다. 이를 활용하여 이미지 하나 당 세개의 이미지를 추가로 얻을 수 있습니다.
 3. Dropout
 
 이 챕터에는 표현되어 있지 않지만, 목적함수에 Weight decay를 활용하였습니다.
@@ -42,7 +42,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 # Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mjg1MzExMywxMTI2MTczOTY5LDE2OT
+eyJoaXN0b3J5IjpbMTc0OTY4MjMyMSwxMTI2MTczOTY5LDE2OT
 k1OTY3NDQsMTE4NjE3OTgxNSwtNjQzNzgyODIyLC0xNzE3ODA5
 NzMzLDIwNzY2NTIyNzQsLTEyMTI1OTY3MjgsLTIwMjgxMjg0Nj
 QsMTc2MzAyODQxMl19
