@@ -4,9 +4,9 @@ statistical language model의 목적은 언어의 단어들의 연속에 대한 
 
 Introduction
 
-s
-
+statistical model of language은 이 전 단어들이 주어질 때 다음 단어가 발생할 조건부 확률로 표현됩니다.
+![image](https://user-images.githubusercontent.com/11609881/113379600-e4fb4180-93b4-11eb-8349-3127a7e5be21.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDE5NDY3NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbMTU1MTYzODY4MywtMTE1MjAzNDM1OV19
 -->
