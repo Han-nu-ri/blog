@@ -12,7 +12,10 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 훈련 corpus에 없는 n-gram 조합이 생기면 어떻게 할까요? 이를 위해 단어들의 시퀀스들을 generalization하는 것이 필요합니다. n-gram 단어들에서 새로운 단어들을 만들기 위해 interpolated n-gram이나 back-off n-gram algorithm이 제안되었습니다.
 
 하지만 이런 generalization 기법에는 하나 혹은 두개 단어 정도 떨어진 context는 중요하게 생각하지 않았고, 단어들간 유사도를 중요하게 생각하지 않은 문제점들이 있었습니다.
+
+이를 해결하기 위해 제안된 아이디어는 다음과 같이 요약할 수 있습니다:
+1. 단어들을 distributed
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkyNzkyNzksLTEwMDQ3OTg5NiwtMT
+eyJoaXN0b3J5IjpbLTE3OTk3OTA4ODQsLTEwMDQ3OTg5NiwtMT
 E1MjAzNDM1OV19
 -->
