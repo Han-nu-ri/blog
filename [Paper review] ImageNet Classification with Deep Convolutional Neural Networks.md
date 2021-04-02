@@ -13,8 +13,8 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 3. Training 시간을 줄이고 성능을 높이기 위해 새로운 feature들을 사용하였습니다.
 4. Overfitting을 방지하기 위해 dropout 등 효과적인 테크닉들을 사용하였습니다.
 
-# The Dataset
+The Architecture
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDc2NjA0Ml19
+eyJoaXN0b3J5IjpbLTE0NTk2MTgyNjRdfQ==
 -->
