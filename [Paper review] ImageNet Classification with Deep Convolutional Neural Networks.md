@@ -10,9 +10,11 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 본 논문의 contributions은 아래와 같습니다.
 1. ILSVRC-2010과 ILSVRC-2012에 사용된 데이터로 CNN 모델을 학습 시켰고, 가장 좋은 성능을 보였습니다.
 2. GPU를 활용해서 최적화된 2D Convolution을 작성하였고, CNN을 학습하기 위한 다른 Operation들을 작성하여 공개하였습니다.
-3. 
+3. Training 시간을 줄이고 성능을 높이기 위해 새로운 feature들을 사용하였습니다.
+4. Overfitting을 방지하기 위해 dropout 등 효과적인 테크닉들을 사용하였습니다.
 
+# The Dataset
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MjQ0MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ2NDc2NjA0Ml19
 -->
