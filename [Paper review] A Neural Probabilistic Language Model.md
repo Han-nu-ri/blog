@@ -1,3 +1,4 @@
+
 Abstract
 
 statistical language model의 목적은 언어의 단어들의 연속에 대한 결합 확률 함수를 학습하는 것입니다. 이것은 curse of dimensionality 때문에 어렵습니다. 이를 해결하기 위한 전통적인 방법은 n-gram입니다. 본 논문에서는 n-gram 대신 semantically 유사한 문장들을 알 수 있는 distributed representation을 제안합니다. model은 단어의 distributed representation을 배우는 것과 더불어, 단어들의 시퀀스에 대한 확률 함수를 배웁니다.
@@ -38,7 +39,7 @@ parameter b, W, U, d 그리고 H를 활용하여 다음과 같이 표현될 수 
 ![image](https://user-images.githubusercontent.com/11609881/113382249-03b10680-93bc-11eb-9530-8e11274a3f99.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODM3ODg2MywtMTc4MDU5NDI1NSw4ND
-IzMTAyMDgsMjA1NjQ2NTM0MiwtMjI4NTUwMjY2LC0xMDA0Nzk4
-OTYsLTExNTIwMzQzNTldfQ==
+eyJoaXN0b3J5IjpbLTE5MzkwNTY3MzksLTE3ODA1OTQyNTUsOD
+QyMzEwMjA4LDIwNTY0NjUzNDIsLTIyODU1MDI2NiwtMTAwNDc5
+ODk2LC0xMTUyMDM0MzU5XX0=
 -->
