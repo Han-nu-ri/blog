@@ -29,7 +29,7 @@ L2-norm의 제약 사항:
 $$
 ||\theta||_2 \le t
 $$
-이를 그림으로 표현하게 되면 아래와 같습니다. 빨간색 선이 Linear Re
+이를 그림으로 표현하게 되면 아래와 같습니다. 빨간색 선이 움직이면서 목적 함수를 최소화 되는 지점을 찾아야 하는데, 그 지점이 L-1 norm은 사각형의 코너에 L-2 norm은 원의 중간에 위치하게 될 가능성이 높아 보입니다.
 ![image](https://user-images.githubusercontent.com/11609881/113402180-944d0e00-93df-11eb-8788-d0541d6cb45d.png)
 
 ## Regularization for Deep Neural Networks
@@ -86,9 +86,9 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDc5NDc2OCwtMTQ0MTU0NTgzNSwtNT
-gyODMwMzE1LDE3NDQ2MDkzMDcsMzg1ODU1Njg2LDY4NjM4OTI1
-NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mz
-k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
-LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzUwOTQ2MTQsLTE0NDE1NDU4MzUsLT
+U4MjgzMDMxNSwxNzQ0NjA5MzA3LDM4NTg1NTY4Niw2ODYzODky
+NTQsNjQ4OTAxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2Nj
+M5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2
+MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
