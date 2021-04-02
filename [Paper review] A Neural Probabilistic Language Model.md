@@ -22,8 +22,10 @@ Architecture
 Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 모델의 목적은 t부터 t-n+1까지의 단어들을 입력으로 넣었을 때 t번째 단어가 나올 조건부 확률이 높게 나오도록 만드는 것 입니다.
 ![image](https://user-images.githubusercontent.com/11609881/113380955-a1a2d200-93b8-11eb-88b2-85f0a6e1ea25.png)
 본 논문의 모델에서는 위 함수를 두 부분으로 분리합니다:
-1. V의 i번째 요소(i번째 단어)를 m dimensional vector로 mapping하는 함수 C. C는 |V| X m matrix로 구성되는데, 각 요소들은 학습 과정에서 
+
+1. V의 i번째 요소(i번째 단어)를 m dimensional vector로 mapping하는 함수 C. C는 |V| X m matrix로 구성되는데, 각 요소들은 학습 과정에서 업데이트될 distributed representation입니다.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjAwNDE1NywtMjI4NTUwMjY2LC0xMD
-A0Nzk4OTYsLTExNTIwMzQzNTldfQ==
+eyJoaXN0b3J5IjpbLTE3OTgwOTI4MDcsLTIyODU1MDI2NiwtMT
+AwNDc5ODk2LC0xMTUyMDM0MzU5XX0=
 -->
