@@ -8,6 +8,8 @@ statistical model of language은 이 전 단어들이 주어질 때 다음 단�
 ![image](https://user-images.githubusercontent.com/11609881/113379600-e4fb4180-93b4-11eb-8349-3127a7e5be21.png)
 이는 가까운 단어들이 더 중요하다는 사실을 가지고, 다음과 같이 변형할 수 있습니다.
 ![image](https://user-images.githubusercontent.com/11609881/113379680-1a079400-93b5-11eb-8a9f-ad748e46e339.png)
+Training corpus에 없는 n-gram 조합이 생기면 어떻게 할까요? 간단한 해결책으로 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ3OTg5NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbMjA2ODU5Mjc3MSwtMTAwNDc5ODk2LC0xMT
+UyMDM0MzU5XX0=
 -->
