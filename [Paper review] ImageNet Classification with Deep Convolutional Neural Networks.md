@@ -1,9 +1,8 @@
-ImageNet Classification with Deep Convolutional Neural Networks
+Alex Krizhevsky, Ilya  Sutskever, G E Hinton이 2017년 Communications of the ACM에서 발표한 **ImageNet Classification with Deep Convolutional Neural Networks** 을 읽고 필요한 부분을 남긴 글 입니다.
 
 # Abstract
-Deep convolutional neural network로 ImageNet 컨테스트에서 좋은 성적을 거둠. 이전 SOTA보다 더 좋다.
-구조는 5개의 Convolutional layer로 구성되어 있고, 60백만개의 파라미터와 65만개의 뉴런들이 있음. max-polling layer들도 사용하였고, 3개의 FC layer들과 출력단에 softmax.
-Dropout 사용.
+Deep convolutional neural network로 ImageNet 컨테스트에서 좋은 성적을 거둔 모델입니다. 발표 당시 SOTA보다 더 좋은 성능을 냈었습니다.
+구조는 5개의 Convolutional layer로 구성되어 있고, 60백만개의 파라미터와 65만개의 뉴런들이 있습니다. max-polling layer들도 사용하였고, 3개의 FC layer들과 출력단에 softmax를 덧대었으며,Dropout 사용.
 
 # Introduction
 MNIST와 같은 쉬운 데이터들은 적은 훈련 데이터 셋만으로도 좋은 성능을 냅니다.
@@ -40,6 +39,6 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg0NDI5NDgsLTIwMjgxMjg0NjQsMT
-c2MzAyODQxMl19
+eyJoaXN0b3J5IjpbLTc1NTYwOTYzMiwtMjAyODEyODQ2NCwxNz
+YzMDI4NDEyXX0=
 -->
