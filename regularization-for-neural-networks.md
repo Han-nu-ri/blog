@@ -21,14 +21,16 @@ Ridge나 Lasso 모두 결국 다음 목적 함수를 최소화하는 최적화 �
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) 
 $$
-L1-norm의 제약 사항
+L1-norm의 제약 사항:
 $$
 ||\theta||_1 \le t
 $$
-L2-norm의 제약 사항
+L2-norm의 제약 사항:
 $$
 ||\theta||_2 \le t
 $$
+이를 그림으로 표현하게 되면 아래와 같습니다. 빨간색 선이 Linear Re
+![image](https://user-images.githubusercontent.com/11609881/113402180-944d0e00-93df-11eb-8788-d0541d6cb45d.png)
 
 ## Regularization for Deep Neural Networks
 딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
@@ -84,9 +86,9 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODQ4ODQ3LC0xNDQxNTQ1ODM1LC01OD
-I4MzAzMTUsMTc0NDYwOTMwNywzODU4NTU2ODYsNjg2Mzg5MjU0
-LDY0ODkwMTgwNywtNjA2MjI2NDUzLC04OTYzMDY3NTMsNjYzOT
-Q4MTYyLDEyOTcyNzY2NywxMzQ5ODA1MzczLDExMTA3MzM2NjIs
-MTE0OTUyMDU4NSwtMTY1ODI3MTI3LDkzODQ3MzMwOF19
+eyJoaXN0b3J5IjpbMTU0MDc5NDc2OCwtMTQ0MTU0NTgzNSwtNT
+gyODMwMzE1LDE3NDQ2MDkzMDcsMzg1ODU1Njg2LDY4NjM4OTI1
+NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mz
+k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
+LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
 -->
