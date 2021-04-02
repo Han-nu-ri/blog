@@ -35,7 +35,7 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 이 챕터에는 표현되어 있지 않지만, 목적함수에 Weight decay를 활용하였습니다.
 
 Details of learning
-Optimizer는 SGD + Momentum으로, hyperpa
+Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzM2MzQ0LDE3NjMwMjg0MTJdfQ==
+eyJoaXN0b3J5IjpbLTg0Njk2MDA2NCwxNzYzMDI4NDEyXX0=
 -->
