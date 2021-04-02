@@ -16,7 +16,8 @@ $$
 $$
 \min_{\theta}(Y-X\theta)^T(Y-X\theta) + \lambda||\theta||_1
 $$
-### Geometri
+### Geometric Interpretation
+
 ## Regularization for Deep Neural Networks
 딥러닝은 이 오버피팅에 굉장히 취약해서, Regularization이 중요합니다.
 ### Weight Decay
@@ -71,9 +72,9 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjY4Nzk0NiwtMTQ0MTU0NTgzNSwtNT
-gyODMwMzE1LDE3NDQ2MDkzMDcsMzg1ODU1Njg2LDY4NjM4OTI1
-NCw2NDg5MDE4MDcsLTYwNjIyNjQ1MywtODk2MzA2NzUzLDY2Mz
-k0ODE2MiwxMjk3Mjc2NjcsMTM0OTgwNTM3MywxMTEwNzMzNjYy
-LDExNDk1MjA1ODUsLTE2NTgyNzEyNyw5Mzg0NzMzMDhdfQ==
+eyJoaXN0b3J5IjpbLTE2NjEwNjY0MzMsLTE0NDE1NDU4MzUsLT
+U4MjgzMDMxNSwxNzQ0NjA5MzA3LDM4NTg1NTY4Niw2ODYzODky
+NTQsNjQ4OTAxODA3LC02MDYyMjY0NTMsLTg5NjMwNjc1Myw2Nj
+M5NDgxNjIsMTI5NzI3NjY3LDEzNDk4MDUzNzMsMTExMDczMzY2
+MiwxMTQ5NTIwNTg1LC0xNjU4MjcxMjcsOTM4NDczMzA4XX0=
 -->
