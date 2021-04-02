@@ -9,9 +9,10 @@ MNIST와 같은 쉬운 데이터들은 적은 훈련 데이터 셋만으로도 �
 CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 가지는 이미지들에 적용하기는 비쌉니다. 다행히도 GPU들이 2D Convolution에 꽤 최적화 되어 있기 때문에 많은 부분 해결 되고 있습니다.
 본 논문의 contributions은 아래와 같습니다.
 1. ILSVRC-2010과 ILSVRC-2012에 사용된 데이터로 CNN 모델을 학습 시켰고, 가장 좋은 성능을 보였습니다.
-2. 2D Convolution 구현에 최적화된 GPU 구
+2. GPU를 활용해서 최적화된 2D Convolution을 작성하였고, CNN을 학습하기 위한 다른 Operation들을 작성하여 공개하였습니다.
+3. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTYxODM1MF19
+eyJoaXN0b3J5IjpbMjI1MjQ0MjBdfQ==
 -->
