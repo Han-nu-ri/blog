@@ -1,4 +1,4 @@
-Alex Krizhevsky, Ilya  Sutskever, G E Hinton이 2017년 Communications of the ACM에서 발표한 **ImageNet Classification with Deep Convolutional Neural Networks** 을 읽고 필요한 부분을 남긴 글 입니다. 저자가 Alex라서 AlexNet이라고 합니다.
+Alex Krizhevsky, Ilya  Sutskever, G E Hinton이 2017년 Communications of the ACM에서 발표한 **ImageNet Classification with Deep Convolutional Neural Networks** 을 읽고 필요한 부분을 남긴 글 입니다. 저자가 Alex라서 **AlexNet**이라고 합니다.
 
 # Abstract
 Deep convolutional neural network로 ImageNet 컨테스트에서 좋은 성적을 거둔 모델입니다. 발표 당시 SOTA보다 더 좋은 성능을 냈었습니다.
@@ -39,6 +39,6 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 # Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjI0MjQyLC0xMjEyNTk2NzI4LC0yMD
-I4MTI4NDY0LDE3NjMwMjg0MTJdfQ==
+eyJoaXN0b3J5IjpbMjA3NjY1MjI3NCwtMTIxMjU5NjcyOCwtMj
+AyODEyODQ2NCwxNzYzMDI4NDEyXX0=
 -->
