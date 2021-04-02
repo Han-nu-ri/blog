@@ -2,7 +2,7 @@ Alex Krizhevsky, Ilya  Sutskever, G E Hinton이 2017년 Communications of the AC
 
 # Abstract
 Deep convolutional neural network로 ImageNet 컨테스트에서 좋은 성적을 거둔 모델입니다. 발표 당시 SOTA보다 더 좋은 성능을 냈었습니다.
-구조는 5개의 Convolutional layer로 구성되어 있고, 60백만개의 파라미터와 65만개의 뉴런들이 있습니다. max-polling layer들도 사용하였고, 3개의 FC layer들과 출력단에 softmax를 덧대었으며,Dropout 사용.
+구조는 5개의 Convolutional layer로 구성되어 있고, 60백만개의 파라미터와 65만개의 뉴런들이 있습니다. max-polling layer들도 사용하였고, 3개의 FC layer들과 출력단에 softmax를 덧대었으며, Dropout 사용 등 Regularization 기법을 활용하였습니다.
 
 # Introduction
 MNIST와 같은 쉬운 데이터들은 적은 훈련 데이터 셋만으로도 좋은 성능을 냅니다.
@@ -16,7 +16,7 @@ CNN이 이런 장점들이 있음에도, 큰 스케일의 높은 해상도를 �
 4. Overfitting을 방지하기 위해 dropout 등 효과적인 테크닉들을 사용하였습니다.
 
 
-The Architecture
+# Architecture
 ![image](https://user-images.githubusercontent.com/11609881/113373871-c68e4980-93a6-11eb-9152-7cb5984df86d.png)
 본 논문의 네트워크 구조는 Figure 1과 같습니다. 5개의 Convolution layer와 3개의 FC layer로 구성되어 있습니다. 이 네트워크의 특징들은 아래와 같습니다.
 
@@ -28,7 +28,7 @@ Generalization을 위한 테크닉입니다. 같은 포지션에 위치하는 �
 4. Overlapping Pooling
 전통적으로 Pooling layer들은 Pooling할 때 overlap 되지 않게 하는데요. 본 논문에서는 Pooling 시 Stride 보다 Pooling 영역을 크게 설정하여 overlap pooling을 하였습니다.
 
-Reducing Overfitting
+# Reducing Overfitting
 Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습니다.
 
 1. Data Augmentation
@@ -36,9 +36,9 @@ Overfitting을 줄이기 위하여  다음과 같은 방법을 활용하였습�
 2. Dropout
 이 챕터에는 표현되어 있지 않지만, 목적함수에 Weight decay를 활용하였습니다.
 
-Details of learning
+# Details of learning
 Optimizer는 SGD + Momentum으로, 128 batch size, 0.9 momentum, 0.0005 weight decay로 hyperparameter를 설정하였습니다. 또한 목적 함수에 Weight decay를 더하였는데, 본 논문의 architecture에서는 학습에 있어 중요함을 확인하였습니다. Learning rate의 경우 0.01로 설정하여, 중료 시점 전까지 3번 줄였습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTYwOTYzMiwtMjAyODEyODQ2NCwxNz
-YzMDI4NDEyXX0=
+eyJoaXN0b3J5IjpbLTEyMTI1OTY3MjgsLTIwMjgxMjg0NjQsMT
+c2MzAyODQxMl19
 -->
