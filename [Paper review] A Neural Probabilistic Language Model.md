@@ -24,8 +24,8 @@ Training set은 Vocabulary set V 안에 있는 단어들의 시퀀스입니다. 
 본 논문의 모델에서는 위 함수를 두 부분으로 분리합니다:
 
 1. V의 i번째 요소(i번째 단어)를 m dimensional vector(feature vector)로 mapping하는 함수 C. C는 |V| X m matrix로 구성되는데, 각 요소들은 학습 과정에서 업데이트될 distributed representation입니다.
-2. feature vector
+2. feature vector들을 t번째 다음 단어를 위한 조건부 확률 분포와 mapping 시켜주는 함수 g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3MTMyOTg0LC0yMjg1NTAyNjYsLTEwMD
-Q3OTg5NiwtMTE1MjAzNDM1OV19
+eyJoaXN0b3J5IjpbLTM0MjE3NDc0MCwtMjI4NTUwMjY2LC0xMD
+A0Nzk4OTYsLTExNTIwMzQzNTldfQ==
 -->
