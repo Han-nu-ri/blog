@@ -1,6 +1,7 @@
 # Optimization beyond SGD
 Mini batch로 Gradient를 Estimate하는 Stochastic Gradient Descent(SGD)은 Full batch로 Gradient Descent를 쓸 때보다 계산량이 줄어 속도가 빠르다는 장점이 있습니다. 하지만 SGD에는 아래와 같은 문제가 있어서, SGD를 개량한 Optimizer가 계속 제안되어왔습니다.
 1. Jittering
+![image](https://user-images.githubusercontent.com/11609881/113462760-82aa4b80-945d-11eb-9e16-ffd4844a0305.png
 2. Local optimum
 3. Inaccurate Gradient Estimation
 데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다. 예를 들어 데이터 셋이 수백만개이면 batch size가 수천개라도 그 비율은 굉장히 작습니다.
@@ -34,5 +35,5 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjA5NjMzMiw1NDQxNjAwMDNdfQ==
+eyJoaXN0b3J5IjpbLTE0ODg3MDQxNTQsNTQ0MTYwMDAzXX0=
 -->
