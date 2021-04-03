@@ -11,7 +11,7 @@ SGD에 Momentum 개념을 도입한 Optimizer입니다. 사실 Momemtum 보다�
 ### AdaGrad
 안 가본 곳을 가보자라는 아이디어입니다. divider를 활용하여 과거에 gradient가 컸던 방향이면 완만하게 가도록 하고 작았던 방향이면 더 가보도록 해줍니다.
 ### RMSProp: Leaky AdaGrad
-AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에 learning rate이 빨리 떨어집니다.
+AdaGrad의 divider에는 squared gradient가 누적되어 들어가기 때문에 learning rate이 빨리 떨어집니다. 이를 개발자가 조절할 수 있도록 만든 Optimizer입니다.
 ### Adam
 Momentum과 AdaGrad를 적절히 합친 optimizer입니다.
 
@@ -34,5 +34,6 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE1MTQwMDMsNTQ0MTYwMDAzXX0=
+eyJoaXN0b3J5IjpbLTE0NjQ0NjgzOTgsLTE2MTE1MTQwMDMsNT
+Q0MTYwMDAzXX0=
 -->
