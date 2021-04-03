@@ -1,6 +1,5 @@
 # Optimization beyond SGD
-Mini batch로 Gradient를 Estimate하는 Stochastic Gradient Descent(SGD)은 Full batch로 Gradient Descent를 쓸 때보다 속도가 빠르고 계샨
-SGD의 세 가지 문제점들은 아래와 같습니다.
+Mini batch로 Gradient를 Estimate하는 Stochastic Gradient Descent(SGD)은 Full batch로 Gradient Descent를 쓸 때보다 계산량이 줄어 속도가 빠르다는 장점이 있습니다. 하지만 SGD에는 아래와 같은 문제가 있어서, SGD를 개량한 Optimizer가 계속 제안되어왔습니다.
 1. Jittering
 2. Local optimum
 3. Inaccurate Gradient Estimation
@@ -35,5 +34,5 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzODk0ODA4LDU0NDE2MDAwM119
+eyJoaXN0b3J5IjpbMTkzNjA5NjMzMiw1NDQxNjAwMDNdfQ==
 -->
