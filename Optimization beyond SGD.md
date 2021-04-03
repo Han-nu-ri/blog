@@ -1,5 +1,5 @@
 # Optimization beyond SGD
-SGD를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 또한 gradient가 0인 경우 get stuck하기도 합니다.
+Mini batch로 Gradient를 Estimate하는 Stochastic Gradient Descent(SGD)은 Full batch로 Gradient Descent를 쓸 때보다 를 쓸 경우, 가야 하는 방향 대로 가지 못하고 jittering하는 현상이 있습니다. 또한 gradient가 0인 경우 get stuck하기도 합니다.
 SGD의 세 가지 문제점들은 아래와 같습니다.
 1. Jittering
 2. Local optimum
@@ -35,5 +35,5 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MTYwMDAzXX0=
+eyJoaXN0b3J5IjpbLTI4NjEyMTQ0Nyw1NDQxNjAwMDNdfQ==
 -->
