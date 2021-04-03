@@ -7,8 +7,7 @@ Gradient가 그때그때 가장 떨어지는 방향으로 움직이면서 생기
 데이터가 크다면 mini-batch를 활용하여 estimate된 gradient는 부정확할 수 있습니다. 예를 들어 데이터 셋이 수백만개이면 batch size가 수천개라도 그 비율은 굉장히 작습니다.
 
 ### SGD + Momentum
-SGD에 Momentum 개념을 도입한 Optimizer입니다. 사실 Momemtum 보다는 Ineritia(관성)에 더 가까운 것 같습니다. 물리학에서 Momentum은 mass와 velocity의 곱입니다. 우리가 다루고자 하는 SGD에서 Momentum을 활용한 개념에서의 Momentum은 inertia(관성)에 더 가깝습니다.
-즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
+SGD에 Momentum 개념을 도입한 Optimizer입니다. 사실 Momemtum 보다는 Ineritia(관성)에 더 가까운 것 같습니다. 즉 gradient가 줄어드는 방향이 있으면 그 관성을 다음 업데이트 때 반영해주는 것 입니다.
 ### AdaGrad
 역사를 가지고, gradient가 컸던 방향이면 완만하게 가도록 하고 작았던 방향이면 더 가보도록 해주는 아이디어입니다.
 ### RMSProp: Leaky AdaGrad
@@ -35,5 +34,5 @@ Learning rate을 너무 높게 주면 아예 loss가 발산하게 됩니다. 적
 실제 구현 시에는 FC layer와 Activation layer 사이에 Batch Normalization을 넣어줍니다. 왜냐면 Activation function에 0 주변의 값이 들어오게 되면 이점이 많기 때문입니다. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjAzNzExOSw1NDQxNjAwMDNdfQ==
+eyJoaXN0b3J5IjpbMTg2NzY1NzA0LDU0NDE2MDAwM119
 -->
