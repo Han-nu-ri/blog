@@ -1,10 +1,10 @@
 $$
 Q = \begin{bmatrix}
-0 & \cdots & 0 \\
-\vdots & \ddots & \vdots \\
-0 & \cdots & 0
+| & \cdots & | \\
+q_1 & \cdots & q_n \\
+| & \cdots & | \\
 \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxNDA3Nl19
+eyJoaXN0b3J5IjpbLTg1MzQ5MDc0Nl19
 -->
