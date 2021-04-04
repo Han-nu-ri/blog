@@ -12,11 +12,11 @@ $$
 $$  
 \Lambda = \begin{bmatrix}  
 \lambda_1 & \cdots & 0 \\  
-\cdots & \ddots & \vdots \\  
+\vdots & \ddots & \vdots \\  
 0 & \cdots & \lambda_n \\  
 \end{bmatrix}  
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1MTUyNDYsNDMyNDczODY0LC04NT
-M0OTA3NDZdfQ==
+eyJoaXN0b3J5IjpbMTQ4NzI1MDE0Myw0MzI0NzM4NjQsLTg1Mz
+Q5MDc0Nl19
 -->
