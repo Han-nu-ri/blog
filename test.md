@@ -22,9 +22,10 @@ x^{T}Px > 0, \forall x \in R^{n}
 $$
 
 $$  
-P=Q\Lambda Q^{T}=Q \sqrt{\Lambda} Q^{T} Q \sqrt{\Lambda} Q^{T} =P^{1/2}P^{1/2}
+P=Q\Lambda Q^{T}=Q \sqrt{\Lambda} \sqrt{\Lambda} Q^{T}\\
+Q \sqrt{\Lambda} Q^{T} Q \sqrt{\Lambda} Q^{T} =P^{1/2}P^{1/2}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Njc4Mzc4NiwtMTMxOTczODAwNCwxND
-g3MjUwMTQzLDQzMjQ3Mzg2NCwtODUzNDkwNzQ2XX0=
+eyJoaXN0b3J5IjpbODMxNDY0OTk4LC0xMzE5NzM4MDA0LDE0OD
+cyNTAxNDMsNDMyNDczODY0LC04NTM0OTA3NDZdfQ==
 -->
