@@ -1,5 +1,5 @@
 $$
-A \in S^n \ diagonalizable\iff \exist P, P^{-1}\in S^n \ : P^{-1}AP \ diagonal
+A \in S^n \ diagonalizable\iff \exists P, P^{-1}\in S^n \ : P^{-1}AP \ diagonal
 $$
 $$
 Q = \begin{bmatrix}
@@ -9,5 +9,5 @@ q_1 & \cdots & q_n \\
 \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTU2MTY4NywtODUzNDkwNzQ2XX0=
+eyJoaXN0b3J5IjpbNDMyNDczODY0LC04NTM0OTA3NDZdfQ==
 -->
