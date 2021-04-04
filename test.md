@@ -16,7 +16,11 @@ $$
 0 & \cdots & \lambda_n \\  
 \end{bmatrix}  
 $$
+
+$$  
+x^{T}Px \g 0, \forall x \in R^{n}  
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzI1MDE0Myw0MzI0NzM4NjQsLTg1Mz
-Q5MDc0Nl19
+eyJoaXN0b3J5IjpbLTE3MjQ5NjQyNjcsMTQ4NzI1MDE0Myw0Mz
+I0NzM4NjQsLTg1MzQ5MDc0Nl19
 -->
