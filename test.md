@@ -18,9 +18,9 @@ $$
 $$
 
 $$  
-x^{T}Px \g 0, \forall x \in R^{n}  
+x^{T}Px > 0, \forall x \in R^{n}  
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ5NjQyNjcsMTQ4NzI1MDE0Myw0Mz
+eyJoaXN0b3J5IjpbLTEzMTk3MzgwMDQsMTQ4NzI1MDE0Myw0Mz
 I0NzM4NjQsLTg1MzQ5MDc0Nl19
 -->
