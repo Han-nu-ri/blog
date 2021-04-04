@@ -20,7 +20,11 @@ $$
 $$  
 x^{T}Px > 0, \forall x \in R^{n}  
 $$
+
+$$  
+P=Q\Lambda Q^{T}=Q \sqrt{\Lambda} Q^{T} Q \sqrt{\Lambda} Q^{T} =P^{1/2}P^{1/2}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk3MzgwMDQsMTQ4NzI1MDE0Myw0Mz
-I0NzM4NjQsLTg1MzQ5MDc0Nl19
+eyJoaXN0b3J5IjpbMTk4Njc4Mzc4NiwtMTMxOTczODAwNCwxND
+g3MjUwMTQzLDQzMjQ3Mzg2NCwtODUzNDkwNzQ2XX0=
 -->
