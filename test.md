@@ -8,6 +8,15 @@ q_1 & \cdots & q_n \\
 | & \cdots & | \\
 \end{bmatrix}
 $$
+
+$$  
+\Lambda = \begin{bmatrix}  
+\lambda_1 & \cdots & 0 \\  
+\cdots & \ddots & \vdots \\  
+0 & \cdots & \lambda_n \\  
+\end{bmatrix}  
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNDczODY0LC04NTM0OTA3NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDI1MTUyNDYsNDMyNDczODY0LC04NT
+M0OTA3NDZdfQ==
 -->
