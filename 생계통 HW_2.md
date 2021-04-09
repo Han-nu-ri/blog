@@ -9,7 +9,10 @@ Since it is EOQ model, suppose:
 . L = 0
 . Fixed cost = K
 . 
-g(Q, x) = 
+Basic EOQ model
+$$
+g(Q)={K\lambda \over Q}+h
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjIxMDU3MSwtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbLTEzODE2NDM5MTEsLTYwOTYwNTUzOF19
 -->
