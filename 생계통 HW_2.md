@@ -12,7 +12,8 @@ Since it is EOQ model, suppose:
 Basic EOQ model
 $$
 g(Q)={K\lambda \over Q}+h
-$$
+$$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE2NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLT
+YwOTYwNTUzOF19
 -->
