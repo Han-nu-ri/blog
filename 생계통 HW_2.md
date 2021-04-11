@@ -15,7 +15,11 @@ g(Q)={K\lambda \over Q}+h
 $$ 
 
 2. 
+$$
+\theta_t=
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNz
-Q3MzEyNjc3LC0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
+eyJoaXN0b3J5IjpbMTYwMzg4NTMzNywxNjUyNDk3MzY5LC02MT
+c3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLTYwOTYw
+NTUzOF19
 -->
