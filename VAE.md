@@ -30,10 +30,14 @@ $$
 
 KL Divergence
 $$
-\int log({q_{\phi}(z|x) \over p(z)})q_\phi(z|x)dz = 
+\int log({q_{\phi}(z|x) \over p(z)})q_\phi(z|x)dz = D_{KL}(q_{\phi}(z|x) || p(z))
+$$
+When prior and posterior are multinormal distributions,
+$$
+
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MDQ4NTA3LC01ODc0OTc5MjYsLTE3OD
-U5MTQsLTE2MDUwNjc2MjQsODYwNjkwNzAyLC05NjEwNTM0MzVd
-fQ==
+eyJoaXN0b3J5IjpbMTk2OTMxOTYxMCwzOTYwNDg1MDcsLTU4Nz
+Q5NzkyNiwtMTc4NTkxNCwtMTYwNTA2NzYyNCw4NjA2OTA3MDIs
+LTk2MTA1MzQzNV19
 -->
