@@ -40,9 +40,10 @@ K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\\
 h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
 = min\{757.5, 670,  878.125, 1012.813\} = 670 [s(1)=3]\\
 $$
-따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325, period 3에 
+따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325(d1+d2), period 3(d3+d4)에 425를 주문하는 것 입니다. 또한 total cost은 670이 됩니다.
+(c\)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDg5ODc2NiwtMTYxNjAzNjM5OSwyMT
+eyJoaXN0b3J5IjpbMjA1NjA3NDc3NCwtMTYxNjAzNjM5OSwyMT
 IxODA0NDIsMTE3OTcyNjYwLC0xNzcxNDQ5NTg5LDEzNTM2NDk0
 MTYsMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC
 0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
