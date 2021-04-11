@@ -18,13 +18,13 @@ $$
 $$
 K+h\sum_{i=t}^{s-1}(1-q)^{i-t}d_i+\sum_{i=t}^{s-1}\sum_{j=0}^{i-t-1}(1-q)^jq(d_ip+jh)
 $$
-초기 주문 계획이 셋업 되면 변경하지 않으므로, Wagner-Within problem에서 DP algorithm을 활용한 것과 같
+초기 주문 계획이 셋업 되면 변경하지 않으므로, Wagner-Within problem에서 DP algorithm을 활용한 것과 마지막 period부터 backtracking하며 최적의 비용을 같이 풀 수 있습니다.
 $$
 \theta_t=min_{t \lt s \le T+1}(K+h\sum_{i=t}^{s-1}(1-q)^{i-t}d_i+\sum_{i=t}^{s-1}\sum_{j=0}^{i-t-1}(1-q)^jq(d_ip+jh)+\theta_s)
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1OTY1ODMsMTM1MzY0OTQxNiwxNj
-UyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2
-NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbLTMwNDU2MTAzNiwxMzUzNjQ5NDE2LDE2NT
+I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
+MzkxMSwtNjA5NjA1NTM4XX0=
 -->
