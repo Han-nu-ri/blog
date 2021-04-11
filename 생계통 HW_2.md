@@ -30,11 +30,12 @@ $$
 = min\{400, 357.5\}
 = 357.5 \\
 \theta_2=min\{K+\theta_3, K+h(1-q)d_3+pqd_3+\theta_4, \\
-K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)q(d_4p+h)+\theta_5\}
+K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)q(d_4p+h)+pqd_4+\theta_5\} \\
+= min\{557.5, \}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAzMjM0NzcsMTM1MzY0OTQxNiwxNj
+eyJoaXN0b3J5IjpbLTE3NzE0NDk1ODksMTM1MzY0OTQxNiwxNj
 UyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2
 NDM5MTEsLTYwOTYwNTUzOF19
 -->
