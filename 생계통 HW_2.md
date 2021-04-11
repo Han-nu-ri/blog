@@ -33,12 +33,14 @@ $$
 K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5\} \\
 = min\{557.5, 625, 680.9375\} \\
 = 557.5 (s(2)=3) \\
-\theta_1 = min\{, , \}
+\theta_1 = min\{K+\theta_2, K+h(1-q)d_2+pqd_2+\theta_3,\\
+K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5,\\
+ \}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTE3OTcwNCwyMTIxODA0NDIsMTE3OT
-cyNjYwLC0xNzcxNDQ5NTg5LDEzNTM2NDk0MTYsMTY1MjQ5NzM2
-OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC0xMzgxNjQzOTExLC
-02MDk2MDU1MzhdfQ==
+eyJoaXN0b3J5IjpbLTEwNzk3OTg2NDMsMjEyMTgwNDQyLDExNz
+k3MjY2MCwtMTc3MTQ0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTcz
+NjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMS
+wtNjA5NjA1NTM4XX0=
 -->
