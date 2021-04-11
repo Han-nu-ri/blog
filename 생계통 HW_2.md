@@ -41,9 +41,9 @@ h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
 = min\{757.5, 670,  878.125, 1012.813\} = 670 [s(1)=3]\\
 $$
 따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325(d1+d2), period 3(d3+d4)에 425를 주문하는 것 입니다. 또한 total cost은 670이 됩니다.
-(c\) 얼마나 보유
+(c\) 위에서 같이 optimal solution은 각 period의 수요와 모델의 파라미터에 따라 달라지게 됩니다. 다만 일반적으로, 미래의 수요에 대한 주문을 많이 할수록 위험이 큽니다. 해당 수요가 실현되기 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjA4MTgyMiwtMTYxNjAzNjM5OSwyMT
+eyJoaXN0b3J5IjpbMTgyNTUyNTU4MywtMTYxNjAzNjM5OSwyMT
 IxODA0NDIsMTE3OTcyNjYwLC0xNzcxNDQ5NTg5LDEzNTM2NDk0
 MTYsMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC
 0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
