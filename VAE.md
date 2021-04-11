@@ -34,10 +34,10 @@ $$
 $$
 When prior and posterior are multinormal distributions,
 $$
-
+D_{KL}(q_{\phi}(z|x)||p(z))
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTMxOTYxMCwzOTYwNDg1MDcsLTU4Nz
-Q5NzkyNiwtMTc4NTkxNCwtMTYwNTA2NzYyNCw4NjA2OTA3MDIs
-LTk2MTA1MzQzNV19
+eyJoaXN0b3J5IjpbLTEzOTM0MTg1MCwxOTY5MzE5NjEwLDM5Nj
+A0ODUwNywtNTg3NDk3OTI2LC0xNzg1OTE0LC0xNjA1MDY3NjI0
+LDg2MDY5MDcwMiwtOTYxMDUzNDM1XX0=
 -->
