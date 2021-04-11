@@ -29,11 +29,11 @@ $$
 = min\{400, 200+0.2(0.75)175+3(0.25)175\} \\
 = min\{400, 357.5\}
 = 357.5 \\
-\theta_2=min
+\theta_2=min\{K+\theta_3, K+h(1-q)d_3+pqd_3+\theta_4,K+h(1-q)^\}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE3NTYyNjcsMTM1MzY0OTQxNiwxNj
-UyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2
-NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbMTYyNTUxNjczOSwxMzUzNjQ5NDE2LDE2NT
+I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
+MzkxMSwtNjA5NjA1NTM4XX0=
 -->
