@@ -24,25 +24,25 @@ $$
 (b) Wagner-Whitin algorithm과 (a)의 식을 활용하여, 다음과 같이 풀 수 있습니다:
 $$
 \theta_5 = 0 \\
-\theta_4 = K+\theta_5 =200 (s(4)=5)\\
+\theta_4 = K+\theta_5 =200 [s(4)=5]\\
 \theta_3=min\{K+\theta_4, K+h(1-q)d_4+pqd_4+\theta_5\} \\
 = min\{400, 200+0.2(0.75)175+3(0.25)175\} \\
 = min\{400, 357.5\}
-= 357.5 (s(3)=5)\\
+= 357.5 [s(3)=5]\\
 \theta_2=min\{K+\theta_3, K+h(1-q)d_3+pqd_3+\theta_4, \\
 K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5\} \\
 = min\{557.5, 625, 680.9375\} \\
-= 557.5 (s(2)=3) \\
+= 557.5 [s(2)=3] \\
 \theta_1 = min\{K+\theta_2, \\
 K+h(1-q)d_2+pqd_2+\theta_3,\\
 K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\theta_4,\\
 K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\\
 h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
-= min\{757.5, 670,  878.125, 1012.813\} = 670\\
+= min\{757.5, 670,  878.125, 1012.813\} = 670 [s(1)=3]\\
 $$
-
+따라서 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMjk5NTA1LC0xNjE2MDM2Mzk5LDIxMj
+eyJoaXN0b3J5IjpbMjI5NzEzODAzLC0xNjE2MDM2Mzk5LDIxMj
 E4MDQ0MiwxMTc5NzI2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQx
 NiwxNjUyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLT
 EzODE2NDM5MTEsLTYwOTYwNTUzOF19
