@@ -25,11 +25,12 @@ $$
 $$
 \theta_5 = 0 \\
 \theta_4 = K+\theta_5 \\
-\theta_3=min\{K+\theta_4, K+(1-q)+\theta_5\}
+\theta_3=min\{K+\theta_4, K+h(1-q)d_4+pqd_4+\theta_5\} \\
+= min
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg0MDAwODUsMTM1MzY0OTQxNiwxNj
-UyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2
-NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbLTg2ODQ3NTUxNiwxMzUzNjQ5NDE2LDE2NT
+I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
+MzkxMSwtNjA5NjA1NTM4XX0=
 -->
