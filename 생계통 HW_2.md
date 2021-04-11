@@ -13,7 +13,9 @@ Basic EOQ model
 $$
 g(Q)={K\lambda \over Q}+h
 $$ 
+
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMT
-M4MTY0MzkxMSwtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNz
+Q3MzEyNjc3LC0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
 -->
