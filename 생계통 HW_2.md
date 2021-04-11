@@ -24,13 +24,13 @@ $$
 (b) Wagner-Whitin algorithm과 (a)의 식을 활용하여, 다음과 같이 풀 수 있습니다:
 $$
 \theta_5 = 0 \\
-\theta_4 = K+\theta_5 \\
+\theta_4 = K+\theta_5 =200\\
 \theta_3=min\{K+\theta_4, K+h(1-q)d_4+pqd_4+\theta_5\} \\
-= min
+= min\{400, 200+0.2(0.75)175+3(0.25)\}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODQ3NTUxNiwxMzUzNjQ5NDE2LDE2NT
+eyJoaXN0b3J5IjpbMTQwNzE5MDgxMCwxMzUzNjQ5NDE2LDE2NT
 I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
 MzkxMSwtNjA5NjA1NTM4XX0=
 -->
