@@ -26,11 +26,14 @@ $$
 \theta_5 = 0 \\
 \theta_4 = K+\theta_5 =200\\
 \theta_3=min\{K+\theta_4, K+h(1-q)d_4+pqd_4+\theta_5\} \\
-= min\{400, 200+0.2(0.75)175+3(0.25)\}
+= min\{400, 200+0.2(0.75)175+3(0.25)175\} \\
+= min\{400, 357.5\}
+= 357.5 \\
+\theta_2=min
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzE5MDgxMCwxMzUzNjQ5NDE2LDE2NT
-I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
-MzkxMSwtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbLTE4NDE3NTYyNjcsMTM1MzY0OTQxNiwxNj
+UyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2
+NDM5MTEsLTYwOTYwNTUzOF19
 -->
