@@ -38,12 +38,12 @@ K+h(1-q)d_2+pqd_2+\theta_3,\\
 K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\theta_4,\\
 K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\\
 h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
-= min\{757.5, 670,  878.125, \}
+= min\{757.5, 670,  878.125, 1012.813\} = 670\\
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYwMzYzOTksMjEyMTgwNDQyLDExNz
-k3MjY2MCwtMTc3MTQ0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTcz
-NjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMS
-wtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbODAyMjk5NTA1LC0xNjE2MDM2Mzk5LDIxMj
+E4MDQ0MiwxMTc5NzI2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQx
+NiwxNjUyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLT
+EzODE2NDM5MTEsLTYwOTYwNTUzOF19
 -->
