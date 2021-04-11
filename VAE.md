@@ -24,10 +24,10 @@ g(x|z) ~ Gauissan(mu, 1)
 $$
 log(g_\theta(x|z)) \\
 = \sum_{j=1}^D log(g_\theta(x_j|z)) \\
-= \sum_{j=1}^D log({1 \over \sqrt{2\pi}}exp(-{(x_j-\mu})) \\
+= \sum_{j=1}^D log({1 \over \sqrt{2\pi}}exp(-{(x_j-\mu_j)^2 \over 2})) \\
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY3NTM1MiwtNTg3NDk3OTI2LC0xNz
-g1OTE0LC0xNjA1MDY3NjI0LDg2MDY5MDcwMiwtOTYxMDUzNDM1
-XX0=
+eyJoaXN0b3J5IjpbLTY5OTY1OTk2LC01ODc0OTc5MjYsLTE3OD
+U5MTQsLTE2MDUwNjc2MjQsODYwNjkwNzAyLC05NjEwNTM0MzVd
+fQ==
 -->
