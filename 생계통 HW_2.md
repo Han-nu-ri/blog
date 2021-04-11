@@ -16,10 +16,10 @@ $$
 
 2. 
 $$
-\theta_t=min_{ab}
+\theta_t=min_{t \g}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM4MTY1OTcsMTY1MjQ5NzM2OSwtNj
+eyJoaXN0b3J5IjpbLTEzNTAxNTM5MTMsMTY1MjQ5NzM2OSwtNj
 E3NzQxNzMzLC0xNzQ3MzEyNjc3LC0xMzgxNjQzOTExLC02MDk2
 MDU1MzhdfQ==
 -->
