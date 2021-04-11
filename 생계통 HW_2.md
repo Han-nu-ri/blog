@@ -31,12 +31,13 @@ $$
 = 357.5 \\
 \theta_2=min\{K+\theta_3, K+h(1-q)d_3+pqd_3+\theta_4, \\
 K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5\} \\
-= min\{557.5, 625, \}
+= min\{557.5, 625, 680.9375\} \\
+= 557.5
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTgwNDQyLDExNzk3MjY2MCwtMTc3MT
-Q0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTczNjksLTYxNzc0MTcz
-MywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMSwtNjA5NjA1NTM4XX
-0=
+eyJoaXN0b3J5IjpbMjc1MDUwMjE3LDIxMjE4MDQ0MiwxMTc5Nz
+I2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQxNiwxNjUyNDk3MzY5
+LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLT
+YwOTYwNTUzOF19
 -->
