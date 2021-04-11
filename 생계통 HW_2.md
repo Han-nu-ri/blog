@@ -16,10 +16,10 @@ $$
 
 2. 
 $$
-\theta_t=min_{t \lt s \le T+1}(K+(1-q)h)
+\theta_t=min_{t \lt s \le T+1}(K+\sum_{i=t}^{s-1}(1-q)^{i-t}d_i)
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzg2NzkwNywxNjUyNDk3MzY5LC02MT
+eyJoaXN0b3J5IjpbMTI0MDk0MjI2MiwxNjUyNDk3MzY5LC02MT
 c3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLTYwOTYw
 NTUzOF19
 -->
