@@ -21,10 +21,15 @@ $$
 $$
 \theta_t=min_{t \lt s \le T+1}(K+h\sum_{i=t}^{s-1}(1-q)^{i-t}d_i+\sum_{i=t}^{s-1}\sum_{j=0}^{i-t-1}(1-q)^jq(d_ip+jh)+\theta_s)
 $$
-(b) ㅇ
+(b) Wagner-Whitin algorithm과 (a)의 식을 활용하여, 다음과 같이 풀 수 있습니다:
+$$
+\theta_5 = 0 \\
+\theta_4 = K+\theta_5 \\
+
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzQ1MzIyOSwxMzUzNjQ5NDE2LDE2NT
+eyJoaXN0b3J5IjpbMjExNzcyMTU1OCwxMzUzNjQ5NDE2LDE2NT
 I0OTczNjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0
 MzkxMSwtNjA5NjA1NTM4XX0=
 -->
