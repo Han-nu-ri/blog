@@ -16,10 +16,10 @@ $$
 
 2. 
 $$
-\theta_t=min_{t \g}
+\theta_t=min_{t \lt s \le T+1}(K+(1-q))
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxNTM5MTMsMTY1MjQ5NzM2OSwtNj
-E3NzQxNzMzLC0xNzQ3MzEyNjc3LC0xMzgxNjQzOTExLC02MDk2
-MDU1MzhdfQ==
+eyJoaXN0b3J5IjpbLTkyNzkxMDIwNSwxNjUyNDk3MzY5LC02MT
+c3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLTYwOTYw
+NTUzOF19
 -->
