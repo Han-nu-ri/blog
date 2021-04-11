@@ -10,9 +10,9 @@ log(g_\theta (x))=log(\int g_{\theta}(x|z)p(z)dz)) = log(\int g_{\theta}(x|z){p(
 $$
 
 $$
-\int log(g_\theta(x|z))q_\phi(z|x)dz \approx {1 \over L}\sum_{k=1}^N k^2
+\int log(g_\theta(x|z))q_\phi(z|x)dz \approx {1 \over L}\sum_{l=1}^L log(g_\theta(x_{i}|z))
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzI5NzcyNiwtMTYwNTA2NzYyNCw4Nj
+eyJoaXN0b3J5IjpbLTI1MzcyNzA2OCwtMTYwNTA2NzYyNCw4Nj
 A2OTA3MDIsLTk2MTA1MzQzNV19
 -->
