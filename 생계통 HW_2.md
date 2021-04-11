@@ -40,10 +40,10 @@ K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\\
 h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
 = min\{757.5, 670,  878.125, 1012.813\} = 670 [s(1)=3]\\
 $$
-따라서 
+따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325, period 3에 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzEzODAzLC0xNjE2MDM2Mzk5LDIxMj
-E4MDQ0MiwxMTc5NzI2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQx
-NiwxNjUyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLT
-EzODE2NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbLTUxNDg5ODc2NiwtMTYxNjAzNjM5OSwyMT
+IxODA0NDIsMTE3OTcyNjYwLC0xNzcxNDQ5NTg5LDEzNTM2NDk0
+MTYsMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC
+0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
 -->
