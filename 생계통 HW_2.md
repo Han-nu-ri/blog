@@ -14,12 +14,13 @@ $$
 g(Q)={K\lambda \over Q}+h
 $$ 
 
-2. 
+2. (a)
 $$
 \theta_t=min_{t \lt s \le T+1}(K+h\sum_{i=t}^{s-1}(1-q)^{i-t}d_i+\sum_{i=t}^{s-1}\sum_{j=0}^{i-t-1}(1-q)^jq(d_ip+jh)+\theta_s)
 $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MjI4MzA5LDEzNTM2NDk0MTYsMTY1Mj
+eyJoaXN0b3J5IjpbNTk0NDE2MjczLDEzNTM2NDk0MTYsMTY1Mj
 Q5NzM2OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC0xMzgxNjQz
 OTExLC02MDk2MDU1MzhdfQ==
 -->
