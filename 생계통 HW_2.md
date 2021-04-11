@@ -24,20 +24,21 @@ $$
 (b) Wagner-Whitin algorithm과 (a)의 식을 활용하여, 다음과 같이 풀 수 있습니다:
 $$
 \theta_5 = 0 \\
-\theta_4 = K+\theta_5 =200\\
+\theta_4 = K+\theta_5 =200 (s(4)=5)\\
 \theta_3=min\{K+\theta_4, K+h(1-q)d_4+pqd_4+\theta_5\} \\
 = min\{400, 200+0.2(0.75)175+3(0.25)175\} \\
 = min\{400, 357.5\}
-= 357.5 \\
+= 357.5 (s(3)=5)\\
 \theta_2=min\{K+\theta_3, K+h(1-q)d_3+pqd_3+\theta_4, \\
 K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5\} \\
 = min\{557.5, 625, 680.9375\} \\
-= 557.5
+= 557.5 (s(2)=3) \\
+\theta_1 = min\{, , \}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MDUwMjE3LDIxMjE4MDQ0MiwxMTc5Nz
-I2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQxNiwxNjUyNDk3MzY5
-LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLT
-YwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbLTIzNTE3OTcwNCwyMTIxODA0NDIsMTE3OT
+cyNjYwLC0xNzcxNDQ5NTg5LDEzNTM2NDk0MTYsMTY1MjQ5NzM2
+OSwtNjE3NzQxNzMzLC0xNzQ3MzEyNjc3LC0xMzgxNjQzOTExLC
+02MDk2MDU1MzhdfQ==
 -->
