@@ -34,13 +34,13 @@ K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5\} \\
 = min\{557.5, 625, 680.9375\} \\
 = 557.5 (s(2)=3) \\
 \theta_1 = min\{K+\theta_2, K+h(1-q)d_2+pqd_2+\theta_3,\\
-K+h(1-q)d_3+pqd_3+h(1-q)^2d_4+(1-q)qd_4(p+h)+pqd_4+\theta_5,\\
- \}
+K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\theta_4,\\
+K+h(1-q)d_2+pqd_2+h(1-q)^2d_3+(1-q)qd_3(p+h)+pqd_3+\theta_4, \}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk3OTg2NDMsMjEyMTgwNDQyLDExNz
-k3MjY2MCwtMTc3MTQ0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTcz
-NjksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMS
-wtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbMzk1MDg0NDUyLDIxMjE4MDQ0MiwxMTc5Nz
+I2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQxNiwxNjUyNDk3MzY5
+LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLTEzODE2NDM5MTEsLT
+YwOTYwNTUzOF19
 -->
