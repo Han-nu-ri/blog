@@ -15,11 +15,12 @@ $$
 g(x|z) ~ Bernoulli
 $$
 log(g_\theta(x|z)) \\
-= \sum_{j=1}^D log(g_\theta(x_j|)
+= \sum_{j=1}^D log(g_\theta(x_j|z)) \\
+= \sum_{j=1}^D log(
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzIyNjcxMywtNTg3NDk3OTI2LC0xNz
+eyJoaXN0b3J5IjpbMTMyMDYyODg4NywtNTg3NDk3OTI2LC0xNz
 g1OTE0LC0xNjA1MDY3NjI0LDg2MDY5MDcwMiwtOTYxMDUzNDM1
 XX0=
 -->
