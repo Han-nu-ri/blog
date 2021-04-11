@@ -34,10 +34,11 @@ $$
 $$
 When prior and posterior are multinormal distributions,
 $$
-D_{KL}(q_{\phi}(z|x)||p(z))
+D_{KL}(q_{\phi}(z|x)||p(z)) = D_{KL}(N((\mu_1, \mu_2, ... , \mu_k), (\sigma_1, \sigma_2, ... , \sigma_k)) || N(0, 1)) \\
+= {1 \over 2}\sum_{i=1}^k()
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0MTg1MCwxOTY5MzE5NjEwLDM5Nj
+eyJoaXN0b3J5IjpbMTYyNTExNjk2OSwxOTY5MzE5NjEwLDM5Nj
 A0ODUwNywtNTg3NDk3OTI2LC0xNzg1OTE0LC0xNjA1MDY3NjI0
 LDg2MDY5MDcwMiwtOTYxMDUzNDM1XX0=
 -->
