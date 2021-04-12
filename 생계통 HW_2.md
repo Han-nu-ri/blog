@@ -15,8 +15,9 @@ $$
 (hQ(1-x))^2=2K\lambda \\
 hQ(1-x)=\sqrt {2K\lambda}
 $$
-따라서
+
 $$
+\lambda(p-c)=\sqrt {2K\lambda}
 $$
 2. (a) arc(t, s)는 수요를 충족 시키는 경우와 재고가 특정 시점에 사라져서 충족 시키지 못하는 경우를 고려해야 합니다. 따라서 arc(t, s)는 다음과 같이 표현할 수 있습니다:
 $$
@@ -48,9 +49,10 @@ $$
 따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325(d1+d2), period 3(d3+d4)에 425를 주문하는 것 입니다. 또한 total cost은 670이 됩니다.
 (c\) 위에서 같이 optimal solution은 각 period의 수요와 모델의 파라미터에 따라 달라지게 됩니다. 다만 일반적으로, 미래의 수요에 대한 주문을 많이 할수록 위험이 큽니다. 해당 수요가 실현되기 직전까지 보유하다가 사라지게 될 수 있기 때문입니다. 따라서 Wagner-Whitin with perishability problem의 optimal solution은 without perishability의 것보다  주문량에 연관되어 있다고 볼 수 있습니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODI5NzMyNiwyMTE3NzQ0NzkwLC0xMz
-YyNzk3MDMzLDQ2Nzg4MDI3Niw2Mjk0NzY1NzYsLTE2MTYwMzYz
-OTksMjEyMTgwNDQyLDExNzk3MjY2MCwtMTc3MTQ0OTU4OSwxMz
-UzNjQ5NDE2LDE2NTI0OTczNjksLTYxNzc0MTczMywtMTc0NzMx
-MjY3NywtMTM4MTY0MzkxMSwtNjA5NjA1NTM4XX0=
+eyJoaXN0b3J5IjpbLTIwODY5NDIyNjEsMjA0ODI5NzMyNiwyMT
+E3NzQ0NzkwLC0xMzYyNzk3MDMzLDQ2Nzg4MDI3Niw2Mjk0NzY1
+NzYsLTE2MTYwMzYzOTksMjEyMTgwNDQyLDExNzk3MjY2MCwtMT
+c3MTQ0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTczNjksLTYxNzc0
+MTczMywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMSwtNjA5NjA1NT
+M4XX0=
 -->
