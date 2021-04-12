@@ -18,8 +18,8 @@ Q*를 g(Q, x)에 대입하고 전개하면:
 $$
 g(Q, x)={K\lambda \over Q} + {hQ(1-x)^2 \over 2} + \lambda x p +\lambda(1-x)c \\
 = K\lambda(1-x)\sqrt{h\over2K\lambda}+h\sqrt {2K\lambda \over h}{(1-x) \over 2}+\lambda xp+\lambda (1-x)c \\
-= x(\lambda p-\lambda c-\sqrt {hK\lambda \over 2}-\sqrt{hK\lambda \over 2}
-$$hhd
+= {1\over 2}(1-x)\sqrt{2hK\lambda}+\sqrt {2K\lambda h \over h}{(1-x) \over 2}+\lambda xp+\lambda (1-x)c \\
+$$
 $$
 \lambda(p-c)=\sqrt {2K\lambda}
 $$
@@ -65,11 +65,11 @@ $$
 따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325(d1+d2), period 3(d3+d4)에 425를 주문하는 것 입니다. 또한 total cost은 670이 됩니다.
 (c\) 위에서 같이 optimal solution은 각 period의 수요와 모델의 파라미터에 따라 달라지게 됩니다. 다만 일반적으로, 미래의 수요에 대한 주문을 많이 할수록 위험이 큽니다. 해당 수요가 실현되기 직전까지 보유하다가 사라지게 될 수 있기 때문입니다. 따라서 Wagner-Whitin with perishability problem의 optimal solution은 without perishability의 것보다  주문량에 연관되어 있다고 볼 수 있습니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAzMTg5NCwtMTA2NDMzNjgxMiwxMT
-AwMjIzODgzLDE3NjE5MjEzNTAsMjA0ODI5NzMyNiwyMTE3NzQ0
-NzkwLC0xMzYyNzk3MDMzLDQ2Nzg4MDI3Niw2Mjk0NzY1NzYsLT
-E2MTYwMzYzOTksMjEyMTgwNDQyLDExNzk3MjY2MCwtMTc3MTQ0
-OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTczNjksLTYxNzc0MTczMy
-wtMTc0NzMxMjY3NywtMTM4MTY0MzkxMSwtNjA5NjA1NTM4XX0=
-
+eyJoaXN0b3J5IjpbLTE5NjQxODczMjQsMTE3MjAzMTg5NCwtMT
+A2NDMzNjgxMiwxMTAwMjIzODgzLDE3NjE5MjEzNTAsMjA0ODI5
+NzMyNiwyMTE3NzQ0NzkwLC0xMzYyNzk3MDMzLDQ2Nzg4MDI3Ni
+w2Mjk0NzY1NzYsLTE2MTYwMzYzOTksMjEyMTgwNDQyLDExNzk3
+MjY2MCwtMTc3MTQ0OTU4OSwxMzUzNjQ5NDE2LDE2NTI0OTczNj
+ksLTYxNzc0MTczMywtMTc0NzMxMjY3NywtMTM4MTY0MzkxMSwt
+NjA5NjA1NTM4XX0=
 -->
