@@ -41,10 +41,10 @@ h(1-q)^3d_4+qd_4((1-q)^2(p+2h)+(1-q)(p+h)+p)+\theta_5\} \\
 = min\{757.5, 670,  878.125, 1012.813\} = 670 [s(1)=3]\\
 $$
 따라서 optimal solution은 s(1)=3, s(3)=5로 period 1에 325(d1+d2), period 3(d3+d4)에 425를 주문하는 것 입니다. 또한 total cost은 670이 됩니다.
-(c\) 위에서 같이 optimal solution은 각 period의 수요와 모델의 파라미터에 따라 달라지게 됩니다. 다만 일반적으로, 미래의 수요에 대한 주문을 많이 할수록 위험이 큽니다. 해당 수요가 실현되기 직전까지 보유하다가 사라지게 될 수 있기 때문입니다. 따라서 Wagner-Whitin with perishability problem의 optimal solution은 without perishability의 것보다  주문량에 연관되어 있다고 볼 수 있습니다.
+(c\) 위에서 같이 optimal solution은 각 period의 수요와 모델의 파라미터에 따라 달라지게 됩니다. 다만 일반적으로, 미래의 수요에 대한 주문을 많이 할수록 위험이 큽니다. 해당 수요가 실현되기 직전까지 보유하다가 사라지게 될 수 있기 때문입니다. 따라서 Wagner-Whitin with perishability problem의 optimal solution은 without perishability의 것보다  주문량에 연관되어 있다고 볼 수 있습니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NDc2NTc2LC0xNjE2MDM2Mzk5LDIxMj
-E4MDQ0MiwxMTc5NzI2NjAsLTE3NzE0NDk1ODksMTM1MzY0OTQx
-NiwxNjUyNDk3MzY5LC02MTc3NDE3MzMsLTE3NDczMTI2NzcsLT
-EzODE2NDM5MTEsLTYwOTYwNTUzOF19
+eyJoaXN0b3J5IjpbNDY3ODgwMjc2LDYyOTQ3NjU3NiwtMTYxNj
+AzNjM5OSwyMTIxODA0NDIsMTE3OTcyNjYwLC0xNzcxNDQ5NTg5
+LDEzNTM2NDk0MTYsMTY1MjQ5NzM2OSwtNjE3NzQxNzMzLC0xNz
+Q3MzEyNjc3LC0xMzgxNjQzOTExLC02MDk2MDU1MzhdfQ==
 -->
