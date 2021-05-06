@@ -24,9 +24,10 @@ g'(T^*)=-f(T^*)K+f(T^*)pT^*+F(T^*)p=0
 $$
 
 2.1)
-
+![image](https://user-images.githubusercontent.com/11609881/117333081-86eddc80-aed3-11eb-9b9a-944cc60b4321.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzY4Mzc4NywtMjIzNTI5NzQ5LC0xMz
-A1OTc5NTU1LDQwMzQ1NTA5MywxODgyOTk2ODA0XX0=
+eyJoaXN0b3J5IjpbNzcxODQwNDk0LDExMTc2ODM3ODcsLTIyMz
+UyOTc0OSwtMTMwNTk3OTU1NSw0MDM0NTUwOTMsMTg4Mjk5Njgw
+NF19
 -->
