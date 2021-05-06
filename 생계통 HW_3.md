@@ -25,9 +25,12 @@ $$
 
 2.1)
 ![image](https://user-images.githubusercontent.com/11609881/117333081-86eddc80-aed3-11eb-9b9a-944cc60b4321.png)
+{code}
+
+{code}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxODQwNDk0LDExMTc2ODM3ODcsLTIyMz
-UyOTc0OSwtMTMwNTk3OTU1NSw0MDM0NTUwOTMsMTg4Mjk5Njgw
-NF19
+eyJoaXN0b3J5IjpbLTExMjgxNjI3MzgsNzcxODQwNDk0LDExMT
+c2ODM3ODcsLTIyMzUyOTc0OSwtMTMwNTk3OTU1NSw0MDM0NTUw
+OTMsMTg4Mjk5NjgwNF19
 -->
