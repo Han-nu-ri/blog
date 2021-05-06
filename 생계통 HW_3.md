@@ -18,7 +18,8 @@ $$
 g''(T)=-f'(T)K+f'(T)pT+f(T)p+f(T)p \\
 = f'(T)(pT-K) + 2f(T)p
 $$
-T < E[X]이므로, g''(T)는 양수입니다. 따라서 g느
+T < E[X]이므로, g''(T)는 양수이고 g는 볼록입니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMzYwMzcyLDE4ODI5OTY4MDRdfQ==
+eyJoaXN0b3J5IjpbNDAzNDU1MDkzLDE4ODI5OTY4MDRdfQ==
 -->
