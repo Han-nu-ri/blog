@@ -13,7 +13,12 @@ g(T)의 일계 도함수:
 $$
 g'(T)=-f(T)K+f(T)pT+F(T)p 
 $$
-g(T)의 익
+g(T)의 이계 도함수:
+$$
+g''(T)=-f'(T)K+f'(T)pT+f(T)p+f(T)p \\
+= f'(T)(pT-K) + 2f(T)p
+$$
+T < E[X]이므로
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcxNTM3MjEsMTg4Mjk5NjgwNF19
+eyJoaXN0b3J5IjpbMzc5MzY2NTQ1LDE4ODI5OTY4MDRdfQ==
 -->
