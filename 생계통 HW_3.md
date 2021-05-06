@@ -81,9 +81,10 @@ if __name__ == "__main__":
     print(s_optimal)  
     print(costs)
 ```
-
+2.2)
+![image](https://user-images.githubusercontent.com/11609881/117335218-dd5c1a80-aed5-11eb-9ff8-8c4df0824668.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDE5OTMzOCw3NzE4NDA0OTQsMTExNz
-Y4Mzc4NywtMjIzNTI5NzQ5LC0xMzA1OTc5NTU1LDQwMzQ1NTA5
-MywxODgyOTk2ODA0XX0=
+eyJoaXN0b3J5IjpbLTgwMjI3MjI4MiwtMzkwMTk5MzM4LDc3MT
+g0MDQ5NCwxMTE3NjgzNzg3LC0yMjM1Mjk3NDksLTEzMDU5Nzk1
+NTUsNDAzNDU1MDkzLDE4ODI5OTY4MDRdfQ==
 -->
