@@ -8,7 +8,10 @@ $$
 g(T)=(1-F(T))K + F(T)pT
 $$
 1.2)
-위 g
+위 g(T)의 일계 도함수, 이계 도함수를 구하여 g가 볼록인지 확인합니다.
+$$
+g'(T)=-f(T)K+f(T)pT+F(T)p
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MzU5MTQyXX0=
+eyJoaXN0b3J5IjpbMTg4Mjk5NjgwNF19
 -->
