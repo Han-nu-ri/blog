@@ -18,8 +18,14 @@ $$
 g''(T)=-f'(T)K+f'(T)pT+f(T)p+f(T)p \\
 = f'(T)(pT-K) + 2f(T)p
 $$
-T < E[X]이므로, g''(T)는 양수이고 g는 볼록입니다.
+T < E[X]이므로, g''(T)는 양수이고 g는 볼록입니다. 따라서 다음을 만족하는 T*이 optimal입니다.
+$$
+g'(T^*)=-f(T^*)K+f(T^*)pT^*+F(T^*)p=0
+$$
+
+2.1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNDU1MDkzLDE4ODI5OTY4MDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDU5Nzk1NTUsNDAzNDU1MDkzLDE4OD
+I5OTY4MDRdfQ==
 -->
