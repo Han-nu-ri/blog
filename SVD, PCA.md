@@ -1,6 +1,7 @@
+Singular Vector Decomposition (SVD)
 $$
 X=UDV^T
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzg1MjcyMF19
+eyJoaXN0b3J5IjpbNzg2ODUwMTIzXX0=
 -->
